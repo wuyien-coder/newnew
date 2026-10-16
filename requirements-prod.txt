@@ -1,0 +1,7 @@
+# Infrastructure adapters and workflow engine (base deps: requirements.txt)
+psycopg[binary]>=3.2,<4
+pgvector>=0.3,<1
+redis>=5,<7
+celery[redis]>=5.4,<6
+alembic>=1.13,<2
+langgraph>=0.2,<2

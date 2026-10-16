@@ -1,0 +1,1777 @@
+[
+ {
+  "from": "丁同仁",
+  "to": "申又枨",
+  "type": "teacher"
+ },
+ {
+  "from": "丁夏畦",
+  "to": "吴新谋",
+  "type": "teacher"
+ },
+ {
+  "from": "万哲先",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "严士健",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "严士健",
+  "to": "陈木法",
+  "type": "student"
+ },
+ {
+  "from": "严志达",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "任浩杰",
+  "to": "沈维孝",
+  "type": "teacher"
+ },
+ {
+  "from": "何鲁（字奎垣）",
+  "to": "吴文俊",
+  "type": "student"
+ },
+ {
+  "from": "何鲁（字奎垣）",
+  "to": "吴新谋",
+  "type": "student"
+ },
+ {
+  "from": "余德浩",
+  "to": "冯康",
+  "type": "teacher"
+ },
+ {
+  "from": "傅吉祥",
+  "to": "白正国",
+  "type": "teacher"
+ },
+ {
+  "from": "傅吉祥",
+  "to": "忻元龙",
+  "type": "teacher"
+ },
+ {
+  "from": "傅吉祥",
+  "to": "谷超豪",
+  "type": "teacher"
+ },
+ {
+  "from": "傅吉祥",
+  "to": "胡和生",
+  "type": "teacher"
+ },
+ {
+  "from": "傅种孙",
+  "to": "段学复",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "熊全淹",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "闵嗣鹤",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "赵慈庚",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "张远达",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "刘绍学",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "孙永生",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "严士健",
+  "type": "student"
+ },
+ {
+  "from": "傅种孙",
+  "to": "王世强",
+  "type": "student"
+ },
+ {
+  "from": "冯克勤",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "冯康",
+  "to": "余德浩",
+  "type": "student"
+ },
+ {
+  "from": "刘书琴（字桐轩）",
+  "to": "李继闵",
+  "type": "student"
+ },
+ {
+  "from": "刘彦佩",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "刘彦佩",
+  "to": "关肇直",
+  "type": "teacher"
+ },
+ {
+  "from": "刘彦佩",
+  "to": "吴文俊",
+  "type": "teacher"
+ },
+ {
+  "from": "刘春根",
+  "to": "龙以明",
+  "type": "teacher"
+ },
+ {
+  "from": "华罗庚",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "华罗庚",
+  "to": "杨武之",
+  "type": "teacher"
+ },
+ {
+  "from": "华罗庚",
+  "to": "王元",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "潘承洞",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "陈景润",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "陆启铿",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "万哲先",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "龚昇",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "钟家庆",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "冯克勤",
+  "type": "student"
+ },
+ {
+  "from": "华罗庚",
+  "to": "裴定一",
+  "type": "student"
+ },
+ {
+  "from": "卢庆骏",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "卢庆骏",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "叶彦谦",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "叶彦谦",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "叶述武",
+  "to": "梁之舜",
+  "type": "student"
+ },
+ {
+  "from": "叶述武",
+  "to": "许淞庆",
+  "type": "student"
+ },
+ {
+  "from": "叶述武",
+  "to": "莫绍揆",
+  "type": "student"
+ },
+ {
+  "from": "吴大任",
+  "to": "姜立夫",
+  "type": "teacher"
+ },
+ {
+  "from": "吴文俊",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "吴新谋",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "吴新谋",
+  "to": "丁夏畦",
+  "type": "student"
+ },
+ {
+  "from": "吴新谋",
+  "to": "孙和生",
+  "type": "student"
+ },
+ {
+  "from": "吴方",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "吴祖基",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "周元檠",
+  "to": "黎子良",
+  "type": "student"
+ },
+ {
+  "from": "周向宇",
+  "to": "陆启铿",
+  "type": "teacher"
+ },
+ {
+  "from": "周学光",
+  "to": "杨宗磐",
+  "type": "teacher"
+ },
+ {
+  "from": "周毓麟",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "周鸿经",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "唐稚松",
+  "to": "胡世华",
+  "type": "teacher"
+ },
+ {
+  "from": "堵丁柱",
+  "to": "越民义",
+  "type": "teacher"
+ },
+ {
+  "from": "夏道行",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "姜礼尚",
+  "to": "周毓麟",
+  "type": "teacher"
+ },
+ {
+  "from": "姜立夫",
+  "to": "江泽涵",
+  "type": "student"
+ },
+ {
+  "from": "姜立夫",
+  "to": "陈省身",
+  "type": "student"
+ },
+ {
+  "from": "姜立夫",
+  "to": "申又枨",
+  "type": "student"
+ },
+ {
+  "from": "姜立夫",
+  "to": "吴大任",
+  "type": "student"
+ },
+ {
+  "from": "孙光远（原名孙镛）",
+  "to": "吴大任",
+  "type": "student"
+ },
+ {
+  "from": "孙光远（原名孙镛）",
+  "to": "柯召",
+  "type": "student"
+ },
+ {
+  "from": "孙光远（原名孙镛）",
+  "to": "胡世桢",
+  "type": "student"
+ },
+ {
+  "from": "孙光远（原名孙镛）",
+  "to": "余家荣",
+  "type": "student"
+ },
+ {
+  "from": "孙本旺",
+  "to": "姜立夫",
+  "type": "teacher"
+ },
+ {
+  "from": "崔俊芝",
+  "to": "冯康",
+  "type": "teacher"
+ },
+ {
+  "from": "席南华",
+  "to": "曹锡华",
+  "type": "teacher"
+ },
+ {
+  "from": "庄圻泰",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "应隆安",
+  "to": "周毓麟",
+  "type": "teacher"
+ },
+ {
+  "from": "张关泉",
+  "to": "冯康",
+  "type": "teacher"
+ },
+ {
+  "from": "张同",
+  "to": "柯召",
+  "type": "teacher"
+ },
+ {
+  "from": "张寿武",
+  "to": "王元",
+  "type": "teacher"
+ },
+ {
+  "from": "张寿武",
+  "to": "田野",
+  "type": "student"
+ },
+ {
+  "from": "张广厚",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "张广厚",
+  "to": "庄圻泰",
+  "type": "teacher"
+ },
+ {
+  "from": "张福基",
+  "to": "王世强",
+  "type": "teacher"
+ },
+ {
+  "from": "张福基",
+  "to": "严士健",
+  "type": "teacher"
+ },
+ {
+  "from": "张端智",
+  "to": "龙以明",
+  "type": "teacher"
+ },
+ {
+  "from": "张素诚",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "张素诚",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "张远达",
+  "to": "傅种孙",
+  "type": "teacher"
+ },
+ {
+  "from": "张里千",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "张鸣镛",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "张鸣镛",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "徐利治",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "徐利治",
+  "to": "许宝騄",
+  "type": "teacher"
+ },
+ {
+  "from": "徐利治",
+  "to": "王仁宏",
+  "type": "student"
+ },
+ {
+  "from": "徐瑞云",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "徐瑞云",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "成平",
+  "to": "许宝騄",
+  "type": "teacher"
+ },
+ {
+  "from": "成平",
+  "to": "张里千",
+  "type": "teacher"
+ },
+ {
+  "from": "戴彧虹",
+  "to": "袁亚湘",
+  "type": "teacher"
+ },
+ {
+  "from": "方开泰",
+  "to": "许宝騄",
+  "type": "teacher"
+ },
+ {
+  "from": "方开泰",
+  "to": "范剑青",
+  "type": "student"
+ },
+ {
+  "from": "方德植",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "方德植",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "方德植",
+  "to": "陈景润",
+  "type": "student"
+ },
+ {
+  "from": "方德植",
+  "to": "林群",
+  "type": "student"
+ },
+ {
+  "from": "方德植",
+  "to": "张素诚",
+  "type": "student"
+ },
+ {
+  "from": "方德植",
+  "to": "程民德",
+  "type": "student"
+ },
+ {
+  "from": "方德植",
+  "to": "白正国",
+  "type": "student"
+ },
+ {
+  "from": "方德植",
+  "to": "吴祖基",
+  "type": "student"
+ },
+ {
+  "from": "时俭益",
+  "to": "曹锡华",
+  "type": "teacher"
+ },
+ {
+  "from": "时俭益",
+  "to": "席南华",
+  "type": "student"
+ },
+ {
+  "from": "曹策问",
+  "to": "申又枨",
+  "type": "teacher"
+ },
+ {
+  "from": "曹策问",
+  "to": "谷超豪",
+  "type": "teacher"
+ },
+ {
+  "from": "曹锡华",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "曹锡华",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "曹锡华",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "曹锡华",
+  "to": "段学复",
+  "type": "teacher"
+ },
+ {
+  "from": "曹锡华",
+  "to": "王建磐",
+  "type": "student"
+ },
+ {
+  "from": "曹锡华",
+  "to": "时俭益",
+  "type": "student"
+ },
+ {
+  "from": "曾宪昌",
+  "to": "汤璪真",
+  "type": "teacher"
+ },
+ {
+  "from": "曾昭安（字箴益）",
+  "to": "路见可",
+  "type": "student"
+ },
+ {
+  "from": "曾昭安（字箴益）",
+  "to": "王梓坤",
+  "type": "student"
+ },
+ {
+  "from": "曾昭安（字箴益）",
+  "to": "丁夏畦",
+  "type": "student"
+ },
+ {
+  "from": "曾远荣",
+  "to": "关肇直",
+  "type": "student"
+ },
+ {
+  "from": "曾远荣",
+  "to": "田方增",
+  "type": "student"
+ },
+ {
+  "from": "曾远荣",
+  "to": "江泽坚",
+  "type": "student"
+ },
+ {
+  "from": "曾远荣",
+  "to": "徐利治",
+  "type": "student"
+ },
+ {
+  "from": "朱德祥",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "朱德祥",
+  "to": "杨武之",
+  "type": "teacher"
+ },
+ {
+  "from": "朱德祥",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "朱福祖",
+  "to": "柯召",
+  "type": "teacher"
+ },
+ {
+  "from": "朱福祖",
+  "to": "李华宗",
+  "type": "teacher"
+ },
+ {
+  "from": "朱福祖",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "朱福祖",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "李华宗",
+  "to": "杨从仁",
+  "type": "student"
+ },
+ {
+  "from": "李国平",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "李国平",
+  "to": "王柔怀",
+  "type": "student"
+ },
+ {
+  "from": "李大潜",
+  "to": "谷超豪",
+  "type": "teacher"
+ },
+ {
+  "from": "李安民",
+  "to": "吴光磊",
+  "type": "teacher"
+ },
+ {
+  "from": "李安民",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "李忠",
+  "to": "闵嗣鹤",
+  "type": "teacher"
+ },
+ {
+  "from": "李新民",
+  "to": "周鸿经",
+  "type": "teacher"
+ },
+ {
+  "from": "李森林",
+  "to": "汤璪真",
+  "type": "teacher"
+ },
+ {
+  "from": "李翊神",
+  "to": "申又枨",
+  "type": "teacher"
+ },
+ {
+  "from": "李荣华",
+  "to": "徐利治",
+  "type": "teacher"
+ },
+ {
+  "from": "李荣华",
+  "to": "江泽坚",
+  "type": "teacher"
+ },
+ {
+  "from": "李训经",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "杨乐",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "杨从仁",
+  "to": "李国平",
+  "type": "teacher"
+ },
+ {
+  "from": "杨从仁",
+  "to": "曾远荣",
+  "type": "teacher"
+ },
+ {
+  "from": "杨从仁",
+  "to": "关肇直",
+  "type": "teacher"
+ },
+ {
+  "from": "杨向群",
+  "to": "王梓坤",
+  "type": "teacher"
+ },
+ {
+  "from": "杨宗磐",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "杨宗磐",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "杨忠道",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "杨武之",
+  "to": "华罗庚",
+  "type": "student"
+ },
+ {
+  "from": "杨武之",
+  "to": "柯召",
+  "type": "student"
+ },
+ {
+  "from": "杨永芳",
+  "to": "李文清",
+  "type": "student"
+ },
+ {
+  "from": "林振声",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "林振声",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "林晓松",
+  "to": "姜伯驹",
+  "type": "teacher"
+ },
+ {
+  "from": "林正炎",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "柯召",
+  "to": "杨武之",
+  "type": "teacher"
+ },
+ {
+  "from": "柯召",
+  "to": "朱福祖",
+  "type": "student"
+ },
+ {
+  "from": "柯召",
+  "to": "陈重穆",
+  "type": "student"
+ },
+ {
+  "from": "柯召（字惠棠）",
+  "to": "杨武之",
+  "type": "teacher"
+ },
+ {
+  "from": "梁之舜",
+  "to": "胡金昌",
+  "type": "teacher"
+ },
+ {
+  "from": "梁之舜",
+  "to": "胡世华",
+  "type": "teacher"
+ },
+ {
+  "from": "樊",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "段学复",
+  "to": "熊庆来",
+  "type": "teacher"
+ },
+ {
+  "from": "段学复",
+  "to": "杨武之",
+  "type": "teacher"
+ },
+ {
+  "from": "段学复",
+  "to": "赵访熊",
+  "type": "teacher"
+ },
+ {
+  "from": "段学复",
+  "to": "曾远荣",
+  "type": "teacher"
+ },
+ {
+  "from": "段学复",
+  "to": "万哲先",
+  "type": "student"
+ },
+ {
+  "from": "段学复",
+  "to": "曹锡华",
+  "type": "student"
+ },
+ {
+  "from": "段学复",
+  "to": "张继平",
+  "type": "student"
+ },
+ {
+  "from": "段学复",
+  "to": "许以超",
+  "type": "student"
+ },
+ {
+  "from": "段学复",
+  "to": "陈重穆",
+  "type": "student"
+ },
+ {
+  "from": "段海豹",
+  "to": "姜伯驹",
+  "type": "teacher"
+ },
+ {
+  "from": "江文帅",
+  "to": "田刚",
+  "type": "teacher"
+ },
+ {
+  "from": "江泽坚",
+  "to": "申又枨",
+  "type": "teacher"
+ },
+ {
+  "from": "江泽坚",
+  "to": "李荣华",
+  "type": "student"
+ },
+ {
+  "from": "江泽涵",
+  "to": "姜立夫",
+  "type": "teacher"
+ },
+ {
+  "from": "江泽涵",
+  "to": "姜伯驹",
+  "type": "student"
+ },
+ {
+  "from": "江泽涵",
+  "to": "吴光磊",
+  "type": "student"
+ },
+ {
+  "from": "洪家兴",
+  "to": "谷超豪",
+  "type": "teacher"
+ },
+ {
+  "from": "游兆永",
+  "to": "徐宗本",
+  "type": "student"
+ },
+ {
+  "from": "潘承洞",
+  "to": "闵嗣鹤",
+  "type": "teacher"
+ },
+ {
+  "from": "熊全淹",
+  "to": "傅种孙",
+  "type": "teacher"
+ },
+ {
+  "from": "熊庆来",
+  "to": "华罗庚",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "陈省身",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "许宝騄",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "林家翘",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "柯召",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "段学复",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "徐贤修",
+  "type": "student"
+ },
+ {
+  "from": "熊庆来",
+  "to": "庄圻泰",
+  "type": "student"
+ },
+ {
+  "from": "熊金城",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "熊金城",
+  "to": "吴光磊",
+  "type": "teacher"
+ },
+ {
+  "from": "熊金城",
+  "to": "吴文俊",
+  "type": "teacher"
+ },
+ {
+  "from": "王世强",
+  "to": "傅种孙",
+  "type": "teacher"
+ },
+ {
+  "from": "王世强",
+  "to": "段学复",
+  "type": "teacher"
+ },
+ {
+  "from": "王世强",
+  "to": "汤璪真",
+  "type": "teacher"
+ },
+ {
+  "from": "王世强",
+  "to": "张禾瑞",
+  "type": "teacher"
+ },
+ {
+  "from": "王兴华",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "王兴华",
+  "to": "徐瑞云",
+  "type": "teacher"
+ },
+ {
+  "from": "王兴华",
+  "to": "白正国",
+  "type": "teacher"
+ },
+ {
+  "from": "王勇",
+  "to": "张伟平",
+  "type": "teacher"
+ },
+ {
+  "from": "王寿仁",
+  "to": "许宝騄",
+  "type": "teacher"
+ },
+ {
+  "from": "王寿仁",
+  "to": "马志明",
+  "type": "student"
+ },
+ {
+  "from": "王寿仁",
+  "to": "严加安",
+  "type": "student"
+ },
+ {
+  "from": "王嵬",
+  "to": "龙以明",
+  "type": "teacher"
+ },
+ {
+  "from": "王建磐",
+  "to": "曹锡华",
+  "type": "teacher"
+ },
+ {
+  "from": "王斯雷",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "王斯雷",
+  "to": "徐瑞云",
+  "type": "teacher"
+ },
+ {
+  "from": "王斯雷",
+  "to": "李嘉禹",
+  "type": "student"
+ },
+ {
+  "from": "王柔怀",
+  "to": "李国平",
+  "type": "teacher"
+ },
+ {
+  "from": "王柔怀",
+  "to": "李华宗",
+  "type": "teacher"
+ },
+ {
+  "from": "王柔怀",
+  "to": "申又枨",
+  "type": "teacher"
+ },
+ {
+  "from": "王柔怀",
+  "to": "伍卓群",
+  "type": "student"
+ },
+ {
+  "from": "王湘浩",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "王福春（字梦强）",
+  "to": "卢庆骏",
+  "type": "student"
+ },
+ {
+  "from": "王福春（字梦强）",
+  "to": "程民德",
+  "type": "student"
+ },
+ {
+  "from": "王福春（字梦强）",
+  "to": "叶彦谦",
+  "type": "student"
+ },
+ {
+  "from": "王福春（字梦强）",
+  "to": "秦元勋",
+  "type": "student"
+ },
+ {
+  "from": "王福春（字梦强）",
+  "to": "曹锡华",
+  "type": "student"
+ },
+ {
+  "from": "王诗宬",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "王诗宬",
+  "to": "姜伯驹",
+  "type": "teacher"
+ },
+ {
+  "from": "王选",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "王选",
+  "to": "程民德",
+  "type": "teacher"
+ },
+ {
+  "from": "田刚",
+  "to": "张恭庆",
+  "type": "teacher"
+ },
+ {
+  "from": "田刚",
+  "to": "朱小华",
+  "type": "student"
+ },
+ {
+  "from": "田野",
+  "to": "冯克勤",
+  "type": "teacher"
+ },
+ {
+  "from": "申又枨",
+  "to": "萧树铁",
+  "type": "student"
+ },
+ {
+  "from": "申又枨",
+  "to": "李翊神",
+  "type": "student"
+ },
+ {
+  "from": "申又枨",
+  "to": "曹策问",
+  "type": "student"
+ },
+ {
+  "from": "白志东",
+  "to": "陈希孺",
+  "type": "teacher"
+ },
+ {
+  "from": "白正国",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "白正国",
+  "to": "朱小华",
+  "type": "student"
+ },
+ {
+  "from": "石钟慈",
+  "to": "冯康",
+  "type": "teacher"
+ },
+ {
+  "from": "秦元勋",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "秦元勋",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "程毓淮",
+  "to": "王湘浩",
+  "type": "student"
+ },
+ {
+  "from": "程民德",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "程民德",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "程民德",
+  "to": "张恭庆",
+  "type": "student"
+ },
+ {
+  "from": "程民德",
+  "to": "姜伯驹",
+  "type": "student"
+ },
+ {
+  "from": "章志飞",
+  "to": "王斯雷",
+  "type": "teacher"
+ },
+ {
+  "from": "肖玲",
+  "to": "张同",
+  "type": "teacher"
+ },
+ {
+  "from": "肖玲",
+  "to": "吴新谋",
+  "type": "teacher"
+ },
+ {
+  "from": "肖玲",
+  "to": "丁夏畦",
+  "type": "teacher"
+ },
+ {
+  "from": "胡世华",
+  "to": "唐稚松",
+  "type": "student"
+ },
+ {
+  "from": "胡世华",
+  "to": "王世强",
+  "type": "student"
+ },
+ {
+  "from": "胡克",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "胡和生",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "胡国定",
+  "to": "吴大任",
+  "type": "teacher"
+ },
+ {
+  "from": "胡祖炽",
+  "to": "杨武之",
+  "type": "teacher"
+ },
+ {
+  "from": "胡祖炽",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "胡祖炽",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "胡祖炽",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "胡祖炽",
+  "to": "赵访熊",
+  "type": "teacher"
+ },
+ {
+  "from": "胡祖炽",
+  "to": "蒋尔雄",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "熊全治",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "张素诚",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "杨忠道",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "谷超豪",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "白正国",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "胡和生",
+  "type": "student"
+ },
+ {
+  "from": "苏步青",
+  "to": "李大潜",
+  "type": "student"
+ },
+ {
+  "from": "范剑青",
+  "to": "方开泰",
+  "type": "teacher"
+ },
+ {
+  "from": "萧树铁",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "萧树铁",
+  "to": "申又枨",
+  "type": "teacher"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "程民德",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "万哲先",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "田方增",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "林家翘",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "叶彦谦",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "秦元勋",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "严志达",
+  "type": "student"
+ },
+ {
+  "from": "蒋硕民",
+  "to": "曹锡华",
+  "type": "student"
+ },
+ {
+  "from": "蒲保明",
+  "to": "李国平",
+  "type": "teacher"
+ },
+ {
+  "from": "袁亚湘",
+  "to": "冯康",
+  "type": "teacher"
+ },
+ {
+  "from": "袁亚湘",
+  "to": "戴彧虹",
+  "type": "student"
+ },
+ {
+  "from": "裴定一",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "裴定一",
+  "to": "万哲先",
+  "type": "teacher"
+ },
+ {
+  "from": "许以超",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "许莼舫",
+  "to": "胡敦复",
+  "type": "teacher"
+ },
+ {
+  "from": "谢衷洁",
+  "to": "许宝騄",
+  "type": "teacher"
+ },
+ {
+  "from": "谢衷洁",
+  "to": "江泽培",
+  "type": "teacher"
+ },
+ {
+  "from": "赖汉卿",
+  "to": "李新民",
+  "type": "teacher"
+ },
+ {
+  "from": "赖汉卿",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "赵慈庚",
+  "to": "傅种孙",
+  "type": "teacher"
+ },
+ {
+  "from": "赵进义（字希三）",
+  "to": "闵嗣鹤",
+  "type": "student"
+ },
+ {
+  "from": "赵进义（字希三）",
+  "to": "赵慈庚",
+  "type": "student"
+ },
+ {
+  "from": "越民义",
+  "to": "韩继业",
+  "type": "student"
+ },
+ {
+  "from": "路见可",
+  "to": "魏庚人",
+  "type": "teacher"
+ },
+ {
+  "from": "路见可",
+  "to": "赵慈庚",
+  "type": "teacher"
+ },
+ {
+  "from": "路见可",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "路见可",
+  "to": "吴大任",
+  "type": "teacher"
+ },
+ {
+  "from": "郑之蕃（郑桐荪）",
+  "to": "赵访熊",
+  "type": "student"
+ },
+ {
+  "from": "郑之蕃（郑桐荪）",
+  "to": "段学复",
+  "type": "student"
+ },
+ {
+  "from": "郑之蕃（郑桐荪）",
+  "to": "庄圻泰",
+  "type": "student"
+ },
+ {
+  "from": "郑曾同",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "郭大钧",
+  "to": "柯召",
+  "type": "teacher"
+ },
+ {
+  "from": "郭竹瑞",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "郭竹瑞",
+  "to": "卢庆骏",
+  "type": "teacher"
+ },
+ {
+  "from": "郭竹瑞",
+  "to": "张素诚",
+  "type": "teacher"
+ },
+ {
+  "from": "钟家庆",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "闵嗣鹤",
+  "to": "傅种孙",
+  "type": "teacher"
+ },
+ {
+  "from": "闵嗣鹤",
+  "to": "潘承洞",
+  "type": "student"
+ },
+ {
+  "from": "闵嗣鹤",
+  "to": "严士健",
+  "type": "student"
+ },
+ {
+  "from": "闵嗣鹤",
+  "to": "李忠",
+  "type": "student"
+ },
+ {
+  "from": "闵嗣鹤",
+  "to": "陈景润",
+  "type": "student"
+ },
+ {
+  "from": "陆善镇",
+  "to": "孙永生",
+  "type": "teacher"
+ },
+ {
+  "from": "陆汝钤",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "陆汝钤",
+  "to": "陆启铿",
+  "type": "teacher"
+ },
+ {
+  "from": "陈传淼",
+  "to": "齐民友",
+  "type": "teacher"
+ },
+ {
+  "from": "陈家鼎",
+  "to": "许宝騄",
+  "type": "teacher"
+ },
+ {
+  "from": "陈希孺",
+  "to": "成平",
+  "type": "teacher"
+ },
+ {
+  "from": "陈庆益",
+  "to": "卢庆骏",
+  "type": "teacher"
+ },
+ {
+  "from": "陈庆益",
+  "to": "白正国",
+  "type": "teacher"
+ },
+ {
+  "from": "陈庆益",
+  "to": "徐瑞云",
+  "type": "teacher"
+ },
+ {
+  "from": "陈庆益",
+  "to": "苏步青",
+  "type": "teacher"
+ },
+ {
+  "from": "陈建功",
+  "to": "程民德",
+  "type": "student"
+ },
+ {
+  "from": "陈建功",
+  "to": "夏道行",
+  "type": "student"
+ },
+ {
+  "from": "陈建功",
+  "to": "龚昇",
+  "type": "student"
+ },
+ {
+  "from": "陈建功",
+  "to": "叶彦谦",
+  "type": "student"
+ },
+ {
+  "from": "陈建功",
+  "to": "秦元勋",
+  "type": "student"
+ },
+ {
+  "from": "陈恕行",
+  "to": "谷超豪",
+  "type": "teacher"
+ },
+ {
+  "from": "陈文塬",
+  "to": "王柔怀",
+  "type": "teacher"
+ },
+ {
+  "from": "陈文塬",
+  "to": "王湘浩",
+  "type": "teacher"
+ },
+ {
+  "from": "陈文塬",
+  "to": "江泽坚",
+  "type": "teacher"
+ },
+ {
+  "from": "陈文塬",
+  "to": "徐利治",
+  "type": "teacher"
+ },
+ {
+  "from": "陈文塬",
+  "to": "谢邦杰",
+  "type": "teacher"
+ },
+ {
+  "from": "陈木法",
+  "to": "严士健",
+  "type": "teacher"
+ },
+ {
+  "from": "陈木法",
+  "to": "侯振挺",
+  "type": "teacher"
+ },
+ {
+  "from": "陈杰",
+  "to": "吴大任",
+  "type": "teacher"
+ },
+ {
+  "from": "陈杰",
+  "to": "陈省身",
+  "type": "teacher"
+ },
+ {
+  "from": "陈杰",
+  "to": "江泽涵",
+  "type": "teacher"
+ },
+ {
+  "from": "陈翰馥",
+  "to": "关肇直",
+  "type": "teacher"
+ },
+ {
+  "from": "陈重穆",
+  "to": "柯召",
+  "type": "teacher"
+ },
+ {
+  "from": "陈重穆",
+  "to": "段学复",
+  "type": "teacher"
+ },
+ {
+  "from": "雷 垣",
+  "to": "龚升",
+  "type": "student"
+ },
+ {
+  "from": "雷 垣",
+  "to": "胡和生",
+  "type": "student"
+ },
+ {
+  "from": "韩厚德",
+  "to": "周毓麟",
+  "type": "teacher"
+ },
+ {
+  "from": "韩飞",
+  "to": "张伟平",
+  "type": "teacher"
+ },
+ {
+  "from": "魏庚人",
+  "to": "傅种孙",
+  "type": "teacher"
+ },
+ {
+  "from": "魏庚人",
+  "to": "路见可",
+  "type": "student"
+ },
+ {
+  "from": "魏时珍（魏嗣銮）",
+  "to": "程毓淮",
+  "type": "student"
+ },
+ {
+  "from": "魏时珍（魏嗣銮）",
+  "to": "蒋硕民",
+  "type": "student"
+ },
+ {
+  "from": "龚升",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "龚升",
+  "to": "华罗庚",
+  "type": "teacher"
+ },
+ {
+  "from": "龚昇",
+  "to": "陈建功",
+  "type": "teacher"
+ },
+ {
+  "from": "龚昇",
+  "to": "华罗庚",
+  "type": "teacher"
+ }
+]

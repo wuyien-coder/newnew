@@ -1,0 +1,314 @@
+人物：吴文俊
+生年：1919年5月12日
+研究方向：拓扑学、中国数学史、数学机械化
+来源：11134318_中国现代数学家传第1卷_
+页码：400-432
+============================================================
+
+吴文俊
+
+胡作玄
+
+吴文俊 1919年5月12日诞生于上海。中国科学院数学物理学部委员、中国科学院系统科学研究所研究员。拓扑学、中国数学史、数学机械化。
+
+一、生 平
+
+吴文俊于1919年5月12日出生在上海一个知识分子家庭。父亲吴福国在交大前身的南洋公学毕业，长期在一家以出版医药卫生书籍为主的书店任编译，埋头工作，与世无争。家中关于“五四运动”时期的许多著作与历史书籍对少年吴文俊的思想有重要影响。吴文俊在初中时对数学并无偏爱，成绩也不突出。只是到了高中，由于授课教师的启迪，逐渐对数学及物理产生兴趣，特别是几何与力学。1936年中学毕业后，并没有专攻数学的想法，甚至家庭也对供他上大学有一定困难，只是因为当时学校设立三名奖学金，一名指定给吴，并指定报考交大数学系，才使他考入这所著名学府。
+
+比起国内当时一些著名大学来，交大数学系成立较晚，教学内容也比较古老，数学偏重计算而少理论。他在大学一、二年级时听过初等数学（陈怀书讲，用林鹤一的书）、微积分（胡敦复讲）、高等微积分（汤彦颐讲）、复变函数论（同上）、微分方程（石法仁讲）等课程，用的都是英美教本，理论不多。吴文俊念到二年级时，对于数学失去了兴趣，甚至想辍学不念了。到三年级时，武崇林讲授代数与实变函数论，才使吴文俊对数学的兴趣发生新的转机。他对于现代数学尤其是实变函数论产生了浓厚的兴趣，在课下刻苦自学，反复阅读几种主要著作。当时求知欲旺盛，吸收力强，从而在数学方面打下坚实的基础。有了集合论及实变的深厚基础后，吴进而钻研点集拓扑的经典著作（如康托尔（Cantor）、豪斯道夫（Hausdorff）、舍恩夫利斯（Schönflies）、杨（W. H. Young）等的名著）以及波兰著名期刊《数学基础》（Fundamenta Mathematica）上的论文。这刊物的前几卷他几乎每篇都读，以后重点选读。现在还保存着当时看过的论文摘要。然后又进而学习组合拓扑学经典著作，如塞费特（Seifert）、特莱尔费尔（Threlfall）、亚力山大洛夫-浩普夫（Aleksandrov-Hopf）、维布仑（Veblen）等人的拓扑学。他高超的外文水平（特别是英文、德文）大大有助于他领会原著。只是毕业之后无法接触现代数学书刊，加上日常工作繁重，只得中断向现代数学的进军。他抽空以初等几何自娱，实属迫不得已。他曾保持一本数学日记，记载自己的想法及结果，不幸已经遗失。在大学一年级时，他发现一个用力学方法证明难度很大的帕斯卡（Pascal）定理，四年级时以 60 条帕斯卡线的种种关系作为他毕业论文的内容。虽然平面几何已较古老，但他对这门学科极熟悉，这对他以后机械化定理证明的研究仍起着重要作用。他在大学时，曾留学德国哥廷根的朱公谨（朱言钧）发表了不少译著，吴文俊几乎每篇必读，这对他的早期数学思想产生一定影响。三、四年级虽然他也听过范会国等讲授的各门分析课程（复变函数、微分方程、微分几何、变分法、积分方程）
+
+及武崇林讲授的数论群论,但数学基础主要靠自学。
+1940年吴文俊从交大毕业,正值抗战时期,他因家庭经济问题,经朋友介绍,到租界里一家育英中学教书,同时还兼任教务员,做许多繁琐的日常事务性工作。这主要由于当时吴比较害羞,不擅长讲课,授课时数不足,不得不兼搞教务工作。1941年12月“珍珠港事件”后,日军进驻各租界,他失业半年,而后又到培真中学工作,在极其艰苦的条件下,勉强度过日伪的黑暗统治时期。他工作认真,也钻研教学,比如曾反复思考,换用多种方法讲授“负负得正”之类的内容。还要批改作业,占用大量时间及精力。在这五年半期间,竟找不到多少时间钻研数学,这对吴的成长不能不说是一大损失。
+抗日战争胜利以后,他到上海临时大学任教。1946年4月,陈省身从美返国,在上海筹组中央研究院数学研究所。当时吴文俊并不认识陈省身,是经友人介绍前去拜访的。亲戚鼓励他说:陈先生是学者,只考虑学术,不考虑其他,不妨放胆直言。在一次谈话中,吴文俊直率向陈提出希望去数学所,陈省身当时未置可否,临别时说:“你的事我放在心上。”不久陈省身即通知吴文俊到数学所工作。1946年8月起,吴文俊在上海(岳阳路)数学所工作一年多,图书室作为工作地点。这一年陈省身着重于“训练新人”,有时一周讲12小时的课,讲授拓扑学。听讲的年轻人除吴文俊外,还有陈国才、张素诚、周毓麟等。陈省身还经常到各房间同年轻人交谈。
+与陈省身的结识是吴文俊一生的转折点。他开始接触到当时方兴未艾的拓扑学,这使他大开眼界,使自己的研究方向由过去偏狭的古老学科转向当代新兴学科。在陈省身带动下,吴文俊很快地吸收了新理论,不久就进行独立研究。当时惠特尼(H. Whitney)提出的示性类,有一个著名的对偶定理,惠特尼的证明极为复杂,且从来没有发表过。吴文俊独创新意,给出一个简单的证明,这是示性类头一个重要成果,现在已是经典的东西了。陈省身对此十分欣
+
+赏，把它推荐到普林斯顿大学出版的《数学年刊》(Annals of Mathematics)上发表。在数学荒疏多年的情况下，一年多时间之内就在以难懂著称的拓扑学的前沿取得如此成就，不能不说是吴文俊的天才和功力。
+1947年11月，吴文俊考取中法交换生赴法留学。当时正是布尔巴基(Bourbaki)学派的鼎盛时期，也是法国拓扑学正在重新兴起的时代。吴文俊在这种优越的环境中迅速成长。他先进斯特拉斯堡(Strassbourg)大学，跟埃瑞斯曼(C. Ehresmann)学习。埃瑞斯曼是嘉当(E. Cartan)的学生，他的博士论文是关于格拉斯曼(Grassmann)流形的同调群的计算，这个工作对后来吴关于示性类的研究至关重要。同时，他还是纤维丛概念的创始人之一，他的一些思想对吴文俊后来的工作也有一定影响。在法国期间，吴文俊继续进行纤维空间及示性类的研究。在埃瑞斯曼的指导下，他完成了《论球丛空间结构的示性类》的学位论文，于1949年获得法国国家博士学位。这篇论文同瑞布(Reeb)的论文一起，在1952年以单行本出版，另外还发表了多篇关于概复结构及切触结构的论文。在斯特拉斯堡他结识了托姆(R. Thom)等人。他的一些结果发表后，引起广泛注意。由于他的某些结果与以前结果表面不同，而使浩普夫(H. Hopf)亲自来斯特拉斯堡澄清他们的工作。浩普夫同吴交谈后才搞清楚问题，非常赞赏吴的工作，并邀请吴去苏黎世讲学一周。在苏黎世他结识了当时在苏黎世访问的江泽涵。他的工作还受到了怀特海(J. H. C. Whitehead)的注意。取得学位后，吴文俊到巴黎，在法国国家科学研究中心(CNRS)做研究，在H.嘉当的指导下工作。这时，H.嘉当举办著名的嘉当讨论班，这个讨论班对于拓扑学的发展有重要意义。与此同时，反映国际数学主要动向的布尔巴基讨论班也刚刚开始，当时参加人数还不多，一般二三十人。吴文俊参加这两个讨论班，并在讨论班上作过报告。当时嘉当致力于研究著名的斯廷洛德上同调运算，吴文俊从低维情形出发，
+
+已猜想到后来所谓的嘉当公式。嘉当在他的全集中,也把这一公式的发现归功于吴文俊。同时吴1950年发表的一篇论文,也预示了后来所谓的道尔德(Dold)流形。
+1951年8月,吴文俊谢绝了法国师友的挽留,怀着热爱祖国的赤诚之心,回到祖国。他先在北京大学数学系任教授。在江泽涵的建议下,吴又于1952年10月到新成立的数学研究所任研究员。当时数学所在清华大学校园内,他和张素诚、孙以丰共同建立拓扑组,形成中国的拓扑学研究工作的一个中心。不久他结识陈丕和女士,并于1953年结婚。婚后生有三女一子:月明、星稀、云奇、天骄,现皆学有所成。当时国内政治学习及运动还不算太多,但总是占了不少时间及精力,家务琐事也使他所分心。从1953年到1957年短短五年间,他还是做了大量研究工作。在这段日子里,他主要从事邦特里亚金(Л. С. Понтрягин)示性类的研究工作,力图得出类似于史梯费尔-惠特尼示性类的结果。但是邦特里亚金示性类要复杂得多,许多问题至今未能解决。他在五篇关于邦特里亚金示性类的论文中,所得许多结果,长期以来是最佳的。1956年,他作为中国代表团的一员,赴苏参加全苏第三次数学家大会,并做关于邦特里亚金示性类的报告,得到好评。邦特里亚金还邀请他到家中作客并进行讨论。
+其后,吴文俊的工作重点从示性类的研究转向示嵌类的研究。他用统一的方法,系统地改进以往用不同的方法所得到的零散结果。由于他在拓扑学示性类及示嵌类的出色工作,他与华罗庚、钱学森一起分获1956年第一届自然科学奖的最高奖——一等奖,并于1957年增选为中国科学院数理化学部委员。1957年他应邀去波兰、民主德国、法国访问;在巴黎大学系统介绍示嵌类理论达两个月之久,听众中有海富里热(Haefliger)等人,吴对他们后来的嵌入方面的工作有着明显的影响。1958年,吴被邀请到国际数学家大会做分组报告(因故未能成行)。
+
+1955 年起，数学研究所拓扑组开始有新大学生来工作，他们在吴文俊的指导下，开始走上研究的道路。其中有李培信、岳景中、江嘉禾、熊金城及虞言林等。
+1958 年起，由于“反右”，理论研究已不能继续进行，拓扑学研究工作被迫中断。在“理论联系实际”的口号下，数学所的研究工作进行大幅度调整。吴文俊同一些年轻人开始对新领域——对策论进行探索。在短短的一两年中不仅引进了这门新学科，而且以其深厚的功力，做出值得称道的成果。1960 年起，他担任中国科学技术大学数学系 60 级学生的主讲教师，开出三门课程：微积分、微分几何和代数几何，共七个学期，他深入浅出的教学内容使这届学生获益匪浅。
+三年困难时期，科研工作部分得到恢复。1961 年夏天，在颐和园召开龙王庙会议，讨论数学理论学科的研究工作的恢复问题。1962 年起，吴文俊重新开始拓扑学的研究，特别着重于奇点理论。其后又结合教学对代数几何学进行研究，定义了具有奇点的代数簇的陈省身示性类，这大大领先于西方国家。1964 年起的“社会主义教育运动”(四清)再一次使研究工作中断。1965 年 9 月，他以普通工作队员的身份到安徽省六安县参加半年“四清”运动，回京后不久，“文化大革命”开始了。数学所大部分研究工作从此长期陷于停顿，吴文俊也不得不参加运动以及接受“批判”。他的住房也大大压缩了，六口之家挤在两小间屋子里，工作条件可想而知。但就在这种“文革”的困难时期中，他仍然抓紧时间从事科研工作，只是方向上有所变化。他在 1966 年注意到他的示嵌类的研究可用于印刷电路的布线问题，特别是他的方法完全是可以算法化的，而这种“可计算性”是与以前在布尔巴基影响下的纯理论的方向完全不同的。大约从这时开始，他完成了自己数学思想上一次根本性的改变。也就在同时，他还进行了仿生学的研究。1971 年他到无线电一厂参加劳动。
+382
+
+1972 年，科研工作开始部分恢复。同时中美数学家开始交流，
+特别是陈省身等华裔数学家回国，带来许多国际上的新信息。数学
+所拓扑组开始讨论由苏里汶 (D. Sullivan) 等人开创的有理同伦
+论，据此吴文俊提出了他的 $I^*$ 函子理论，其显著特点之一也是“可
+计算性”。大约同时，吴文俊的兴趣转向中国数学史。他用算法及
+可计算性的观点来分析中国古代数学，发现中国古代数学传统与
+由古希腊延续下来的近现代西方数学传统的重要区别；他在中国
+古算做了正本清源的分析，在许多方面提出了独到的见解。这两方
+面，是他在 1975 年到法国高等科学研究院访问时的主要报告题
+目。
+1976 年粉碎“四人帮”之后，科学研究开始走上正轨。年近花
+甲的吴文俊更加焕发出青春活力。他在中国古算研究的基础上，分
+析了西方笛卡尔 (R. Descartes) 的思想，深入探讨希尔伯特
+(Hilbert)《几何基础》一书中隐藏的构造性思想，开拓机械化数学
+的全新领域。1977 年他在平面几何定理的机械化证明方面首先取
+得成功。1978 年进一步发展成对微分几何的定理的机械化证明。
+这完全是中国人自己开拓的新的数学道路，产生了巨大的国际影
+响。到 80 年代，他不仅建立了数学机械化证明的基础，而且扩张成
+广泛的数学机械化纲领，解决了一系列理论及实际问题。
+1979 年以后，我国数学家的国际交往也日益频繁，吴文俊也
+多次出国。从 1979 年被邀请为普林斯顿高等研究所研究员起，几
+乎每年都出国访问或参加国际学术会议，对于在国外传播其数学
+成就起着重要作用。尤其是吴文俊机械化数学的思想与中国传统
+数学受到国际上的瞩目。1986 年，他在国际数学家大会上作关于
+中国数学史的报告，引起广泛的兴趣。这样，在我国现代数学史上，
+初步形成了复兴中国数学的新趋势，中国人开创并领导了一个崭
+新的数学分支，中国数学不再只是沿袭他国的主题、问题与方法
+了，从而引起国际数学界对我国的数学研究工作的日益密切的注
+
+意。
+1980年，在陈省身的倡议下，吴文俊积极参与“双微”会议的筹备及组织工作。从1980年到1985年，共举行六届“双微”会议，对于同国内外数学界的交流起着重要推动作用。
+1983年，吴文俊当选为中国数学会理事长，他积极筹备了1985年在上海举行的中国数学会成立50周年纪念大会。到1987年任满。
+1979年夏，吴文俊、关肇直、许国志等人筹建中国科学院系统科学研究所，1980年正式成立。吴文俊任副所长兼基础数学室室主任、学术委员会主任。1983年起任名誉所长。在职期间，对所的基本建设有着极大助益。1990年该所正式成立数学机械化研究中心，吴文俊担任主任。他领导的数学机械化研究小组和他组织并领导的讨论班，在这一新领域已进行了相当长时期的研究，并完成了大量为国际瞩目的研究成果。研究中心成立后，学术活动更为活跃。吴文俊满怀信心地要把系统科学研究所的数学机械化研究中心，发展成为国际交流的中心，吸引国内外同行为深入开展这一新领域的研究而共创业绩。由于他的成就，吴文俊于1990年荣获第三世界科学院数学大奖，次年当选为该院院士。
+1980年，吴文俊加入中国共产党。1978、1983、1988、1993年，他当选为政治协商会议全国委员会委员及常委。
+二、学术成就
+吴文俊的数学研究博大精深，涉及面很广，包括代数拓扑学与微分拓扑学、代数几何学、微分几何学、对策论、中国数学史、数学机械化理论、应用数学等领域。这里简述其主要成就。
+(1)代数拓扑学与微分拓扑学。
+纤维丛及示性类理论，是现代数学最基本概念之一，对数学各
+
+个领域乃至数学物理(如杨-米尔斯[R. Mills]规范场论)有着广泛的应用。吴文俊最早的工作之一就是对惠特尼的丛乘积公式给出一个圆满的证明。到法国之后,在他的博士论文中,他定出各种不同示性类之间的种种关系,并得出4维可定向微分流形上具有概复结构的充分必要条件。这些工作主要是基于对格拉斯曼流形的细致研究。吴文俊运用当时发现不久的更强的拓扑工具——上同调运算,特别是斯汀洛德(Steenrod)平方 $S_q$,由此得出
+$S_q^r W_2^s = \sum_{t=0}^r (\frac{s-r+t-1}{t}) W_2^{r-t} W_2^{s+t}$
+这漂亮公式,其中 $(\frac{P}{q})$ 为(模2)二项系数,并证明:球丛的史梯费尔-惠特尼示性类只由维数为 $2^t$ 的类完全决定。上述公式还被应用于解决另外一大问题:微分流形的示性类的拓扑不变性,即与微分结构无关。吴文俊通过同调性质把示性类明显表出,这就是著名的“吴(文俊)公式”:设 $M$ 是紧 $n$ 维微分流形,令史梯费尔-惠特尼示性类 $W=S_q V$,其中 $V=1+V_1+\cdots+V_n$ 由等式 $V \cup X = S_q X$ 唯一决定,它对所有 $X \in H^*(M)$ 均成立。由这公式可以使史梯费尔-惠特尼示性类的计算成为例行公式,从而导致一系列应用,例如非定向流形的配边理论的标准流形(实射影空间及吴-道尔德流形)的完全决定。这最终使史梯费尔-惠特尼示性类理论成为拓扑学中最完美的一章。
+吴文俊的下一目标是邦特里亚金示性类,而邦特里亚金示性类的问题要难得多了。吴文俊研究时,只有邦特里亚金的一个简报(1942)及一篇论文(1947)。邦特里亚金用的是同调,吴文俊在博士论文中,首先把它改造成上同调,并对其胞腔分解等作了一系列简化。其后运用类似邦特里亚金平方等上同调运算,先后证明模3及模4 邦特里亚金示性类的拓扑不变性,并得出明显表示。其后引入另一类 $Q_p'$,证明其拓扑不变性,由此推出某些邦特里亚金类的组
+385
+
+合(模 $p$)的拓扑不变性。
+实现或嵌入问题——示嵌类。 几何学与拓扑学中最基本问题之一是实现或嵌入问题。初等几何学中的对象如曲线、曲面均置于欧氏空间中，往往通过坐标及方程来刻画。而拓扑学中的基本概念如流形或复形，都是抽象地或内蕴地定义的。是否可把它们放在欧氏空间中使我们产生具体的形象，成为子流形或子复形，这就是实现或嵌入问题。在吴文俊的工作之前，已有范·卡本(E. R. van Kampen)及惠特尼等人的部分结果。而吴文俊把以前表面上不相关连、方法上各异的成果统一成一个系统的理论。他主要的工具是考虑一空间的 $p$ 重约化积，利用史密斯(P. A. Smith)的周期变换理论定义上同调类 $\Phi'_{(p)}(X)$，他的嵌入理论的基本定理是：
+若 $X$ 能实现于 $R^N$ 中，则
+$\Phi'_{(p)}(X)=0, i \geqslant N(p-1)$。
+这定理包含以前所有结果为特例，而且不论是拓扑嵌入、半线性嵌入，还是微分嵌入均成立。由此可以推出一系列具体结果，某些结果也为沙比罗(Shapiro)独立得到。吴文俊于 1957 年又把结果扩充到处理同痕问题，特别是证明：
+只须 $n>1$，所有 $n$ 维微分流形在 $R^{2n+1}$ 中的微分嵌入均同痕。从而可知高维扭结不存在，这显示 $n=1$ 与 $n>1$ 有根本不同。这里值得一提的是：$n$ 重约化积的想法早在 1953 年构造非同伦型的拓扑不变量时就已得出，而且曾用于证明例如模 3 邦特里亚金示性类拓扑不变性，从此成为研究拓扑问题的有力工具。
+1966 年吴文俊为他的嵌入理论找到了实际应用，集成电路布线问题实际上就是一个线性图的平面嵌入问题。吴文俊运用示嵌类理论把问题归结为简单的模 2 方程的计算问题，他不仅可得出是否可嵌入的判据，而且可以指示如何更好地布线。他的方法完全可以计算，可以上计算机，效率远远超过同类算法。
+$I^*$ 函子。 在苏里汶等人工作基础上，1975 吴首先提出一种
+
+新函数——$I^*$函子。它比已知的经典函子，如同调函子$H$、同伦函子$\pi$、广义上同调$K$函子等，更易于计算及使用。对于满足一定条件的有限型单纯复形，可以定义一个反对称微分分次代数，简记为DGA。对每DGAA，可唯一确定一个极小模型MinA，即$I^*$。吴使这些定义范畴化，并指出它们的可计算性。$I^*$函子不仅可以得出$H^*$及$\pi$的有理部分信息，而且可以得出一些复杂的关系。对于由$X$或由$X,Y$生成的空间，如$X \vee Y, X/Y, X,Y$构成的纤维方等等，用$H^*(X), H^*(Y)$得不出$H^*(X \vee Y)$的完全信息，$\pi$也是如此。但对$I^*$函子这些公式均可通过明显公式得出。吴文俊通过大量计算，处理纤维方、齐性空间等典型，将这些关系写出，并特别强调其可计算性。在1981年上海“双微”会议上，他还对于著名的德·拉姆(de Rham)定理作了构造的解释。1987年，吴的工作总结在斯普林格出版社“数学讲义丛书”LN1264中，这样$I^*$成为构造性代数拓扑学的关键部分。
+(2)中国数学史。
+《海岛算经》中证明的复原。刘徽于公元263年作《九章算术注》中，把原见于《周髀算经》中的测日高的方法，扩张为一般的测望之学——重差术，附于勾股章之后。唐代把重差这部分与九章分离，改称《海岛算经》。原作有注有图，后失传。现存《海岛算经》只剩九题。第一题为望海岛，大意为从相距一定距离两座已知高度的表望远处海岛的高峰，从两表各向后退到一定距离即可看到岛峰，求岛高及与表的距离。对此刘徽得出两个基本公式
+岛高=$\frac{\text{表高}\times\text{表间}}{\text{相多}}+\text{表高}$
+岛与前表距离=$\frac{\text{前表退行距}\times\text{表间}}{\text{相多}}$
+其中相多表示从两表后退距离之差。
+吴文俊研究后人的各种补证之后，发现除了杨辉的论证及李俨对杨辉论证解释之外，并不符合中国古代几何学的原意。尤其是
+
+西算传入以后，用西方数学中添加平行线或代数方法甚至三角函数来证明，是完全错误的。吴文俊对于《海岛算经》中的公式的证明，作了合理的复原。吴文俊认为，重差理论实来源于“周髀”，其证明基于相似勾股形的命题或与之等价的出入相补原理，从而指出中国有自己独立的度量几何学的理论，完全借助于西方欧几里得体系是很难解释通的。
+出入相补原理的提出。 吴文俊在研究包括《海岛算经》在内的刘徽著作的基础上，把刘徽常用的方法概括为“出入相补原理”。他指出，这是“我国古代几何学中面积体积理论的结晶”。吴文俊进一步指明，中国数学的体积求法，除了依据出入相补原理之外，另外还要提出刘徽定理。吴文俊认为，自己的中国数学史的工作，是最重要的创造性工作；并表示愿把证明重差术的图，刻在自己的墓碑上。
+（3）数学机械化纲领。
+吴文俊近十多年的成就，往往因早期工作被狭窄地认为只是机器证明；而实际上，这只不过是一个使数学机械化的宏伟纲领的开端。
+数学机械化的思想来源于中国古算，并从笛卡儿的著作中找到根据，提出一个把任意问题的解决归结为解方程的方案：
+任意问题$\xrightarrow{(1)}$数学问题$\xrightarrow{(2)}$代数问题
+$\xrightarrow{(3)}$解方程组$\begin{cases} P_1(x_1,\cdots,x_n)=0\ (4) \\ P_n(x_1,\cdots,x_n)=0 \end{cases}\xrightarrow{}$解方程$P(x)=0$
+这里$P_i$及$P$均为多项式。现在知道，这里每一步未必行得通，即使行得通是否现实可行也是问题。吴文俊的贡献在于：
+①提出一套完整的算法，使得代数方程组通过机械步骤消元变成一个代数方程。
+②解代数方程组可扩大为带微分的代数方程组，从而大大扩张研究问题的范围。
+388
+
+③“吴方法”不仅能证明定理，而且能自动发现定理。
+④与许多以前的原则可行的证明定理的方法相比较，“吴方法”是现实可行的。
+⑤“吴方法”能同时得出全部解，这与其他算法有很大区别。
+下面分述一下细节：
+Ⅰ．几何定理的机器证明。 1976 年冬开始研究，1977 年春取得初步结果，证明初等几何主要一类定理的证明可以机械化，问题分成三个步骤：
+“第一步，从几何的公理系统出发，引进数系统及坐标系统，使任意几何定理的证明问题，成为纯代数问题。
+“第二步，将几何定理假设部分的代数关系式进行整理，然后依确定步骤验证定理终结部分的代数关系式，是否可以从假设部分已整理成序的代数关系式中推出。
+“第三步，依据第二步中的确定步骤编成程序，并在计算机上实施，以得出定理是否成立的最后结论。”
+1977 年，他在一台档次很低的计算机（长城 203 式台式计算机）上，首次按上述步骤实现像西姆逊(Simson)线那样不很简单的定理的证明，并陆续证明了 100 多条定理。周咸青应用吴氏算法证明了 600 多条定理。1978 年初，吴文俊又证明初等微分几何中的一些主要定理也可以机械化。其后，他把机器定理证明的范围推广到非欧几何、仿射几何、圆几何、线几何、球几何等等领域。
+吴文俊的机械化方法基于两个基本定理：一是李特(J. S. Ritt)原理，二是零点分解定理。由于这两个定理可以推广到微分多项式组，从而用它们也可实现初等微分几何定理的机械化证明。不仅如此，它还可以用来自动发现定理以及鉴别各种退化情形，而这些退化情形在一般定理证明中往往是不予深究而使定理的证明并不完整。其后，吴文俊把研究重点转移到数学机械化的核心问题——方程求解上来。他把李特原理及零点分解定理加以精密化，得
+389
+
+出作为机械化数学基础的整序原理及零点结构原理。它不仅可用于代数方程组,还可以解代数偏微分方程组,从而大大扩大理论及应用的范围。一个突出的应用是由开普勒(J. Kepler)三定律自动推导牛顿万有引力定律,这在任何意义下来讲都应该说是一件最了不起的事。在这种表述之下,自然可以料想各种应用纷至沓来:
+A. 建立一系列新算法,并用来解决各种实际问题,特别是吴文俊能处理极难的非线性规划问题,从而有效解决化学平衡问题,这一问题在化学及化工方面都是最基本的。
+B. 建立一系列未知关系,例如双曲几何中边长与面积等关系的自动推导,有些即使在通常情况下也是很难得出的。
+C. 证明不等式及各种定理。
+D. 解决一系列实际问题,如机器人逆运动方程求解问题,连杆运动方程求解问题等等。
+在吴文俊的总纲领之下,他的同事及学生吴文达、石赫、刘卓军、王东明、胡森、高小山、李子明、王定康等等得出一系列理论及实际应用的成果,如多元多项式因子分解及极限环问题等等。可以期望未来还会有更大和更多的应用。
+从理论上讲,他用零点集的表述方式代替理想论的表述方式,这对代数几何学是一个新的冲击。这同 1965 年吴文俊关于一般的(有奇点)代数簇的陈类定义,都是对代数几何学的突出贡献。
+
+三、影 响
+
+吴文俊的各项独创性研究工作,使他在国内外产生了广泛的影响,享有很高的声誉。
+他对拓扑学的各项研究早已成为经典成果,“吴公式”、“吴类”已成为许多论文的题目、研究工具及研究对象,并且是许多优秀结果的出发点。近年来,他对于中国数学史的研究及定理机器证明的
+390
+
+数学机械化纲领,正在急剧地扩大影响,真正成为一个独具中国特色的构造性的、可机械化的数学运动。单是定理机器证明就已获得许多热情的赞扬。莫尔(Moore)认为,在吴的工作之前,机械化的几何定理证明处于黑暗时期,而吴的工作给整个领域带来光明。美国定理自动证明的权威人士沃斯(Wos)认为,吴的证明路线是处理几何问题的最强有力的方法,吴的贡献将永载史册。而这些只不过是对吴机械化数学方案的早期工作的评价,而他的整个的机械化数学方案的实现,才刚开始。
+陈省身称吴文俊“是一位杰出的数学家,他的工作表现出丰富的想象力及独创性。他从事数学教研工作,数十年如一日,贡献卓著……”这是对吴的工作的确切的评价。70年代以后,吴文俊对中国文化有了更深刻的认识,他通过自己的科研工作,真正切实地初步实现了复兴中国文化优秀内核的理想。吴文俊,作为一位数学家,在自己的工作领域里,最终找到了发扬爱国主义精神、弘扬中国传统文化的正确道路。
+吴文俊主要论著目录
+专 著
+[1] Sur les classes caracteristiques des structures fibrees spheriques, Actualites Sci. Ind. no. 1983, Hermann & Cie, Paris. 1952。
+[2] A Theory of imbedding and immersion in Euclidean space, Peking, 1957 (mimeographed); A Theory of imbedding, immersion and isotopy of polytopes in a Euclidean space, Science Press, Beijing, 1965; (中文本)可剖形在欧氏空间中的实现问题,科学出版社,北京,1978。
+[3] 力学在几何中的应用,人民教育出版社,北京,1963。
+[4] 几何定理机器证明的基本原理(初等几何部分),科学出版社,北京,1984。
+[5] 分角线相等的三解形(初等几何机器证明问题)(与吕学礼),人民教育出版社,1985。
+
+[ 6 ] Rational homotopy type—A Constuctive study via theory of the I*-
+measure ,Lecture Notes in Math, No. 1264, Springer Verlag, 1984。
+[ 7 ] 吴文俊文集,山东教育出版社,1986。
+
+编 著
+[ 8 ] 《九章算术》与刘徽,中国数学史研究丛书之一,北京师范大学出版社,
+1982。
+[ 9 ] 秦九韶与《数书九章》,中国数学史研究丛书之二,北京师范大学出版
+社,1987。
+[10] 现代数学新进展,刘徽数学讨论班报告集,安徽科学技术出版社,
+1988。
+
+论 文
+拓扑学与几何学
+[ 1 ] Note sur les produits essentiels symetriques des espaces topolo-giques.
+C. R. Acad. Sci. Paris 224, (1947) 1139-1141。
+[ 2 ] On the product of sphere bundles and the duality theorem modulo
+two. Ann. of Math. (2) 49, (1948) 641-653。
+[ 3 ] Sur L'existence d'un champ d'elements de contact ou d'une structure
+complexe sur une sphere. C. R. Acad. Sci. Paris 226, (1948) 2117-
+2119。
+[ 4 ] Sur les classes caracteristiques d'un espace fibre en spheres. C. R.
+Acad. Sci. Paris 227, (1948) 582-584。
+[ 5 ] Sur le second obstacle d'un champ d'elements de contact dans une
+structure fibree spherique. C. R. Acad. Sci. Paris 227, (1948)
+815-817。
+[ 6 ] Sur la structure presque complexe d'une variete differentiable reelle
+de dimension 4. C. R. Acad. Sci. Paris 227, (1948) 1076-1078。
+[ 7 ] Sur la structure presque complexe d'une variete differentiable reelle.
+C. R. Acad. Sci. Paris 228, (1949) 972-973。
+[ 8 ] Classes caracteristiques et i carrés d'une variété. C. R. Acad. Sci.
+392
+
+原书缺页
+
+[23] Smith 运算与 Steenrod 运算的关系, 数学学报, 7(1957), 235-241. (英文本) On the relations between Smith operations and Steenrod powers, Fund. Math. 44(1957), 262-269.
+[24] 关于拓扑空间的 Φ(p)类, 科学记录(新辑), 1(1957), 347-350. (英文本) On the Φ(p) classes of a topological space, Sci. Record (N.S.) 1 (1957), 377-380.
+[25] On the reduced products and the reduced cyclic powers of a space, Jber. Deut. Math. Verein. 61(1958), 65-75.
+[26] 关于正常有可数基空间的维数, 科学记录(新辑), 2(1958), 61-63. (英文本) On the dimension of a normal space with countable base, Sci. Record (N.S.) 2(1958), 65-69.
+[27] 在 (2n+1) 维欧氏空间中 n 维 C'-流形的同痕问题, 科学记录(新辑), 2 (1958), 333-336. (英文本) On the isotopy of C'-manifold, of dimension in Euclidean (2n+1)-space, Sci. Record (N.S.) 2(1958), 271-275.
+[28] Topologie combinatoire et invariants combinatoires. Collog. Math. 7 (1959), 1-8.
+[29] 关于胞腔丛的一些不变量, 科学记录(新辑), 3(1959), 107-110. (英文本) On certain invariants of cell-bundles, Sei. Record (N.S.) 3 (1959), 137-142.
+[30] 复合形在欧氏空间中的同痕问题 I . 数学学报, 9(1959), 475-493, (英文本) On the isotopy of a complex in a Euclidean space. I , Sci. Sinica 9(1960), 21-46.
+[31] 有限复合形在欧氏空间中的同痕问题 I . I . 科学记录(新辑), 3, 274-277, 278-281. (英文本) On the isotopy of a finite complex in a Euclidean space I . I . Sci. Record (N.S.) 3(1959), 342-351.
+[32] 关于 Leray 的一个定理, 数学学报, 11(1961), 348-356. (英文本) On a theorem of Leray, Sci. Sinica. 10 (1961), 793-805. (英译本) On a theorem of Leray, Chinese Math. 2(1962), 398-410.
+[32a] 某些实二次曲面的示性类 (与李培信), 数学学报, 12(1962), 203-215. (英译本) The characteristic classes of certain real quadrics,
+
+Chinese Math, 3(1963), 218-231.
+[33] Notes on complex manifolds and algebraic varieties. I. Pliucker's formula. Sci. Sinica. 11(1962), 575-590.
+[34] On the imbedding of orientable manifolds in a Euclidean space, Sci. Sinica, 12(1963), 25-33.
+[35] 欧氏空间中的旋转,数学进展, 6 (1963), 96-97.
+[36] A theorem on immersion, Sci. Sinica, 13(1964), 160.
+[37] On the immersion of C^m-3-manifolds in a Euclidean space, Sci. Sinica 13(1964), 335-336.
+[38] On the notion of imbedding classes. Sci. Sinica. 13(1964), 681-682.
+[39] On the imbedding of manifolds in a Euclidean space I, Sci. Sinica, 13 (1964), 682-683.
+[40] On complex analytic cycles and their real traces, Sci. Sinica, 14 (1965), 831-839.
+[41] 代数簇上的陈省身示性类,数学进展,8(1965), 395-401.
+[42] 具有对偶有理分割的代数族,数学进展,8(1965), 402-409.
+[43] On critical sections of convex bodies, Sci. Sinica. 14(1965), 1721-1728.
+[44] 集成电路设计中的数学问题,数学的实践与认识,1973年第1期,20-40.
+[45] 线性图的平面嵌入,科学通报,19(1974) 226-228.
+[46] S_k 型奇点所属的同调类,数学学报,17(1974),28-37.
+[47] 印刷电路与集成电路中的布线问题. 收入吴文俊,《可剖形在欧氏空间中的实现问题》,科学出版社,1978,213-261.
+[49] 代数拓扑的一个新函子,科学通报, 20(1975), 311-312.
+[50] 代数拓扑 I* 函子论——齐性空间的实拓扑,数学学报,18(1975), 162-172.
+[51] 代数拓扑 I* 函子论——纤维方的实拓扑,中国科学,18(1975),527-541.(英文本) Theory of I*-functor in algebraic topology —— Real topology of fibre squares, Sci. Sinica, 18(1975) 462-482.
+[52] 代数拓扑 I* 函子论——复形上 I* 函子的具体计算与公理系统,中国
+395
+
+科学, 20(1977), 196-209. (英文本) Theory of $I^*$ -functor in algebraic topology —— Effective calculation and axiomatization of $I^*$ -functor on complexes, Sci. Sinica. 19(1976), 647-664.
+[53] 代数拓扑 $I^*$ 函子论——纤维空间的 $I^*$ 函子(与王启明), 中国科学, (1978); (英文本) Theory of $I^*$ functor in algebral topology —— $I^*$-functor of a fiber space, Sci. Sinica, 21(1978), 1-18.
+[54] $I^*$ 量度对复形和与有关作法的能计算性, 科学通报, 25(1980), 196-198. (英文本) On calculability of $I^*$-measure with respect to complex-union and other related constructions, Kexue Tongbao, 25 (1980), 185-188.
+[55] de Rham-Sullivan measure of spaces and its calculability, in Proc. Chern Symposium, (1980), 229-245.
+[56] A Constructive theory of algebraic topology—— Part I. Notions of measure and calculability, Journal of Systems Science and Math, Sciences, 1(1981), 53-68.
+[57] de Rham theorem from Constructive point of view, in Proc. 1981 Shanghai Symposium on Differential Geometry and Differential Equations, Science Press, Beijing, (1984), 497-528.
+[58] Chern classes on algebral varieties with arbitrary singularities, in Several Complex Variables, Birkhausser Boston, Mass, (1984), 247-249.
+[59] On the planar imbedding of linear graphs J. Syo. Sci. Math. Sci. 5 (1985), 290-302; 6(1986), 23-35.
+[60] Some remarks on jet-transformations, Bull. Soc. Math. Belgique, 38 (1986), 409-414.
+[61] On Chern numbers of algebraic varieties with arbitrary Singularities, Acta Math. Sinica, (N. S.), 3(1987), 227-238.
+对策论
+[62] 关于博弈理论基本定理的一个注记, 科学记录(新辑), 3(1959), 179-181. (英文本) A remark on the fundamental theorem in the theory
+
+of games, Sci, Record, (N.S.) 3(1959), 229-233.
+[63] 活动受限制下的非协作对策,数学学报,11(1961),47-62.(英译本)
+On non-cooperative games with restricted domains of activities, Chi-
+nese Math, 2(1962), 54-76.
+[64] Essential equilibrium points of n-person non-cooperative games(与江
+嘉禾), Sci, Sinica, 11(1962), 1307-1322.
+
+中国数学史
+[65] 出入相补原理,收入《中国古代科技成就》,中国青年出版社,1978,80-
+100.
+[66] 我国古代测量之学重差理论评介兼评数学史研究中某些方法问题,
+收入《科技史文集》第8辑,上海科学技术出版社,1982,10-30.
+[67] 出入相补原理,收入吴文俊主编《“九章算术”与刘徽》,北京师范大学
+出版社,58-75.
+[68] 《海岛算经》古证探源,收入吴文俊主编《“九章算术”与刘徽》,北京师
+范大学出版社,162-180.
+[69] 复兴构造性的数学,数学进展,14(1985), 334-339.
+[70] Recent studies of the history of Chinese mathematics, in Proc. ICM.
+986(1987), 1657-1667.
+[71] 从《数书九章》看中国传统数学构造性与机械化的特色,收入吴文俊主
+编《秦九韶与“数书九章”》,北京师范大学出版社, 1987, 73-88.
+
+数学机械化
+[72] 初等几何判定问题与机械化证明,中国科学,20(1977),507-516.(英
+文本) On the decision problem and the mechanization of theorem-
+proving in elementary geometry, Scientia Sinica, 21 (1978), 159-
+172, 重印于 Automated Theorem Proving : After 25 years, Eds.
+W. W. Bledsoe and D. W. Loveland, (1984), 213-234.
+[73] 初等微分几何的机械化证明,中国科学,数学专辑(1), (1979), 94-
+102.
+[74] Mechanical theorem proving in elementary geometry and differential
+
+geometry, in Proc. 1980 Beijing DD-Symposium, Vol. 2. Science Press (1982), 1073-1092.
+[75] Toward mechanization of geometry —— Some comments on Hilbert's “Grundlagen der Geometrie”, Acta Math. Scientia, 2(1982), 125- 138.
+[76] Some remarks on mechanical theorem-proving in elementary geome- try, Acta Math. Scientia, 3(1983), 357-360.
+[77] Basic principles of mechanical theorem-proving in elementary geometries, J. Sys. Sci. Math. Sci. 4(1984), 207-235. 重印于 J. Auto- mated Reasoning, 2(1986), 221-252.
+[78] Some recent advance in mechanical theorem-proving of geometries, in Automated Theorem Proving : After 25 Years, Eds. W. W. Bled- soc and D. W. Loveland, (1984), 235-242.
+[79] A Constructive theory of differential algebraic geometry, Proc. DD-6 Symposium, Shanghai, 1985, eds. C. Gu, M. Berger, and R. L. Bryant, (1987), 173-189.
+[80] On zeros of algebraic equations —— an application of Ritt principle, Kexue Tongbao, 31(1986), 1-5.
+[81] A mechanization method of geometry, I. Elementary geometry, Chinese Quart. J. Math, 1(1986), 1-14, Errata and Addenda, ibid, 2(1987), 20.
+[82] A mechanization method of geometry and its applications, I. Dis- tances, areas, and volumes, J. Sys. Sci. Math. Sci., G, (1986), 204-216.
+[83] 几何学机械化方法及其应用 I. 欧氏及非欧几何的距离、面积和体积,科学通报, 31(1986), 1041-1044. A mechanization method of ge- ometry and its applications I, Distances areas, and volumes in Eu- clidean and non-Euelidean geometries, Kexule Tongbao, 32(1986), 436-440.
+[84] 几何学机械化方法及其应用 II, Bertrand 型曲线偶,科学通报, 31 (1986), 1281-1284. A mechanization method of geometry and its ap-
+
+plications, I , Curve Pairs of Bertrand type, Kexue Tongbao, 37
+(1987), 585-588.
+[85] <解方程器>或<SOLVER>软件系统概述,数学的实践与认识,1986年
+2期, 32-39.
+[86] <解方程器>或<SOLVER>软件系统应用举例,数学的实践与认识,
+1986年3期, 1-11.
+[87] A zero structure theorem for polynomial-equations-solving and its ap-
+plications, MM-Res. Preprints, No. 1 (1987) 2-12.
+[88] Mechanical derivation of Newton's Gravitational Laws from Kepler's
+Laws, MM-Res. Preprints, No. 1 (1987)53-61.
+[89] A mechanization method of geometry and its applications, 3. Me-
+chanical proving of polynomial inequalities and equations-solving,
+MM-Res. Preprints, No. 2(1987) 1-17, also in J. Sys. Sci. & Math.
+Scis. Inst. of Systems Science, 2 (1989).
+[90] On reducibility problem in mechanical theorem proving of elementary
+geometries, Chinese Quarterly J. of Math., 2 (1987), 1-19, also in
+MM-Rds. Preprints, No. 2(1987), 18-36.
+[91] A mechanization method of geometry and its applications, 4. Some
+theorems in planar Kinematics, Sys. Sci. & Math. Scis., 2 (1989),
+97-109.
+[92] On the foundation of algebraic differential geometry, MM-Res.
+Preprints, No. 3 (1989), 1-26, also in Sys. Sci. & Math. Scis., 2
+(1989), 289-312.
+[93] Some remarks on characteristic-set formation, MM-Res. Preprints
+No. 3 (1989), 27-29.
+[94] A mechanization method of geometries and its applications(With Wu
+Tianjiao), 5. Solving transcendental equations by algebraic methods,
+MM-Res. Preprints, No. 3 (1989), 30-32.
+[95] 几何学机械化方法及其应用,收入吴文俊主编《现代数学新进展》,刘
+徽数学讨论班报告集,安徽科学技术出版社,(1988), 181-188.
+[96] On the generic zero and Chow basis of an irreducible ascending set,
+
+MM-Res. Preprints, No. 4 (1989), 1-21.
+[97] On a projection theorem of quasi-varieties in elimination theory, MM-Res. Preprints, No. 4 (1989), 40-48. also in Chinese Annals of Math., (1990), 220-226.
+[98] On the chemical equilibrium problem and equations-solving, MM-Res. Preprints, No. 4 (1989), 22-39. also in Acta Math. Scientia, (1990).
+[99] A mechanization method of geometry and its applications, 6. Solving inverso kinematic equations of PUMA-type robots, MM-Res. Preprints, No. 4 (1989), 49-53.
+[100] A mechanization method of equations solving and theorem proving, in Issues in Robotics and Nonlinear Geometry, Adv. in Computing Res., JAI Press, 6(1990).
+[101] Automatic derivation of Newton's Gravitational Laws from Kepler's Laws, in New Trends in Automated Mathematical Reasoning, (1990).
+[102] Mechanical theorem proving of differential geometries and some of its applications in mechanics.
+[103] Automation of Theorem-Proving, MM-Res. Preprints. No. 5 (1990), 1-4.
+[104] On the construction of Gröbner Basis of a Polynomial Ideal based on Riquier-Janet Theory, MM-Res. Preprints No. 5(1990), 5-22
+作者简介 胡作玄 1936 年出生, 1957 年毕业于北京大学。1964 年调入中国科学院数学研究所, 1980 年转入中国科学院系统科学研究所, 现任该所研究员。著有《菲尔兹奖获得者传》(合著)、《布尔巴基学派的兴衰》、《第三次数学危机》、《数学与社会》等书以及论文多篇。

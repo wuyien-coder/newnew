@@ -1,0 +1,3 @@
+# 本地稠密模型与精排（CPU 可跑，GPU 更快）
+sentence-transformers>=3.0
+torch>=2.1

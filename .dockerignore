@@ -1,0 +1,15 @@
+.git
+.env
+.env.*
+.venv
+.index
+.runtime
+.checks
+.publish
+**/node_modules
+**/__pycache__
+frontend/dist
+reports
+models
+data/full
+*.log
