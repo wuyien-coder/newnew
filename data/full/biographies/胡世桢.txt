@@ -1,0 +1,68 @@
+人物：胡世桢
+生年：1914年
+逝世：1999年
+研究方向：代数拓扑学
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第一分册_p428
+页码：312-316
+============================================================
+
+胡世桢
+
+胡世桢 (1914~1999)，浙江湖州人。代数拓扑学家。1938 年毕业于南京中央大学数学系，获学士学位。1944 年考取英国文化委员会奖学金；1945~1947 年，赴英国曼彻斯特大学，在 M. H. A. Newman 的指导下研究代数拓扑，获博士学位。随即回到中国，加入了刚成立的“中央研究院”数学研究所，任副研究员。1949 年，随数学所迁往台湾后，又赴美。1949~1950 年，任美国杜兰大学临时讲师；1950~1952 年，应邀在美国普林斯顿高级研究所访问研究；1952~1955 年，回到杜兰大学任数学副教授。1955 年加入美国籍。1955~1956 年，在乔治亚大学任教授；1956~1960 年，在韦恩州立大学任教授。1960 年起，在加利福尼亚大学洛杉矶分校任数学教授，直至 1982 年退休任荣誉教授。与此同时，1959~1964 年，在洛克希德导弹与空间公司电子科学实验室任兼职顾问。胡世桢是同伦论研究的先驱，发表论文 50 余篇，数学专著和教材 10 多部，并为美国政府撰写了数篇关于电子数字化技术的科技报告。1959 年，被母校英国曼彻斯特大学授予荣誉科学博士学位。1966 年，当选为台湾“中央研究院”院士。同时是美国数学会、伦敦数学会、法国数学会和比利时数学会等多个著名数学家团体的会员。
+
+一、简 历
+
+胡世桢出生于浙江省湖州市。关于胡世桢家世的中文资料甚少，我们只能从外文资料了解到，他父亲的姓名是 Hu Hsiao Tang，母亲姓名 Tang Su Mei。
+
+胡世桢于 1938 年从南京中央大学数学系毕业，获学士学位。1944 年秋，他与王宪钟一起考取了英国文化委员会奖学金中仅有的两个数学名额。1945 年 10 月，他们同乘“大不列颠号”船来到英国，随后被分别派往曼彻斯特大学和谢菲尔德大学学习。不久，王宪钟从谢菲尔德大学转到胡世桢所在的曼彻斯特大学，两人均在 M. H. A. Newman 的指导下研究代数拓扑。此后，他们的事业轨迹仍多有交集，因而被中国数学界称为“曼彻斯特双雄”(Manchester twins)。
+
+1947 年，胡世桢以关于同伦群的研究论文获曼彻斯特大学博士学位。不久回到中国，与王宪钟一同加入了刚成立的中央研究院数学研究所。该所的所长是姜立夫，但他当时并不在所内，实际主持所务的是代理所长陈省身。陈省身从全国著名大学数学系招来了十多位最优秀的毕业生作为助理研究员，由他亲自每周为他们讲授代数拓扑课。受聘为副研究员的胡世桢和王宪钟，则辅佐陈省身上课。另有一位研究员是李华宗。他们几乎
+
+每天举行专题讨论会。学术研究的气氛十分活跃。1948 年，胡世桢与 Wang Shia Zong 女士结婚，他们生有一子 (Herman) 和一女 (Charlotte)。
+然而，中国政局开始急剧动荡。国民党政府因军队节节败退，即将垮台。1948 年 12 月 31 日，陈省身携全家乘飞机离开中国，去美国普林斯顿高级研究所。数学所的一切学术活动暂停，人员纷纷离开，所长姜立夫从南开大学赶来收拾残局。不久，数学研究所迁往台湾，姜立夫带领胡世桢、王宪钟和三位助理研究员同去。到了台湾后，人员陆续散去。胡世桢和王宪钟则赴美找工作。
+1949~1950 年，胡世桢在美国杜兰大学获临时讲师的职位；1950~1952 年，应邀在美国普林斯顿高级研究所访问研究；1952~1955 年，回到杜兰大学任数学副教授。1955 年，加入美国籍。1955~1956 年，在乔治亚大学任教授；1956~1960 年，在韦恩州立大学任教授。1960 年起，在加利福尼亚大学洛杉矶分校任数学教授，直至 1982 年退休任荣誉教授。与此同时，1959~1964 年，胡世桢还在洛克希德导弹与空间公司电子科学实验室任兼职顾问。
+1959 年，胡世桢被母校英国曼彻斯特大学授予荣誉科学博士学位。1966 年 7 月，他当选为台湾“中央研究院”院士。另外，胡世桢是美国数学会、伦敦数学会、法国数学会和比利时数学会等多个著名数学家团体的会员。
+胡世桢的元配夫人于 1962 年逝世，继配夫人名叫 Emily。
+
+二、数 学 成 就
+
+胡世桢是一位代数拓扑学学家，享有学识丰富和治学严谨的声誉。他从 1946 年起，在一些著名的数学期刊上发表了大量的关于代数拓扑研究的论文。早期研究过球映射函数空间的同伦群，道路空间的同伦群，并利用同伦群研究度量空间中的球映射等。同伦群被分为“绝对同伦群”和“相对同伦群”。胡世桢主要研究“相对同伦群”，这是当时代数拓扑的研究热点。他推广了 J. H. C. Whitehead 的关于相对同伦群乘积的概念，经常被引用。同时对当时大量出现的关于相对同伦群研究成果的首次系统阐述和总结。他也研究了齐次空间中拓扑群的 Whitehead 同伦积的性质。此后，他致力于研究由不同的拓扑空间之间的连续函数所构成的映射空间上的同伦群的性质，并研究各种同调理论。胡世桢的几乎所有论著都是单独作者。唯一的一篇合作论文是与陈省身一起，文中论述了用底空间的上同调来刻画主丛的乘积性质。这是代数拓扑理论在微分几何中的应用。
+1950 年以后，胡世桢的代数拓扑研究的范围更广。除了继续上述各类问题的研究之外，他还研究了纤维空间上的拓扑结构、抽象环上的同调群、复形上的链群、复形的形变收缩上同调、同伦群的可实现性、拓扑群的上同调理论、同伦加性定理的证明、结合代数上的奇异同调理论、同伦群的公理化理论、拓扑空间的合痕不变式等。其中有不少工作经常被后人引用。
+1959 年以后，胡世桢认为代数拓扑学的发展已经很成熟。因此，他开始减少有关的研
+
+研究工作，而转向整理该领域中已有的成果。1959年，胡世桢发表了专著《同伦论》(Homotopy Theory)。这是第一部系统整理同伦论领域广泛研究成果的著作，出版后立即广受欢迎，遂成为代数拓扑学的经典文献和研究生的标准教材。该书一举奠定了胡世桢作为该领域最权威专家的地位。
+1964 年，胡世桢出版了著作《一般拓扑学基础》(Elements of General Topology)，这是一部研究生教材。与当时已有的关于一般拓扑学研究的许多教材不同，此书包含更多的代数拓扑的内容。专家们评论道：此书坚持把高标准的数学严密性和与清晰易懂的叙述相结合；它反映了作者的渊博知识和高超的传授知识的技巧。
+在以后的几年中，胡世桢一发不可收拾，出版了十几部著作和教材，包括《现代代数学基础》(Elements of Modern Algebra)(1965)，《收缩核理论》(Theory of Retracts)(1965)，《一般拓扑学引论》(Introduction to General Topology)(1966)，《现代数学引论》(Introduction to Contemporary Mathematics)(1966)，《同调论》(Homology Theory)(1966)，《实分析基础》(Elements of Real Analysis)(1967)，《上同调论》(Cohomology Theory)(1968)，《同调代数引论》(Introduction to Homological Algebra)(1968) 和《微分流形》(Differentiable Manifolds)(1970) 等。这些著作和教材都非常受欢迎，有的被广泛引用，有的被多次再版。
+胡世桢所写的著作，大多是研究生教材，也有本科生教材和教师培训教材；不仅限于拓扑学领域，还涉及数学的其他多个领域。这些著作表明，胡世桢不仅是一位出色的数学研究者，而且是一位具有广泛的知识，善于用简洁通俗的语言表述深刻的数学思想，非常勤奋的数学教育家。
+胡世桢在减少了代数拓扑学的研究工作之后，一方面撰写了各种数学专著和教材，另一方面，他在积极探索如何把数学应用于解决实际问题。为此，他来到了洛克希德导弹与空间公司，担任电子科学实验室的兼职顾问。
+1959~1964 年，胡世桢在洛克希德公司兼职期间，为该公司与美国政府的合作项目写了一系列保密的或公开的技术报告。这些报告主要研究“真值函数”(也被称为“开关函数”、“布尔函数”或“逻辑函数”) 的计算以及相应的“开关电路”(或称为“逻辑电路”) 的设计。在此基础上，他写了另外两部专著《阈值逻辑》(Threshold Logic)(1965) 和《开关电路与自动机的数学理论》(Mathematical Theory of Switching Circuits and Automata)(1968)。胡世桢的这些论著试图为一个新兴的电子技术领域打下坚实的数学基础，其中不乏创造性思想和概念。该领域以后飞速发展，为制造各种自动控制设备和计算机硬件提供了关键技术。
+三、胡世桢主要论著
+Hu S T. 1946. Concerning the homotopy groups of the components of the mapping space. Nederl Akad Wetensch Proc, 49: 1025–1031.
+Hu S T. 1946. Homotopy properties of the space of continuous paths. Portugaliae Math, 5: 219–231.
+
+Hu S T. 1947. Inverse homomorphisms of the homotopy sequence. Nederl Akad Wetensch Proc, 50: 279-287.
+Hu S T. 1947. A group multiplication for relative homotopy groups. J London Math Soc, 22: 61-67.
+Hu S T. 1947. An exposition of the relative homotopy theory. Duke Math J, 14: 991-1033.
+Hu S T. 1948. Some homotopy properties of topological groups and homogeneous spaces. Ann of Math, 2(49): 67-74.
+Hu S T, Chern S S. 1949. Parallelisability of principal fibre bundles. Trans Amer Math Soc, 67: 304-309.
+Hu S T. 1959. Homotopy Theory. Pure and Applied Mathematics. New York-London: Academic Press.
+Hu S T. 1964. Elements of General Topology. San Francisco-London-Amsterdam: Holden-Day Inc.
+Hu S T. 1965. Elements of Modern Algebra. San Francisco-London- Amsterdam: Holden-Day Inc.
+Hu S T. 1965. Theory of Retracts. Detroit: Wayne State University Press.
+Hu S T. 1965. Threshold Logic. Berkeley: University of California Press.
+Hu S T. 1966. Introduction to General Topology. San Francisco-London-Amsterdam: Holden-Day Inc.
+Hu S T. 1966. Introduction to Contemporary Mathematics. San Francisco-Amsterdam: Holden-Day Inc.
+Hu S T. 1966. Homology Theory: A First Course in Algebraic Topology. San Francisco: Holden-Day Inc.
+Hu S T. 1967. Elements of Real Analysis. San Francisco-Cambridge-Amsterdam: Holden-Day Inc.
+Hu S T. 1968. Cohomology Theory. Chicago: Markham Publishing Co.
+Hu S T. 1968. Introduction to Homological Algebra. San Francisco-London-Amsterdam: Holden-Day Inc.
+Hu S T. 1968. Mathematical Theory of Switching Circuits and Automata. Berkeley: University of California Press.
+Hu S T. 1969. Differentiable Manifolds. New York-Montreal, Que-London: Holt, Rinehart and Winston Inc.
+主要参考文献
+Henney D. 1967. Reviewed work(s): Elements of General Topology. The American Mathematical Monthly, 74(7): 884.
+American Men & Women of Science. 1975. 13rd ed. Entomological Society of America.
+Who's who in America. 1986-1987.
+Blattner R J, Brown R F, Steinberg R. 2000. Obituary of Sze-Tsen Hu, 1914-1999. University of California (System) Academic Senate.
+撰写者
+张奠宙，1933，男，华东师范大学教授，国际欧亚科学院院士，曾当选国际数学教育委员会执行委员。著名现代数学史专家和数学教育家。
+王善平，1954，男，《华东师范大学学报》编辑部，编审，研究方向为现代数学史。

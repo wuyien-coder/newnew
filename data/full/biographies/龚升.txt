@@ -1,0 +1,443 @@
+人物：龚升
+生年：1930年1月16日
+研究方向：多复变函数论，调和分析，复分析
+来源：11680973_中国现代数学家传第5卷_
+页码：495-539
+============================================================
+
+龚 升
+
+郑学安 余其煌 胡炳生
+
+龚 升 1930年1月16日诞生于上海川沙。
+中国科学技术大学教授。多复变函数论、调和分析、复分析。
+
+龚升是华罗庚最有成就的学生之一。
+王元在《华罗庚传》中说，华罗庚在他去世的前一天为东京学术报告会写的报告提纲里，列举了20世纪50年代回国后在他的三个理论研究方向——数论、代数、多复变函数论，所写的著作与他所培养的五位主要学生的名字：
+
+《数论导引》、《百科全书解析数论分册》(东德)→王元、陈景润。
+《典型群论》→万哲先。
+《典型域上的调和分析》→龚升、陆启铿。
+
+关于华罗庚这三个方向的数学成就，丘成桐在《中国数学发展
+
+* 龚升像摄于文革期间。 ——编者
+438
+
+之我见》中是这样评述的:“中国近代数学能超越西方或与之并驾齐驱的主要有三个……一个是陈省身教授在示性类方向的工作;一个是华罗庚在多复变函数方向的工作;一个是冯康在有限元计算方面的工作。”
+对华罗庚,丘成桐为什么单提他在多复变函数方面的工作呢?丘成桐说:华“在多复变函数方面的贡献比西方至少早了10年,海外的数学家都很尊重华在这方面的成就”。
+50年代以来,特别是在华罗庚去世的近十多年来,龚升继承和发扬了华罗庚多复变函数的思想和方法,不断开拓前进,在典型群上的调和分析、多复变数奇异积分和多复变函数几何函数论等方面的研究上,做出了系统的工作,使中国数学在这一领域内继续保持领先水平。
+
+童 年
+
+龚升出生于上海浦东北蔡镇(属川沙县)的一个贫困教师家庭。父亲龚继贤是当地小学语文教师;母亲杨本尧,读过务本女中,有较高文化素养。龚升出生前,上面已有三个哥哥——龚昊、龚晨、龚景,家计很艰难,所以母亲曾想堕胎,只因一位老护士的劝慰才保住了这第四个孩子。
+龚升六七岁时在本镇北蔡小学启蒙。不久日军侵华占领上海,他一家搬进上海外国租界躲避。一家六口挤住在一间几平方米的小屋,靠父亲的微薄工资糊口,十分穷困。大哥出去当学徒,不几年得了肺结核病死了。这以后家里日子更加难过。有时甚至断炊。
+由于无钱交学费,二哥、三哥常常辍学打工。但母亲坚持不让小儿子也去,到处借钱给他交学费。她觉得小儿子不同于一般孩子。这样,龚升在弄堂小学——美德小学读到五年级。在停学半
+
+年之后,他跳过六年级和初一,冒充插班生,直接考入上海培真中学读初二。
+苦难的童年,养成了他吃苦耐劳、宽容正直、仗义疏财、助人为乐的性格。后来不少人受过他的帮助、保护与提携。
+
+播下了数学的种子
+
+龚升在培真中学只读了两年,但这两年间他的数学和物理教师吴文俊,给他播下了数学的种子。吴教学认真,循循善诱,课讲得引人入胜。龚升得此良师,对数学越发有兴趣,从第二学期起,数学就在班上考第一,常得120分(包括附加分)。
+对这样的学生,课本已不能满足其求知的需要,吴文俊便给他介绍一些数学课外书籍,如三S平面几何(英文原版)、林鹤一主编的数学小丛书等。这使他得到超前学习的机会,在初三就念完了高中一年级的三角、立体几何等课程。以至他初中毕业以后,毫无困难地考入复旦中学,直接插入高中二年级并被编入“甲班”。在念高中时,将要离开上海的吴文俊又送给他两本数学书,其中一本是柯朗著的微积分(英文原版)。他读完这些书,完成了全部习题。
+当他高中毕业时,抗战已经胜利,复旦大学已从重庆迁回上海。校方在复旦中学毕业生中挑选了成绩优秀者十多人,保送进复旦大学,龚升名列其中。但龚升不愿直升,而是考进了上海的一所国立大学——上海交大数学系。
+
+少年大学生
+
+龚升考入交大时才16岁,还是一个少年。因为获得了奖学金,还做点家教,所以吃饭住宿都有了着落,学习条件大为改善。他小时一直睡地铺,直到这时,才有了张床。
+
+当时交大数学系集中了不少数学名教授,其中朱公瑾是柯朗的学生,对龚升的影响较大。朱微积分教得很好,为他以后从事数学专业研究作了思想准备。交大又是中共上海地下党组织的活动中心之一,上海学生运动的发源地。交大的多次学生运动,龚升都参加了。1949年7月,上海解放后两个月他就加入了共青团,并于次年5月加入了中国共产党。1950年7月,龚升以优异成绩从交大数学系毕业。
+
+从浙大到复旦
+
+起初,龚升被统一分配到重工业部。这时中国科学院正筹组数学研究所,经苏步青、陈建功的努力,便将他改派到数学所筹备处。但因具体筹备成立数学所尚需时日,于是就让他暂去浙江大学跟陈建功继续学习。当时跟陈学习的,还有刚考上陈建功研究生的夏道行,也是20岁,二人同龄。
+
+在浙大的两年里,他跟陈建功学习几何函数论,并开始学习做数学研究工作。他的第一篇论文发表在1951年的《科学记录》上,标志着他正式走上了数学专业研究之路。时21岁。
+
+这之后他因肺结核回上海老家休养了一年。病好后,浙大数学系已经并入复旦大学,于是他又随陈建功到了复旦大学。
+
+在浙大、复旦的四年中,龚升打下了扎实的数学基础,同时也学到了一些数学研究方法。但与他以后的研究工作相比,这只是一个序幕。
+
+师从华罗庚
+
+中国科学院数学研究所于1952年7月在北京正式成立,华罗庚被任命为所长,龚升是实习研究员。不过他本人不在北京。
+
+1954年,陈建功让夏道行到苏联去跟盖尔芳德学习,让龚升去北京跟华罗庚学习。这样,龚升就来到了华罗庚的身边,正式成为华的学生,跟华学习多复变函数论。
+华罗庚指导和训练学生的方法很特别,要求很严。他围绕自己主要研究方向,把学生们组织成数论、典型群和多复变函数三个讨论班,和学生一起将读书与报告,研究和写书结合起来。他先让学生在黑板上讲,然后追问你,追到底,要你讲最要紧的是什么?关键在哪里?结果为什么比别人好?往往追问得报告人张口结舌,满头大汗。有的人感到吃不消,便不再参加了。而坚持下来的,则从他的追问中渐渐地学会了独立从事数学研究的本领。
+龚升和陆启铿参加的是多复变函数讨论班,并成为华罗庚研究多复变函数论这一课题的主要学生与助手。
+这是一个十分困难而又富独创性的研究课题。在华罗庚完成这一课题研究的过程中,陆启铿和龚升都作出了自己的贡献。陆启铿建立了典型域的调和函数理论等重要成果,并将其研究成果总结到专著《典型流形与典型域》之中。龚升则将华罗庚关于典型群的调和分析开端工作,加以系统发展和扩充,总结在他以后的专著中。
+龚升从50年代初开始,就不断发表数学研究论文。开始阶段以单复变函数论方面为主,1957年开始转向多复变函数论方面,并明显地表现出了“华派”风格。
+1956年,我国曾经掀起了一股“向科学进军”的热潮。龚升因为勤学苦干,科研成就突出,被共青团中央评为“社会主义建设积极分子”,树为青年知识分子学习的一面旗帜。可是在次年“反右”运动中,他的二哥(上海师院数学系讲师)和三哥(上海一所中学物理教师)同时被打成“右派”,二哥还是“极右”。这使他的心理上蒙上了一层阴影。而他本人也在各次运动中经常受到批判。
+
+中国科技大学八年
+
+1958年，中国科技大学在北京成立，受科学院和高教部双重领导，科学院中一大批科学家和科研人员去那里工作或兼课。华罗庚先兼任科大数学系主任，后又任副校长。龚升则完全调到科大工作，筹办数学教研室，又协助华罗庚办数学系；先是系秘书，不久做副系主任，实际上主持日常教学工作，成为科大数学系创建人之一。1959年，龚升晋升为副教授，时年29岁，是当时全国最年轻的副教授之一。华罗庚高兴地叫他“教授”。于是“教授”成为他的外号。至今在科大数学系，说到“教授”那就指的是龚升。
+
+为了办好科大数学系，校党委同意龚升录用了曾肯成等六名数学所“右派”任教，并善待他们（这件事成为“文革”中龚升的一大罪状）。加上华罗庚等数学家亲自上课，组织讨论班，科大数学系办得有声有色。到“文革”前夕，科大数学系已经成为国内一流的数学系。
+
+从1958到1966年的8年中，龚升在科大的工作极为紧张、忙碌，也是极有成绩的。他一面主持数学系日常行政事务，一面教书，一面继续读书，做数学研究工作与带研究生；同时他还兼任北京市数学会副理事长和秘书长，要组织数学会的各种学术活动，其中包括数学竞赛、数学家报告会，出版数学小丛书，等等。这些活动对当时青少年影响很大，尤其是当时编著的数学小丛书，至今仍为科普丛书的典范。他是我国数学竞赛最早倡导者和组织者之一。
+
+由于白天太忙，读书和研究只有放在晚上进行。每天晚上10点钟后才能开始念书和思考数学问题，直至深夜。他房间里的灯在大院里总是最后一个熄灭。他演算用剩下的铅笔头常常是一大把。华罗庚所说的“天才在于勤奋”这句名言，在他身上真正得到了体现。
+
+收 获
+辛勤的劳动,结出了丰硕的成果。
+在数学研究方面,这一期间他做了两套工作。1964年以前,继续在数学所的工作,应用群表示论对典型群的调和分析进行深入研究,得到了系统、完整的结果。这项研究成果早于国外同类研究近十年,在这项研究中,他提出了一整套的思想、理论和方法,奠定了我国群上调和分析研究的基础。这方面的成果,他总结成专著《典型群上的调和分析》,只是因“文革”的打断,才使它的出版推迟到1983年。
+龚升的此项工作得到导师华罗庚的赞赏。这可以从下列几件事情上得到证实。其一,1963年,华的名著《多复变函数论中的典型域的调和分析》出英文新版时,华要龚升将他的上述工作写一综述文章作为该书的附录Ⅲ,并在参考文献中引用了龚升的工作。其二,1964年在北京举行的国际科学报告会上,华罗庚将龚升的此项工作作为他的报告主要内容之一。其后,华罗庚访问苏联时,又在苏联数学会上作了类似的报告。
+1963年前后,龚升转向多复变数奇异积分的研究。他发现了多复变数的奇异积分与经典的 Calderon-Zygmund 奇异积分的重要差异,发展了一套与国外同类研究迥然不同的新的研究方法,开创了多复变数奇异积分新的研究路线。他的这一研究成果,同样早于国外同类研究多年。1998年,美国著名数学家 E.M.Stein 指出:多复变的奇异积分与经典的 Calderon-Zygmund 奇异积分有着本质的差异,还有许多未解决的重大课题,他的这一思想与龚升三十多年前的思想与研究发现正是不谋而合的。
+在教学方面,他在多次从事非数学专业的高等数学课程的教学实践中,感到对这门课程原有内容有改革的必要。1965年,龚
+
+升和张声雷合作，在近代物理系高等数学试验班上进行改革，并写出一部新教材，定名为《简明微积分》。1966 年龚升发表在《自然辩证法通讯》上的文章——“对高等数学改革的一些尝试”，谈了他当时的想法。他认为：高等数学这门课程的主要内容，实际上是讲微分和积分这对矛盾。在讲课中，就要把这对矛盾及早引出，尽力突出。所以在内容选择和安排上，应以这条主线来贯穿全书。在讲多元微积分时，应用外微分形式，讲清楚三维和高维空间中微分和积分是如何成为一对矛盾的。这样，既体现了微积分教材的现代化，也使多元微积分与一元微积分处理方法一致，简明、扼要。
+龚升对高等数学教材改革和教学实验，不仅在当时是一种创新，而且对以后高等数学教学改革，也是很好的引导。他后来所写的介绍这种改革思想的《话说微积分》（1998）一出版，就受到了全国高等数学教育界普遍称赞。
+
+磨 难
+
+从 1966 年夏天开始的“文化大革命”，是整个中华民族的一场浩劫，中国科学院及其所属的中国科技大学也不例外。实际上，自 1957 年“反右派斗争”起，华罗庚就被当做资产阶级学术权威，不断受到冲击和批判。文化大革命初期，尽管周总理指示保护华罗庚，他还是被贴了大字报，抄了家，抄去了全部手稿，并几次遭到批斗。作为华的主要学生与助手，龚升成了惟一的陪斗者。华被罚去打扫数学所的厕所，龚升也被关进了专政队。
+这件事对龚升父母、夫人及两个年幼的孩子，打击都很大。不久，他母亲即因心脏病突发而去世。夫人杨慧一也吃了不少苦。两位年幼的女儿，在她们幼小的心灵上打上了痛苦的烙印。龚升对此深感内疚。20 世纪 90 年代，他的三本学术专著英文版在国外出版：
+
+"Integrals of Cauchy type on the Ball"(1993)
+"The Bieberbach conjecture”(1999)
+“Convex and starlike mappings in several complex variables”(1998)
+为了表达深藏于内心的愧疚之情,他将这三本书分别献给他的父母亲、夫人和两个女儿。
+1969年,中国科技大学迁安徽,龚升也随数学系来到安徽,先在铜陵冶炼厂进行“斗批改”,后到合肥。接着工农兵学员进校,进行“上、管、改”。龚升先后下煤矿,修铁路,去农村,还随华罗庚去推广优选法。至1976年10月粉碎“四人帮”,结束“文革”,他已荒废了十多年。但有两点却是对他有益的。其一,专业书不念了,体力活动增多了,身体好起来了,思想也想开了;其二,只准念毛主席的书,特别是哲学方面著作,从中学习了辩证唯物主义,这对后来工作有好处。
+重新奋起
+“文革”后,科大数学系在龚升主持下,迅速恢复了教学秩序,使教学、科研工作走上正轨。1978年,龚升晋升教授,并兼任数学系副主任,科大数学研究所所长;次年成为我国第一批博士生导师之一。1984年他又任科大副校长,并任科大研究生院院长,学位委员会主任、学术委员会主任等。
+在繁忙的行政工作和教学工作之余,龚升又恢复了紧张的数学研究,争分夺秒地加紧工作。这一期间,他的研究成果不断涌现,几乎每年都有一本著作问世,都有重要论文在国内外权威数学杂志上发表。
+多复变数的奇异积分,是龚升在1963—1966年进行系统研究的课题。1978—1982年期间,龚升继续将此项工作系统化、完整
+446
+
+化，完成专著《多复变数的奇异积分》。该书作为现代数学丛书，于 1982 年由上海科技出版社出版。此项工作获得中国科学院 1996 年度自然科学一等奖。
+关于群上调和分析，主要工作是龚升在 50 年代末至 1964 年做的。1978—1980 年，他在指导研究生过程中，利用以前的思想和方法，在正交群与酉辛群上建立起调和分析，使这方面工作更为完整和系统。由此而形成专著《典型群上的调和分析》，作为纯粹数学与应用数学专著第 12 号，由科学出版社出版。这部专著及其手稿指导了国内一批数学工作者从事这一方向的研究，并取得了丰硕的研究成果。
+华罗庚对这本书的出版十分高兴，亲自为这本书写了序言，这是他所写的极少数书籍的序言。华在序中称赞说：“龚升同志用了创造性的技巧”，“这是一个有丰富前途的方向”。此项工作获得 1989 年度国家自然科学三等奖。
+关于 Bieberbach 猜想的研究，是龚升 50 年代前期的工作。1978—1979 年，他又在这方面做了一些补充研究，取得重要成果。他将自己研究心得总结成专著《比贝尔巴赫猜想》（1989）。书中他用自己的观点介绍这一猜想的 De Branges 证明，其中涉及到他自己的系统工作。该项成果获 1980 年中国科学院科技进步二等奖。
+至此，龚升从 50 年代至 80 年代所做的三套工作，都有了系统的总结。
+在此期间，龚升还担任了众多的社会职务，参与了多种学术和社会活动。他是国家自然科学奖励委员会委员、第一届国家自然科学基金学科组评审组成员，第一、二届国务院学位委员会学科评审组成员，国家教委高等学校数学、力学教材编审委员会委员，大百科全书数学编辑委员会委员；他还担任中国科学院数学研究所、应用数学研究所等学术委员会委员；担任《中国科学》、《科学通报》、《数学年刊》、《数学研究与评论》、《数学季刊》编委，《中国科技
+
+大学学报》主编。同时，从 1979 年起，他还被选为中国数学会第三、四届理事会理事，安徽省数学会副理事长、理事长，安徽省科协副主席等。
+1978 年，华罗庚再次倡导开展中学生数学竞赛活动，龚升又一次成为这一活动的具体组织者之一，成功地举办了由北京、上海、天津、陕西、安徽、四川、辽宁、广东八省市参加的第一次全国中学生数学竞赛。参赛者人数众多，声势浩大，影响深远。第二年竞赛又扩大到 25 个省、市、自治区。当年数学竞赛的优胜者中，不少已成为国内外知名的数学家和科学家。
+走出国门
+1980 年，作为访问学者，龚升第一次到美国作学术访问和研究；以后，又多次出国访问。他先后访问过美国普林斯顿大学、内华达大学、圣母大学、马里兰大学、加州大学圣地亚哥分校和欧文分校、南伊利诺大学以及香港大学等，作为这些大学的访问学者、访问教授和客座教授。
+多次出国访问，使龚升有机会与国外数学家进行广泛接触和交流，了解到世界上最先进的数学，了解到最优秀的数学家的工作情况。在多次的国际交流中，他发现了：与国外一些顶尖教授相比我们确实有很大的差距，但与国外的大多数教授相比，我们也并不比人家差。在他自己所从事的研究领域里，他在“文革”前所做的工作，在国内发表的文章、出版的著作，美国不少人还在引用。例如，他在 50 年代关于单叶函数论的论文，国际上三本关于几何函数论的权威性著作都作了引用。关于群上调和分析、多复变数奇异积分方面的工作，被引用的更多。
+这使龚升建立了一种信心：在他所从事的研究领域中，中国数学家仍有优势。当然这要感谢导师华罗庚的远见，因为“他在多
+448
+
+复变函数方面的贡献比西方至少早了十年”,但这也与龚升等在这一方面的后继工作的出色成绩有关。
+
+现代数学潮流的特点之一,是走向大综合。多种现代数学工具的综合运用,才能解决像费马定理这样的难题。龚升由于青年时期基础打得坚实而全面,因而很快能适应这种潮流,并被国际数学界所接受。他做的是分析方面工作,但所用工具却是代数、微分几何、李群等,所以才能使多复变函数论研究,在华罗庚之后,迅速出现了新的局面,并继续保持中国自己的特色。
+
+还有一点是重要的,这就是中国人特有的勤奋和吃苦耐劳精神。在国外,有人问龚升:15年不做研究工作,为什么还能继续做出这么好的工作?他回答说:这是毅力所致。中国在“文革”前,政治运动频繁,对科研工作的行政干扰又很大,还能做出好的数学研究成果,这只有中国数学家才能做到。
+
+老当益壮 开拓新领域
+
+1988年以后,龚升基本脱离行政事务,这使他能够有更多精力考虑数学工作。虽然这时龚升已年近花甲,但他仍壮心不已,决心再拼搏一场。他带领他的学生们,同国外学者一起,开展了多复变数几何函数论的系统研究,将古典几何函数论推广到多复变数,开拓了多复变数几何函数论研究的新领域。这是华罗庚的多复变数的思想的继承和发展。
+
+早在1933年,H.Cartan就曾考虑过这方面的问题;其后,也有不少数学家做过工作,但只得到过一些反例和某些零星结果。究其原因,是当时所用的工具陈旧,仅限于分析的范围。龚升则不同,除在分析范围内选用不同的工具外,还大量应用李群、李代数、群表示论和微分几何等多种现代数学工具来研究,从而得到了系统的完整结果。使长期以来较为沉寂的几何函数论这个方面的研究,出现了勃
+
+勃生机,带动了国内外许多数学家在这一方向从事工作。
+单复变数与多复变数,在研究内容和处理方法上,本来是两个有着本质不同的数学方向。龚升等上述工作,使单复变数函数几何理论中丰硕的成果,向多复变数函数论推广作了提示,开辟了途径。因此,它正在吸引越来越多的国内外数学家,投入这个方面的研究。这是龚升对现代数学发展所做出的贡献。
+从 1988—1999 年的十多年中,龚升及其合作者在这方面共发表论文 30 余篇,其中有不少被国外数学杂志引用或多次引用。同时,他将这方面工作,系统总结成两本专著:《多复变数的凸映照和星形映照》(1995);《布洛赫常数与薛瓦兹导数》(1998,与余其煌,郑学安合作)。前者,作为纯粹数学与应用数学第 34 号专著,由科学出版社出版;其英文版很快由 Kluwer Academic Press 出版 (1998)。后者,作为现代数学丛书之一,由上海科技出版社出版。
+黄皮书及其他
+德国 Springer-Verlag 出版社,是国际上知名的出版社。它以所出专著审查严、水平高而著称于世。因为它所出的书封面皆为黄色,所以学界称之为“黄皮书”。各国学者皆以能在这家出版社出版黄皮书而感到骄傲。在 90 年代以前,中国数学家个人专著出过黄皮书的,仅有华罗庚、江泽涵等几位。
+龚升的学术专著《典型群上的调和分析》于 1983 年在国内出版以后, Springer-Verlag 请人审查,很快表示愿意出版此书的英文版。1991 年,黄皮书 Harmonic analysis on calasical groups 出版问世。
+此项工作的主要部分是龚升 30 岁前后做的,53 岁时出中文版书,61 岁时出英文版黄皮书,时间跨度达 30 年。一般来说,数学工作在十年后仍被人引用已很不易了,为什么已经过去 30 年, Springer-Verlag 还有兴趣再出英文版呢? 这是因为这项工作在当
+
+时是领先世界水平的,同时,它预示着“一个有丰富前途的方向”。从60年代到80年代,引用龚升这项工作——论文和专著的国内外文献,有据可查的就有60多篇,加上研究生的博士、硕士论文,共有80多篇。该书英文版问世后的次年,S.G.Krantz在其所著Function theory of several complex variables这本国际上公认的多复变函数论的权威著作的第二版中,立即予以引用。而该书所引用的文献中,除华罗庚的名著外,大陆的中国学者只有陆启铿和龚升两人论著。
+龚升另一本专著《多复变数的奇异积分》的英文版出版颇带有戏剧性。此项工作的主要部分是龚升33岁前后做的。该书于1982年由上海科技出版社出版后,曾随该社出版的书籍到欧洲进行书展;英国Oxford大学出版社选中了6本,该书是其中之一。后经Referee评论,惟有龚升这一本专著保留,并签订了英文版的合约;但迟迟未见出书。1991年,丘成桐教授主持的出版社International Press Co.决定出该书英文版;而与此同时,Scientific World Co也表示愿意出此书的英文版。于是出现了一本中国学者的学术专著,由三家国外出版社争出英文版的罕有情况。经作者自己选择,最后理所当然地在International Press Co.出版。一项近三十年前的工作,还出现竞相出版的局面,足以说明其意义。
+美国数学家A.Koranyi在该书英文版序言中指出:“书中充满着高水平本质性的结果”,“看来一个全新的研究路线在此开始,而读者会强烈地得出结论,这实在是一本富有启发性的书”。
+向前看,继续走自己的路
+龚升的学术研究生涯,大体与新中国同龄,走过了半个世纪艰辛、曲折的历程。华罗庚生前曾说过他“聪明”,陈建功生前曾说过他“天分高”,但从幼到老,他一直刻苦学习,勤奋工作,不断创新;
+451
+
+现虽年近古稀,仍是科大数学系公认的最用功的人之一。也许他是在如此高龄,仍在第一线工作的少数数学家之一。他是在国内外出版著作较多的中国数学家之一;他是出版专著较多,在国外出版外文版专著较多的中国数学家之一。几乎他的每一本中文版专著都被译为外文出版,以及在近十多年,国外年年邀请他去工作、访问,都说明了他工作的国际影响。他长期从事教学工作,带过几十位研究生,学生遍及海内外,他的专著和教材影响了一大批人。
+在接近人生古稀之年的时候,面对等身的著作和国际的声誉,他仍有壮志未酬的感慨,还有想做而未完成的工作要做。他有过成功,但更多的是遗憾。对此,龚升的态度是:向前看,继续走自己的路。
+首先,他要沿着由华罗庚开辟的多复变数研究方向走下去,和他的学生们一道工作,每年都能有新论、新著问世;并且要保持中国自己的特色,使得中国人在这方面的优势地位能够继续保持下去。
+其次,还要考虑高等数学教学改革问题,以适应21世纪科教兴国的需要。
+他认为,人的本性是乐意接受真善美的东西的,如一首好歌、一幅好画,能唤起人们愉悦与良知。数学是真理,按这个道理,大家是应该乐意接受的。但现在大学里很多学生学数学感到很痛苦。这使人怀疑:我们所教的数学,是不是有改进的必要?要改变这种局面,关键在于要有好教材和好老师。只有居高才能临下,只有深入才能浅出。
+好教材,就在于“简明”二字。本着这个宗旨,龚升先写出了《简明微积分》(1978-1981),继而又写了《简明复分析》。这是两本具有鲜明特色的教材,影响较大。在科大作为教材使用多年,后者1995年由北京大学出版社和台湾新陆书店分别出了简体字版和繁体字版,并将出外文版。他还计划继续写出一些同样风格的
+
+教材,合成一套有特色的大学教材。
+
+龚升主要论著目录
+一、著作
+I . 专著
+[ 1 ] Convex and starlike mappings in several complex variables, Kluwer Academic Publishers, 1998. ([6]的英文版)
+[ 2 ] Integrals of Cauchy Type on the Ball, International Press Co, 1993. ([8]的英文版)
+[ 3 ] Harmonic Analysis on Classical Groups, Springer-Verlag, 1991. ([7]的英文版)
+[ 4 ] The Bieberbach Conjecture, International Press Co, AMS. ([9]的英文版)
+[ 5 ] 布洛赫常数与薛瓦兹导数(与余其煌、郑学安合作),现代数学丛书,上海科技出版社,1998.
+[ 6 ] 多复变数的凸映照与星形映照,纯粹数学与应用数学专著,第34号,科学出版社,1995.
+[ 7 ] 典型群上的调和分析,纯粹数学与应用数学专著,第12号,科学出版社,1983.
+[ 8 ] 多复变数的奇异积分,现代数学丛书,上海科技出版社,1982.
+[ 9 ] 比贝尔巴赫猜想,科学出版社,1989.
+II . 论文集
+[10] H.Halberstam 主编,S.Kung,Q.K.Look,Z.X.Wan and Y.Wang 参加,LooKeng Hua Selected Papers. Springer-Verlag, 1983.
+[11] S.Gong and C.C.Yang (Editors), Several Complex Variables in China, Contemporary Mathematics Series, Vol.142, AMS, 1993.
+[12] S.Gong,Q.K.Lu,Y.Wang and L.Yang (Editors), International Symposium in memory of Hua Loo Keng, Vol. I and II, Springer-Verlag, Science Press, 1991.
+[13] M.D.Cheng,D.G.Deng,S.Gong and C.C.Yang (Editors), Harmonic analysis in China, Kluwer Academic Publishers, 1995.
+
+453
+
+Ⅲ. 教科书
+[14] 简明复分析,北京大学出版社(1995,简体字版),台湾新陆书店(1995,繁体字).
+[15] 简明微积分(与张声雷),人民教育出版社,1977,第一版;中国科技大学出版社,1993,第二版,1997,第三版.
+[16] 地震勘探数学技术,第三册(参编),科学出版社,1977.
+[17] 地震勘探数学技术,第四册(参编),科学出版社,1987.
+[18] Concise Complex Analysis, World Scientific Co. 2000.
+Ⅳ. 科普书
+[19] 从刘徽割圆谈起,数学小丛书第8号,人民教育出版社,1964年第一版,几十年来多次印刷.
+[20] 复变函数概貌(与任福尧,何成奇),数学概貌丛书,科学技术文献出版社,1989.
+[21] 数学奥林匹克辅导讲座(主编),科学出版社,1988.
+[22] 话说微积分,中国科技大学出版社,1998.
+[23] Making Calculus Teaching Easy, World Scientific Co. 2000.
+V. 翻译
+[24] C.L.Siegel 著,多复变数解析函数,科学出版社,1960.
+[25] S.Bergman 著,核函数和共形映照(与陈希孺),科学出版社,1958.
+[26] C.Goffman 著,多元微积分(与史济怀等),人民教育出版社,1978.
+
+二、论文
+[1] On distortion theoieims in several complex variables (with Qihuang Yu Taishun Liu) The Asiau Journal of Math.
+[2] The Bergman kernel function of some Reinhardt domains II (with Xuean Zheng) Science in China Series A 43 (2000) 458—469.
+[3] Distortion theorems for biholomorphic convex mappings on bounded convex circular domains (with Taishun Liu), Chinese Annals of Math, 20B(1999) 297—304.
+[4] 有界星形圆型域上全纯映照成为双全纯星形映照的判别准则(与王世坤,余其煌),数学学报,42(1999).13—16.
+454
+
+[ 5 ] 多复变数的 Schwarz 导数 ( V ) (与郑学安、余其煌),数学学报.42
+(1999),215—226.
+[ 6 ] 6.1 多复变数的 Schwarz 导数(IV)(与郑学安、余其煌),中国科学,A
+辑,28(1998)14—23.
+6.2 The Schwarzian derivative in several complex variables ( IV ) (with
+Qihuang Yu, Xuean Zheng) Science in China, Series A, 41(1998) 809—
+819.
+[ 7 ] 7.1 多复变数的 Schwarz 导数(III)(与郑学安、余其煌),中国科学,A 辑
+27(1997)975—987.
+7.2 The Schwarzian derivative in several complex varianles ( III ) (with
+Qihuang Yu, Xuean Zheng), Science in China, Series A 41 (1998) 158—
+171.
+[ 8 ] The Schwarzian derivative in several complex variables ( II ) (with Qihuang
+Yu, Xuean Zheng) Chinese Annals of Math. 19B(1998) 1—8.
+[ 9 ] 9.1 The Schwarzian derivative in Kähler manifolds ( II ) (with Qihuang Yu,
+Jisheng Na), Science in China, Science in China, Series A 40(1997)30—
+36.
+9.2 Kahler 流形上的 Schwarz 导数(II)(与余其煌,那吉生),中国科学,
+A 辑,26(1996) 793—798.
+[ 10 ] Schwarzian derivative of holomorphic mappings (with Qihuang Yu, Xin Guo),
+Studies in advanced Math. 5(1997) 317—323AMS/IP.
+[ 11 ] 11.1 The Schwarzian derivative in Kähler manifolds (with Qihuang Yu),
+Science in China, Series A, 38(1995) 1033—1048.
+11.2 Kähler 流形上的 Schwarz 导数(与余其煌),中国科学,A 辑,25
+(1995) 693—704.
+[ 12 ] The Bloch constant of locally biholomorphic mappings on bounded symmetric
+domains, Chinese Annals of Math, 17B(1996) 271—278.
+[ 13 ] 13.1 The Bergeman Kernel function of some Reinhardt domains, (with Xuean
+Zheng), Tran. Amer. Math.Soc, 348(1996)1771—1803.
+13.2 Reinhardt 域的 Bergman 核函数(一)(与郑学安),中国科学,A 辑,
+25(1995) 580—589.
+455
+
+13.3 Reinhardt 域的 Bergman 核函数(二)(与郑学安),中国科学,A辑,
+25(1995) 683—692.
+13.4 On Reinhardt domains (Ⅱ) (with Xuean Zheng), Chinese Science
+Bulletin, 40(1995), 2025—2030.
+13.5 关于 Reinhardt 域(二)(与郑学安),科学通报,40(1995),966—967.
+[14] 14.1 C^n 上的 Schwarz 导数(与余其煌),数学年刊,16A(1995),454—
+460.
+14.2 C^n 上的 Schwarz 导数(与余其煌),科学通报,40(1995),966—967.
+14.3 The Schwarzian derivative in C^n (with Qihuang Yu), Chinese Science
+Bulletin, 40(1995), 1873—1874.
+14.4 The Schwarzian derivative in C^n (with Qihuang Yu), Chinese Journal of
+Contemporary Math. 16(1995) 301—314.
+[15] Distortion theorems for biholomorphic mappings in transitive domains (Ⅳ)
+(with Xuean Zheng), Chinese Annals of Math, 16B(1995) 203—212.
+[16] The locally biholomorphic Bloch constant and Marden Constant of several
+complex variables, Computational methods and function theory 1994(R. M.
+Ali, St. Ruscheweyh and E. B. Salf, Eds.)(with C. H. FitzGerald) Series
+in Approximations and decompositions, Vol. 5, 1995, World Scientific
+Publishing Co.pp.147—158.
+[17] Two-point distortion theorems for biholomorphic convex mappings on the ball
+(with C. H. FitzGerald), preprint.
+[18] 18.1 Biholomorphic mappings in several complex variables, AMS
+Contemporary Mathematics, Vol, 142, pp. 15—48,1993.
+18.2 多复变数的双全纯映照,数学进展,23卷(1994) 115—141.
+[19] 19.1 Bloch constant of holomorphic mappings in bounded symmetric domains
+(with Zhimin Yan), Science in China, Series A36(1993)285—299.
+19.2 有界对称域上的全纯映照的 Bloch 常数(与严志敏),中国科学,A
+辑,22(1992) 1121—1134.
+[20] 20.1 The Schwarzian derivative in several complex variables (with C. H.
+FitzGerald) Science in China, Series A, 36(1993) 513—523.
+20.2 多复变数的 Schwarz 导数(with C. H. FitzGerald),科学通报,34
+
+(1989) 391—392.
+20.3 The Schwarzian derivative in several complex variables ( I ) (with C. H. FitzGerald), Chinese Science Bulletin, 35(1990) 696—699.
+[21] Biholomorphic convex mappings of ball in C^n (with Shikun Wang, Qihuang Yu), Pacific Jour. of Math, 161(1993) 287—306.
+[22] 22.1 On biholomophic starlike mappings in several complex variables (with Shikun Wang, Qihuang Yu), Lecture Notes in Contemporary Math, 2(1991) 94—103, Institute of Math. Science Press, Beijing, New York, 94—103.
+22.2 多复变数双全纯星形映照(与王世坤,余其煌),科学通报,37(1992),282.
+22.3 On holomorphic starlike mappings of several complex variables (with Shikun Wang, Qihuang Yu), Chinese Science Bulletin, 37(1992) 105—1052.
+[23] 23.1 Bloch constant in several complex variables (with C. H. FitzGerald), Journal of Geometric Analysis, 4(1991) 35—58.
+23.2 多复变数的全纯映照的 Bloch 常数,科学通报,37(1992) 485—487.
+23.3 S. The Bloch constant of holomorphic mappings in several complex variables (with C. H. FitzGerald), Chinese Science Bulletin, 37(1992) 1512—1515.
+[24] 24.1 The growth theorems in several complex variables (with Qihuang Yu, Shikun Wang), Chinese Annals of Math, 14B(1993) 93—105.
+24.2 多复变数中双全纯凸映照的增长型定理(与王世坤,余其煌),科学通报,35(1990) 1527—1528.
+24.3 The growth theorems in several complex variables (with Qihuang Yu, Shikun Wang), Chinese Science Bulletin,36(1991) 1148—1150.
+[25] 25.1 A necessary and sufficient condition that biholomorphic mappings be starlike in Reinhardt domains (with Qihuang Yu, Shikun Wang), Chinese Annals of Math. 13B(1992) 95—104.
+25.2 一类 Reinhardt 域上双全纯映照为星形的充要条件(与王世坤,余其煌),科学通报,35(1990) 1699—1700.
+457
+
+25.3 A necessary and sufficient condition of biholomorphic mappings are
+starlike on a class of Reinhardt domians (with Qihuang Yu, Shikun Wang),
+Chinese Science Bulletin, 36(1991) 1151—1153.
+[26] 26.1 Distortion theorems for biholomorphic mappings in transitive domains
+(Ⅲ) (with Xuean Zheng), Chinese Annals of Math. 14B(1993) 367—386.
+26.2 可递域上的双全纯映照的偏差定理(Ⅲ)(与郑学安),科学通报,
+35(1990) 1214—1217.
+26.3 Distortion theorems for biholomorphic mappings in transitive domains
+(Ⅲ) (with Xuean Zheng), Chinese Science Bulletin, 36(1991) 542—546.
+[27] B^p 上双全纯凸映照的增长定理(与刘太顺),数学季刊,第六卷(1991)
+78—82.
+[28] 28.1 The growth and 1/4 — theorem for starlike mappings in B_p(with Qihuang
+Yu, Shikun Wang), Chinese Annals of Math. 11B(1990) 100—104.
+28.2 B^p上星形映照的增长及 1/4 定理(与余其煌、王世坤),科学通报,
+34(1989)1519.
+28.3 The growth and 1/4 — theorem for starlike mapping in B^p(with Qihuang
+Yu, Shikun Wang), Chinese Science Bulletin, 35(1990) 2017—2018.
+[29] 29.1 Distortion theorems for biholomorphic mappings in transitive domains
+(Ⅱ) (with Xuean Zheng), Chinese Annals of Math, 13B(1992) 471—484.
+29.2 可递域上的双全纯映照的偏差定理(Ⅱ)(与郑学安),科学通报,
+35(1990) 330—332.
+29.3 Distortion theorems for biholomorphic mappings in transitive domains
+(Ⅱ) (and Xuean Zheng), Chinese Science Bulletin, 36(1991) 538—541.
+[30] 30.1 Distortional Symposium in memory of Hua Loo Keng(S.Gong, Q.K.Lu,
+Y.Wang and L.Yang.Eds), Vol. (Ⅱ) (1991) 111—122, Springer Verlag,
+Science Press.
+30.2 可递域上的双全纯映照的偏差定理(Ⅰ)(与郑学安),科学通报,
+34(1989) 1201—1202.
+[31] 31.1 The growth and 1/4 — theorem for starlike mappings in C^n(with R.W.
+
+Barnard, C. H. FitzGerald), Pacific Journal of Math. 150 (1991) 13—22.
+31.2 R. W. Barnard, C^n 中星形映照的增长及 1/4 定理(with C. H. FitzGerald),科学通报,334(1989) 161—162.
+31.3 The growth and 1/4 — theorems for starlike mappings in C^n(with C. H. FitzGerald, R.W. Barnard), Chinese Science Bulletin, 35(1990) 357—359.
+[32] 32.1 A distortion theorem for biholomorphic mappings in C^2 (with R. W. Barnard, C. H. FitzGerald), Tran. Amer. Math.Soc;344(1994) 907—924.
+32.2 C^2 中全纯映照的偏差定理(与 C. H. FitzGerald, R. W. Barnard),科学通报,34(1989) 81—83.
+32.3 A distortion theorem for biholomorphic mappings in C^2 (with C. H. FitzGerald, R. W. Barnard), Chinese Science Bulletin, 35(1990) 353—356.
+[33] 33.1 Harmonic analysis on classical groups, Proceeding of the Analysis Conference (with Shi-Xiong Li, Xuean Zheng), Singapore 1986 Mathematics Studies 150 (S. T. L. Choy, J. P. Jesudason, P. Y. Lee, Eds), North-Holland.1988, pp. 69—113.
+33.2 Harmonic analysis on classical groups (with Shi-Xiong Li, Xuean Zheng), Advances in Science of China Mathematics, Vol. 1 (Chaohao Gu, Yuan Wang. Eds), 45—108, Science Press, John Wiley & Sons, 1986.
+[34] Partial differential subordinations inequalities defined on complete circular domains (with S. S. Miller), Communications in Partial Diff. Equations, 11 (1986) 1243—1255.
+[35] 35.1 系数不等式与几何不等式,科学通报,31(1986) 1209—1212.
+35.2 Coefficient inequalities and geometric inequalities. Kexue Tongbao (Science Bulletin), 32(1987) 732—736.
+[36] 36.1 关于 Reinhardt 域(一),数学年刊,8A(1987) 205—219.
+36.2 On Reinhardt domains (I), Kexue Tongbao (Science Bulletin), 31 (1986) 433—438.
+36.3 关于 Reinhardt 域(一),科学通报,30(1985) 1365—1368.
+[37] 37.1 关于 Möbius 变换的一点注记(三)(与严志敏),数学季刊,第一卷 (1986) 33—40.
+459
+
+37.2 A remark on Möbius transformations (Ⅲ) (with Zhimin Yan), Kexue Tongbao (Science Bulletin), 32(1987) 1153—1156.
+37.3 关于 Möbius 变换的一点注记(三)(与严志敏),科学通报,31 (1996) 1601—1604.
+[38] 38.1 关于 Möbius 变换的一点注记(二),中国科技大学学报,14(1984) 1—14.
+38.2 A remark on the Möbius transformations (Ⅱ), Kexue Tongbao (Science Bulletin), 29(1984) 293—297.
+[39] 关于偏微分不等式的一点注记,数学年刊,5A(1984) 771—780.
+[40] 关于 Möbius 变换的一点注记,纯粹数学与应用数学,1(1985) 1—15.
+[41] Singular integrals in several complex variables (Ⅳ), the derivative of integral of Cauchy type on ball (with Jihuai Shi), Chinese Annals of Math. 5B(1984) 21—36.
+[42] Singular integrals in several complex variables (Ⅲ), Integral of Cauchy type on classical domains (with Jihuai Shi), Chinese Annals of Math, 4B(1983) 467—484.
+[43] Singular integrals in several complex variables (Ⅱ), Hadamard principal value (with J. H. Shi), Chinese Annals of Math. 4B(1983) 307—318.
+[44] On Aharonov pairs, Journal of Math. Analysis and Applications 88 (1982) 8—24.
+[45] 45.1 Singular integrals in several complex variables (Ⅰ), Integral of Henkin type on strictly pseudo-convex domains, (with J. H. Shi), Chinese Annals of Math. 3B(1982) 483—502.
+45.2 多复变数的奇异积分-强拟凸域上的 Henkin 积分(与史济怀),科学通报,27(1982) 483—502.
+[46] A remark on Möbius transformations for high dimensions. Proc. of 1981 Shanghai — Hefei Symposium on Differential Geometry and Differential Equations, 75—94, Science Press, 1984.
+[47] OnFitzGerald inequalities, J.London Math.Soc. (2) 24 (1981) 227—242.
+[48] A remark on the integral of Cauchy type on strictly pseudo-convex domains, Proceeding of 1980 Beijing Symposium on Differential Geometry and
+
+Differential Equations, 1183—1190, Science Press, Gordon and Breach, Science Publishers, 1982.
+[49] 旋转群上的富里埃级数的部分和,中国科技大学学报,9(1979) 25—30.
+[50] 50.1 关于 FitzGerald 不等式,中国科技大学学报,8 9(1979) 1—24.
+50.2 FitzGerald 不等式的另一改进形式,科学通报,25(1980) 673—675.
+[51] 51.1 第六项系数的 Bieberbach 猜想的一个简化证明,中国科学,(199)
+1157—1170.
+50.2 A simple proof of Bieberbach conjecture for sixth coefficient, Scientia
+Sinica 23(1980) 1—5.
+[52] FitzGerald 不等式的另一改进,中国科学,(1979) 237—246.
+[53] 在第二项系数限制下的 Bieberbach 猜想,中国科学,数学专辑(I),
+(1979) 202—214.
+[54] 54.1 复超球面上的奇异积分方程(与孙继广),数学学报,16(1966)
+194—210.
+54.2 О Сингулярных интегральных уравнениях на комплексной
+гипертфере(with Сунь Чэньгуан) Scientia Sinica,14(1965) 913—916.
+54.3 复超球面上的奇异积分方程(与孙继广),中国科技大学学报,2
+(1966) 13—15.
+54.4 Singular integral equations on hypersphere (with Chi-kuang Sun),
+Translated as Chinese Math. Acta. 8(1966) 205—221.
+[55] 关于多复变数可递域的 Poison 公式的一点注记(与史济怀),中国科技
+大学学报,2(1966) 16—20.
+[56] 56.1 多复变数可递域的 Cauchy 型积分(Ⅲ)矩阵双曲空间的 Cauchy 型
+积分(与孙继广),数学学报,15(1965) 800—811.
+56.2 The Cauchy type integrals of several complex variables, Ⅲ, Integrals of
+the Cauchy type on the hyperbolic space of matrices (with Chi-kuang Sun),
+Scientia Sinica, 14(1965) 621—623.
+56.3 Integral of Cauchy type in several complex variables (Ⅲ) Integral of
+Cauchy type in hyperboloc spaces of matrices (with Chi-kuang Sun),
+Translated as Chinese Math.Acta. 7(1965) 535—546.
+
+[57] 57.1 多复变数的 Cauchy 型积分(Ⅱ)Lie 球双曲空间的 Cauchy 型积分
+(与孙继广),数学学报,15(1965) 775—779.
+57.2 Integrals of the Cauchy type of several complex variables II , Integrals of
+the Cauchy type on the hyperbolic space of a Lie sphere (with Chi-kuang
+Sun), Scientia Sinica, 14(1965) 453—456.
+57.3 多复变数典型域的 Cauchy 型积分(Ⅱ)(与孙继广),中国科技大
+学学报,1(1965) 49—50.
+57.4 Integrals of the Cauchy type in several complex variables (Ⅱ) Integrals
+of Cauchy type in hyperbolic spaces of Lie sphere (with Chi-kuang Sun),
+Translated as Chinese Math. Acta 7(1965) 509—534.
+[58] 58.1 多复变数的 Cauchy 型积分(Ⅰ)超球的 Cauchy 型积分(与孙继
+广),数学学报,15(1966) 431—443.
+58.2 The Cauchy type integral of several complex variables I. The Cauchy type
+integrals on a hypersphere, (with Chi-kuang Sun), Scientia Sinica, 14(1965)
+300—301.
+58.3 多复变数典型域的 Cauchy 型积分(Ⅰ),中国科技大学建校五周
+年纪念科学论文集,1963, 23—25.
+58.4 Integrals of Cauchy type in several complex variables I. Integrals of
+Cauchy type in ball (with Chi-kuang Sun), Translated as Chinese Math. Acta 7
+(1965) 138—151.
+[59] 59.1 圆型域中解析函数的积分表示(与孙继广),中国科技大学学报,
+1(1965)219—226.
+59.2 Integral representations of analytic functions of several complex variables
+on circular domains (with Chi-kuang Sun), Scientia Sinica, 14(1965) 302.
+[60] 60.1 酉群上的富理埃分析 V.Fourier 级数的球求和及 Fourier 积分,数
+学学报,15(1965) 305—325.
+60.2 Fourier analysis on unitary group V. Spherical summability and Fourier
+integrals, Translated as Chinese Math. 7(1965) 1—20.
+[61] 61.1 酉群上的富理埃分析 IV,关于 Peter-Weyl 定理,数学学报,13
+(1963) 315—322.
+61.2 Fourier analysis on unitary groups IV, On Peter-Weyl theorem,
+462
+
+Translated as Chinese Math. 4(1964) 351—359.
+[62] 62.1 西群上的富里埃分析Ⅲ,富里埃级数的收敛判别法,数学学报,13 (1963) 152—161.
+62.2 Fourier analysis on unitary group I. Partial sums and summability of Fourier series, Science Record, New Series, 4(1960) 317—322.
+62.3 西群上的富里埃分析Ⅰ,富里埃级数的部分和及求和,科学纪录,新辑第4卷,324—328.
+62.4 Fourier analysis on unitary group Ⅲ. The Convergence criteria, Translated as Chinese Math. 4(1963), 169—178.
+[63] 63.1 西群上的富里埃分析Ⅱ,富里埃级数的 Cesàro 求和,数学学报,12 (1962) 17—31.
+63.2 Fourier analysis on unitary group Ⅲ. The Cesàro summability, Scientia Sinica 10(1961) 621—624.
+63.3 Fourier analysis on unitary group Ⅲ. Cesàro summability of Fourier sercis. Translated as Chinese Math. 2(1963) 19—33.
+[64] 64.1 西群上的富里埃分析Ⅰ,富里埃 Abel 求和及 Dirichlet 核,数学学报,10(1960) 239—261.
+64.2 Fourier analysis on unitary group Ⅱ. Abel summability, Scientia Sinica, 10(1961) 26—30.
+64.3 Fourier analysis on unitary group Ⅰ. Translated as Chinese Math. 1 (1962) 249—272.
+[65] Harmonic analysis on unitary group. Appendix Ⅲ of the book “Haroric analysis of functions of several complex variables in classical domains” by Hua Loo Keng, Transl. Amer. Math.Soc, Vol.6, 1963.
+[66] 多连通区域的 Bloch 常数,数学学报,7(1957) 513—519.
+[67] 多复变数的 Einstein 空间的 Schwarz 引理.数学学报,7(1957) 513—519.
+[68] 单叶函数的系数(Ⅲ),数学学报,6(1956) 190—499.
+[69] 单叶函数的系数(Ⅱ),数学学报,6(1956) 115—126.
+[70] 富里埃级数的共轭级数的一个收敛条件,复旦学报(自然科学版),第一号(1955) 65—71.
+[71] 富里埃级数陈建功教授收敛判别法,复旦学报(自然科学版),第一号
+
+(1955) 58—64.
+[72] Contributions to the theory of Schlicht function II . The coefficient probeen, Scientia Sinica, 4(1955) 359—373.
+[73] Contributions to the theory of Schlicht function I, Distortion theorems, Scientia Sinica, 4(1955) 229—249.
+[74] 关于平均 p 叶函数,数学学报,4(1954) 245—258.
+[75] 单叶函数的开始多项式,数学学报,4(1954) 105—112.
+[76] 单叶函数的系数(I),数学学报,4(1954) 87—104.
+[77] 对称单叶函数的两个定理,数学学报,3(1953) 251—260.
+[78] 单叶函数之偏差定理及系数,数学学报,3(1953) 231—250.
+[79] 关于戈鲁净-楼五纳微分方程,数学学报,3(1953) 225—230.
+[80] On the coefficient of odd schlicht functions, Science Record, 4(1951) 343—349.
+[81] The sections of odd schlicht functions, Science Record, 4(1951) 333—342.
+作者简介 余其煌 1940 年生,湖北武汉人。1964 年毕业于清华大学数学力学系。1985 年获中国科学技术大学理学博士。1990 年获中国科学院科技进步一等奖,1991 年获国家科技进步三等奖。1991 年获国家教委,国家学位委员会授予作出突出贡献的中国博士学位获得者称号。现为中国科学院应用数学研究所研究员,博士生导师。研究方向:多复变数,工业数学,系传主学生。郑学安 1945 年生,浙江镇海人,1968 年毕业于北京大学数学力学系,1987 年获中国科学技术大学理学博士,1990 年获国家自然科学三等奖,1992 年获国家有突出贡献中青年专家称号,现为北京师范大学数学系教授,博士生导师,系主任。研究方向:李群调和分析,多复变函数。系传主学生。胡炳生 1937 年生,1959 年安徽师范学院数学系毕业。现为安徽师大数学系教授,安徽省科技史学会副理事长。
+(1999 年 9 月)
+464

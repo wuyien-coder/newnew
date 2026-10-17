@@ -1,0 +1,113 @@
+人物：陈木法
+生年：1946年
+研究方向：概率论
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：264-272
+============================================================
+
+陈木法
+
+陈木法（1946～），福建惠安人。概率学家。北京师范大学教授。2003年当选为中国科学院院士。2009年当选发展中国家（原称为第三世界）科学院院士。曾任中国概率统计学会理事长、北京师范大学研究生院院长、数学与数学教育研究所所长，自2000年起任该校校学术委员会主任。主要研究领域有两个：一是概率论与统计物理的交叉——交互作用无穷粒子系统或无穷质点Markov过程，二是概率论与数学其他分支的交叉——Markov过程的遍历理论与谱理论。逐步建立了跳过程和无穷维反应扩散过程的系统理论，摸索出第一特征值的新的对偶变分公式。出版了From Markov Chains to Non-equilibrium Particle Systems和Eigenvalues, Inequalities, and Ergodic Theory等专著。
+
+一、学术简历
+
+我的经历比较简单。小学6年就读于福建省惠安县螺阳乡锦水小学，中学6年就读于惠安县第一中学，大学与研究生就读于北京师范大学。后两者之间，在贵州师范大学附中数学系分别任教2年和4年。在我的求学生涯中，遇到许多终生难忘的老师，我曾专门写了两篇文章感谢他们。后一文中包含了我的父母及相关情况，包含了更多的求学经历，也包含了一些学术经历。一些科研心得已发表于（陈木法，2002，《科学通报》）之中。这里再作些补充。
+
+我的第一篇论文《论不定次（批）数条件下单因素优选问题的最优策略》，发表于《贵阳师院（今贵州师范大学）学报》（3，117-134，1977）。做的是华罗庚当年所倡导的研究方向。后来所写的《经济最优化的随机模型》两文，做的也是他所提的问题。华先生对我一生的影响很大。一方面，我从初中二年级开始自学数学，一步步实践华先生所教导的自学方法；另一方面，我的研究生导师严士健是华先生的弟子，给我们传授了不少华先生的治学方法。华先生的名言“天才在于勤奋，聪明在于积累”，乃是我一生的座右铭。我也没有忘记他的“努力在我，评价在人”和“早发表，晚评价”的教导。所以我在下面第二部分里引用他人的评价时，心中还是知道自己有几两重，真可谓“人在江湖，身不由己”。
+
+我真正进入概率论的研究领域是1977年，中南大学的侯振挺带我研究可配称Markov链（简称马氏链）。特别是1979年春，我在长沙3个月，我们一起完成《马尔可夫过程与场论》的论文（摘要发表于《科学通报》，25(20)，913-916，1980）。我每天看着他如何“一计不成又生一计”。对于土打土闹的我来说，这是一次手把手的师傅带徒弟。给了我一次
+
+极为宝贵的科研训练。这篇文章后来也成为我们打开交互作用无穷粒子系统(简称为粒子系统)研究突破口的主要武器。
+我第一次出国是因为严士健的努力，作为访问学者到美国师从D. W. Stroock(1995年当选美国科学院院士)学习扩散过程理论和粒子系统。真是运气好，当时正值Malliavian分析和大偏差理论的兴起，他先后为研究生开设了这两个主题的两门课。我的大部分时间都用来学习这些新发展同时扩充基础。当然我非常珍惜这次机会，发疯似地读书。这期间我们一起解决了一个关于不变测度的猜想。回国后，我又讲了两年三门课，逐步消化。应当说，我们团队后来的发展，很大程度上得益于这次访问。
+1983年春回国之后，经过几个月的思考，我向严老师提议，选择无穷维反应扩散过程作为我们的主攻方向。应当指出，此方向是严老师自1977年就已开始研究并一直倡导的研究方向。他从数学上严格地建立了非线性Master方程并完成了这些模型作为一类粒子系统的数学描述。作为这方向上的第一篇文章，我和严老师首先解决了有限维情形。这一步实际上闯过了过去5年中一直未能克服的难关，也为研究无穷维情形打下了必要的基础。从这时候开始，我们在严老师的带领下在此方向上差不多又工作了10年。参加这项研究的有刘秀芳、唐守正、丁万鼎、郑小谷及一批进修教师和研究生，从而也培养出一大批人材。
+1991年，我花费了一整年的时间，完成专著(陈木法，1986)的英文扩充版。如同在该书的序言里所感谢的，刘秀芳和一批研究生也陪伴了我1年，帮我挑错。书写完之后，第一个感受是搞了10多年，也没做出多少东西，深感惭愧；其二，最不满意的是该书的第9章，那么好的题目，却没做出多少结果。于是决定以该章的主题作为我们下一步的主攻方向。想不到这一干又是15年。
+作为这一部分的结尾，介绍一下小家庭的情况。我夫人罗丹1970年毕业于北京师范大学生物系；1972~1980年在贵阳教中学；1980年调入北师大，先后在校图书馆和科技处工作，2003年退休。我们俩几十年风风雨雨，相儒以沫，虽曾有过贫困的艰难岁月，但现在已携手进入了平安幸福的晚年。我们育有一女儿陈嵘嵘。现任教于美国犹他大学电子和计算机工程系。
+二、研究成果
+简单地说，自1978年起，我的科研工作可分为两个阶段：一是1978~1991年，所从事的是概率论与统计物理的交叉研究；二是1992年至今，所从事的是概率论与数学内部其他学科分支的交叉研究。大体上的研究路线是从统计物理的无穷维数学模型出发，发展随机过程理论，再进入核心数学的重要课题。虽然未做成几件事情，但始终喜爱探索本源问题和学科之间的交融。两个阶段的主要研究成果分别总结于专著(陈木法，1986，2005)之中。
+下面介绍4方面的代表性成果。
+
+1. 特征值估计与遍历理论
+特征值问题在数学和物理中均占有重要地位。
+a) 第一 (非平凡) 特征值是谱的主阶。关于其上界的变分公式已有百年以上的历史，但关于下界的变分公式则从未有过。1992~1995 年间，我们首次使用概率方法，就三种情形 (矩阵、椭圆算子和流形上的拉氏算子) 找到了第一特征值 $\lambda_1$ 下界的统一的变分公式 (陈木法, 1994, 1996, 1997)。对于紧 Riemann 流形，分别以 $d$, $D$, $K$ 表流形的维数、直径和 Ricci 曲率下界，则有公式 (与王风雨合作)
+$\lambda_1 \leqslant 4 \sup_{f \in \mathscr{F}} \inf_{r \in (0, D)} f(r) \Bigg/ \int_0^r C(s)^{-1} \mathrm{d}s \int_s^D (fC)(u) \mathrm{d}u,$
+这里仅用到两个记号 (因此有一种美感): $C(r) = \left( \cosh \left[ \frac{r}{2} \sqrt{\frac{-K}{d-1}} \right] \right)^{d-1}$, $\mathscr{F}$ 为 $(0, D]$ 上正的连续函数的全体。此公式不仅统一了、而且能够改进几何学家近 50 年来采用各种不同的优美方法所得到的 10 种著名估计 (7 种是最优的)。例如取 $f(r) = \sin \left( \frac{r\pi}{2D} \right)$, 便可改进 Li-Yau 和钟-杨最优估计 $\pi^2/D^2$。后者是公认的精深结果。2001 年我和合作者确定了最侍线性下界: $\pi^2/D^2 + K/2(K/$ 任意)。我们的所有结果都适用于带边界流形。但对于后者，即使是钟-杨估计也未被证明，更不用说新估计了。对于更为困难的带边界或非紧流形、矩阵或欧氏空间情形，其第一特征值的面貌更是全面改观。在紧流形情形，所述结果只使用三个参数：维数、直径和曲率；但在后面的情形中，空间非紧、方程变系数，因而远为艰难。例如，Sturm-Liouville 算子的第一特征值，有着漫长的研究历史。然而其完全的变分公式，却是直到 2000 年我才找到的。
+b) 关于一维情形的对偶变分公式，此处概述 1 种最为初等的情形 (椭圆算子情形的结果平行)。设 $Q = [q_{ij}]$ 为 $\{0, 1, \cdots, N\}$ 上的三对角矩阵: $q_{i, i+1} = b_i > 0 (i \leqslant 0), q_{i, i-1} = a_i > 0 (i \leqslant 1), q_i, i = -(a_i + b_i) (i \leqslant 0, a_0 = 0, b_n = 0)$, 其他的 $q_{ij} = 0$。则 $-Q$ 有特征值 $0 = \lambda_0 < \lambda_1 \leqslant \cdots \leqslant \lambda_N$。定义 $\mu_0 = 1, \mu_i = b_0 \cdots b_{i-1} / (a_1 \cdots a_i) (i \leqslant 1)$ 并使用记号 (关键是头、尾两个)
+$\mathscr{W}'' = \{w : w_0 = 0, w_i \text{ 为 } i \text{ 的严格增函数}\},$
+$\mathscr{W}' = \{w \in \mathscr{W}'' : w \text{ 自 } k \text{ 某开始为常数}\},$
+$I_i(w) = \frac{1}{\mu_i b_i (w_{i+1} - w_i)} \sum_{j=i+1}^\infty \mu_j w_j,$
+简记 $\bar{w}_i = w_i - \sum \pi_j w_j / Z, i \geqslant 0, Z = \sum_k \pi_k$。那么，我们有
+(1) 对偶变分公式: $\inf_{w \in \mathscr{W}'} \sup_{i \geqslant 1} I_i(\bar{w})^{-1} = \lambda_1 = \sup_{w \in \mathscr{W}''} \inf_{i \geqslant 0} I_i(\bar{w})^{-1}.$
+(2) 蛤式估计: $Z \delta^{-1} \geqslant \lambda_1 \geqslant (4\delta)^{-1}$, 其中 $\delta = \sup_{i \geqslant 1} \sum_{j \leqslant -i-1} (\mu_j b_j)^{-1} \sum_{j \geqslant i} \mu_i$.
+(3) 逼近程序: 可构造出显式序列 $\eta'_n$ 和 $\eta''_n$, 使得 $\eta'_n{}^{-1} \leqslant \lambda_1 \eta''_n{}^{-1} \geqslant (4\delta)^{-1}.$
+
+理解这些结果的意义的最好办法是拿数学软件算一算 $N=3,4$ 时 $\lambda_1$ 的解答，并注意先前并无任何类似的结果可供参考。在漫长的岁月里，我们在黑暗中苦苦求索，并不知道能够得出什么结果，只是到了最后一步，我们才知道找到了什么。更进一步，当 $N=\infty$ 时（假设过程遍历），结论也成立。但此时 $\lambda_1$（定义为 $-Q$ 的 $L^2$ 非零谱的下端）可能为零。由结论 (2) 得出其正性判准：$\lambda_1 > 0$ 当且仅当 $\delta < \infty$。
+c) 第一特征值等价于 Poincaré 不等式，为研究其他不等式，我和王凤雨 (1998) 发展了 Riemann 几何中的 Cheeger 方法。首次对于无界对称型（曾停顿 10 年），建立了新型的 4 种不等式，几乎都是最终形式。后来我使用容度理论，给出以上条 (2) 为特例的抽象判准。
+d) 将 b) 中的主要结果从 $L^2$ 空间拓广到 Banach 空间，由此出发，给出了一维情形各种遍历性（常用的 10 种）的统一完整的显式判别准则；并找到了诸遍历性之间的完全的蕴涵关系图（这其中有毛永华和张余辉的贡献）。解决了多个长期未果的难题。
+以上这些工作拓宽了遍历理论，丰富了谱理化。
+几何成果被 E.P. Hsu 列为概率论与 Riemann 几何交叉（已有 25 年历史）的 3 个代表性成果之一（Math. Review, 2001），并收入他的专著 (2002)。也引发了 K. Burdzy, P. Kröger, D. Bakry 等人的 6 篇文章的进一步研究。M. Znojil 评论（Zbl. Math., 2003）结果 b) 时称“look ‘final’”, “Amazingly enough”, “complete”. D. Sirl, H. Zhang 和 P. Pollett (J. Appl. Prob., 2007) 称“In so far as these results are concerned with birth-death processes; … Nearly all previously known results are encompassed by Chen’s work.”
+我在德国、加拿大、俄罗斯、日本、法国等国家和中国台湾概率论会上作过系列讲座。美国康奈尔大学的一门研究生课也讲授了我们的新进展。
+我们关于这方面的研究的发端是刻画粒子系统的相变或随机算法的有效性。获得上述分公式的关键在于使用了全新的数学工具，即先前我研究了 10 多年的耦合方法。
+2. 耦合方法
+简单地说，所谓耦合，即是为两个不同对象建立共同的参考系。两个测度 $\mu_1$ 和 $\mu_2$ 的耦合是构造乘积空间 $(E_1 \times E_2, \mathscr{E}_1 \times \mathscr{E}_2)$ 上的测度（参考系，有无空多种），使之满足边缘性：
+$\mu(A_1 \times E_2) = \mu_1(A_1), A_1 \in \mathscr{E}_1, \quad \mu(E_1 \times A_2) = \mu_2(A_2), A_2 \in \mathscr{E}_2$
+类似可定义两个转移概率的耦合，但这实际上无法操作而无用。我的工作是将问题归结为生成算子的耦合，即寻找乘积空间上的算子使之具有边缘性。再进一步研究其优化问题。耦合方法是 20 多年来概率论的重要进展之一。我的主要贡献有 3 个方面。
+a) 最早从根本点上研究马氏耦合并得出马氏耦合的第一条基本定理，即两个边缘算子同时适定（唯一决定过程）等价于所有耦合算子都适定；
+b) 首次提出最优马氏耦合并构造出新的最优耦合；
+c) 解决了距离关于耦合的分类和优化问题。
+
+以上研究更新了耦合理论。成果 a) 已收入 W.J. Anderson 的专著。成果 b) 和 c) 被 K. Burdzy 和 W.S. Kendall 等 4 人的 5 篇文章命名为 Chen's theorem, 等等。
+耦合理论的这些新发展，是在研究下述无穷维数学模型中发掘出来的。
+
+3. 反应扩散过程
+
+交互作用无穷粒子系统是当今概率论和数学物理的主流方向之一。过去研究主要针对平衡态，而反应扩散过程则来源于非平衡系统。我和严士健最早在国际上提出这类过程。我将它命名为反应扩散过程并完成了过程的构造、遍历性和相变现象的较系统的理论。克服了无穷维、非局部紧、非自共轭等难关。
+A. Perrut, R. Durrett 等 6 人在 4 篇文章中称上述过程的构造为“Chen's construction”。加拿大 D. A. Dawson 等人对于相应的平均场模型的研究，直接使用了我的结果和方法。美国以 R. Durrett 为首的一批学者关于反应扩散过程的各种简化模型的一系列工作构成 Durrett 在法国概率论暑期学校的 10 次演讲的内容 (LNM 1608, 1995), 他指出“for a closely related model of Schlögl (1972) (see Part IV of Chen (1992) for a survey).”我们经过 5 年的摸索，才选择了 Schlögl 模型等非平衡统计物理的典型模型作为主攻方向 (物理背景见 H. Haken, Synergetics, 1977~1983), 力图探索非平衡统计物理的数学基础。从数学上讲，这些模型非常难。虽经 20 年的努力，尚有重要问题未解决。
+这项研究激发我们去探索研究无穷维数学的新工具。上述各条及下一条的研究均导源于此。例如，第一特征值乃算子谱的主价，它刻画了系统指数式遍历的收敛速度。我们希望使用比较成熟的谱理论为研究相变现象提供一种新的数学工具。为此需要学习几何，因为几何方面关于此课题的研究成果丰富且完备。后来发现使用概率方法也可研究第一特征值问题，这导致了第一方面的研究。另一方面，无空粒子系统局部看是有限维的马氏链与跳过程，它提出了许多新的挑战性问题，这导致上条及下条的研究。
+
+4. 马氏链与跳过程
+
+过去有相当长时间人们以为马氏链 (跳过程的特例) 理论已完成，但近年来却“重新复活”成了大热门。在此领域，我的主要贡献除上述各条外还有：
+a) 找到了跳过程的唯一性、常返性和遍历性的简单实用的新判别法。此结果是反应扩散过程及其平均场模型的每一篇文章都要用到的；也被应用于量子物理、统计物理和生物学。
+b) 最终解决了全稳定跳过程的唯一性准则，即算子的适定性问题 (可数空间情形是获英国 Dividson 奖的侯振挺定理)。
+c) 与 D.W. Stroock 合作解决了由美国两院士提出的一个不变测度猜想。
+d) 解决了跳过程转移概率可微性的经典难题。
+为总结 1960 年至 1990 年 30 年间马氏链研究的主要成就，1991 年施普林格出版了 W.J. Anderson 的专著。书中收入了我的 3 项成果 (有 1 项与侯振挺合作), 概述如下。第
+
+一部分包括陈木法的比较定理、逼近定理和唯一性定理；第二部分是陈木法、侯振挺关于可逆单流出过程的研究工作；第三部分的标题是“coupling(耦合)”，包括陈木法关于马氏耦合的基本定理。到目前为此，已见到至国外马氏链、粒子系统和耦合方法 3 方面的 8 部专著收录了我们的成果，国内收录的专著有 7 部。另一成果收入 W. Woess (2000) 人专著。
+十分幸运的是，我的专著 (陈木法，1986, 2005) 已得到充分的肯定。英国皇家学会会员 D.G. Aldous 和 C. Maes 等 11 人多次将前者列为 “standard reference”。目前已见到 10 位专家为这两本书写的 11 篇书评。分布如下：
+Math Review, 3 篇; Zentralblatt MATH, 3 篇; SIAM REVIEW, 2 篇; 还有应出版社的邀请，俄罗斯数学家、美国院士 R.L. Dobrushin 为出版专著所定的推荐 (1988)，R.A. Minlos 在第二版出版后所写的书评 (2005)，王梓坤为“霍英东教育基金会青年教师基金项目的优秀成果征文”所写的推荐 (1996)。今摘录 5 个书评中的片言只语如下 (其中有些单词令我脸红，拿出来与读者分享同行的友爱之情):
+● S. Rachev (Zbl. Math., 753 (1993), p. 301): “The author is an outstanding Chinese probabilist in probability and stochastic processes creating the Chinese school of Markov processes.”
+● T. M. Liggett (Math. Reviews, 94a (1994), p.439): “the school led by the author in Beijing has worked on ....”
+● R. Durrett (SIAM Review, Book Reviews, 35: 3 (1993), p.514): “if you are curious... this book belongs on your bookshelf.”
+● L. Miclo’s review (Math. Review, MR2091955, 2005): “these fields have been very active recently, in particular due to the contributions of the Beijing school led by Mr. Chen.”
+● R. Durrett (SIAM Review, Book Reviews, 48: 1 (2006), p.164): “Inequalities for the spectral gap and their applications are a huge topic. Chen’s 228-page book takes the reader on a tour of some of this material. The emphasis is on topics that Chen has contributed to (and I think this is appropriate), but this includes a wide variety of interesting topics.”
+“Chen has carried out an active research program and traveled extensively (as indicated by the long list in the acknowledgments). Chen is an experienced researcher who has won prizes in China and spoken at the International Congress of Math, and he is an extensive writer of lecture notes. ”
+我们的研究小组自 2002 年起获国家自然科学基金委创新研究群体资助，获 2006 年全国五一劳动奖状 (集体奖)，本人还获国家自然科学奖三等奖 (与王凤雨合作，1999) 等 14 项奖励。
+承蒙诸多同行的盛情邀请，使我有机会访问过美、俄、英、法、日、德、加、意等 19
+
+个国家和地区的 63 所大学和研究所。在国际会议上或海外访问中作过约 150 次演讲，其中 12 次为国际会议的大会报告，包括国际数学家大会的 45 分钟报告。
+
+三、陈木法主要论著
+
+Chen M F. 1985. Infinite dimensional reaction diffusion processes. Acta Math Sin, 1(3): 261–273.
+陈木法. 1986. 跳过程与粒子系统. 现代数学丛书. 北京：北京师范大学出版社 (英文版: 1992. From Markov Chains to Non-Equilibrium Particle Systems. Singapore: World Scientific (1994, 重印; 2004, 第二版)).
+Chen M F. 1986. Couplings of jump processes. Acta Math Sin, 2(2): 123 136.
+Chen M F, Li S F. 1989. Coupling methods for multidimensional diffusion processes. Ann Prob, 17(1): 151–177.
+Chen M F. 1994. Optimal Markovian couplings and applications. Acta Math Sin, 10(3): 260–275.
+Chen M F. 1996. Estimation of spectral gap for Markov chains. Acta Math Sin, 12(4): 337–360.
+Chen M F, Wang F Y. 1997. Estimation of spectral gap for elliptic operators. Trans Amer Math Soc, 349(3): 1239–1267.
+Chen M F, Wang F Y. 2000. Cheeger’s inequalities for general symmetric forms and existence criteria for spectral gap. Ann Prob, 28(1): 235–257 (Abstract: 1998. Chin Sci Bulletin, (Chinese Edition)43(14): 1475–1477; (English Edition)43(18): 1516–1519).
+Chen M F. 2000. Equivalence of exponential ergodicity and L2-exponential convergence for Markov chains. Stoch Proc Appl, 87: 281–297.
+Chen M F. 2002. Ergodic Convergence Rates of Markov Processes–Eigenvalues, Inequalities and Ergodic Theory. Proceedings of “ICM 2002”, III. Beijing: Higher Education Press: 25–40.
+Chen M F. 2005. Eigenvalues, Inequalities, and Ergodic Theory(研究专著). Lonon: Springer.
+陈木法, 毛永华. 2007. 随机过程导论. 北京：高等教育出版社.
+Chen M F. 2009. Ergodic Convergence Rates of Markov Processes–Eigenvalues, Inequalities and Ergodic Theory [Collection of papers, 1993—]. http: //math.bnu.edu.cn/~chenmf.
+
+主要参考文献
+
+陈木法. 2003. 感谢老师. http: //math.bnu.edu.cn/~chenmf.
+陈木法. 2005. 敬怀恩师. 科学的道路 (上卷). 上海：上海教育出版社: 208–217.
+
+撰写者
+
+陈木法

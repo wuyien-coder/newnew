@@ -1,0 +1,236 @@
+人物：郭本瑜
+生年：1942年
+研究方向：计算数学
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：215-232
+============================================================
+
+郭本瑜
+
+郭本瑜(1942~),浙江宁波人。计算数学家。1965年毕业于上海科学技术大学,历任助教、副教授、教授、副校长和校长。1994年转入新组建的上海大学。1999年起调入上海师范大学。曾任中国计算数学会和上海数学会副理事长。他的研究领域是非线性微分方程的数值方法、理论及其应用。至今发表320论文,出版学术专著《偏微分方程的差分方法》和Spectral Methods and Their Applications等。他的研究成果曾获国家教委科技进步奖一等奖和国家自然科学奖三等奖。
+
+一、数学研究生涯
+
+郭本瑜祖籍浙江宁波市,1955年随父亲郭文龄和母亲范锦楣移居上海。青少年时期,他深受“向科学进军”号召的激励,勤奋刻苦,酷爱数学。
+
+1961年,他被选送到上海科学技术大学,并委托浙江大学代培。他有志于数学研究,高中期间就自学大学课程却被分配到辐射化学专业。后经两位浙江大学老师推荐,拟转入浙江大学数学系。然而,他不久奉命返沪。1962年,郭本瑜转入上海科学技术大学核物理专业。他对数学刻苦钻研的精神感动了校方。次年春天,他通过考试,获准试读数学系三年级下学期。半年后,又以全部考试满分的成绩,正式破格为数学系学生。
+
+1965年,他在上海市气象局进行毕业作业。他根据涡度守恒原理,设计了正压大气模式涡度平方守恒差分方法,这与次年发表的以A.A.Arakawa命名的预报模式相一致,并在理论上更完善。当年夏天,郭本瑜大学毕业留校任教。不幸的是,次年发生的“文化大革命”中断了他的研究工作。
+
+1971年,郭本瑜与胡云琏女士结婚,一年后儿子郭未扬出生。1973年夏天,郭本瑜赴北京语言学院进修英语,准备到英国牛津大学留学。次年春天,他拜访了冯康。冯康十分重视他的早期研究成果,经推荐,当年发表在刚复刊的《数学学报》。然而,“批林批孔”运动终止了他的留学计划,并被派往安徽凤阳“五七”干校劳动,后又因患肾结核而病休在家。郭本瑜在十分困难的条件下,始终坚持数学研究。
+
+1976年秋天,粉碎了“四人帮”,全国迎来了科学春天。次年春天,郭本瑜终于再次回到数学专业,并参加了全国科学大会,其研究成果《不可压缩黏性流的数值计算》获奖。
+
+1979年1月~1981年7月,郭本瑜先后在法国法兰西学院和国立信息与自动化研究所进修,师从J.L.Lions。他深入研究非线性方程的近似解,保持原问题整体性质的
+
+差分方法和谱方法及其应用，1981 年，在英国举行的“应用数学新进展”研讨会上，D. Griffith 的长篇专题报告介绍郭本瑜的工作。
+
+1981 年 7 月，郭本瑜回到上海科学技术大学，1984 年晋升为正教授，并被任命为副校长。他组建了上海市应用数学与计算数学研究所，任所长。1987 年，他被任命为上海科学技术大学校长，他的研究成果《非线性偏微分方程数值解及其若干应用》获得国家教委科技进步二等奖。1988 年，出版学术专著《偏微分方程的差分方法》。1991 年，第十三次世界计算和应用数学大会邀请他作关于《Navier-Stokes 方程谱 — 有限元混合方法》的特邀报告，他的研究成果《非线性偏微分方程谱方法及其应用》获得国家教委科技进步甲类一等奖。四年后，他的研究成果《非线性偏微分方程的差分方法和谱方法及其应用》获得国家自然科学三等奖。1998 年，出版了专著 Spectral Methods and Their Applications。
+
+1994 年夏天，郭本瑜转入新组建的上海大学，任常务副校长。1995 年，英国隆尔福特大学授予他名誉科学博士学位。1999 年，郭本瑜调入上海师范大学。2002 年底，他组建了上海市高等学校计算科学 E 研究院，任首席研究员。
+
+二、数学研究成果
+
+郭本瑜的主要数学研究成果如下所述。
+
+1. 非线性问题近似逼近的稳定性
+
+1) 局部广义弱稳定性。设 $B_l$ 是具有范数 $\| \cdot \|_{B_l}$ 的 Banach 空间，$l = 1, 2$。$L$ 是从 $B_1$ 映射到 $B_2$ 的算子，$f \in B_2$。考虑问题
+
+$LU = f.$ (1)
+
+有限维 Banach 空间 $B_{l,N}$ 是对 $B_l$ 的相容逼近，$p_{l,N}$ 是从 $B_l$ 到 $B_{l,N}$ 的连续限制算子。用从 $B_{1,N}$ 映射到 $B_{2,N}$ 的算子 $L_N$ 逼近 $L$，以 $f_N \in B_{2,N}$ 逼近 $f$，则近似问题为
+
+$L_N u_N = f_N.$ (2)
+
+对任意 $v \in B_1$ 和 $f \in B_2$，其逼近误差为
+
+$R_N(v) = p_{2,N}Lv - L_N p_{1,N}v + f_N - p_{2,N}f.$
+
+用 $\mathcal{D}$ 表示 (1) 的解的某子集，它所对应的定解条件的全体 $\mathcal{F}$ 在 $B_2$ 中稠密。若对一切 $v \in \mathcal{D}$ 和 $f \in \mathcal{F}$，当 $N \to \infty$ 时，$\| R_N(v) \|_{B_{2,N}} \to 0$，则称 (2) 是对 (1) 的相容逼近。若对一切 (1) 的解 $U$ 和相应的近似解 $u_N$，当 $N \to \infty$ 时，$\| u_N - p_{1,N}U \|_{B_{1,N}} \to 0$，则称 (2) 对 (1) 的逼近是收敛的。
+
+1948 年，Kantorovich 研究了线性可逆算子问题逼近的稳定性，即存在正常数 $c_0$，使得对一切 $v, w \in B_{1,N}$ 和 $N \geqslant N_0$，都有
+
+$\| v - w \|_{B_{1,N}} \leqslant c_0 \| L_N v - L_N w \|_{B_{2,N}}.$
+
+他还证明，若 (2) 对 (1) 的逼近是相容的，则稳定性和收敛性是等价的。
+郭本瑜认为非线性问题通常当且仅当外界扰动不超过某临界值时，才会具有稳定性，一般还与真解和 $N$ 有关。对于多个孤立解问题，还应具有局部性质。郭本瑜 (1982, 1985, 1989) 先后提出了非线性问题逼近的广义稳定性，广义弱稳定性和局部广义弱稳定性，即若存在仅依赖于 $v$ 和 $N$ 的正常数 $c_0(v, N)$ 和非负常数 $c_1(v, N)$，使得对一切 $w \in S_{1,N}(v, R) = \{w \mid \|w - v\|_{B_{1,N}} \leqslant R\}$ 和 $N \geqslant N_0$，当
+$\|L_N v - L_N w\|_{B_{2,N}} \leqslant c_0(v, N)$
+时，
+$\|v - w\|_{B_{1,N}} \leqslant c_1(v, N)\|L_N v - L_N w\|_{B_{2,N}},$
+则称 (2) 在 $S_{1,N}(v, R)$ 中对 $v$ 是广义弱稳定的。
+郭本瑜揭示了局部广义稳定性与近似方程 (2) 的可解性和收敛性的内在联系。如果 (2) 在 $S_{1,N}(p_{1,N}U, R)$ 内对 $p_{1,N}U$ 是广义弱稳定的，且 $\|R_N(U)\|_{B_{2,N}} \leqslant c_0(p_{1,N}U, N)$，那么 $\|u_N - p_{1,N}U\|_{B_{2,N}} \leqslant c_1(p_{1,N}U, N)\|R_N(U)\|_{B_{2,N}}$。
+若 $c_0(u_N, N) = c_0(u_N)N^{-s'}, c_1(u_N, N) = c_1(u_N)$，那么局部广义弱稳定性退化为广义弱稳定性。此类 $s'$ 的下确界被称为 $g$ 稳定性指标 $s$。若 $\|R_N(U)\|_{B_{2,N}} \leqslant c_2(p_{1,N}U)N^{-\max(s,q)}$，则 $\|u_N - p_{1,N}U\|_{B_{1,N}} \leqslant c_2(p_{1,N}U)N^{-q}$。
+2) 初值问题逼近的广义弱稳定性。设 $B_1 \subseteq B_2$, $Q$ 是从 $B_1$ 到 $B_2$ 的线性可逆算子。$B_3$ 是 Banach 空间，其元素把区间 $(0, T]$ 映射到 $B_2, f \in B_3$。考虑算子方程的初值问题
+$\begin{cases} \frac{\mathrm{d}}{\mathrm{d}t}(QU(t)) = LU(t) + f(t), & 0 < t \leqslant T, \\ U(0) = U_0. \end{cases} \quad (3)$
+它的解是 $Q$ 和 $L$ 定义域上的一个单参数族 $U(t)$，使得对一切 $t \in [0, T]$，当 $s \to 0$ 时，
+$\left\|\frac{1}{s}(QU(t+s) - QU(t)) - LU(t) - f(t)\right\|_{B_2} \to 0.$
+设有限维 Banach 空间 $B_{l,N}$ 是对 $B_l$ 的相容逼近，$l = 1, 2, 3$，且 $Dim(B_{1,N}) = Dim(B_{2,N})$。$p_{l,N}$ 是从 $B_l$ 到 $B_{l,N}$ 的连续限制算子，且对一切 $v \in B_1$, $p_{1,N}v = p_{2,N}v$。$D_\tau v$ 表示 $t$ 方向上以 $\tau = \tau(N) > 0$ 为步长的向前差分算子，用 $Q_N u_N$, $L_N(u_N(t), u_N(t+\tau))$, $u_{0,N}$ 和 $f_N$ 分别逼近 $QU$, $LU$, $U_0$ 和 $f$。近似问题为
+$\begin{cases} D_\tau(Q_N u_N(t)) = L_N(u_N(t), u_N(t+\tau)) + f_N(t), & 0 < t \leqslant T, \\ u_N(0) = u_{N,0}. \end{cases} \quad (4)$
+其逼近误差
+$R_N(v(t)) = -p_{2,N}\frac{\mathrm{d}}{\mathrm{d}t}Qv(t) + D_\tau Q_N p_{1,N}v(t) + p_{2,N}Lv(t) - L_N(p_{1,N}v(t), p_{1,N}v(t+\tau)) + p_{2,N}f(t) - f_N(t).$
+
+用 $\mathcal{D}_1$ 和 $\mathcal{D}_3$ 分别表示 $B_1$ 和 $B_3$ 中的稠密子集，且对任意 $U_0 \in \mathcal{D}_1$ 和 $f \in \mathcal{D}_3$，(3) 有唯一解，此类解的集合记为 $\mathcal{D}_2$。若对一切 $U_0 \in \mathcal{D}_1, U \in \mathcal{D}_2, f \in \mathcal{D}_3$ 和 $0 \leqslant t \leqslant T$，当 $N \to \infty$ 时，$\|p_{1,N}U_0 - u_{N,0}\|_{B_{1,N}} \to 0, \|R_N(U(t))\|_{B_{2,N}} \to 0$，则称 (4) 对 (3) 的逼近是相容的。若对一切 (3) 的解，当 $N \to \infty$ 时，$\|p_{1,N}U(t) - u_N(t)\|_{B_{1,N}} \to 0$，则称 (4) 对 (3) 的逼近是收敛的。
+1953 年，P. D. Lax 提出了 $Q$ 为恒等算子，$L$ 是线性算子的近似问题 (4) 的稳定性，即存在与 $u_N^{(1)}, u_N^{(2)}$ 和 $N$ 无关的正常数 $c_0(T)$，使得对一切 $N \geqslant 0$ 和 $0 \leqslant t \leqslant T$，
+$\|u_N^{(1)}(t) - u_N^{(2)}(t)\|_{B_{1,N}} \leqslant c_0(T)(\|u_{N,0}^{(1)} - u_{N,0}^{(2)}\|_{B_{1,N}} + \|f_N^{(1)} - f_N^{(2)}\|_{B_{3,N}})$。
+他还证明，若 (4) 对 (3) 的逼近是相容的，则稳定性等价于收敛性。
+郭本瑜 (1965) 提供了一个非线性初值问题差分方法误差分析的方法，1976 年正式提出广义稳定性，即存在正常数 $c_0(u_N^{(1)}, N, T)$ 和非负常数 $c_1(u_N^{(1)}, N, T)$，使得对一切 $N \geqslant N_0$，当
+$\|u_{N,0}^{(1)}(t) - u_{N,0}^{(2)}(t)\|_{B_{1,N}} + \|f_N^{(1)} - f_N^{(2)}\|_{B_{3,N}} \leqslant c_0(u_N^{(1)}, N, T)$
+时，对一切 $0 \leqslant t \leqslant T$，
+$\|u_N^{(1)}(t) - u_N^{(2)}(t)\|_{B_{1,N}} \leqslant c_1(u_N^{(1)}, N, T)(\|u_{N,0}^{(1)} - u_{N,0}^{(2)}\|_{B_{1,N}} + \|f_N^{(1)} - f_N^{(2)}\|_{B_{3,N}})$。
+郭本瑜证明，如果 (4) 对 $p_{1,N}U(t)$ 是广义弱稳定的，且 $\|p_{1,N}U_0 - u_{N,0}\|_{B_{1,N}} + \|R_N(U)\|_{B_{3,N}} \leqslant c_0(p_{1,N}U, N, T)$，则对一切 $0 \leqslant t \leqslant T$，
+$\|p_{1,N}U(t) - u_N(t)\|_{B_{1,N}} \leqslant c_1(p_{1,N}U, N, T)(\|p_{1,N}U_0 - u_{N,0}\|_{B_{1,N}} + \|R_N(U)\|_{B_{3,N}})$。
+2. 非线性偏微分方程的差分方法
+1) 计算流体力学。通常采用增加微分方程在网格点上逼近精度的方法来提高计算精度。郭本瑜认为更重要的是保持原问题的整体性质。设 $\Omega = \{x = (x_1, x_2) \mid 0 < x_1, x_2 < 1\}$，二维不可压缩黏性流体的涡度 $\omega$ 流函数 $\psi$ 形式是
+$\left\{ \begin{array}{ll} \frac{\partial \omega}{\partial t} + \frac{\partial}{\partial x_1} \left( \frac{\partial \psi}{\partial x_2} \omega \right) - \frac{\partial}{\partial x_2} \left( \frac{\partial \psi}{\partial x_1} \omega \right) - \nu \Delta \omega = f, & \nu > 0, \ x \in \Omega, \ 0 < t \leqslant T, \\ \Delta \psi + \omega = 0, & x \in \Omega, \ 0 \leqslant t \leqslant T, \\ \omega(x, 0) = \omega_0(x), & x \in \overline{\Omega}. \end{array} \right.$ (5)
+它的解满足若干守恒律，例如涡度平方守恒律，即
+$\int_\Omega \omega^2(x, t) dx + 2\nu \int_0^t \int_{\partial \Omega} \omega^2(x, \xi) dx d\xi + \int_0^t \int_{\partial \Omega} \omega^2(x, t) \frac{\partial \psi}{\partial s}(x, \xi) ds d\xi$
+$-2\nu \int_0^t \int_{\partial \Omega} \omega(x, \xi) \frac{\partial \omega}{\partial n}(x, \xi) ds d\xi = \int_\Omega \omega_0^2(x) dx + 2 \int_0^t \int_\Omega f(x, \xi) \omega(x, \xi) dx d\xi.$ (6)
+
+今在空间方向上采用均匀网格剖分，$v_{\hat{x}_j}$ 表示 $v$ 在 $x_j$ 方向上的中心差商。(5) 中的非线性项可写成等价形式：
+$$ \alpha_1 \left( \frac{\partial \psi}{\partial x_2} \frac{\partial \omega}{\partial x_1} - \frac{\partial \psi}{\partial x_1} \frac{\partial \omega}{\partial x_2} \right) + \alpha_2 \left( \frac{\partial}{\partial x_1} \left( \frac{\partial \psi}{\partial x_2} \omega \right) - \frac{\partial}{\partial x_2} \left( \frac{\partial \psi}{\partial x_1} \omega \right) \right) $$
+$$ + \alpha_3 \left( \frac{\partial}{\partial x_2} \left( \psi \frac{\partial \omega}{\partial x_1} \right) - \frac{\partial}{\partial x_1} \left( \psi \frac{\partial \omega}{\partial x_2} \right) \right), \quad 0 \leqslant \alpha_1, \alpha_2, \alpha_3 \leqslant 1, \alpha_1 + \alpha_2 + \alpha_3 = 1. $$
+对上式可采用下列逼近：
+$$ \alpha_1 (\psi_{\hat{x}_2} \omega_{\hat{x}_1} - \psi_{\hat{x}_1} \omega_{\hat{x}_2}) + \alpha_2 ((\psi_{\hat{x}_2} \omega)_{\hat{x}_1} - (\psi_{\hat{x}_1} \omega)_{\hat{x}_2}) + \alpha_3 ((\psi \omega_{\hat{x}_1})_{\hat{x}_2} - (\psi \omega_{\hat{x}_2})_{\hat{x}_1}). $$
+人们一般取 $\alpha_1 = 1$ 或 $\alpha_2 = 1$。郭本瑜 (1965) 采用 $\alpha_1 = \alpha_2 = \frac{1}{2}$ 或 $\alpha_1 = \alpha_2 = \alpha_3 = \frac{1}{3}$，所得格式在空间方向上具有四阶精度，并满足类似于 (6) 的离散形式的守恒律。特别，当 $\alpha_1 = \alpha_2 = \alpha_3$ 时，还满足另一个守恒律。这种方法的另一个优点是消去了误差方程中的主要非线性项，因此其广义稳定性指标数 $s = \infty$，即具有几乎与线性问题相同的良好稳定性。郭本瑜还发展了一套估计 $s$ 上界的方法和离散形式的 Sobolev 嵌入不等式。
+郭本瑜 (1976, 1981) 研究了不可压缩黏性流体的多种能量守恒差分方法。用 $U = (U^{(1)}, U^{(2)}, \cdots, U^{(n)})^T$ 和 $P$ 分别表示速度和压力。$n$ 维 Navier-Stokes 方程是
+$$ \begin{cases} \frac{\partial U}{\partial t} + (U \cdot \nabla) U - \mu \Delta U + \nabla P = f, & x \in \Omega, 0 < t \leqslant T, \\ \nabla \cdot U = 0, & x \in \overline{\Omega}, 0 \leqslant t \leqslant T. \end{cases} $$
+如果 $U$ 在边界上满足齐次条件且 $f \equiv 0$，则它满足能量守恒律，即
+$$ \| U(t) \|_{L^2(\Omega)}^2 + 2\mu \| \nabla U \|_{L^2(0,T; L^2(\Omega))}^2 = \| U(0) \|_{L^2(\Omega)}^2. $$
+郭本瑜采用下式逼近非线性传输项
+$$ \frac{1}{2} \sum_{j=1}^n (U^{(j)} U_{\hat{x}_j} + (U^{(j)} U)_{\hat{x}_j}). $$
+由此得到的差分格式满足离散形式的能量守恒律。郭本瑜还把这方法推广应用于许多方程，例如可压缩流体方程 (引入密度对数克服稀疏流体计算不稳定性)。
+2) 非线性波计算。从 20 世纪 70 年代起，郭本瑜系统地设计了许多重要非线性波动方程的满足离散能量守恒律的差分格式，并应用数值方法揭示了一些现象。
+1978 年，在冯康的建议下，郭本瑜研究了广义 KdV 方程：
+$$ \frac{\partial U}{\partial t} + \alpha U^p \frac{\partial U}{\partial x} + \beta \frac{\partial^{2r+1} U}{\partial x^{2r+1}} = f, \quad -\infty < x < \infty, 0 < t \leqslant T, $$
+其中 $p$ 和 $r$ 是非负整数，它的解满足众多守恒律。郭本瑜采用下式逼近非线性传输项：
+$$ \frac{\alpha_1 \alpha}{p+2} U^p U_{\hat{x}} + \frac{\alpha_2 \alpha}{p+2} (U^{p+1})_{\hat{x}}, \quad \alpha_1, \alpha_2 \geqslant 0, \alpha_1 + \alpha_2(p+1) = p+2. $$
+
+相应的差分格式解满足离散形式守恒律。1981年，他和邬华漠、J. M. Sanz-Serna 首次证明了 KdV 方程 ($p=r=1$) 数值解的收敛性。1983年，朱家昆、向隆万和 Y. Baransky 应用数值试验发现梯形边界脉冲会诱发 KdV 方程初、边值问题的孤波解。1984年，郭本瑜，J. A. C. Weidman 独立地发现这一现象。郭本瑜 (1985) 还证明了数值解的收敛性。
+1983~1996年，郭本瑜和 L.Vazquez 等研究了 Sine-Gorden, Klein-Gordon, Dirac, Schrödinger 和 Maxwell-Bloch 等方程的能量守恒差分方法。他和学生严小圃 (1989) 应用数值方法发现边界脉冲会诱发 Sine-Gordon 方程初、边值问题的孤波解。邬华漠、郭本瑜 (1983) 应用 RLW 方程的高精度差分格式揭示双波碰撞会生成多个波。
+3) 数值天气预报。郭本瑜为数值天气预报设计了 (5) 的涡度平方守恒预报模式，根据风向设计了修正逆风预报模式，并把有关工作推广到大气正压原始方程组。1978年，郭本瑜研究大气环流闭合方程组。$U, V, W$ 分别表示 $x, y$ 方向和压力 $p$ 方向的分速度，$T$ 是温度。$z$ 表示等压面高度，$g$ 是重力加速度，$\phi = gz$, $F$ 是柯氏系数，$R$ 是空气的气体常数，$C_p$ 是定压比热，$f_j$ 是已知函数，$\nu_j \geqslant 0$ 是内摩擦系数，$\mu_j \geqslant 0$ 是热传导系数，$j=1, 2, 3,$。在 $(x, y, p, t)$ 坐标中，大气环流满足下列方程组
+$$
+\begin{cases}
+\frac{\partial U}{\partial t} + U \frac{\partial U}{\partial x} + V \frac{\partial U}{\partial y} + W \frac{\partial U}{\partial p} + \frac{\partial \phi}{\partial x} - FV - \frac{\partial}{\partial x} \left( \nu_1 \frac{\partial U}{\partial x} \right) - \frac{\partial}{\partial y} \left( \nu_1 \frac{\partial U}{\partial y} \right) \\
+- \frac{\partial}{\partial P} \left( \nu_2 \frac{\partial U}{\partial p} \right) = f_1, \\
+\frac{\partial V}{\partial t} + U \frac{\partial V}{\partial x} + V \frac{\partial V}{\partial y} + W \frac{\partial V}{\partial p} + \frac{\partial \phi}{\partial y} - FU - \frac{\partial}{\partial x} \left( \nu_1 \frac{\partial V}{\partial x} \right) \\
+- \frac{\partial}{\partial y} \left( \nu_1 \frac{\partial V}{\partial y} \right) - \frac{\partial}{\partial p} \left( \nu_2 \frac{\partial V}{\partial p} \right) = f_2, \\
+\frac{\partial T}{\partial t} + U \frac{\partial T}{\partial x} + V \frac{\partial T}{\partial y} + W \frac{\partial T}{\partial p} + \frac{W}{c_p} \frac{\partial \phi}{\partial p} - \frac{\partial}{\partial x} \left( \mu_1 \frac{\partial T}{\partial x} \right) - \frac{\partial}{\partial y} \left( \mu_1 \frac{\partial T}{\partial y} \right) \\
+- \frac{\partial}{\partial p} \left( \mu_2 \frac{\partial T}{\partial p} \right) - \frac{\nu_1}{c_p} \left[ \left( \frac{\partial U}{\partial x} \right)^2 + \left( \frac{\partial U}{\partial y} \right)^2 + \left( \frac{\partial V}{\partial x} \right)^2 + \left( \frac{\partial V}{\partial y} \right)^2 \right] = f_3, \\
+\frac{\partial U}{\partial x} + \frac{\partial V}{\partial y} + \frac{\partial W}{\partial p} = 0, \\
+\frac{\partial \phi}{\partial p} + \frac{RT}{P} = 0.
+\end{cases}
+$$
+(7)
+在以往的模型中，不含 (7) 中第三式左边的最后一项，郭本瑜考虑到内摩擦效应导致动能向内能转化，补充了这一项，从而使得 (7) 的解满足全球总能量守恒。它是对 Г. И. Марчук 模型的修正。为了使得相应的差分预报模式也满足类似守恒律，郭本瑜修正了美国海军大气预报模式，即采用下式逼近非线性传输项
+$$
+\frac{1}{2} (U \eta_{\hat{x}} + V \eta_{\hat{y}} + W \eta_{\hat{p}} + (U \eta)_{\hat{x}} + (V \eta)_{\hat{y}} + (W \eta)_{\hat{p}}), \quad \eta = U, V, W.
+$$
+
+4) 其他差分方法。半线性椭圆型方程边值问题的特征之一是它满足比较原理，但很难构造既紧致高精度又满足比较原理（即单调性）的差分方法。郭本瑜和学生王元明（1998~2000，2002，2008）应用局部 Green 函数构造了非线性二阶常微分方程（组）两点边值问题的紧致型四价精度单调格式，并推广到非线性项不具有任何单调性质的一维二阶常微分方程组、二维高阶问题和抛物型方程。
+
+3. 微分方程的谱方法
+
+1) 非线性问题的谱方法。从 20 世纪 70 年代末开始，郭本瑜发展了具有高精度的谱方法。1981 年 3 月，他在马德里康普斯顿大学的报告《KdV-Burgers 方程谱方法的误差估计》是国际上非线性问题谱方法的最早文献之一。1983~1987 年，他和学生们把上述工作推广到不可压缩和可压缩流动的周期问题。
+
+拟谱方法基于函数插值，因此计算方便。但是插值算子和微分算子的不可交换性会破坏原问题的整体性质。郭本瑜提出了斜对称逼近方法。例如，考虑下列 Burger 方程的周期问题，
+
+$$ \frac{\partial U}{\partial t} + U \frac{\partial U}{\partial x} - \nu \frac{\partial^2 U}{\partial x^2} = f, \quad \nu > 0, $$
+
+以 $P_N U$ 和 $I_N U$ 分别表示以 $\cos(lx)$ 和 $\sin(lx)(0 \leqslant l \leqslant 1)$ 为基函数的正交投影和插值算子。郭本瑜采用 $\frac{1}{3} I_N (U \partial_x U) + \frac{1}{3} \partial_x I_N (U^2)$ 逼近非线性项 $U \frac{\partial U}{\partial x}$，由此得到的拟谱方法保持了原问题的整体性质。基于上述原理，郭本瑜和学生们（1986~1993）设计了许多非线性周期问题的拟谱方法。
+
+非线性问题的谱与拟谱方法往往具有高频混迭效应，导致计算不稳定性。为了克服这一问题，郭本瑜和学生马和平（1983，1986）应用了广义 Bochner 求和法，即
+
+$$ R_{N, \alpha, \beta} U(x) = \sum_{|l| \leqslant N} \left( 1 - \left| \frac{1}{N} \right|^\alpha \right)^\beta \hat{U}_l e^{ilx}, \quad \alpha, \beta \geqslant 1, $$
+
+其中 $\hat{U}_l$ 是 $U$ 的 Fourier 展开式系数。若 $0 \leqslant r - \mu \leqslant \alpha$，则
+
+$$ \| R_{N, \alpha, \beta} P_N U - U \|_{H^\mu(-\pi, \pi)} \leqslant c(\beta + 1) N^{\mu-r} \| U \|_{H^r(-\pi, \pi)}, $$
+
+如果当 $N \to \infty$ 时，$\alpha = \alpha(N) \to \infty$，上述估计对一切 $r, \mu$ 都成立，从而保持了数值解的谱精度。且当 $r > \frac{1}{2}$ 时，上述估计对 Fourier 插值 $I_N U$ 也成立。
+
+郭本瑜和马和平（1988，1994）研究非线性周期问题的 Chebyshev 谱方法和拟谱方法。为了克服计算不稳定性，他们再次推广 Bochner 求积法。郭本瑜和学生们（1993~1999）设计了不可压缩黏性流体方程和其他发展型方程的 Legendre 谱方法。
+
+1991~1998 年，郭本瑜系统地研究了部分方向周期问题的高精度算法。他和学生们提出了黏性流体问题的 Chebyshev 或 Legendre-Fourier 谱和拟谱方法，Fourier 谱或拟
+
+谱-差分混合方法，及 Fourier 谱或拟谱-有限元混合方法。1987年，郭本瑜提出了大气环流 Fourier 谱-差分预报模式，1991年，他与郑家栋设计了 Fourier 拟谱-差分预报模式。
+对于非周期问题，郭本瑜和学生们 (1995~2002) 提出了不可压缩黏性流体方程的 Chebyshev 谱或拟谱-有限元、及 Legendre 谱或拟谱-有限元混合方法。
+2) 奇异问题谱方法。通常的谱方法只适用于正则问题。1998年，郭本瑜首次提出奇异问题的 Jacobi 谱方法及其理论基础。用 $J_l^{(\alpha, \beta)}(x)$ 表示 $l$ 次 Jacobi 多项式，$\alpha, \beta > -1$。它们在区间 $\Lambda = (-1, 1)$ 上以权函数 $\omega_{\alpha, \beta}(x) = (1-x)^\alpha (1+x)^\beta$ 相互正交。$\mathcal{P}_N(\Lambda)$ 表示次数不超过 $N$ 的全体多项式集合，$P_{N, \alpha, \beta}$ 是从 $L^2(\Lambda)$ 到 $\mathcal{P}_N(\Lambda)$ 的正交投影。2004年，郭本瑜和学生王立联证明，对整数 $0 \leqslant \mu \leqslant r \leqslant N+1$，
+$$ \left\| \frac{\partial^\mu}{\partial x^\mu} (P_{N, \alpha, \beta} U - U) \right\|_{L^2_{\omega_{\alpha+\mu, \beta+\mu}}(\Lambda)} \leqslant c_{\alpha, \beta} N^{\mu-r} \left\| \frac{\partial^r U}{\partial x^r} \right\|_{L^2_{\omega_{\alpha+r, \beta+r}}(\Lambda)}, \quad (8) $$
+其中 $c_{\alpha, \beta}$ 是 $\alpha, \beta$ 的显函数。
+在许多实际问题中，微分方程的系数以不同方式退化，因此需要考虑非一致权 Sobolev 空间中的正交投影，例如由下式定义的投影，
+$$ \left( \frac{\partial}{\partial x} (P^1_{N, \alpha, \beta, \gamma, \delta} U - U), \frac{\partial \phi}{\partial x} \right)_{L^2_{\omega_{\alpha, \beta}}(\Lambda)} + (P^1_{N, \alpha, \beta, \gamma, \delta} U - U, \phi)_{L^2_{\omega_{\gamma, \delta}}(\Lambda)} = 0, \forall \phi \in \mathcal{P}_N(\Lambda). $$
+若 $\alpha \leqslant \gamma + 2, \beta \leqslant \delta + 2$，则对一切整数 $1 \leqslant r \leqslant N+1$，
+$$ \left\| \frac{\partial}{\partial x} (P^1_{N, \alpha, \beta, \gamma, \delta} U - U) \right\|_{L^2_{\omega_{\alpha, \beta}}(\Lambda)} + \| P^1_{N, \alpha, \beta, \gamma, \delta} U - U \|_{L^2_{\omega_{\gamma, \delta}}(\Lambda)} $$
+$$ \leqslant c_{\alpha, \beta} N^{1-r} \left\| \frac{\partial^r U}{\partial x^r} \right\|_{L^2_{\alpha+r-1, \beta+r-1}(\Lambda)}. \quad (9) $$
+若 $\alpha \leqslant \gamma + 1, \beta \leqslant \delta + 1$，则
+$$ \| P^1_{N, \alpha, \beta, \gamma, \delta} U - U \|_{L^2_{\omega_{\gamma, \delta}}(\Lambda)} \leqslant c_{\alpha, \beta} N^{-r} \left\| \frac{\partial^r U}{\partial x^r} \right\|_{L^2_{\alpha+r-1, \beta+r-1}(\Lambda)}. \quad (10) $$
+对于端点处为零的正交投影，有类似的结果。
+1991年，M. Dubner 研究了三角形 $\mathcal{T}$ 上的正交多项式，但是正交投影的误差估计长期悬而未决。郭本瑜、王立联 (2007) 应用 (8)~(10) 解决了 $L^2(\mathcal{T})$ 正交投影和 $H^1_0(\mathcal{T})$ 正交投影的误差估计，从而建立了三角形上谱方法的理论基础。
+郭本瑜 (1998~2003) 把无限区间上的问题变换为有限区间上的奇异问题。例如，变换 $x(y) = \ln \frac{1+y}{1-y}$ 和 $x = -\ln(1-y) + 2\ln 2$ 分别把无穷区间 $(-\infty, \infty)$ 和 $(0, \infty)$ 上的问题化为区间 $(-1, 1)$ 上的奇异问题，从而可应用 Jacobi 谱方法。
+郭本瑜和学生们 (2001, 2004) 研究了 Jacobi 插值。分别用 $I_{G, N, \alpha, \beta}, I_{R, N, \alpha, \beta}$ 和 $I_{L, N, \alpha, \beta}$ 表示 $N$ 次 Jacobi-Gauss, Jacobi-Gauss-Radau 和 Jacobi-Gauss-Lobatto 插值。对整数
+
+1 ≤ r ≤ N + 1,
+$\|I_{Z,N,\alpha,\beta}U - U\|_{L^2_{\omega_{\alpha,\beta}}(\Lambda)} \leqslant c_{\alpha,\beta}N^{-r} \left\|\frac{\partial^r U}{\partial x^r}\right\|_{L^2_{\omega_{\alpha+r-\eta,\beta+r-\eta}}(\Lambda)}$
+其中当 Z = G, R 时 η = 0, 当 Z = L, 且 -1 < α, β ≤ 0 或 0 ≤ α, β < 1 时, η = 1。他们还估计了插值误差导数的上界。
+郭本瑜和学生们 (2001~2007) 设计和分析了二阶或四阶奇异问题, 轴对称或无界区域问题的 Jacobi 谱和拟谱方法。2006 年, 郭本瑜、沈捷和王立联研究了广义 Jacobi 正交逼近, 即参 α, β 是任意实数, 并应用它计算高阶微分方程。郭本瑜和学生张科技、孙涛 (2008, 2001) 建立了 Legendra 和广义 Jacobi 拟正交逼近和有关插值理论。郭本瑜和学生贾丽红 (2010) 则推广到多角形区域, 并提出多角形区域谱元方法和区域分解拟谱方法, 从本质上拓宽了谱和拟谱方法。
+3) 无界区域和外部问题的谱方法。谱和拟谱方法的优点之一是易于处理无界区域问题。记 Λ = (-∞, ∞), 权函数 ω(x) = e⁻ˣ²。P_N 表示从 L²_ω(Λ) 到 P_N(Λ) 的 Hermite 正交投影。郭本瑜 (1998) 证明, 对一切整数 0 ≤ μ ≤ r ≤ N,
+$\left\|\frac{\partial^\mu}{\partial x^\mu}(P_N U - U)\right\|_{L^2_\omega(\Lambda)} \leqslant cN^{\frac{\mu-r}{2}} \left\|\frac{\partial^r U}{\partial x^r}\right\|_{L^2_\omega(\Lambda)}$
+用 I_{G,N} 表示 Hermite-Gauss 插值, 郭本瑜和学生徐承龙 (2000) 证明, 若整数 1 ≤ r ≤ N, 且 μ ≤ r, 则
+$\left\|\frac{\partial^\mu}{\partial x^\mu}(I_{G,N}U - U)\right\|_{L^2_\omega(\Lambda)} \leqslant cN^{\frac{1}{3}+\frac{\mu-r}{2}} \left\|\frac{\partial^r U}{\partial x^r}\right\|_{L^2_\omega(\Lambda)}$
+以前, 人们试图应用 Hermite 逼近计算微分方程。但是由于原问题在带权的 Sobolev 空间中不适定, 数值结果都不理想。郭本瑜则把原问题化为带权 Sobolev 空间中的适定问题, 再应用 Hermite 逼近, 从而成功地应用于某些流体力学与生态模型计算。
+上述算法可能破坏非线性波动问题数值解的守恒律。郭本瑜等 (2003) 发展了以 Hermite 函数为基底的谱和拟谱方法, 建立了理论基础。它们的数值解保持了原问题解的整体性质。
+在实际应用中, 半直线 Λ = (0, ∞) 上的 Laguerre 逼近更重要。D. Funaro 和 Y. Maday(1985) 曾试用它计算偏微分方程。2000 年, 郭本瑜和沈捷把原方程变换成在带权 ω(x) = e⁻ˣ 的 Sobolev 空间中的适定问题, 然后应用 Laguerre 谱方法得到精确的数值解。他们还建立了有关谱方法的理论基础。
+2005 年, 郭本瑜和学生张小勇研究了带有比例因子的广义 Laguerre 多项式
+$\mathcal{L}_l^{(\alpha,\beta)}(x) = \frac{1}{l!} x^{-\alpha} e^{\beta x} \frac{\partial^l}{\partial x^l} (x^{l+\alpha} e^{-\beta x}), \quad \alpha > -1, \quad \beta > 0, \quad l \geqslant 0,$
+它们以权函数 ω_{α,β}(x) = x^α e^{-βx} 相互正交。用 P_{N,α,β} 表示从 L²_{ω_{α,β}}(Λ) 到 P_N(Λ) 的正交
+
+投影，则对一切整数 $0 \leqslant \mu \leqslant r \leqslant N+1$,
+$$\left\|\frac{\partial^{\mu}}{\partial x^{\mu}}\left(P_{N, \alpha, \beta} U-U\right)\right\|_{L_{\omega_{\alpha+\mu, \beta+\mu}}^{2}(\Lambda)} \leqslant c_{\alpha, \beta}(\beta N)^{\frac{\mu-r}{2}}\left\|\frac{\partial^{r} U}{\partial x^{r}}\right\|_{L_{\omega_{\alpha+r, \beta+r}}^{2}(\Lambda)},$$
+其中 $c_{\alpha, \beta}$ 是 $\alpha, \beta$ 的显函数。他们还研究了非一致权函数 Sobolev 空间中的正交投影。
+另一方面，郭本瑜和学生徐承龙、王立联等 (2002, 2006, 2008) 发展了 Laguerre 插值理论。用 $I_{G, N, \alpha, \beta}$ 和 $I_{R, N, \alpha, \beta}$ 分别表示广义 Laguerre-Gauss 插值和广义 Laguerre-Gauss-Radau 插值。对整数 $r \geqslant 1$ 和 $0 \leqslant \mu \leqslant r \leqslant N+1$,
+$$\begin{aligned} & \left\|\frac{\partial^{\mu}}{\partial x^{\mu}}\left(I_{G, N, \alpha, \beta} U-U\right)\right\|_{L_{\omega_{\alpha, \beta}}^{2}(\Lambda)} \\ & \quad \leqslant c_{\alpha, \beta}(\beta N)^{\mu+\frac{1}{2}-\frac{r}{2}}\left(\beta^{-1}\left\|\frac{\partial^{r} U}{\partial x^{r}}\right\|_{L_{\omega_{\alpha+r-1, \beta}}^{2}(\Lambda)}\right. \\ & \left.\quad+N^{-\frac{1}{2}}\left\|\frac{\partial^{r} U}{\partial x^{r}}\right\|_{L_{\omega_{\alpha+r-\mu, \beta}}^{2}(\Lambda)}+\left(1+\beta^{-\frac{1}{2}}\right)(\ln N)^{\frac{1}{2}}\left\|\frac{\partial^{r} U}{\partial x^{r}}\right\|_{L_{\omega_{\alpha+r, \beta}}^{2}(\Lambda)}\right). \end{aligned}$$
+若 $r>\alpha+1$, 则上面估计对 $I_{R, N, \alpha, \beta}$ 也成立。又若 $|\alpha|<1$ 时, 则对一切 $r \geqslant 1$ 成立。
+许多流体问题的解在固壁 $x=0$ 附近变化剧烈。为了既提高精度又节省工作量, 郭本瑜和马和平 (2001) 提出了在固壁附近采用 Legendre 逼近, 而在其余部分采用 Laguerre 逼近。如果解在远处也较剧烈变化, 那么, 王立联、郭本瑜 (2006) 采用逐步延拓的 Laguerre 拟谱方法, 它既易于计算又保持高精度。另外, 郭本瑜、王立联 (2006) 提出了一种瀑布型混合方法, 即先用 Laguerre 拟谱方法或逐步延拓法计算初始近似解, 然后在插值点之间应用 Legendre 拟谱方法平行地计算原问题, 从而恢复了插值点之间数值解的精度。郭本瑜、徐承龙 (2000～2007) 还发展了无限长条区域和圆外问题的各种混合谱方法。
+为了使数值解保持原问题的整体性质, 郭本瑜等 (2007) 提出以广义 Laguerre 函数为基函数的谱和拟谱方法。用 $\widetilde{P}_{N, \alpha, \beta}$ 表示从 $L_{x^{\alpha}}^{2}(\Lambda)$ 到 $Q_{N, \beta}(\Lambda)=\left\{\mathrm{e}^{\frac{1}{2} \beta x} \mathcal{L}_{l}^{(\alpha, \beta)}(x), \quad 0 \leqslant l \leqslant N\right\}$ 的正交投影, 那么
+$$\left\|\widetilde{P}_{N, \alpha, \beta} U-U\right\|_{L_{x^{\alpha}}^{2}(\Lambda)} \leqslant c_{\alpha, \beta}(\beta N)^{-\frac{r}{2}}\left\|\frac{\partial^{r}}{\partial x^{r}}\left(\mathrm{e}^{\frac{1}{2} \beta x} U\right)\right\|_{L_{\omega_{\alpha+r, \beta}}^{2}(\Lambda)}.$$
+他们还研究了非一致权 Sobolev 空间的广义 Laguerre 正交投影, 且应用此类谱方法计算退化抛物型方程, 它包括许多重要的金融数学模型。对于相应插值, 有类似结果。
+郭本瑜和学生张超 (2011, 2012) 还建立了两类广义 Laguerre 拟正交通近和插值理论, 其中 $\alpha$ 为任意实数, 并应用于高阶微分方程数值解
+2007 年, 郭本瑜和学生王天军提出了拟正交混合逼近方法, 为构造和分析非典则微分方程和外部问题的谱和拟谱方法提供了重要思想和工具。例如, Fokker-Planck 方程在不同方向分别类似于不同类型方程, 且在不同区域具有不同类型的边界条件, 所以无法应用通常的谱方法。他们在不同子区域上采用不同的拟正交混合逼近方法, 由此得到的
+
+数值解既满足边界条件又保持谱方法的高精度。郭本瑜和学生们还提出了长方形障碍物外部问题的谱和拟谱方法。
+4) 有理和无理谱方法。J. P. Boyd 等曾用一种有理函数系逼近微分方程的解，但无理论分析。以 $L_l(x)$ 和 $T_l(x)$ 分别表示 $l$ 次 Legendre 和 Chebyshev 多项式。郭本瑜、王中庆、沈捷 (2000~2004) 系统地研究了以下四类有理函数系
+$$L_l \left( \frac{x}{\sqrt{x+1}} \right), \quad T_l \left( \frac{x}{\sqrt{x^2+1}} \right), \quad L_l \left( \frac{x-1}{x+1} \right), \quad T_l \left( \frac{x-1}{x+1} \right), \quad l \geqslant 0.$$
+前两类函数系在全直线 $(-\infty, \infty)$ 上分别以 $(x^2+1)^{-\frac{3}{2}}$ 和 $(x^2+1)^{-1}$ 为权函数相互正交 (其中第二类函数系由 Boyd 引入)。后两类函数系在半直线 $(0, \infty)$ 上分别以 $(x+1)^{-2}$ 和 $x^{-\frac{1}{2}}(x+1)^{-\frac{1}{2}}$ 为权函数相互正交。他们应用 Jacobi 逼近的最新结果建立了四类正交逼近和插值理论，构造与分析了许多无界区域问题的谱和拟谱方法。为了使数值解保持原问题的整体性质，他们提出了修正有理谱和拟谱方法及其理论基础，此时所采用的基函数是前三类有理函数和相应的权函数平方根的乘积。
+郭本瑜和沈捷 (2007) 研究了函数系 $I_l^{(\alpha, \gamma, \delta)}(x) = x^{-\gamma} J_l^{(\alpha, 0)}(1 - 2x^{-\delta}), \quad l \geqslant 0$，建立了正交逼近理论。在实际应用中，选择适当的参数 $\gamma$ 使得数值解较好地拟合真解的渐近行为，选择 $\alpha$ 使得上述函数系对真解所在空间的权函数相互正交，调节 $\delta$ 得到更好的数值结果。郭本瑜和学生裔勇刚 (2010, 2012) 还建立了由广义 Jacobi 函数诱导的正交逼近理论，拓宽了无理谱方法理论及其应用
+5) 球坐标谱方法。1995 年，郭本瑜研究单位球面 $S$ 上的谱方法。$Y_{l,m}(\lambda, \theta)$ 表示球面调和函数，$V_N(S)$ 是 $\text{span}\{Y_{l,m} \mid |l| \leqslant N, \quad |l| \leqslant m \leqslant N\}$ 中的实值函数子集合。用 $P_N$ 表示从 $L^2(S)$ 到 $V_N(S)$ 的正交投影，则对整数 $0 \leqslant \mu \leqslant r \leqslant N+1$
+$$\| P_N U - U \|_{H^\mu(S)} \leqslant c N^{\mu-r} |U|_{H^r(S)}.$$
+郭本瑜设计了球面上涡度方程谱方法。郭本瑜和学生曹伟明 (1995) 应用于球面上低 Mach 数流动。另一方面，郭本瑜和学生黄伟 (2007) 提出一种计算球内 Navier-Stokes 方程的新方法，即应用球坐标计算速度的直角坐标分量，并在半径方向采用 Jaboci 逼近，从而计算方便且保持谱精度。此外，郭本瑜等 (2006) 提出球外问题的球面调和-广义 Laguerre 谱方法。
+1997 年，曹伟明和郭本瑜研究了一类单位球面上的插值。用 $x_j$ 和 $\omega_j$ 分别表示 Legendre-Gauss 插值点和权。离散内积
+$$(u, v)_N = \frac{2\pi}{2N+1} \sum_{k=0}^{2N} \sum_{j=0}^{N} u \left( \frac{2k\pi}{2N+1}, \arcsin x_j \right) v \left( \frac{2k\pi}{2N+1}, \arcsin x_j \right) \omega_j.$$
+所谓插值 $I_N$ 是按照上述内积，从 $C(S)$ 到 $V_N(S)$ 的投影。若 $r > 1, 0 \leqslant \mu \leqslant r \leqslant N+1$ 则对任意 $\delta > 0,$
+$$\| I_N U - U \|_{H^\mu(S)} \leqslant c N^{\mu-r+1+\delta} \| U \|_{H^r(S)}.$$
+
+他们提出了球面上涡度方程拟谱方法。上述结果还应用于球外问题拟谱方法。
+郭本瑜和学生王中庆、严建平 (2007~2012) 还基于正交逼近提出常微分方程初值问新配置法，提高了计算稳定性和精度。
+三、郭本瑜主要论著
+郭本瑜. 1974. 黏性流体二维涡度方程的一类差分格式. 数学学报, 17: 242-258.
+Kuo P Y. 1979. The conservative scheme for atmospheric circulation equations and error estimation of global prediction. Scientia Sinica(Special issue), 1: 39-52.
+Guo B Y. 1981. Difference method for fluid dynamics-numerical solution of primitive equations. Scientia Sinica, 24: 297-312.
+Kuo P Y, Sanz-Serna J M. 1981. Convergence of methods for the numerical solution of the Korteweg-de Vries equation. IMA J Numer Anal, 1: 215-221.
+Guo B Y. 1982. On stability of discretization. Scientia Sinica, A25: 702-715.
+郭本瑜. 1985. KdV-Burgers 方程谱方法的误差估计. 数学学报, 28: 1-15.
+郭本瑜. 1988. 偏微分方程的差分方法. 北京: 科学出版社.
+Guo B Y. 1991. Numerical study of nonlinear waves. Soliton Theory and its Applications. Berlin: Springer: 337-362.
+Guo B Y. 1995. A Spectral method for the vorticity equation on the surface. Math Comp, 64: 1067-1079.
+Guo B Y. 1998. Spectral Methods and Their Applications. Singapore: World Scientific.
+Guo B Y. 1999. Error estimation of Hermite spectral method for nonlinear partial differential equations. Math Comp, 68: 1067-1078.
+Guo B Y. 2000. Gegenbauer approximation in certain Hilbert spaces and its applications to singular differential equations. SIAM J Numer Anal, 37: 621-645.
+Guo B Y, Shen J. 2000. Laguerre-Galerkin method for nonlinear partial differential equations on a semi-infinite interval. Numer Math, 86: 635-654.
+主要参考文献
+曾庆存. 1979. 我国大气动力学和数值天气预报研究工作的进展. 大气科学, 3: 261-270.
+Griffiths D F. 1982. The stability of difference approximation to nonlinear partial differential equation. Bull of IMA, 18: 210-215.
+Canuto C, Hussaini M Y, Quarteroni A, et al. 2006. Spectral Methods, Fundamentals in Single Domains. Berlin: Springer-Verlag.
+Ying L A. 2006. Numerical Methods for Exterior Problems. Singapore: World Scientific.
+撰写者
+郭本瑜

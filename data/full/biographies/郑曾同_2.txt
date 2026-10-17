@@ -1,0 +1,152 @@
+人物：郑曾同
+生年：1915年9月15日
+逝世：1980年
+研究方向：概率论
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第一分册_p428
+页码：337-347
+============================================================
+
+郑曾同
+
+郑曾同（1915~1980），安徽黟县人。概率论专家。1937年毕业于清华大学数学系。1937年8月至1938年7月在昆明西南联大任助教。其后在厦门大学、重庆中央工业专科学校、中山大学师范学院、重庆交通大学任教。1946年去美国，1949年在康乃尔大学获博士学位。1950年初回国，在岭南大学任教授。1952年在中山大学任教授直到1980年。曾担任《数学年刊》编委。研究领域为概率论与随机过程，在独立随机变量和的渐近展式与测度弱收敛两方面都有显著的成绩。
+
+一、数学生涯
+
+1980年6月3日，每周一次的随机分析讨论班如常地进行。主持人郑曾同的开场白是：“上周在讨论班中，我所讲的内容有错误，请取消所做的笔记。一切以今天所讲的为准……”。这是怎么一回事，太意外了。曾受业于郑曾同门下的，都认为他学风严谨，阐明概念的实质尤其得心应手，怎么忽然会出现这样的情况呢？一下子勾销认同了7天的学术结论，确属不寻常之举。
+
+早在1950年初，郑曾同从美国回到中国，那时测度论已在国际文献中普遍流传使用，但在中国，P. R. Halmos 的测度论专著尚未出现，郑曾同及时地多次组织 Lebesgue 积分、点集拓扑讨论班，带动年轻教师注意分析基础的学习。现在，这些科目在数学中已成为“家常便饭”，然而开展学术研究，前瞻性的学术准备是绝对不可缺少的。在独立随机变量和的渐近展式及测度的弱收敛两方面，郑曾同都取得了显著的研究成绩。他跟随 Kolmogorov 学派的途径，身体力行，带动了 Wiener 积分与赋范线性空间微分学的研究。
+
+郑曾同毕业于清华大学数学系（1933~1937）。入学时是物理系，后转入数学系。在清华学习期间，恰好有一门功课的任课老师因病请假，学校临时请陈省身代课。待该老师的病症愈后，同学们却请求校方让陈省身继续讲下去。1937年8月至1938年7月郑曾同在昆明西南联大任助教。其后在厦门大学、重庆中央工业专科学校、中山大学师范学院、重庆交通大学任教。其间与萨本栋、杨龙生合著《实用微积分》一书，发表过概率统计方面的论文。然而，这些论文受到 W. Feller 的批评。1946年，郑曾同决定到美国报考康乃尔大学作为 Feller 的博士研究生，郑曾同的博士论文是涉及二项分布的渐近展式与 Ramanujan 的一个猜想的关联。他于1949年9月在康乃尔大学取得博士学位。1950年
+
+初回国，受到苏联 Kolmogorov 学派的研究工作所启发，写了《相互独立随机变数和的渐近展式》一文 (1955)，引起了许宝騄的关注。其后又在《中国科学》发表《线性泛函的积分表示与测度弱收敛》一文。这两篇文章反映了郑曾同在概率论中极限定理的贡献。1956年由北京大学与中国科学院联合主办概率统计进修班，开设测度论、极限定理、数理统计和马氏过程等一系列专门化课程。郑曾同受聘担任测度论课程主讲。他的测度论讲义特点是以积分的泛函性质作为先导。在国外采取这种模式的测度论教材，似乎在 20 世纪 50 年代末才出现。
+
+1947 年出版的 Treatise on Set Topology 乃印度数学家 R. Vaidyanathaswamy 在点集拓扑方面的名著，1950 年，郑曾同得到该书后，随即组织讨论班研读。该书习题共 508 题，每次讨论，对有关拓扑的概念则详加剖析，习题则各抒己见，交流心得。这种作法对年轻数学工作者的成长，裨益甚大。
+
+郑曾同重视泛函分析的研究，邀请关肇直、卢文等专家作系统讲座，讲题有线性拓扑空间、控制论、信息论及谱论。他与卢文翻译了 Kantorovich 的《半序空间中的泛函分析》。他为上海科学技术出版社审阅了夏道行的专著《无限维空间的测度与积分》(上册)。吴占生是这些讲座中受益者的一位，“文革”前中山大学特别将吴占生配备为郑曾同的研究助手。20 世纪 80 年代初，吴占生在新南威尔士大学取得博士学位，他有分布参数系统控制论的专著在国外出版。
+
+郑曾同在 20 世纪 70 年代中后期的学术研究工作贯彻在 Martingale、随机积分、随机微分方程、随机控制等一系列的讨论班之中。特别是他在概率统计教室内主持的关于 A. V. Skorohod, A. N. Shiryev 的工作的讨论班，对推动随机微分方程和随机分析研究起积极的作用。
+
+郑曾同生活简朴，擅长京胡，偶尔亦尝应邀演奏。在体育运动中，跳高成绩亦不俗。对观评中国象棋尤其着迷，但似乎未见过他下棋。每逢文化公园象棋比赛，他经常与金应熙一道前往观看，流连忘返。
+
+二、数学成就
+
+郑曾同是我国概率论研究的开拓者之一，对概率论和随机过程极限理论有深入的研究；他有广博的数学知识，精通测度论和 Hilbert 空间论。他是一个好教师，开过的课很多，从基础的微积分学到前沿的研究课程都讲过；讲课深入浅出，常常把一些很难的定理分析清楚和证明到底，听者得益良多。“文化大革命”结束后，他开始恢复研究工作和培养年轻人，将已有基础的随机过程极限理论的研究开拓到随机分析和随机微分方程的研究。1978~1980 年，他为研究生和全国各地来的进修教师讲了四门课：点集拓扑学 (参考书 Kelley, General Topology)；泛函分析 (参考书 Naimark, Normed Rings)；布朗运动与马氏过程 (参考书 Friedman, Stochastic Differential Equations and Applications)；鞅论，随机积分与随机微分方程 (参考书 Liptser, Shiryev Statistics of Random Processes)。这些
+
+课程使研究生和年轻教师打好了基础和走上了研究之路。他筹划翻译 Gihman-Skorohod 的俄文专著 The Theory of Stochastic Processes (3)，准备在讨论班讲解。他在国内的学术会议做过“随机微分方程”的综合评述。他读了 Malliavin 的 Stochastic Calculus of Variation and Hypoelliptic Operators 和 S. T. Yau 的 On the Heat Kernel of Riemannian Manifold 这两篇文章后，预料到偏微分方程与微分几何将会在随机过程的研究起很大的作用，指导他的研究生从事泛函积分与偏微分方程联系的研究。
+他的研究领域是概率论与随机过程论，着重于极限理论的研究；从古典中心极限定理到现代的随机过程的极限定理都做出了贡献。下面概述他的一些研究工作。
+1. 中心极限定理
+《关于独立随机变数之和的渐近展式》中证明了独立随机变量之和的一个新的渐近展开式，并得到了中心极限定理余项的精确估计。
+令 $\{X_k, k=1, 2, \cdots\}$ 是独立的随机变量列，各具有有限方差 $\sigma_k^2$；不失一般性，令 $EX_k=0$。令 $s_n^2=\sigma_1^2+\cdots+\sigma_n^2$，$(X_1+\cdots+X_n)/s_n$ 的分布函数记为 $F_n(x)$。
+Cramer, Feller 曾研究过当 $n, x$ 同时趋于无穷时 $F_n(x)$ 渐近性质。Cramer 在各 $X_k$ 同分布的条件下得到 $F_n(x)$ 的渐近展开，其余项等级为 $(\log n)n^{-1/2}e^{-x^2/2}$。Feller 推广了 Cramer 的结果到各 $X_k$ 不同分布情形，但加上了 $X_k$ 为有界和 $|X_n|=o(s_n)$ 条件；Feller 的结果在同分布情形下余项等级为 $n^{-1/2}e^{-x^2/2}$，即去掉了因子 $\log n$。
+本文得到了 $F_n(x)$ 的另外一些渐近性态和余项估计，主要结果为
+定理 令 $V_k(x), v_k(t)$ 分别为 $X_k$ 的分布函数和特征函数，若
+1) $\lim_{n\to\infty}s_n=\infty$;
+2) 存在正数 $A, B$ 使 $\int_{-\infty}^{\infty}|x|^3e^{A|x|}dV_k(x)\leqslant B\sigma_k^2, k=1, 2, \cdots;$
+3) $\forall\delta>0$, 存在正数 $C$, 使 $\sup_{|t|\geqslant\delta}\prod_{k=1}^nv_k(t)=O(e^{-Cs_n^{2/3}}),$
+则
+$F_n(x)=\sum_{s=0}^{[bs_n^{2/3}]}\frac{g_3^s}{s!}\sum_{u=0}^{[bs_n^{2/3}]}(-1)^{s+u}h_u\Phi^{3s+u}(x)+O(e^{-cs_n^{2/3}}).$ (1)
+若 $x=o(s_n^{1/3})$, 有
+$F_n(x)=\Phi(x)-\frac{1}{\sqrt{2\pi}}x^{-1}e^{-x^2/2}\left(e^{(\sum_{k=1}^n\gamma_{k,3})x^3/6s_n^2}-1\right)+O(s_n^{-1/2}e^{-x^2/2}),$ (2)
+其中 $\Phi(x)$ 是标准正态分布函数，$\gamma_{k,s}$ 是 $X_k$ 的 $s$ 阶的半不变量，$g_s=\sum_{k=1}^n(\gamma_{k,s}/s!)s_n^s, s=3, 4, \cdots;$ $e^{\sum_{s=4}^\infty g_st^s}=\sum_{n=0}^\infty h_nt^n; b, c$ 为正常数。
+若 $X_k$ 对称，且 $x=o(s_n^{1/3})$ 时，则有
+$F_n(x)=\sum_{u=0}^{3+m}(-1)^uh_u\Phi^{(u)}(x)+O(s_n^{-1-m/6}e^{-x^2/2}), \quad m=1, 2, \cdots$ (3)
+
+当 $F_n(x)$ 的密度 $p_n(x)$ 存在时，由上定理还可推出密度 $p_n(x)$ 也有类似于 (1)(2)(3) 的展开式。
+
+2. 随机过程依分布收敛与函数空间上的测度的收敛
+
+郑曾同得到线性泛函积分表示的新定理并用之来讨论函数空间的测度弱收敛问题。原先最著名的表示定理有两个：(1) Daniel-Stone 表示定理，无需加上拓扑条件，等价于 Carathéodory 测度扩张定理；(2) Riesz 表示定理，对应于局部紧 Hausdorff 空间上的正则测度。郑曾同的表示定理与上述的定理完全不同，它基于函数族的代数性质与弱拓扑的考虑，得到的表示测度也满足一定的正则性；这个表示定理用于讨论函数空间的测度弱收敛时可得到一系列新结果。
+
+考虑非空集 $X$ 和定义在其上的一族有界实值函数 $L$，令
+$W^{**} = \{f^{-1}(G) : f \in L, G \text{ 是任意开集}\}$;
+$W^* = W^{**}$ 中的任意有限个元的交成的集族；
+$\hat{W} = W^{**}$ 中的任意有限个或可数元的并成的集族；
+$W = W^*$ 中的任意个元的并成的集族；
+$\hat{S} = \sigma(\hat{W}), S = \sigma(W)$。
+定理 1 对上述的函数族 $L, \hat{S}$ 上的测度在如下意义是正则的：
+$\mu(A) = \inf\{\mu(B) : B \in \hat{W}, B \supset A\}$。
+
+定理 2 对上述的函数族 $L$，若 $L$ 是含 1 的代数，且 $f, g \in L \Rightarrow \max(f, g) \in L$。设 $\Lambda$ 是 $L$ 上的非负，$\tau$ 光滑的线性泛函。则存在唯一的，$S$ 上的 $\tau$ 光滑测度 $\mu$ 使得
+1) $\Lambda(f) = \int f d\mu, f \in L$;
+2) $\mu$ 在如下意义是正则的：
+$\mu(A) = \inf\{\mu(B) : B \in W, B \supset A\}, \quad A \in S$。
+
+定理 3 对上述的函数族 $L$，若 $L$ 是含 1 的代数，且 $f, g \in L \Rightarrow \max(f, g) \in L$。则 $\hat{S}$ 上的 $\tau$ 光滑测度可以唯一扩张为 $S$ 上的 $\tau$ 光滑测度 $\mu$；且 $\mu$ 在如下意义是正则的：
+$\mu(A) = \inf\{\mu(B) : B \in W, B \supset A\}, \quad A \in S$。
+
+系 1 在全正则拓扑空间中，每个 $\tau$ 光滑测度 Baire 测度可唯一扩张为 $\tau$ 光滑 Borel 测度。
+系 2 设 $A$ 是 $X$ 的子集代数，$\mu$ 是 $A$ 上的测度，且满足条件
+$A_\alpha \in A, A_\alpha \uparrow X \Rightarrow \lim_\alpha \mu(A_\alpha) = \mu(X)$。
+
+令 $B = A$ 中的任意个元的并成的集族，$D = \sigma(B)$，则 $\mu$ 可唯一扩张成 $D = \sigma(B)$ 上的测度，且有如下正则性：
+
+1) $B_{\alpha} \in B, B_{\alpha} \uparrow X \Rightarrow \lim _{\alpha} \tilde{\mu}\left(B_{\alpha}\right)=\tilde{\mu}(X)$;
+2) $\tilde{\mu}(D)=\inf \{\tilde{\mu}(B): B \in B, B \supset D\}$.
+定理 4 设 $L$ 是可测空间 $(X, B)$ 上的一族有界可测函数, 且 $1 \in L$ 和 $f, g \in L \Rightarrow$ $f g \in L$ 。设 $\left(\mu_{\alpha}\right)$ 是 $(X, B)$ 上的测度网, $\mu$ 是 $(X, B)$ 上的测度。则
+$$
+\lim _{\alpha} \int f \mathrm{~d} \mu_{\alpha}=\int f \mathrm{~d} \mu, f \in L
+$$
+的充要条件是
+$$
+\lim _{\alpha} \mu_{\alpha}(X) \geqslant \mu(X) \text { 及 } \lim _{\alpha} \mu_{\alpha}(A) \geqslant \mu(A), \quad A \in \hat{W} .
+$$
+3. 距离空间上的测度弱收敛
+这是郑曾同在研究测度弱收敛方面的重要工作, 被 Billingsley 引录。证明了一般距离空间测度弱收敛的两个定理; 这些定理可应用于 $C[0,1]$ 与 $D[0,1]$ 空间和其他函数空间; 这些定理不仅给出较普遍结果的简单的证明, 而且为这类问题的研究提供一个普遍的方法。
+定理 1 设 $(X, \rho)$ 为可分距离空间, $\rho_{n}(n=1,2, \cdots)$ 是 $X$ 上的一族拟距离, 且
+$$
+\rho_{n}(x, y) \uparrow \rho(x, y), \quad x, y \in X,
+$$
+若 $\mu, \mu_{n}$ 为 Borel 代数 $\mathrm{B}_{X}$ 上的测度。则 $\mu_{n} \Rightarrow \mu$ 的充要条件为: 对每个有限子集 $J \subset X$及正数 $\delta$ 有
+$$
+\lim _{n \rightarrow \infty} \sup _{m}\left|\int f_{m} \mathrm{~d} \mu_{n}-\int f_{m} \mathrm{~d} \mu\right|=0,
+$$
+其中 $f_{0}(x)=1, f_{m}(x)=1-\min \left\{\max \left(\rho_{m}(x, J)-\delta, 0\right), \delta\right\}, m \geqslant 1$ 。
+定理 2 设 $(X, \rho)$ 为可分距离空间, $\rho_{n}(n=1,2, \cdots)$ 是 $X$ 上的一族拟距离, 若 $\mu, \mu_{n}$为 Borel 代数 $\mathrm{B}_{X}$ 上的测度, 满足条件: $\forall \varepsilon>0, y \in X$, 存在 $A \in \mathrm{B}_{X}$ 使
+$$
+\mu(A)<\varepsilon, \quad \overline{\lim _{n \rightarrow \infty}} \mu_{n}(A)<\varepsilon
+$$
+及 $m$ 充分大时有 $\sup _{x \in X-A}\left|\rho_{m}(x, y)-\rho(x, y)\right|<\varepsilon$ 。
+又若 $\lim _{n} \mu_{n}(X)=\mu(X)$, 且对每个有限子集 $J \subset X$ 及正数 $\delta$ 有
+$$
+\lim _{n \rightarrow \infty} \int f_{m} \mathrm{~d} \mu_{n}=\int f_{m} \mathrm{~d} \mu, \quad m=1,2, \cdots,
+$$
+其中 $f_{0}(x)=1, f_{m}(x)=1-\min \left\{\max \left(\rho_{m}(x, J)-\delta, 0\right), \delta\right\}, m \geqslant 1$, 则有 $\mu_{n} \Rightarrow \mu$ 。
+4. 函数空间上的测度弱收敛问题 (中山大学概率统计研究室研究报告, 1980)
+郑曾同研究了很一般的函数空间上测度弱收敛的问题。设距离空间 $(X, \rho)$ 由一族定义在非空集合 $I$, 取值于可分距离空间 $(E, d)$ 的函数组成; 而 $\mu, \mu_{n}(n=1,2, \cdots)$ 是 Borel 集族 $\mathrm{B}_{X}$ 上的有限测度。设 $T$ 为 $I$ 的一个非空子集, $\left\{t_{1}, \cdots, t_{k}\right\}$ 为 $T$ 的有限子集,
+$$
+\pi_{t_{1}, \cdots, t_{k}}: x(\cdot) \rightarrow\left(x\left(t_{1}\right), \cdots, x\left(t_{k}\right)\right)
+$$
+
+为 $(X, \rho)$ 到距离空间 $(E^k, d^k)$ 的投影，其中 $E^k$ 为 $E$ 的 $k$ 次乘积空间，距离 $d^k$ 定义为
+$d^k((x(t_1), \cdots, x(t_k)), (y(t_1), \cdots, y(t_k))) = \max_{0 \leqslant i \leqslant k} d(x(t_i), y(t_i))$。
+定理 设坐标函数 $x(t)$ 对 $\mathrm{B}_X$ 可测，且
+1) $\mu_n \pi_{t_1, \cdots, t_k}^{-1} \Rightarrow \mu \pi_{t_1, \cdots, t_k}^{-1}$, $\{t_1, \cdots, t_k\}$ 为 $T$ 的任意有限子集 (即有限维分布收敛)。
+2) 任给 $\varepsilon > 0$, 存在 $A \subset X$, $T$ 的有限子集 $\{t_1, \cdots, t_k\}$ 及正数 $\delta$, 使
+$x(\cdot), y(\cdot) \in A, \quad \max_{0 \leqslant i \leqslant k} d(x(t_i), y(t_i)) < \delta \Rightarrow \rho(x(\cdot), y(\cdot)) < \varepsilon$
+与
+$\mu_*(X-A) < \varepsilon, \overline{\lim}_{n \to \infty} (\mu_n)_*(X-A) < \varepsilon,$
+则有
+$\mu_n \Rightarrow \mu.$
+随机过程依分布收敛可以归结为函数空间上测度弱收敛的问题；随机过程依分布收敛的充要条件为有限维分布收敛加上测度族的“致密性”(Prohorov 定理)。郑曾同的定理创新了 Prohorov 著名定理，它无需“致密性”的要求，而代之较自然和易于应用的条件 2)。这个定理可以用于连续随机过程，左连右极随机过程和线性随机过程的依分布收敛的研究；得到的结果也较好，空间完备性的条件也可以取消。
+5. 平稳过程与马氏过程
+(1) 随机测度与随机积分
+对广义平稳随机函数的谱分解问题提供了一个简单且比较普遍的处理方法。引进了随机测度，而将随机积分定义为随机测度的保距开拓。郑曾同用希氏空间理论和测度论的方法证明了 10 个定理，这些定理推广和改进进了 Kolmogorov (1941) 的经典文章《希氏空间平稳序列》的多个结果，其中包括 Cramer 的一个定理。
+(2) 测度弱收敛与强马氏过程
+郑将 Prohorov 的测度序列弱收敛定理推广到测度网情形，并用来研究齐次马氏过程的转移概率和强马氏性。概括了强马氏过程的充分条件：凡右连续的 Feller 过程必为强马氏过程；凡跳跃的马氏过程必为强马氏过程。
+三、郑曾同主要论著
+Cheng T T. 1949. On the sum of independent random variables. 康奈尔大学博士论文.
+Cheng T T. 1949. Normal approximation to Poisson distribution. Bull of AMS, 55(4).
+郑曾同. 1955. 关于独立随机变数之和的渐近展式. 数学学报, 5(1).
+郑曾同. 1961. 随机测度与随机积分. 数学学报, 11(2).
+
+郑曾同. 1961. 测度弱收敛与强马氏过程. 数学学报, 11(2).
+Cheng T T. 1963. Representation of linear functionals by integrals and the weak convergence of measures. Scienta Sinica, XII(12).
+郑曾同. 1965. 距离空间上的测度弱收敛. 数学学报, 15(1).
+Cheng T T. 1980. Note on weak convergence of function space. 中山大学概率统计研究室研究报告.
+主要参考文献
+Billingsley P. 1968. Convergence of Probability Measures. New York: John Wiley & Sons.
+Malliavin P. 1976. Stochastic calculus of variation and hypoelliptic operators. Proceedings of the International Symposium on Stochastic Differential Equations. New York: Wiley: 195–263.
+Yau S T. 1978. On the heat kernel of Riemannian manifold. J Math Pures Appl, 57: 191–201.
+撰写者
+刘良深 (1931~), 中山大学教授。受教于郑曾同, 从事泛函分析研究。
+区景祺 (1946~), 受教于郑曾同, 理学博士, 中山大学教授。研究方向为随机过程与随机分析。

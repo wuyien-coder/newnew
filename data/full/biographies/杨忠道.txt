@@ -1,0 +1,115 @@
+人物：杨忠道
+生年：1923年5月6日
+研究方向：代数拓扑及其应用，拓扑变换群
+来源：11680973_中国现代数学家传第5卷_
+页码：329-339
+============================================================
+
+杨忠道
+
+杨忠道 1923 年 5 月 6 日诞生于浙江省平阳县。台湾的中央研究院院士。美国宾夕法尼亚大学数学系教授。代数拓扑及其应用、拓扑变换群。
+
+我, 杨忠道, 出生于一个逐渐没落地主的家庭。曾祖父的祖父杨天鸿是当地有数的地主, 他或他的独子杨配仁曾捐田四百亩, 建立平阳县的育婴堂, 收养县里穷苦人家的弃婴。曾祖父杨佩华和祖父杨慕俦尚富有, 但英年早逝, 伐善可陈。父亲杨篪孙读过几年私塾, 约有初小的水平。母亲苏氏是祖母的亲侄女, 不识字。也许难教人相信, 我不知道我母亲的名字。自我懂事时起, 从不曾听到她的长辈用她的名字唤她, 也未见她在任何场合具名。
+
+到父母亲当家时, 家境很拮据。一家六口的生活, 完全依靠母亲辛勤的纺织及成衣, 和父亲竭力筹划农事来维持的。雇佣长工一二人, 种植十亩左右祖上留下来的田地。两位姐姐小学没有毕业就停学了, 在家里帮母亲做家务。我和弟弟两人除上学外也下
+
+* 本文是杨忠道教授自传。又, 杨忠道像摄于 2000 年 8 月。——编者
+
+272
+
+田干活,弟弟于1943年起全时当农民,所以我们很不同于一般人想像中地主的儿孙。
+1928年春,我进当地的私立关西初小读一年级。1931年上四年级时,数学教师黄仲迪用逻辑方法讲解鸡兔同笼问题,激发起我对数学的兴趣。我一生对数学的爱好,从此就开始了。上高小我必须去五里远的平阳县江南区中心小学上学,天天早去晚归,非体弱多病的我所能胜任,于是周日就住在校中的宿舍里,到周末才回家。两年中曾因病休学了半年。
+当时平阳县里没有一所初级中学。为上进,我于1934年秋去一百四十里外的温州城,考入温州中学初中部就读。叫人惊讶的是,在这个教育落后的平阳县里,当时已经出了两位数学家,即姜立夫和苏步青。这对我日后选读数学,是一个有启发性的鼓励。温州中学初中部有一位著名的数学教师,即陈叔平。被他教过的学生中,日后在数学界知名的,先后有苏步青、方德植、李锐夫(在中学时名李蕃)、徐贤修、白正国、徐贤议、杨忠道、谷超豪等。除上述几人外,数学界尚有若干温州籍的知名人士,因之社会上盛传温州出数学家。
+父亲坚持让我去读初中,是一个冒险的决定。当时我体弱多病,投考时体重仅六十磅,侥幸的是一年后我逐渐健壮了。我上初中的求学费用,是全家支出最大的一项,父母亲不胜负担。我初中毕业后停学在家一年,实在势所必然。后来上温州中学高中部靠公费。读高二时我得到数学教师陈仲武的赏识,于是他将自已珍藏的一本英文原版的微积分书交给我,嘱我好好读。同时他对班上其他同学说:“你们在数学上遇到困难时,不妨去问阿道。”阿道,就是我。读高三时我为上大学是否该去读出路较好的工学院,去向仲武先生请教。他听后就用他一向严肃而认真的口吻回答说:“你当然去选读数学,如果连你也不去读,还有什么人该去读呢?”凭仲武先生这句语重意长一句话,我走上了数学之路。
+
+上大学我依靠当时政府的政策。为吸收战时战区的知识青年，大学生可享受免费伙食。生活虽苦但有书念。大学一年级我是在浙江大学龙泉分校读的，上大二则去了在贵州的总校，才第一次见到敬仰甚久的同乡苏步青。步青先生是系主任，得他同意后，我选读了四门数学课，一门理论力学课和三门非数理课程。第一学期结束后，我数理课程的成绩都不少于90分，但是使步青先生高兴的，倒是理论力学得了90分。后来才了解，理论力学是数学系学生必修课之一，去选读的一般成绩不高，有的甚至不及格须补考。
+上大三时我选了一门步青先生授的综合几何课，乘机在课外读了一本德文版的射影几何书。学期结束时有一场考试，结果他给我100满分。我告诉他我的试卷中尚有若干欠完善的地方，他笑着回答说，他阅试卷是由左上角至右下角斜着看的，从不计较细节。
+步青先生知道了我的学习能力后，就抓住每个机会，教导我做学问的方法，以及如何去利用图书馆里的书籍和杂志。同时指派我义务替数学系图书馆管理书籍杂志，使能就近学习他的教导。
+有了步青先生的鼓励，再加上自己的努力，我开始自动找数学问题，并寻求解答。因之上大四及毕业后担任两年助教这三年中，我完成了五篇数学论文。其中两篇刊载于《科学记录》上，另外三篇经步青先生润色后分别在美国两数学杂志及阿根廷一数学杂志上发表。
+1945年抗战胜利，步青先生被派往台湾接收台湾大学，所以我读的微分几何一课，是白正国教的。湄潭县是贵州省一个小城，生活清苦，找不到消遣。应运而生的在数学系有一个打桥牌的小团体，成员是讲师白正国，助教郭本铁、叶彦谦、金福临，和学生杨忠道，每星期六必相聚，大战若干回合。虽然只是苦中作乐，回忆中仍是甜蜜的。
+1948年秋，我征得步青先生的同意，去中央研究院数学研究
+
+所担任助理员。目的是从代所长陈省身学习代数拓扑，希望在几年后将这门知识带回浙大。没有料到几个月后时局急转直下，陈省身决定全家赴美访问。于是所长姜立夫不得不负起所长任务。当时台大校长傅斯年力主将中央研究院迁往台湾，除他自己主持的历史语言研究所不成问题外，最后只说动姜立夫，将数学研究所迁往台湾，而且只带去包括我在内的少数研究工作人员。初到台湾，住的问题困难重重，更谈不到找办公室，工作不能展开是必然的，所以一年之后，所有研究工作人员都离开了。
+1949 年秋，数学研究所的研究员陈省身、胡世桢和王宪钟三位都在美国大学里执教。经他们的协助，我获得助教奖学金，进美国 Tulane 大学读数学博士学位。
+初到美国，我的口语甚差，又不了解当地的生活习惯，生活得很狼狈。幸系里的研究生多半是第二次世界大战的退伍军人，年纪和我差不多，对惟一外籍研究生的我特别照顾。尤其 Haskell 与 Lois Cohen 夫妇，让我在他们家包饭，又 Wayman 与 Carol Strother 夫妇，将我引进社交活动，和美国人交朋友。所以不多久我的生活就正常了。
+第一个学期我选了四门数学课。代数拓扑由 A. D. Wallace 教授执教。他采用他师祖 R. L. Moore 的教授法，将课程的内容分作许多小命题，预先发给选课的学生，嘱他们自找证明。上课的时候，他让学生上台尝试证明。他自己坐在台下听，偶尔作评语，但决不帮忙。一个学生不成时换一个学生上去，一节课不完成时下节课再继续。因此他很快就发现了我的工作能力。
+又一门是一般拓扑，执教者是 J. L. Kelley 教授，教材是他写的，后来出版了。因为上课时我改善了一道习题，所以他在习题后面注明 C. T. Yang。于是国内一般拓扑工作者称之为“杨忠道定理”。
+第三门是泛函分析，由 B. J. Pettis 教授执教。期终考试他出
+275
+
+了八道难题,嘱大家于两星期后交卷。出乎大家意料之外,我做了约五道题,一位被大家公认最有才气的同学做了约三道题,其余四五人只做一两道题而已。
+第二学期开始后,Wallace 教授嘱我除上课外,加读一本法国数学家 H. Cartan 教授写的代数拓扑的讲义。读完那讲义之后,再经过几星期的思考,我觉得讲义中一个主要定理在比较更一般拓扑空间亦成立。Wallace 教授听到后很高兴,说那成果可以作为我的博士论文。
+第二学年开始后,Wallace 教授已替我细作安排。首先征得系主任的同意,让我免修一半必修的学分,使我能专心去做博士论文。同时他不鼓励我去参加他主持的 Topological Semi-groups 的讨论班,原因是讨论班的目的是帮助研究生去找博士论文的题材,对我没有必要。反之,他倒希望我能独立求发展,不一定依循他的研究路线。也许为此原因,他多方面替我找机会,使我能去一个研究比较活跃的地方,多与名数学家接触,以求更大的进展。在他的扶助下,我于 1952 年 5 月,得到了数学博士学位。同年 9 月去 University of Illinois 任博士后 (Research Associate)。
+在 Illinois 大学,我参加了 D. G. Bourgin 教授主持的代数拓扑的讨论班。班上成员主要是跟他做博士论文的研究生,讨论的题材是 Dyson 定理及有关的成果,如 Borswk-Ulam 定理, Kakutani-yamabe-yujo bo 定理等等。F. R. Dyson 是一位国际闻名的理论物理学家,他年轻时曾发表过几篇很引人注意的数学论文。这里说的是一个例子,而且比较容易懂。K - Y - Y 定理说,已给一个由 n - 1 维球面 S^n-1 至 1 维欧氏空间 IR 的连续函数 f,则存在 S^n-1 上 n 条互相垂直的半径 Ox_1, ..., Ox_n 使 f(x_1) = ... = f(x_n)。当 n = 3 时,这定理的证明相当困难,通常须依靠拓扑。当 n > 3 时,证明更困难了,一个证明的方法是先用数学归纳法去证明一个更一般的定理。Dyson 见了 K - Y - Y 定理及其证明,用类似方法得到了下
+
+面的结果：已给一个由 $S^2$ 至 $IR$ 的连续函数$f$,则存在 $S^2$ 上两条互相垂直的直径 $x_1y_1, x_2y_2$, 使 $f(x_1) = f(y_1) = f(x_2) = f(y_2)$。Dyson 猜测对任何一个由 $S^n$ 至 $IR$ 的连续函数$f$可以有类似的结论 $n > 2$。Bowrgin 教授和他的学生都在尝试去证明 Dyson 猜测。一位 Bowrgin 教授的学生做的博士论文,就是将 Dyson 定理中两条互相垂直的直径改为两条相交于一个已给的角度 $\alpha (0 < \alpha \leqslant \pi/2)$ 的直径。
+
+在这种气氛下,我也跟着尝试。经过半年多的努力,我证明了 Dyson 猜测。方法是引进 index 的概念,然后仿照 K - Y - Y 定理的证明,得到一个推广的 K - Y - Y 定理。再用 index 概念,得到一个推广的 B - U 定理。由这两个推广定理,我们很容易得到 Dyson 猜测。附带加一句,这 index 概念,后来亦被他人以不同名称引进,在分析方面有用处。
+
+接着我又写了一篇论文,将 Bowrgin 学生博士论文扩充至由 $S^{2m}$ 至 $IR^m$ 的连续函数$f$。
+
+有了上述的成绩,再加上 Wallace 教授鼎力的推荐,我获得美国国家科学基金一年的资助,于 1954 年秋,去普林斯顿高级研究院(Institute for Advanced Study)做研究。这是一所没有研究生的研究院,教授都是大师级的学者,去那里做研究的人或是博士后,或是去进修的大学教授,每个人的惟一任务是在自己科研领域上求进展。因为人多领域杂,讨论和交换意见的风气甚盛,确是做科研的好地方。当时在那里最负盛名的教授是爱因斯坦,但是 1955 年他去世了。
+
+我去高级研究院的研究计划是推广 Dyson 猜测,半年后就完成了。结果是: 已给一个由 $S^{mn}$ 至 $IR^m$ 的连续函数$f, m \geqslant 1, n \geqslant 1$, 则存在 $S^{mn}$ 上 $n$ 条直径 $x_1y_1, \cdots, x_ny_n$, 使 $f(x_1) = f(y_1) = \cdots = f(x_n) = f(y_n)$。这也是 B - U 定理的推广,主要的工具是利用 index 的概念,使能多次应用数学归纳法。
+
+277
+
+完成了这计划后,我自己体会到,继续去做类似的问题,前途是相当渺茫的,所以非另开途径不可。凑巧有一位关心我科研的D. Montgomery 教授(下面简称蒙教授),也就是 Wallace 教授重托安排我去高级研究院做研究的教授。他和 L. Zippin 合写了一本《拓扑变换群》的书将要出版,介绍 Hilbert 第五问题的解答及后来的发展,和拓扑变换群的基本性质。我抓住这机会毛遂自荐,作为那本书校对者之一。读完了校样之后,我觉得有一些问题可被考虑,于是去向蒙教授表示自己的意见。他听到后很高兴,说其中一个问题,就是他和 H. Samelson 教授科研的对象,立即邀我参加他们的行列。因此在一年多的时间中,我和他们合作写了两篇数学论文。
+蒙教授是国际上著名数学大师之一。他最主要的贡献是和他人合作解决了 Hilbert 第五问题。他为人的最大特色是帮助来自他国及非出身名校的年轻数学家。他曾任美国数学会会长及世界数学会会长。为就近向他讨教,我于 1956 年秋接 University of Pennsylvania(下面简称宾大)助理教授的位置。见面多了,而且合作得很愉快,不久他每星期保留一天,让我去和他讨论数学。这样一直维持了二十多年,合写了十多篇论文。蒙教授是拓扑变换群奠基者之一,了解深人,使我得益良多。和他合作的论文中比较值得一提的是[11]及[29]。前者引进一个基本概念,后者解决了一个他念念不忘的问题。
+宾大是美国最古老的私立大学之一,创办人是发现电的富兰克林。在美国四千余所大专院校中,排名约在前十名之内。在宾大,我于 1958 年被升为终身副教授,又于 1961 年被升为终身教授,一直到 1991 年退休。在宾大 35 年中,我曾兼任数学系研究生部主任四年,数学系系主任五年。在我指导下的博士研究生中,第一位得到博士学位的是 Larry Mawn,于 1957 年完成。后来他担任 University of Massachersetts 数学系系主任多年,曾访问过中国科学
+
+院数学研究所。
+从 80 年代开始,我科研的对象转到 Blaschke 猜测。原因是一位搞古典分析的同事 J. L. Kazdan 及法国微分几何学家 M. Berger 将这方面的研究推到一个新阶段。惟一美中不足的是他们不能决定类似奇维球面的 Blaschke 流形的体积。知道了他们的成果和有关文献后,我觉得一个解决的方法是决定这些流形上闭合测地线所构成流形的上同调环的结构。经过几个月的努力,我终于找到了他们期望的成果。有了这一个开始,一直到 90 年代初,我在这方面又发表了五六篇论文。
+1968 年我被选为台湾的中央研究院院士,推荐人是程毓准、陈省身、樊燧、胡世桢、王宪钟五位(数学)院士。1972—1973 年,我列名于美国名人录(Who's who in America)。
+1983 年我卸下数学系系主任职位,乘机休假一年,回祖国访问了 11 个月。先在复旦大学教学了一学期,然后去了十多个省市,访问了约二十所大专院校。
+回想进入暮年的自己,一生中三分之二的时间是在美国度过的。所以多年来尽自己的力量,做点回馈的工作。1950 年在中国存在美国之钱被冻结之前,浙江大学数学系由金福临经手,寄给我五百美元,作为购买重要数学杂志之用,这是我对祖国服务的开始。1975 年蒙教授负责世界数学会工作,他告诉我他将在巴黎和中国数学会的代表会晤。我听见了很高兴,一方面写信回国,介绍蒙教授是怎样一个人;另方面我请蒙教授鼓励中国数学界和其他国家数学界多多交流。据我了解,蒙教授和中国代表张素诚和吴文俊的交谈是很完满的。
+1979 年开始,中国派出许多访问学者来美国作学术交流。为使这些人多和美国人来往,我的老伴康润芳通过美中友好协会办英文班。教师都是对中国有兴趣的中年人,不但没有报酬,还常常在家里招待被教的“学生”,真是皆大欢喜。这群人还经常有共同
+
+活动,如聚餐、游风景点等等。几个月后大家都成为好朋友了。
+自 1989 年起,我接受了陈省身的邀请,连续六年到他创办的南开数学研究所访问和教课。1992 年暑期中,在成都办有短期数学研究生课程,我主动去参加做报告,因此遇见了北大的文兰教授。也许因为大家生活在一起,也因为他见我年纪较大对我特别照顾,没几天就熟络了。分别时他突然冒出一句话:“杨先生,我真没有想到,您是这样一位没有架子的人。”这是我平生最感动的受人的恭维。
+从 1979 年起至 2000 年止,我曾八次访问母校温州中学,而且自 1982 年开始,每年捐一笔钱,作为纪念中学时代陈叔平、陈仲武两位先生的数学奖金。自 1986 年开始,又在苍南一中设类似数学奖金,纪念姜立夫。自 1992 年开始,再在平阳一中设类似数学奖金,作为苏步青先生九十岁大寿我送的礼品。
+杨忠道主要论著目录
+[ 1 ] Projective collineations in a finite projective plane, Science Record, 2(1948), 157—164.
+[ 2 ] Certain chains in a finite projective geometry, Duke Math. J., 15(1948), 34—47.
+[ 3 ] A theorem on a field of normal national curves, Universidad Nacional de Tucuman Facultad de Ciencias Exactas y Tecnoloqra, Revista, Series A, 6 (1948), 313—317.
+[ 4 ] Fixed subplanes of a projective collineation in a finite projective plane, Science Record, 2(1949), 930—933.
+[ 5 ] A theorem in finite projective geometry, BAMS, 52(1949), 930—933.
+[ 6 ] On cohomology theories, Proceedings, national Academy of Sciences of U. S. A., 38(1952), 348—351.
+[ 7 ] On paracompact spaces, PAMS, 5(1954), 185—189.
+[ 8 ] On theorems of Borsuk-Ulam, Kakutani-Yamabe-Yujo bo and Dyson, I, Ann.
+
+of Math. 60(1954), 262-282.
+[ 9 ] On theorems of Borsuk-Ulam, Kakutani-Yamabe-yujobo and Dyson, II , Ann. of Math, 62(1955), 171-183.
+[10] Continuous functions from spheres to euclidean spaces, Ann. of Math. 62 (1955), 284-292.
+[11] (with D. Montgomery and H. Samelson) Exceptional Orbits of highest dimension, Ann. of Math. 64(1956), 131-141.
+[12] (with D. Montgomery and H. Samelson) groups on En with ( n - 2 ) - dimensional orbits, BAMS, 7(1956), 719-728.
+[13] (with D. Montgomery) The existence of a slice, Ann. of Math., 65(1957), 108-116.
+[14] Transformation groups on a homological manifold, TAMS, 87(1958), 261-283.
+[15] (with D. Montgomery) Orbits of highest dimension, TAMS, 87(1958), 284-293.
+[16] (with M. Gerstenhaber) Division rings containing a neal closed field, Duke Math. J. 27(1960), 461-465.
+[17] p-adic transformation groups, Michigan Math. J., 7(1960), 201-218.
+[18] (with D. Montgomery) groups on Sn with principal orbits of dimension n - 3, I, Illinois J. of Math., 4(1960), 507-517.
+[19] (with D. Montgomery) groups on Sn with principal orbits of dimension n - 3, II, Illinois J. of Math., 5(1961), 1-12.
+[20] (with I. J. Schoenberg) On the unicity of solutions of problems of best solution, Annali di Mathematica 14(1967), 33-46.
+[21] (with D. Montgomery) Differentiable actions on homotopy 7 - spheres, II , Proceedings, Conference on Transformation Groups, Springer-Verlag, 1969, 125-234.
+[22] (with D. Montgomery) Free differentiable actions on homotopy spheres, Proceedings, Conference on Transformation Groups, Springer-Verlag, 1969, 125-234.
+[23] (with D. Montgomery) Differentiable pseudo-freecircle actions on homotopy
+281
+
+seven spheres, Proceedings, Second Conference on Transformation Groups, Springer-Verlag, 1979, 41—101.
+[24] (with D. Montgomery) Homotopy equivalence and differentiable pseudo-free circle action on homotopy spheres, Michigan Math. J. 20(1973), 145—159.
+[25] (with D. Montgomery) On homotopy seven-spheres that admit differentiable pseudo-free circle actions, Michigan Math. J., 20(1973), 193—216.
+[26] Hilbert fifth problem and related problems on transformation groups, Proceedings on Symposia in pure Mathematics, AMS, XXVIII(1976), 142—146.
+[27] Odd dimensional Wiedersehen manifolds are spheres, J. Diff. Geom. 15 (1980), 91—96.
+[28] (with D. Montgomery) Dihedral group actions, I, an article in general Topology and Modern Analysis, Academic Press, 1980, 295—304.
+[29] Division algebras and fibrations of spheres J. Diff. Geom. 16(1981), 557—593.
+[30] On the Blaschke conjecture, an article in S. T. Yau, Seminars on Differential geometry, Princeton University Press, 1982, 159—171.
+[31] (with H. Gluck and F. Warner) Division algebras, fibrations of spheres by great spheres and the topological determination of space by the gross behavior of its geodesice, Duke Math. J. 50(1983), 1 041—1 076.
+[32] (与张鸣镛) 连通尺度流形的第二可数性, 厦门大学学报, 23(1984), 131—133.
+[33] Blaschke 猜测, 数学进展, 14(1985), 321—333.
+[34] Smooth great circle fibrations of spheres and an application to the topological Blaschke conjecture, TAMS, 320(1990), 507—524.
+[35] Any Blaschke manifold of the homotopy type of CPn has the right volume, Pacific J. of Math., 151(1991), 379—394.
+[36] 浅论点集拓扑、曲面和微分拓扑, 湖南教育出版社, 再版, 1998.
+
+(2000年6月初稿。2000年9月修正稿)
+282

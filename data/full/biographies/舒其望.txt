@@ -1,0 +1,103 @@
+人物：舒其望
+生年：1957年
+逝世：1987年
+研究方向：计算数学
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：364-371
+============================================================
+
+舒其望
+
+舒其望 (1957~), 安徽黟县人。计算数学家。美国布朗大学 Theodore B. Stowell 讲座教授, 中国科学技术大学“长江讲座”教授。1982 年毕业于中国科学技术大学数学系, 获学士学位, 1986 年在美国加利福尼亚大学洛杉矶分校获博士学位, 1986~1987 年在美国明尼苏达大学作博士后。1987~1990 年在美国布朗大学任助理教授, 1991 年晋升为副教授, 并获终身教职, 1996 年晋升为教授。1999~2005 年任美国布朗大学应用数学系系主任。2000 年起担任中国科学技术大学“长江讲座”教授。他是计算数学领域国际著名期刊 Mathematics of Computation 执行主编, Journal of Scientific Computing 主编, 同时担任多个国际学术期刊的编委。研究领域主要为偏微分方程数值解, 是 ISI 数学类高引用率作者。曾获得美国 NASA 科研奖 (1992 年) 和冯康科学计算奖 (1995 年)。2007 年舒其望因其在科学计算领域的重大贡献, 包括 TVD 时间离散、ENO 和 WENO 差分离散、间断 Galerkin 有限元方法和谱方法等, 荣获 SIAM/ACM 计算科学与工程奖。
+
+一、个人简历
+
+舒其望祖籍安徽黟县。父亲舒广瑶毕业于西南联大英国语言文学专业, 曾在对外贸易部任职, 1961 年起在江西大学 (后改名为南昌大学) 任教, 担任过外语系主任、教授。母亲石定桢曾就读于燕京大学 (后改为北京大学) 外语系。
+
+舒其望于 1957 年出生于北京, 4 岁时随父母迁至江西省南昌市, 在桃南小学、江西工学院子弟小学读完小学。1969~1973 年随父母下放到江西省武宁县罗溪公社庄源大队第一生产队, 就读于坪源中学和罗溪中学。1973 年回南昌后就读于南昌市第十七中学, 1974 年高中毕业。毕业后曾在南昌市第二十五中学担任过代课教师。
+
+1977 年国家恢复高考, 舒其望考入中国科学技术大学数学系。在科大的四年半期间 (1978 年春至 1982 年夏), 他有机会系统地修习了基础数学和应用以及计算数学的许多课程, 打下了很好的数学基础。1982 年夏天他从中国科大毕业, 获学士学位, 而后进入美国加利福尼亚大学洛杉矶分校 (以下简称 UCLA) 攻读博士学位。在 UCLA 时, 舒其望师从于 Stanley Osher 从事计算数学的研究。Osher 是美国著名计算数学家, 美国科学院院士, 他首创或与他人合作共同首创了一系列计算数学领域的新方法, 如 Engquist-Osher 格式、本质无震荡格式 (ENO) 和加权本质无震荡格式 (WENO)、水平集方法 (level set method)、基于偏微分方程的图像处理方法等。舒其望在 Osher 的指导下, 博士论文主要研究了一类总变差有界 (TVB) 格式、边界条件的处理和总变差不增 (TVD) 的时间离散
+
+方法等，这些工作后来在三篇文章 (Shu C W, 1987a; Shu C W, 1987b; Shu C W, 1988) 中发表，被后来的研究工作者和实际工作者广泛应用，在科学引文索引 (SCI) 中有较高的引用率。
+1986 年舒其望从 UCLA 博士毕业，即去美国明尼苏达大学应用数学所 (IMA) 从事一年博士后研究。那一年正好是 IMA 的科学计算年。许多著名的计算数学家，如 Carl de Boor, Jim Douglas, Bjorn Engquist, David Gottlieb, Ridgway Scott 等都长期或短期地在那里访问，每周都有丰富的学术报告，使舒其望受益匪浅。在这一年中，舒其望与同期的博士后 Bernardo Cockburn 开始了 Runge-Kutta 间断有限元方法的合作研究，这项合作研究一直持续到现在，得到了很多有广泛应用的结果。
+在明尼苏达大学做了一年博士后以后，舒其望于 1987 年进入美国布朗大学应用数学系任助理教授。这之后他一直在布朗大学工作，于 1992 年晋升为副教授并获终身教职，1996 年晋升为正教授，1999~2005 年担任布朗大学应用数学系主任。他是改革开放后第一位担任美国著名大学数学系主任的中国大陆留学生。
+舒其望从 1993 年开始担任计算数学界最著名的两本杂志 Mathematics of Computation 和 SIAM Journal on Numerical Analysis 的编委。现在，舒其望是 Mathematics of Computation 的编委会主席 (Chairman of the Editorial Board) 和执行主编 (Managing Editor)。他还是 Journal of Scientific Computing 杂志的主编和 Methods and Applications of Analysis 的四位主编之一，并担任其他 9 本杂志 Journal of Computational Mathematics, Communications in Applied Analysis, Acta Mathematicae Applicatae Sinica, Computational Fluid Dynamics Journal, Science in China (Series A), International Journal of Numerical Analysis and Modeling, Pure and Applied Mathematics Quarterly, Communications in Computational Physics, Boletin de la Sociedad Espanola de Matematica Aplicada 的编委。舒其望同时还是美国数学会的理事 (Council Member)。
+舒其望积极参与了中国国内的学术交流活动。他于 2000 年起担任中国科学技术大学“长江讲座”教授，并被南开大学、上海大学等校聘为客座教授。他还担任了中国科学院海外评审专家、科学与工程计算国家重点实验室学术委员会副主任等学术兼职。
+1984 年舒其望与陆廷恕女士结婚，他们有一个儿子，舒海硕，已于 2007 年从美国布朗大学计算机专业毕业。
+
+二、学术成就
+
+舒其望的研究领域为偏微分方程数值解，研究兴趣包括 TVD(总变差不增) 时间离散、ENO 和 WENO 差分离散、间断 Galerkin 有限元方法和谱方法等，以及在流体力学、半导体器件模拟、天体物理和生物学等领域的应用。近年来，舒其望在计算数学领域开展了一系列卓有成效、被国际同行公认具有开拓性意义的工作。舒其望的大量开拓性工作在计算数学、科学计算和应用领域产生了深远的影响，他的多篇文章被国际同行多
+
+次引用，2004年起舒其望被ISI列为数学学科高引用率作者。根据最新的SCI数据资料显示：截止至2009年8月10日，他已在SCI杂志上发表了176篇文章，被引用率高达6877次，其中有15篇文章，每篇至少被引用了100次，引用率最高的一篇文章被引用了863次，并且其论文的h-index高达33，即超过33篇文章至少被引用了33次。
+舒其望曾获得美国国家航空航天局科研奖(1992年)和首届冯康科学计算奖(1995年)。2007年舒其望因其在科学计算领域的重大贡献，包括TVD时间离散、ENO和WENO差分离散、间断Galerkin有限元方法和谱方法等，荣获SIAM/ACM计算科学与工程奖。该奖项是2002年由美国工业与数学应用协会和计算机学会共同创立，用于表彰在计算科学领域做出杰出贡献的学者。舒其望教授是第三届获得该项奖励的学者。
+舒其望的学术贡献主要有以下几方面。
+1. TVD 时间离散
+舒其望主要的研究领域是双曲型问题的高阶数值方法的设计、分析与应用。为了解决非光滑问题中高精度和稳定性的矛盾，他引入了非线性稳定(总变差非增)时间离散概念，设计了具有高精度和非线性稳定性的多步总变差非增时间离散。与Stanley Osher合作设计了Runge-Kutta总变差非增时间离散。这种Runge-Kutta时间离散(有时称为Runge-Kutta方法的Shu-Osher表示)被很多作者广泛应用。舒其望和他的博士生Sigal Gottlieb以及其他研究者对这一时间离散方法进行了系统地研究和推广。在SIAM Review上发表的文章(Gottlieb S, Shu C W, Tadmor E, 2001)以及最近在Journal of Scientific Computing杂志发表的文章(Gottlieb S, Ketcheson D, Shu C W, 2008)对这一方法进行了很好的回顾。舒其望与Osher发表的关于TVD时间离散的文章(Shu C W, Osher S, 1988)已经被引用863次。
+2. TVB 格式
+非线性双曲型守恒律方程组的数值解法历来是一个十分活跃的课题，它在流体力学等方面有重要应用，解的间断性又带来了巨大困难，因此它吸引了很多著名数学家的注意。在此方面舒其望的一项工作是提出并研究了TVB格式。它是TVD的一个改进。TVD格式由Harten等人建立。因为它是一个高阶格式，并且以总变差不增保证了激波附近数值解没有振荡现象，所以它被广泛应用，但是TVD格式在局部极值点附近退化为一阶格式，使得它即使对于光滑解也不是一致高阶的。舒其望在他的博士论文及其发表于Mathematics of Computation的文章(Shu C W, 1987a)中引入了TVB的概念，把diminishing放松为bounded，这就保证了在光滑范围内的一致高阶性质，同时仍保持格式的子列收敛性质。舒其望还提出了一种新的技巧，使得原有的TVD的格式在不增加很大计算量前提下调整为TVB格式。这一技巧已被成功地应用于许多的计算格式中，包括后来的Runge-Kutta间断有限元方法。舒其望关于TVB格式的文章已被引用了108次。
+
+3. ENO 和 WENO 差分离散
+
+ENO 方法首先由 Harten, Engquist, Osher 和 Chakravarthy 于 1987 年在其经典文章 (Harten-Engquist-Osher-Chakravarthy, 1987) 中提出。ENO 方法是第一个成功做到对于分段光滑函数的插值逼近满足自相似性 (格式系数与网格尺寸无关)、一致高阶精度并且本质无振荡的格式。舒其望与 Stanley Osher 合作，设计了一种同时满足高精度和守恒性的差分格式框架，并与 TVD Runge-Kutta 时间离散方法结合产生一类有限差分方法的 ENO 格式。该方法极大地减小了多维空间问题的计算量。这一方法被广泛地用于应用领域。目前的 ENO 程序大部分是基于 Shu-Osher 格式的框架。关于这一结果的两篇文章已被分别引用了 782 次 (Shu C W, Osher S, 1988a) 和 612 次 (Shu C W, Osher S, 1989a)。
+
+后来，舒其望和他的博士生 Guangshan Jiang 进一步推广了由 Liu, Osher 和 Chan 提出的三阶 WENO 格式，提出了光滑因子和非线性权的一般框架，设计出了高精度的有限差分 WENO 方法 (Jiang G S, Shu C W, 1996)。该 WENO 格式目前已被广泛应用，应用领域中大部分的 WENO 算法均基于 Jiang-Shu 的文章中的五阶 WENO 格式。该文章至今已被引用了 658 次。舒其望在近期的 SIAM Review 的文章 (Shu C W, 2009a) 中对这些应用领域给出了详尽的介绍。
+
+4. 间断 Galerkin 有限元方法
+
+间断 Galerkin (简记为 DG) 有限元方法是 1973 年由 Reed 和 Hill 首先提出的，并应用于求解中子输运方程。在 20 世纪 80 年代后期和 90 年代，舒其望与 Bernardo Cockburn 结合高阶 TVD Runge-Kutta 时间离散方法和间断解问题数值流通量、Riemann 解算子及总变差有界 (TVB) 非线性限制器等思想，将 DG 方法推广到非线性一维守恒律方程和方程组、高维守恒律方程和方程组，并给出了部分收敛性理论证明 (Cockburn B, Shu C W, 1989b)。随后该方法开始逐渐应用于流体力学计算领域。DG 方法非常适合求解具有复杂区域问题，而且形式多样，方便灵活，分辨率高，稳定性好，并具有一致高阶精度。它不但能准确计算含有激波、接触间断、大梯度、大变形等间断现象的问题及类似问题，而且能够准确捕捉精确解的结构特征，尽可能地排除了伪震荡，保证间断解处的物理意义。DG 方法已被广泛地应用到许多实际领域，如气象学、天气预报、海洋学、气动力学、涡轮机、湍流、粒子流、石油勘探、浅水波模型、疏松介质中的粒子输运、黏弹性流体、半导体装置模拟、磁动力学、电磁学等。
+
+对于包含高阶导数的偏微分方程的局部间断有限元方法 (简称 LDG)，其基本的思想是先将方程转化为等价的一阶偏微分方程组，然后对该方程组应用 DG 方法。LDG 方法能够取得成功非常关键的一点是设计单元边界上的数值流通量，它们不仅要保证格式的稳定性，而且要使得用于逼近导数的辅助变量具有局部可解性。该方法也正是由此而被称为“局部”DG 方法。舒其望与 Bernardo Cockburn 在 Bassi 和 Rebay 对于 Navier-
+
+Stokes 方程的成功数值试验的启发下，将 DG 方法推广到包含二阶导数的对流-扩散方程 (Cockburn B, Shu C W, 1998a)。LDG 方法采用与通常的 DG 方法相同的空间离散形式对非线性对流方程组进行离散，根据不同原则来选择数值流通量。对于对流占优问题，Runge-Kutta 时间离散方法是非常有效的。目前，舒其望和他的合作者已经应用间断有限元方法对一系列的高阶导数非线性波动方程进行研究，这些非线性方程包括一维标量方程、一维方程组、二维标量方程和二维方程组，涉及非线性 KdV 方程，KdV-Burgers 方程、Kuramoto-Sivashinsky 方程、五阶导数 KdV 方程、五阶导数完全非线性 K(n,n,n) 方程、非线性 Schrödinger 方程、耦合 KdV 方程组、二维 Kadomtsev-Petviashvili 方程、二维 Zakharov-Kuznetsov 方程和一维及二维非线性 Cahn-Hilliard 方程和方程组等。
+
+5. 谱方法
+
+Gibbs 现象是指当用 Fourier 级数的有限展开式去逼近间断函数时，展开式在间断点邻域的逼近结果会非常差，有明显的数值振荡。远离间断点的逼近精度也只有一阶精度，从而导致不收敛。这是用谱方法这类全局性的方法计算具有激波的双曲型守恒律方程的瓶颈问题。
+
+在间断问题的谱方法研究中，舒其望与 David Gottlieb 合作建立了完全克服 Gibbs 现象的方法，利用基于 Gagenbauer 多项式的后处理技巧，得到了针对间断解问题的一致收敛精度，他们的结果理论上证明了最大模意义下的任意光滑区间 (包括区间端点，通常为函数的间断点) 收敛的谱精度，解决了长期以来悬而未决的问题。这个技术被成功应用于图象处理和其他领域。关于这一工作，舒其望和 David Gottlieb 在 SIAM Review 的文章 (Gottlieb D, Shu C W, 1997) 中给出了详尽的回顾。
+
+6. 其他应用领域
+
+舒其望非常注重方法的应用性。他始终认为，如果一个算法不能被广泛地应用，那么它就不是一个好的算法。他和其他的研究人员一起将自己提出的算法应用于流体力学、激波与电磁波、交通流问题、生物模型问题、半导体问题、宇宙的演化模拟等的计算中，获得了很大的应用价值。其主要的应用领域包括以下几个方面：
+
+a) 计算流体力学，尤其是高速可压流体。舒其望曾经和美国国家航空航天局的科学家就 ENO 方法、WENO 方法和间断有限元方法针对流体力学的应用领域展开过广泛的合作研究。在文献 (Shu C W, 2003) 中给出了关于该类应用问题的详尽回顾。
+
+b) 半导体器件的模拟。舒其望与 Joseph Jerome, Irene Gamba 等科学家合作，发展了一套无振荡的算法来解决各种不同半导体器件的动力 (Hydrodynamic)、能量传输 (Energy transport) 和运动 (kinetic) / Boltzmann 模型。最近该领域的工作已涉及了 Boltzmann-Poisson 模型的解，一定程度上克服了该类模型由于其维数的增加而导致了计算量的增大问题。
+
+c) 宇宙的演化模拟。舒其望同时还将数值算法应用于天文问题的计算，这其中包括
+
+动力 (hydrodynamic) 模型、辐射传输 (radiative transfer) 和其他宇宙学模型。这类应用问题中非常典型地会涉及激波解或者是尖锐的梯度区域，长时间的计算会导致非常复杂的结构。因此数值算法的好坏对该类问题至关重要。
+d) 生物学的计算。这其中包括两类问题。第一类是离子隧道的数值模拟。该类问题的模型方程与半导体问题的模型方程非常类似，在文献 (Chen D P, Eisenbery R, Jerome J, Shu C W, 1995) 中给出了计算该类问题的无振荡的数值格式。第二类是物种繁衍研究中的分级尺寸结构模型，该问题本质上是一个带全局约束系数和边界条件的守恒律，舒其望和他的合作者针对这些模型设计了高精度、稳定的算法，并分析了它们的稳定性和收敛性 (Shen J, Shu C W, Zhang M, 2007)。
+三、教 书 育 人
+舒其望为人和蔼，思维敏捷，学识广博，言传身教，在做人和做学问上都给学生很好的教育，在学生在与他的交流中，无论是在研究方向的把握上，还是在具体问题的处理上，舒其望敏锐的思考问题的方式方法，都使学生从中受益非浅。他讲课非常严谨，条理清楚，深入浅出，能够使学生很快地理解。
+四、舒其望主要论著
+Shu C W. 1987. TVB uniformly high order schemes for conservation laws. Mathematics of Computation, 49: 105–121.
+Shu C W. 1987. TVB boundary treatment for numerical solutions of conservation laws. Mathematics of Computation, 49: 123–134.
+Shu C W. 1988. Total-Variation-Diminishing time discretizations. SIAM Journal on Scientific and Statistical Computing, 9: 1073–1084.
+Shu C W, Osher S. 1988. Efficient implementation of essentially non-oscillatory shock-capturing schemes. Journal of Computational Physics, 77: 439–471.
+Shu C W, Osher S. 1989. Efficient implementation of essentially non-oscillatory shock capturing schemes II. Journal of Computational Physics, 83: 32–78.
+Cockburn B, Shu C W. 1989. TVB Runge-Kutta local projection discontinuous Galerkin finite element method for conservation laws II. general framework. Mathematics of Computation, 52: 411–435.
+Jiang G S, Shu C W. 1994. On cell entropy inequality for discontinuous Galerkin methods. Mathematics of Computation, 62: 531–538.
+Chen D P, Eisenberg R, Jerome J, Shu C W. 1995. A hydrodynamic model of temperature change in open ionic channels. Biophysical Journal, 69: 2304–2322.
+Jiang G S, Shu C W. 1996. Efficient implementation of weighted ENO schemes. Journal of Computational Physics, 126: 202–228.
+Gottlieb D, Shu C W. 1997. On the Gibbs phenomenon and its resolution. SIAM Review, 30: 644–668.
+
+Cockburn B, Shu C W. 1998. The local discontinuous Galerkin method for time-dependent convection-diffusion systems. SIAM Journal on Numerical Analysis, 35: 2440–2463.
+Cockburn B, Shu C W. 1998. The Runge-Kutta discontinuous Galerkin method for conservation laws V: multidimensional systems. Journal of Computational Physics, 141: 199–224.
+Gottlieb S, Shu C W, Tadmor E. 2001. Strong stability preserving high order time discretization methods. SIAM Review, 43: 89–112.
+Shu C W. 2003. High order finite difference and finite volume WENO schemes and discontinuous Galerkin methods for CFD. International Journal of Computational Fluid Dynamics, 17: 107–118.
+Xu Y, Shu C W. 2005. Local discontinuous Galerkin methods for two classes of two dimensional nonlinear wave equations. Physica D, 208: 21–58.
+Carrillo J, Gamba I, Majorana A, Shu C W. 2006. 2D semiconductor device simulations by WENO-Boltzmann schemes: efficiency, boundary conditions and comparison to Monte Carlo methods. Journal of Computational Physics, 214: 55–80.
+Shen J, Shu C W, Zhang M. 2007. High resolution schemes for a hierarchical size-structured model. SIAM Journal on Numerical Analysis, 45: 352–370.
+Gottlieb S, Ketcheson D I, Shu C W. 2009. High order strong stability preserving time discretizations. Journal of Scientific Computing, 38: 251–289.
+Shu C W. 2009. High order weighted essentially non-oscillatory schemes for convection dominated problems. SIAM Review, 51: 82–126.
+Roy I, Xu W, Qiu J M, Shu C W, et al. 2009. Time evolution of Wouthuysen-Field coupling. The Astrophysical Journal, 694: 1121–1130.
+主要参考文献
+Reed W H, Hill T R. 1973. Triangular mesh methods for the neutron transport equation. Technical Report LA-UR-73-479.
+Harten A, Engquist B, Osher S, et al. 1987. Uniformly high order accurate essentially non-oscillatory schemes. Journal of Computational Physics, 131: 3–47.
+Osher S, Chakravarthy S. 1994. High resolution schemes and the entropy condition. SIAM Journal on Numerical Analysis, 21: 955–984.
+Liu X D, Osher S, Chan T. 1994. Weighted essentially non-oscillatory schemes. Journal of Computational Physics, 115: 200–212.
+Bassi F, Rebay S. 1997. A high-order accurate discontinuous finite element method for the numerical solution of the compressible Navier-Stokes equations. Journal of Computational Physics, 131: 267–279.
+撰写者
+徐岩，中国科学技术大学数学系副教授。2005 年于中国科学技术大学获计算数学博士学位，导师舒其望教授。主要从事间断有限元算法的研究工作，主持 Alexander von Humboldt 研究基金、国家自然科学基金、教育部基金等多项科学基金项目的研究。

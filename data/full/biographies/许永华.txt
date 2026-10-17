@@ -1,0 +1,161 @@
+人物：许永华
+生年：1932年
+研究方向：代数学（环论、模范畴、Hopf代数）
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第三分册_p428
+页码：201-211
+============================================================
+
+许永华
+
+许永华 (1932~)，浙江鄞县人。代数学家。研究领域为环论、模范畴及 Hopf 代数。主要研究成果：在环论方面许解决了 Artin 环与 Noether 环之间的等价关系问题，其中许永华的一个定理被称为许-Tominaga 定理。在模范畴方面，许永华提出了 Morita-like 等价环概念，推广了 Morita 等价环理论。Morita-like 等价环已被国际同行研究和描述，并正式命名它为许-Shum-Turner 环（简写为 XST 环）。在本原环方面，许永华推广了 Jacobson 本原环理论，特别把 Jacobson 本原环的（有限性）结构理论扩展为无限性结构理论。应用这个理论许永华把经典的 Wedderburn-Artin 定理从单 Artin 环推广到单规范本原环。在模论方面，许永华引进自同态环的“严格同构”概念，从而解决了两个自由模的自同态环同构能否诱导出此二自由模的半线性同构问题。许永华在科研方面共发表论文 80 余篇。他单独获得如下奖励：1977 年上海市重大科技成果奖，1978 年全国科学大会奖，1980 年获国家自然科学奖四等奖，1986 年国家教委优秀成果奖，1988 年国家教委科技进步二等奖及 1992 年国家教委科技进步二等奖（合得）。许永华于 1980 年提升为教授，1981 年为数学学科博士生导师。他曾任《数学学报》、《数学年刊》编委及《代数集刊》副主编。
+
+一、简 历
+
+许永华，1932 年 1 月出生于浙江省鄞县陶公山。他的父亲未满 20 岁就患上痨病，不能劳动还需他母亲照料，家境十分贫穷，全家只得迁往沈家门摆小摊度日。许永华留在乡下由祖母照料继续上完小学。小学毕业前夕，他父亲就多次托人让他去上海当学徒，终因送不起礼而没成功。那时由于抗战，宁波一些中学迁往陶公山组建了一所“鄞县临时联合中学”。无奈之下，父亲让他就地暂读初中。不到一学期，抗战胜利。这所学校迁回宁波，宣告解散。许永华考入当时收费很低的奉化武岭学校。解放前夕，学期还未结束，这所学校就宣布解散。他只得回到家乡自学，等待解放。在自学期间，学完了所有课本上尚未学完的内容，特别是数学（三角与平面几何），做了大量习题，逐渐对数学产生了浓厚的兴趣，使他萌发了将来学数学的念头。1949 年秋，许永华考进宁波市三一中学读高二，年底就加入新民主主义青年团。半年后，又考入可以申请人民助学金的宁波中学，直到高中毕业。1951 年秋，考入浙江大学数学系，几个月后，父亲病情恶化，家里生活越来越困难，来信要他退学去工作以接济家里。向组织汇报退学后，得到组织的关心，从事半工半读。1952 年院系调整，浙江大学数学系调整到复旦大学，当时取消了学生的半工半
+
+读，但许永华享受到学校的最高助学金，还在组织关心下，得到同学的帮助，每月还勉强给家里寄一些钱。许永华于 1954 年 1 月加入中国共产党，以实际行动报答党的关怀和培养。1955 年秋大学毕业，被派送到民主德国留学学习代数。于 1955 年 11 月到达民主德国，先进行一年的德语学习，还不到半年，父亲病故，不久，许永华被查出肺结核病，不得不在民主德国疗养一年。1957 年底进入莱比锡马克思大学学习代数。1958 年转入柏林洪堡大学研究抽象代数，师从 H. Grell。1961 年回国。1962 年被分配到复旦大学数学系工作。曾任数学系主任及系学术委员会主任。1978 年被提升为副教授，1980 年提升为教授，1981 年为数学学科博士生导师。1978 年以来许永华独自一人指导研究生 50 余名，其中 26 人获得博士学位。1997 年退休。
+
+二、主要研究领域及成就
+
+许永华长期从事于抽象代数研究。其主要领域为环论、模范畴理论及 Hopf 代数。许永华的主要工作如下所述。
+
+1. Noether 环、Artin 环与许-Tominaga 定理
+
+Noether 环与 Artin 环是由德国著名代数学家 E. Noether 和 E. Artin 在 20 世纪 20 年代发现和研究的。Noether 环是指含有左理想极大条件的环。对偶地，Artin 环是指含有左理想极小条件的环。30 年代一些代数学家对上述“极大条件”与“极小条件”是否相互独立问题感兴趣。1939 年 C. Hopkins 在 Ann. of Math. 一篇文章中宣称“含有左 (或右) 恒等元的 Artin 环必是 Noether 环。”世称 Hopkins 定理。许永华 1975 年在刚复刊不久的《数学学报》上发表文章《环的极小条件包含极大条件的充要性》，其中有这样一个定理：
+
+设 A 是 Artin 环，N 是 Jacobson 根，则 A 是 Noether 环当且仅当对每个 $N^i$ 必存在一个正整数 $k_i(i=1,2,\cdots)$，使得 $k_i N^i \subseteq AN^i$，其中 $k_i N^i = \{k_i a \mid a \in N^i\}$。显然，Hopkins 定理是这个定理的特例。不仅如此，Hopkins 定理仅仅给出 Artin 环是 Noether 环的一个充分条件，许永华的上述定理给出的条件不但是充分而且是必要的。从而很大程度上推广了 Hopkins 定理。日本数学家对此很有兴趣，Tominaga 曾发表文章 On a theorem of Y. H. Xu，对许永华这一定理做了重新证明和重新表述: “Artin 环 A 是 Noether 环当且仅当商模 N/AN 是有限的”。后来在文献中把许的这一定理称为 Xu-Tominaga 定理。
+
+另一方面，上述定理只解决了上面提出的问题的一半，那么什么时候 Noether 环是 Artin 环呢？1977 年许永华又在《数学学报》上发表文章《环的极小条件等价于环的极大条件的充要性》，其中有这样一个定理：设 A 是任意结合环，N 是 A 的诣零根，那么 (i)A 是 Artin 环与 (ii)A 是 Noether 环且 N 是 A 的有限多个极大左理想之交，为等价的充要条件是对每个 $N^i$ 存在正整数 $k_i(i=1,2,\cdots)$ 使得 $k_i N^i \subseteq AN^i$，其中 $k_i N^i = \{k_i a \mid a \in N^i\}$。
+
+许永华的这一定理包含了 Xu-Tominaga 定理，并且他在 1977 年文章中还用具体例子说明不含有左(或右)恒等元的 Artin 环可以不是 Noether 环。从而许永华的结果完整地解决了上面提出的 Artin 环(极小条件)与 Noether 环(极大条件)之间的关系问题。他的上述定理继续引起代数家的兴趣和研究。
+
+2. Morita-like 等价及 XST 环 (许-Shum-Turner-Smith 环的简称)
+
+Morita 等价概念可以追溯到 Wedderburn-Artin 关于单 Artin 环的著名定理。这个定理可以视为研究等价环理论的一个原型。1958 年 Morita 发展了 Wedderburn-Artin 理论，建立含有恒等元环的 Morita 等价环理论。1974 年 K. R. Fuller 发展 Morita 等价的形式。考虑含有恒等元环 R 上模范畴 M_R 与 S 上模范畴 M_S 的一个 completely additive 全子范畴 C_S 之间的范畴等价问题，这里 S 是不必含有恒等元的环。显然，Fuller 的范畴等价形式比 Morita 的形式要广。但 Fuller 的理论与 Morita 不同，对矩阵环未能表达什么。
+
+1990 年许永华在文中证明:“含有恒等元环 R 与 R 上无限 Γ×Γ 矩阵环 M_Γ(R) 的一个几乎零列矩阵子环 M_Γ^0(R) 等价的(在 Fuller 等价意义下)”。这一结果使 Fuller 的范畴等价形式与无限矩阵子环联系起来(许永华的结果在足标集合 Γ 是有限时，与 Morita 等价相一致)。
+
+为了推广 Fuller 的等价形式，许永华分别考虑任意二个环 R 与 S(即 R 与 S 不必假设含有恒等元) 上模范畴 M_R 与 M_S 中的所有酉模构成的全子范畴 U_R 与 U_S。1993 年许永华与岑嘉评、Turner-Smith 合作在 J. of Algebra 上发表 Morita-like equivalence of infinite matrix subrings 一文中提出了 Morita-like 等价概念:“两个环 R 与 S 是 Morita-like 等价，若 M_R 与 M_S 中西模的全子范畴 U_R 与 U_S 是 completely additive 并且 U_R ≈ U_S(即模范畴等价)”并且建立了无限矩阵子环之间的 Morita-like 等价定理:
+
+若 R 是含有恒等元的环，M_Γ(R) 是 Γ×Γ 矩阵环，Γ 是任意足标集合(有限或无限)。令 M_Γ^0(R) 是 M_Γ(R) 中几乎零列矩阵全体。(矩阵 (γ_ij)_Γ×Γ 称为几乎零列矩阵，若它含有的非零列向量只有有限多个)，那么有如下结论：如果 l 是 M_Γ(R) 中一个幂等元且 M_Γ^0(R)lM_Γ^0(R) = M_Γ^0(R)，则矩阵子环 lM_Γ^0(R)l 与 M_Γ^0(R) 是 Morita-like 等价的。
+
+在上文中许还提出了一个公开问题。文章发表后很受国际同行的重视和研究。同年西班牙 J. Simon 在 Comm. Algebra 21(1993) 上专文研究此公开问题并给出详细的回答。1999 年 García 及 Marín 合作的文章 Rings having a Morita-like equivalence 中专门研究 Morita-like 等价环，并称 Morita-like 等价环为 Xu-Shum-Turner-Smith 环，简写为 XST 环。他们正式给出 XST 环的一个定义:“令 R 是一个结合环，R 称为右 XST 环，若任一西右 R 模的每个子模仍是酉模。”并在此文的摘要中写道:“Morita-like”等价概念已由许、岑及 Turner-Smith 引入。他们的定义把通常含有恒等元环的 Morita 等价扩展到所有(不一定含有恒等元) 结合环的一个更广泛的子环类，即 XST 环。这里我们研究这一环类，证明此环类与其他熟知的环类(s 恒等元环、局部右恒等元环、幂等环) 有着
+
+密切的联系，并且运用这些熟知的环类给 XST 环一个完整的描述。
+
+3. 解决了自由模的自同态环同构决定模的半线性同构问题
+
+模的自同态环与模的结构有着非常密切的关系，其中很重要的一个问题是：如果两个模的自同态环同构，那么两个模的结构有什么共同性。例如除环上，两个向量空间的线性变换完全环同构，则此两个空间必半线性同构。但对一般模就不可能有此结论。即使稍为复杂的自由模也不能无条件有此结论。1962 年 Wolfson 在他的《主左理想整区上自由模的自同态环同构》一文中有这样一个定理：“记 F 及 G 均是主左理想整区，F M 及 G N 是自由模，若 σ 是 F M 的自同态环 End_F M 到 G N 的自同态环 End_G N 同构，那么必存在 F M 到 G N 上一个半线性同构 S 使 ω^σ = S^-1ωS，对所有 ω ∈ End_G N 成立。”自此以后，对自由模的这一一个问题研究并未有实质性进展，因为很难给出自由模 F M 的系数环 F 的各种类型来得出像上述 Wolfson 的定理。
+
+1992 年许永华在《自由模的自同态环之间的同构》一文中放弃这种方法而直接在自同态环之间的同构中寻找合适的同构，通过它能诱导出自由模之间的半线性同构。为此，他从自由模 F M 的自同态环中的对应基幂等元集合 {E_i}_{i∈Γ} 引出“严格同构”概念，所谓对应基幂等元集合 {E_i}_{i∈Γ} 是指在 F M 中存在一个基 {u_i}_{i∈Γ} 使 u_i E_i = u_i, u_j E_i = 0, i ≠ j ∈ Γ。令 F M 与 G N 是环 F 及环 G 上两个自由模。记 Ω = End_F M, Ω' = End_G N 是 F M 及 G N 的自同态环。称环 Ω 到环 Ω' 上的环同构 σ 为严格同构，如果在 Ω 及 Ω' 中分别存在对应基幂等元集合 {E_i}_{i∈Γ} 及 {e_j}_{j∈Γ'} 且有某个元素 E ∈ {E_i}_{i∈Γ}, e ∈ {e_j}_{j∈Γ'} 使得 σ 满足一对关系式：e E^σ Ω' = e Ω', Ω' e E^σ = Ω' E^σ。于是许永华得出如下结果：
+
+令 F M 及 G N 分别是环 F 及环 G 上的自由模，Ω = End_F M, Ω' = End_G N。如果 σ 是环 Ω 到 Ω' 上的一个严格同构，那么必存在 F M 到 G N 上一个半线性同构 S 使 ω^σ = S^-1ωS, ω ∈ Ω。反之，若 S 是 F M 到 G N 上一个半线性同构，那么必存在环 Ω 到环 Ω' 上的一个严格同构 σ 使 ω^σ = S^-1ωS, ω ∈ Ω。
+
+特别，若 F 与 G 是主左理想整区，则自由模 F M 的自同态环 End_F M 与自由模 F N 的自同态环 End_G N 之间的任何环同构皆是严格同构。
+
+因此，上述 Wolfson 定理是本定理的一个特例。30 年后上面提及的 Wolfson 利用许永华提出的严格环同构条件，于 1995 年在 Proc. AMS 上发表 Isomorphis between endomorphism rings of modules 一文中，把许永华所建立的上述定理推广到比自由模较弱的模上。
+
+4. 本原环
+
+本原环是 N. Jacobson 在 20 世纪 40 年代发现的，它与 Noether 环、Artin 环一样是经典环论中最基本和最重要的环类之一。本原环的基本理论是 Jacobson 创造的，其主要理论已总结在他的专著 Structure of Rings (1964 年) 中。
+
+Jacobson 本原环理论是许永华研究环论的重点。20 世纪 70 年代末至 80 年代末他集
+
+中研究了 Jacobson 的理论，共发表 30 余篇关于本原环方面的文章。Jacobson 的本原环理论是在有限拓扑方法和思想下进行和建立起来的。以后本原环理论研究都局限在这种方法和思想下进行的。这时本原环仅仅视作为有限可迁的。然而本原环一般是无限可迁的。鉴于此观点，许永华放弃有限拓扑方法和思想，引进一系列新概念，如 $\aleph_\nu$- 可迁、$\aleph_\nu$- 基座、$\aleph_\nu$- 规范本原环以及各种类型对偶模等概念来扩展 Jacobson 的本原环理论，把本原环的无限可迁性分成无限层次研究其结构，其中有限可迁是第一层次。
+
+现在先简述 Jacobson 的本原环有限性结构定理：记 $_F V$ 是除环 $F$ 上向量空间，$V'_F$ 是 $_F V$ 的共轭空间 $V^*_F = Hom_F(V, F)$ 的一个子空间并使 $(V, V')$ 成为 $F$ 上的一对对偶空间。于是在空间 $_F V$ 中可引进 $V'$- 拓扑使 $V$ 成为拓扑空间。记 $L_{V'}(V)$ 是 $_F V$ 的连续线性变换完全环，$\Omega = End_F V$ 是 $_F V$ 的线性变换完全环，$\mathcal{F}_{V'}(V)$ 是 $L_{V'}(V)$ 的基座，那么：
+
+(1) 环 $R$ 是含有非零基座 $\mathcal{G}_0$ 的本原环当且仅当存在某个除环 $F$ 上的一对对偶空间 $(V, V')$ 使 $\mathcal{G}_0 = \mathcal{F}_{V'}(V) \subset R \subset L_{V'}(V) \subset \Omega$。
+
+(2) 若存在除环 $G$ 上另一对对偶空间 $(W, W')$ 且 $\mathcal{F}_{W'}(W) \subset T \subset L_{W'}(W)$，那么任何从环 $R$ 到环 $T$ 上的环同构 $\sigma$ 必可扩展为 $L_{V'}(V)$ 到 $L_{W'}(W)$ 上一个环同构 $\sigma'$，即 $L_{V'}(V)^{\sigma'} = L_{W'}(W)$，同时 $\mathcal{F}_{V'}(V)^{\sigma'} = \mathcal{F}_{W'}(W)$。
+
+这个定理对本原环理论是基本的，但对本原环 $R$ 仅仅用有限拓扑语言进行描述，其结构仍然不清楚，正如 Jacobson 在他的专著 (N. Jacobson, 1964) 中所述：“上面含有非零基座本原环的主要结构定理已把人们的注意力集中到环 $L_{V'}(V)$ 及环 $\mathcal{F}_{V'}(V)$ 上，人们自然要进一步研究这两种类型的环。就目前而言，我们对环 $\mathcal{F}_{V'}(V)$ 已有相当多的知识，但对环 $L_{V'}(V)$ 却没有什么知识可言。”下面是许永华把 Jacobson 有限性结构定理扩展到无限性结构定理并给出 $L_{V'}(V)$ 及 $\mathcal{F}_{V'}(V)$ 的矩阵表示。现在分下面几个步骤来进行：
+
+(I) 1983 年许永华在文中引进本原环的 $\aleph_\nu$- 基座概念使本原环有无限层次结构。本原环 $R$ 是 $\aleph_\nu$- 可迁的是指：在所属的 (除环 $F$ 上) 一个向量空间 $_F V$ 中是 $\aleph_\nu$- 可迁的，即对于任意一个 $F$- 线性无关子集 $\{x_i\}_{i \in I} \subset V$ 及任一子集 $\{y_i\}_{i \in I} \subset V$，其中 $|I| < \aleph_\nu$，则必有一个元素 $r \in R$ 使 $x_i r = y_i, i \in I$。于是许永华引进本原环的 $\aleph_\nu$- 基座：“本原环 $R$ 的一个理想 $\mathcal{G}_\nu$ 称为 $\aleph_\nu$- 基座，若 $\mathcal{G}_\nu = \{r \in R \mid \text{rank } r < \aleph_\nu\}$ 且 $\mathcal{G}_\nu$ 是 $\aleph_\nu$- 可迁的。”这里 $\nu = 0, 1, \cdots$ 是序数。当 $\nu = 0$，$\mathcal{G}_0$ 即与通常基座相一致。于是许永华通过 $\aleph_\nu$- 基座把本原环结构分成无限层次，并建立如下定理：
+
+令 $R$ 是含有 $\aleph_\nu$- 基座 $\mathcal{G}_\nu$ 的本原环，那么有如下无限多个 $\aleph_\mu$- 基座链：
+
+(i) $\mathcal{G}_0 \subsetneq \mathcal{G}_1 \subsetneq \cdots \subsetneq \mathcal{G}_\mu \subsetneq \mathcal{G}_\nu \subset R$，其中 $\mathcal{G}_\mu$ 是 $R$ 的 $\aleph_\mu$- 基座，序数 $\mu = 0, 1, \cdots, \nu (\mathcal{G}_0$ 是 $R$ 的通常基座)。
+
+(ii) 若 $\mu$ 是非极限序数，则存在一个幂等元 $l_\mu \in \mathcal{G}_\mu$ 且 $\text{rank } l_\mu = \aleph_{\mu-1}$ 使得 $\mathcal{G}_\mu = R l_\mu R$。
+
+(iii) 若 $\mu$ 是极限序数，则 $\mathcal{G}_\mu = \bigcup_{\lambda < \mu} \mathcal{G}_\lambda$。
+(iv) 若 $L$ 是 $R$ 的一个理想且 $L \subset \mathcal{G}_\nu$，则存在某个序数 $\mu \leqslant \nu$ 使 $L = \mathcal{G}_\mu$。
+如果在含有 $\aleph_\nu$-基座本原环 $R$ 中所属的向量空间 ${}_F V$ 引进 $V'$-拓扑，那么前面 Jacobson 有限性结构定理中 (1) 的单层链
+$\mathcal{G}_o = \mathcal{F}_{V'}(V) \subset R \subset L_{V'}(V) \subset \Omega$
+可以扩展为无限层次链
+$\mathcal{F}_{V'}(V) = \mathcal{G}_o \subsetneq \mathcal{G}_1 \subsetneq \dots \mathcal{G}_\mu \subsetneq \mathcal{G}_\nu \subset R \subset L_{V'}(V) \subset \Omega$。
+(II) 1988 年许永华在文中引进 $\aleph_\nu$-规范本原环并对 $L_{V'}(V)$ 及 $\mathcal{F}_{V'}(V)$ 给出矩阵表示和完整的刻画，建立了 $\aleph_\nu$-规范本原环的无限结构定理。令 $R$ 是含有 $\aleph_\nu$-基座本原环，${}_F V$ 是隶属于 $R$ 的一个向量空间。记 $\Omega = End_F V$ 是除环 $F$ 上空间 $V$ 的线性变换完全环。一个幂等元 $l \in \Omega$ 称为 rank $l < \aleph_\nu$ 的基本投射幂等元，若 ${}_F V$ 中存在一个 $F$-基 $\{u_i\}_{i \in \Gamma}$ 及 $I \subset \Gamma$ 使得 $u_i l = u_i, i \in I, u_j l = 0, j \in \Gamma - I$，其中 $|I| < \aleph_\nu$。
+现在许永华引进 $\aleph_\nu$-规范本原环概念：“含有 $\aleph_\nu$-基座 $\mathcal{G}_\nu$ 的本原环 $R$ 称为 $\aleph_\nu$-规范本原环，若 $\aleph_\nu$-基座 $\mathcal{G}_\nu = \sum_{l \in L_\nu} lR = \sum_{l \in L_\nu} Rl$，这里 $L_\nu$ 是 $\Omega$ 中 rank $l < \aleph_\nu$ 的基本投射幂等元 $l$ 全体。”自然 $\mathcal{G}_\nu \subseteq T \subseteq L_{V'}(V)$ 中的任何中间环 $T$ 皆是 $\aleph_\nu$-规范本原环。一个行有限的矩阵 $(f_{ij})_{\Gamma \times \Gamma}$ 称为 $\aleph_\nu$-规范矩阵，若 $(f_{ij})_{\Gamma \times \Gamma}$ 的每个列中非零元集合的基数 $< \aleph_\nu$。并记 $M_\Gamma$ 是 $\aleph_\nu$-规范矩阵全体构成的环，那么许永华建立如下的 $\aleph_\nu$-规范本原环结构定理：
+令 $R$ 是含有 $\aleph_\nu$-基座 $\mathcal{G}_\nu$ 的 $\aleph_\nu$-规范本原环。${}_F V = \sum_{i \in \Gamma} F u_i$ 是隶属于 $R$ 的一个向量空间。$L_{V'}(V)$ 是连续线性变换完全环，$\mathcal{F}_{V'}(V)$ 是 $L_{V'}(V)$ 的基座，则 $L_{V'}(V)$ 与 $\aleph_\nu$-规范矩阵环 $M_\Gamma$ 是环同构的，并且 $L_{V'}(V)$ 是 $\aleph_\nu$-可迁的，也只能是 $\aleph_\nu$-可迁的。此外
+$\mathcal{G}_0 = \mathcal{F}_{V'}(V) \cong \{(f_{ij})_{\Gamma \times \Gamma} \in M_\Gamma \mid (f_{ij})_{\Gamma \times \Gamma} \text{仅含有限多个非零列矩阵}\}$。
+反之，任何除环上的 $\aleph_\nu$-规范矩阵环 $M_\Gamma$ 必是某个除环上向量空间的连续性变换完全环。并且 $M_\Gamma$ 中的所有几乎零列矩阵 $(f_{ij})$ 构成的子环必是 $M_\Gamma$ 的基座。
+(III) $\aleph_\nu$ 规范本原环结构定理的应用：
+(1) Wedderburn-Artin 定理的推广。1926 年 Artin 把 Wedderburn 建立在域上有限维单代数的著名 Wedderburn 定理推广到单 Artin 环上，即现今称为 Wedderburn-Artin 定理。现在利用规范本原环结构定理可以把 Wedderburn-Artin 定理推广到单规范本原环上。
+1983 年许永华在文中引进单规范本原环。“环 $R$ 称为单规范本原环，若 $R = \sum_{i \in \Gamma} R E_i = \sum_{i \in \Gamma} E_i R$，其中 $\{E_i\}_{i \in \Gamma}$ 是 $R$ 的一个正交幂等元子集，$R E_i$ 是 $R$ 的极小左理想，$i \in \Gamma$。”显然当 $\Gamma$ 是有限足标集时，$R$ 即是单 Artin 环。
+
+Wedderburn-Artin 定理的推广：令 R 是单规范本原环，那么 R 必与某个除环 F 上所有 Γ × Γ 几乎零矩阵构成的环同构。如果 R 与除环 F′ 上 Γ′ × Γ′ 几乎零矩阵构成的环同构，则必有 |Γ| = |Γ′|，F 与 F′ 环同构。反之，令 F 是任一除环，那么 F 上的 Γ × Γ 所有几乎零矩阵构成的环必是单规范本原环 (当 Γ 有限时，即是 Wedderburn-Artin 定理)。
+
+(2) 列多夫定理的推广：一个环 R 称为除环 K 上局部矩阵环，若 R 中每个有限子集生成的子环必与一个 n × n 矩阵环 K_n 的一个子环同构，其中 n 是某个自然数。于是列多夫定理说：“含有极小单侧理想的单环必是一个除环上局部矩阵环”。此定理在经典环论中引起很多研究。许永华在 1988 年一文中给出列多夫定理的一个推广形式：“令 R 是含有极小单侧理想的单环，{x_i}_{i∈I} 是 R 中任一子集且 |I| = Card I < ℵ_ν，那么由 {x_i}_{i∈I} 生成的子环 R′ 必可以嵌入一个除环上的 I′ × I′-矩阵环中，其中 |I′| < ℵ_ν。特别当 {x_i}_{i∈I} 是有限集时，即 |I| < ℵ_0，那么由 {x_i}_{i∈I} 生成的子环 R′ 必可嵌入一个 m × m-矩阵环 K_m 中。”
+
+(IV) 1983 年许永华在 On the Structure of Primitive Rings 一文中引进含有 ℵ_ν-基座本原环的对偶模对概念，从而建立了本原环的一般结构定理，完整地包含和扩充了 Jacobson 的有限性结构定理。
+
+仍记 Ω = End_K A 是除环 K 上向量空间 _K A = ∑_{j∈Γ} Kα_j 的线性变换完全环。(A, A′) 是 K 上对偶空间对。令 l ∈ Ω 是具有 rank l = ℵ_ν 的幂等元。记 A_ν = lΩ, A*_ν = Ωl, K_ν = lΩl。令 A′_ν 是 A*_ν 的一个右 K_ν-子模，称 (A_ν, A′_ν) = {aa′ | a ∈ A_ν, a′ ∈ A′_ν} 为一个对偶模对，若对 ω ∈ A_ν 有 ωA′_ν = 0 必有 ω = 0。一个对偶模对 (A_ν, A′_ν) 称为 ℵ_ν-型的，若 {x_i}_{i∈I} 是空间 _K A 的一个 K-线性无关子集且 |I| < ℵ_ν, {y_i}_{i∈I} 是 _K Al 的任一子集，则必有元素 a′ ∈ A′_ν 使 x_ia′ = y_i, i ∈ I。于是许永华建立了如下的本原环一般结构定理：
+
+(1) 环 R 是含有 ℵ_ν-基座 G_ν 的本原环当且仅当存在 ℵ_α-型对偶模对 (A_α, A′_α)，序数 α = 0, 1, ⋯, ν，使得
+F_{A′}(A) = G_0 ⊊ G_1 ⊊ ⋯ ⊊ G_α ⊊ ⋯ ⊊ G_β ⊊ ⋯ ⊊ G_ν ⊂ R ⊂ L_{A′_ν}(A_ν) ⊊ ⋯ ⊊ L_{A′_β}(A_β)
+⊊ ⋯ ⊊ L_{A′_α}(A_α) ⊊ ⋯ ⊊ L_{A′}(A) ⊂ Ω
+这里 G_α 是 R 的 ℵ_α-基座，L_{A′_α}(A_α) = {ω ∈ Ω | ωA′_α ⊂ A′_α}, α = 0, 1, ⋯, ν。
+
+(2) 仍令 (A, A′) 是 K 上一个对偶空间对，F_{A′}(A) ⊂ R ⊂ L_{A′}(A)，令 (B, B′) 是除环 K̄ 上另一个对偶空间对，T 是一个环且 F_{B′}(B) ⊂ T ⊂ L_{B′}(B)。记 Ω = End_K A, Ω̄ = End_{K̄}(B)。令 α < ν 是一个非极限序数。记 l_α 是 R 的一个幂等元且 rank l_α = ℵ_{α-1}, A_α = l_α R, A′_α = Rl_α，那么
+(i) 若 σ 是 R 的右理想 A_α 与 T 的一个右理想环同构，则 σ 可以扩展环 Ω 到 Ω̄ 上的一个同构，记此环同构为 σ′。
+(ii) 如果此环同构 σ′ 限制在 R 的左理想 A′_α 上，即左理想 A′_α 到 T 的一个左理想
+
+同构，则有如下结论:
+(a) $T$ 是 $\overline{\Omega}$ 的一个稠密子环 (即 $T$ 是本原环) 并且含有 $\aleph_{\alpha}$-基座 $\overline{\mathcal{G}_{\alpha}}$。
+(b) 若 $\mu$ 是一个非极限序数且 $\mu < \alpha$, 令 $A_{\mu} = l_{\mu}R, A'_{\mu} = Rl_{\mu}, L_{\mu} = L_{A'_{\mu}}(A_{\mu}) = \{\omega \in \Omega \mid \omega A'_{\mu} \subset A'_{\mu}\}$, 这里幂等元 $l_{\mu} \in R, \text{rank } l_{\mu} = \aleph_{\mu-1}$; 若 $\mu$ 是极限序数, $\mu < \alpha$, 则记 $L_{\mu} = \bigcap_{\lambda < \mu} L_{A'_{\lambda}}(A_{\lambda})$, $\lambda$ 是非极限序数。那么下面的子环链
+$R \subset L_{\alpha} \subset \cdots \subset L_{\mu} \subset \cdots \subset L_1 \subset L_0 = L_{A'}(A) \subset \Omega$
+$T \subset \overline{L_{\alpha}} \subset \cdots \subset \overline{L_{\mu}} \subset \cdots \subset \overline{L_1} \subset \overline{L_0} = L_{B'}(B) \subset \overline{\Omega}$
+是同构, 即 $L^{\sigma'}_{\mu} = \overline{L_{\mu}}, 0 \leqslant \mu \leqslant \alpha, \Omega^{\sigma'} = \overline{\Omega}$。
+(c) 仍记 $\mathcal{G}_{\mu}$ 是 $R$ 的 $\aleph_{\mu}$-基座, $\mathcal{G}_0$ 是 $R$ 的普通基座。记 $\mathcal{G}^{(n)}_0$ 是 $R$ 的 $n$ 多个极小左 (右) 理想之直和, 那么下面 $R$ 与 $T$ 分别列出的左 (右) 理想链是同构的。
+$(0) \subsetneq \mathcal{G}^{(1)}_0 \subsetneq \cdots \subsetneq \mathcal{G}^{(n)}_0 \subsetneq \cdots \subsetneq \mathcal{G}_0 \subsetneq \mathcal{G}_1 \subsetneq \cdots \subsetneq \mathcal{G}_{\mu} \subsetneq \cdots \subsetneq \mathcal{G}_{\alpha} \subset R$
+$(0) \subsetneq \overline{\mathcal{G}^{(1)}_0} \subsetneq \cdots \subsetneq \overline{\mathcal{G}^{(n)}_0} \subsetneq \cdots \subsetneq \overline{\mathcal{G}_0} \subsetneq \overline{\mathcal{G}_1} \subsetneq \cdots \subsetneq \overline{\mathcal{G}_{\mu}} \subsetneq \cdots \subsetneq \overline{\mathcal{G}_{\alpha}} \subset T$
+即 $\mathcal{G}^{(n)\sigma'}_0 = \overline{\mathcal{G}^{(n)}_0}$, 对任何正整数 $n$; $\mathcal{G}^{\sigma'}_{\mu} = \overline{\mathcal{G}_{\mu}}, \mu < \alpha$。
+1985 年下半年许永华访问美国北卡罗来纳大学数学系。他的本原环工作得到同行教授 M. S. Putch 及 J. Luh 等的重视, 一致推荐许永华去访问卡普兰斯基及芝加哥大学的 L. Herstein。1986 年初, 按原访问计划许永华去芝加哥大学数学系访问 Herstein。尽管当时 Herstein 身体十分欠佳, 他仍然每周面对面地听许永华的本原环工作报告, 回国前许永华交给他三篇论文, 他主动要推荐到他任编委的杂志。一个月后许回到国内就收到接受稿件的通知 (其中两篇分别发表在 J. Algebra, (1988)19-39, 40-70; 另一篇发表在 Rendiconti del Circolo Matematico di Palermo(1987), 220-240)。
+5. 建立除环上无限 Galois 理论
+Jacobson 在 1964 年的著作中建立了除环的有限 Galois 理论及无限外 Galois 理论。但正如他书中所说, 很遗憾后者的无限外 Galois 理论不能包含前者有限 Galois 理论。半个世纪过去了, 还未在文献中发现解决此问题的文章。许永华在研究本原环理论的基础上用不同方法建立除环的无限 Galois 理论使上述除环的有限 Galois 或无限外 Galois 理论均成为特例。
+令 $F$ 是除环, $P$ 是 $F$ 的子除环, 记 $Gal F/P = \{\psi \in Aut F \mid p^{\psi} = p, \forall p \in P\}$ 是 $F$ 在 $P$ 上的 Galois 群, 其中 $Aut F$ 是 $F$ 的自同构全体。令 $G$ 是 $F$ 的一个自同构群。记 $I(G) = \{a \in F \mid a^{\psi} = a, \forall \psi \in G\}$ 是 $G$ 不变元子除环。记 $E(F)$ 是加法群 $(F, +)$ 的自同态完全环。那么 $GF_R$ 是群 $G$ 与 $F$ 的右乘 $F_R$ 在 $E(F)$ 中生成的一个子环。记 $I_F = \{I_r \mid r \in F\}$ 是 $F$ 的内同自构 $I_r$ 全体, $G_0 = G \bigcap I_F$ 是属于 $G$ 的所有内自同构。于是许永华引进如下概念: 令 $G = Gal F/P$ 是 Galois 群, $H$ 是 $G$ 的一个子群, 则
+
+(i) H 称为 N 子群当且仅当 $HF_R \bigcap I_F = H_0$。
+(ii) H 称为 G 的闭子群当且仅当 $HF_R = L_{I(H)}(F) \bigcap GF_R$。这里 $L_K(F)$ 是向量空间 ${}_K F$ 的线性变换完全环。
+(iii) 令 K 是 F 的一个子除环且包含 P, K 称为正规子除环, 若 $K^\psi = K$ 对所有 $\psi \in G = Gal F/P$ 皆成立。于是许永华建立了如下的除环的无限 Galois 理论基本定理 (I):
+令 G 是除环 F 在子除环 $P = I(G)$ 上的 Galois 群, 且 F 在 P 上是左代数的。令 $\bigwedge = \{H\}$ 是 G 的所有闭 N 子群全体, $\sum = \{K\}$ 是介于 P 与 F 之间的除子环全体, 那么映射
+$H \to I(H), \quad K \to Gal F/K, \quad H \in \bigwedge, \quad K \in \sum$
+是 $\bigwedge$ 到 $\sum$ 上及 $\sum$ 到 $\bigwedge$ 上相互可逆的。此外, H 是正规子群当且仅当 $I(H)$ 是 F 的正规子除环。在此条件下 $Gal I(H)/P \cong G/H$ 是群同构。显然本定理 (I) 统一了上面 Jacobson 所述的除环上两个 Galois 理论的基本定理:
+(1) 除环的有限 Galois 理论基本定理: 令 G 是除环 F 在 $P = I(G)$ 上的 Galois 群且 $[F:P]_L$ 是有限的 (即 ${}_P F$ 作为 P 左向量空间是有限维的)。令 H 是 G 的任一 N 子群, K 是 F 的任一子除环且包含 P。那么对应 $H \to I(H)$ 及 $K \to Gal F/K$ 是相互可逆的。(定理假设的条件 $[F:P]_L < \infty$ 必满足上面定理 (I) 中假设的条件“F 在 P 上是左代数的”而且定理中所述的 N 子群必是定理 (I) 的闭 N 子群)。
+(2) 除环的无限外 Galois 理论的基本定理: 令 G 是除环 F 在 $P = I(G)$ 上的 Galois 群且 F 在 P 上是左代数的。假设 Galois 群 G 是外群 (即群 G 的内自同构只能是 1)。令 H 是 G 的任一闭子群, K 是 F 的任一子除环且包含 P, 那么对应 $H \to I(H)$ 及 $K \to Gal F/K$ 是相互可逆的 (由假设 G 是外 Galois 群, 所以 G 的每个闭子群 H 必是上面定理 (I) 的闭 N 子群。)
+
+三、许永华主要论著
+
+许永华. 1975. 环的极小条件包含极大条件的充要性. 数学学报, 18: 274–285.
+许永华. 1977. 环的极小条件等价于极大条件的充要性. 数学学报, 20: 267 271.
+Xu Y H. 1980. A finite structure theorem between primitive rings and its application to Galois theory. Chin Ann of Math, 1: 183–197.
+Xu Y H. 1981. On the structure of primitive rings having minimal one-sided ideals. Science Sinica, 24: 1056–1065.
+Xu Y H. 1982. On infinite Galois theory for division rings. Chin Ann of Math, 4: 429–443.
+Xu Y H. 1983. On the structure of primitive rings. Chin Ann of Math, B4: 133–143.
+Xu Y H. 1983. Normal primitive rings. Science Sinica. A26: 1156–1166.
+Xu Y H. 1988. On the structure of complete $\aleph_\nu$-normal primitive rings and its applications. J Algebra, 113: 19–39.
+
+Xu Y H. 1988. On the tensor products of algebras. J Algebra, 113: 40-70.
+Xu Y H. 1990. An equivalence between ring $F$ and infinitive matrix subrings over $F$. Chin Ann of Math, B11: 66-69.
+Xu Y H. 1992. Isomorphisms between endomorphism rings of free modules. Science in China, A35: 769-779.
+Xu Y H, Shum K P, Turner-Smith R F. 1993. Morita-like equivalence of infinite matrix subrings. J Algebra, 159: 425-435.
+Xu Y H, Shum K P. 1996. Duality theorems for graded rings in double products. Comm Algebra, 24: 3745-3758.
+主要参考文献
+Jacobson N. 1964. Structure of Rings. Providence: Amer Math Soci.
+Fuller K R. 1974. Density and equivalence. J Algebra, 29: 528-550.
+Murase I. 1978. A condition for Artin rings to be Noetherian. Can J Math, 30: 830-837.
+Wolfson K G. 1995. Isomorphisms between endomorphism rings and modules. Proc Amer Math, 123: 1971-1973.
+García J L, Marín L. 1999. Rings having a Morita-like equivalence. Comm Algebra, 27: 665-680.
+撰写者
+许永华

@@ -1,0 +1,212 @@
+人物：王元
+生年：1930年4月30日
+研究方向：数论及其应用
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第三分册_p428
+页码：161-175
+============================================================
+
+王元
+
+王元 (1930~)，江苏镇江人。数学家。1952 年毕业于浙江大学，1980 年当选为中国科学院学部委员 (院士)。曾任数学所所长与中国数学会理事长。他在解析数论、代数数论以及数论方法应用等方面均做出了卓越贡献。20 世纪 50 年代至 60 年代初，首先将筛法用于 Goldbach 猜想研究，并证明了命题 {3, 4}，1957 年又证明 {2, 3}，这是中国学者首次在此研究领域跃居世界领先地位。1973 年与华罗庚合作证明用分圆域的独立单位系构造高维单位立方体的一致分布点集的一般定理，被国际学术界称为“华-王方法”。70 年代后期对数论在近似分析中的应用作了系统总结。80 年代在 Diophantus 分析方面，将 Schmidt 定理推广到任何代数数域，在 Diophantus 不等式组等方面作出先进的工作。1982 年获国家自然科学奖一等奖，1990 年获陈嘉庚物质科学奖，1994 获何梁何利数学奖，1999 年获华罗庚数学奖，2007 年与方开泰合作在均匀设计研究方面获国家自然科学二等奖。他在国际数数界享有声誉，世界科学出版社出版了《王元著作文集》。
+
+一、数学生涯
+
+王元于 1930 年 4 月 30 日出生于浙江省兰谿县。他的父亲王懋勤当时任兰谿县县长。抗日战争开始后，举家迁往四川，居于重庆江北县悦来场乡下，家庭生活颇难。王元的小学就是在战乱与艰难的环境中，在农村小学中度过的。
+
+1942 年，王元小学毕业，考取了位于合川县的国立第二中学。那时他的父亲出任中央研究院总办事处主任秘书。1946 年，他随家一起回到南京，转入社教附中就读高中二年级，一年后学校改名为南京市立六中。
+
+1948 年，王元高中毕业，考取了位于浙江金华的英士大学数学系。1949 年，他随英士大学并入浙江大学数学系就读。浙江大学是著名数学家陈建功与苏步青多年执教的地方，特别是他们倡导的高年级学生读书讨论班，对于培养学生的独立工作能力有很大帮助，浙大数学系的良好的环境培育了王元对数学的浓厚兴趣。大学四年级时，王元在读书讨论班上报告了 A. E. Ingham 的《素数分布论》(The Distribution of Prime Numbers)，解析数论的优美深深地吸引着他。
+
+1952 年，王元以优良的成绩从浙大毕业。在陈建功与苏步青的推荐下，由政府分配到中国科学院数学研究所工作。一年后，他被分配到数论组，在华罗庚指导下，研究解析数论。王元在数论组很快显示出数学才能。1954 年，波兰数学家 K. Kuratowski 来华访问，带来了 W. Sierpinski 与 A. Schinzel 关于数论函数的论文。王元对这些工作做了一
+
+些改进，他的处女作就是与 Schinzel 合作的《关于函数 $\varphi(n), \sigma(n)$ 与 $\theta(n)$ 若干性质的一个注记》，并在波兰发表。以后他就致力于筛法与 Goldbach 猜想的研究，并于 1957 年证明了 $(2,3)$，即每个充分大的偶数都是一个不超过 2 个素数之积与一个不超过 3 个素数之积之和。
+1958 年，华罗庚与王元一起合作研究数论方法在近似分析中的应用，特别是高维空间的数值积分问题。他们建立了基于经典代数数论与 Diophantus 逼近论的高维积分近似计算方法，他们的这一合作延续了 20 年。
+1966 年，“文化大革命”中断了王元的工作，他受到了错误的批判与不公正的待遇。1972 年，王元恢复了他的数学研究工作，此后他从事代数数域上的 Diophantus 方程与不等式的研究及与方开泰一起研究数论方法在统计中的应用。1985 年以后，王元还从事中国近代数学史的研究。
+1978 年以后，王元致力于撰写一些专著，计有：《数论在近似分析中的应用》(1978，与华罗庚合作)，《哥德巴赫猜想》(1984)，《在中华人民共和国普及数学方法的个人体会》(1989，与华罗庚合作)，《代数数域上的 Diophantus 方程与不等式》(1991)，《统计中的数论方法》(1994，与方开泰合作)，《华罗庚》(1995) 与《微积分》(1997，与方源合作)。
+由于王元在数学上的成就，他于 1978 年被提升为中国科学院数学研究所研究员，1980 年被选为中国科学院学部委员 (院士)。王元得到过国家自然科学奖一等奖 (与陈景润、潘承洞一起)、陈嘉庚物质科学奖 (与华罗庚一起) 及何梁何利数学奖。
+王元于 1984~1987 年任中国科学院数学研究所所长，1988~1992 年任中国数学会理事长，1986 年以后任全国政协委员。
+王元于 1967 年与郭宝文女士结婚，他们有两个儿子。
+二、学术成就
+1. 数论
+(1) 筛法与 Goldbach 猜想
+Goldbach 猜想是 1742 年 Goldbach 在与 L. Euler 通信中提出来的，可以表述为：
+(A) 每个偶数 > 5 都是两个奇素数之和。
+(B) 每个奇数 > 8 都是三个奇素数之和。
+显然由 (A) 可以推出 (B)。这一问题至今仍未解决。直到 20 世纪 20 年代，由于圆法与筛法的产生，才使这个问题的研究有了一些好的结果。
+筛法起源于古老的“Eratosthenes 筛法”。V. Brun 于 1919 年对它作出了重要改进，并且用于猜想 (A)；他证明了 (9, 9)，即每个大偶数都是两个素因子个数均不超过 9 的整数之和，类似地可以定义 $(a, b)$。Brun 之后，又出现了其他一些关于筛法的改进。例如 A.
+
+Selberg 筛法 (1947), A.A. Buchstab 恒等式 (1937) 及 P. Kuhn 加权筛法 (1954) 等。至 1954 年，最好的结果为 (4, 4)(Buchstab, 1940) 与 (a, b)(a + b ≤ 6)(Kuhn, 1954)。
+综合上述方法，王元在 1956 年与 1957 年分别证明了
+(3, 4)(1956 年), (2, 3)(1957 年)
+筛法可以简单叙述如下：考虑集合 $P_\alpha = \{m : 1 \le m < n, p | m(n - m) \Rightarrow p > n^{1/\alpha}\}$，此处 $\alpha \ge 2$，$n$ 为偶数及 $p$ 表示素数，若能证明当 $l$ 为正整数且当 $n$ 充分大的时有 $P_{l+1} > 0$，则得 $(l, l)$，再考虑 $Q_\alpha = \{q : 1 < q < n, p |(n - q) \Rightarrow p > n^{1/\alpha}\}$，此处 $q$ 表示素数，则有 $Q_{l+1} > 0$ 就导出 $(1, l)$。
+首先是 T. Estermann 于 1932 年在广义 Riemann 猜想 (GRH) 之下证明了：每个大偶数都是一个素数与一个不超过 6 个素数之积之和。简单记为 $(1, 6)_R$。
+王元将 Estermann 的结果改进为
+(1, 4)$_R$ (1956 年), (1, 3)$_R$ (1957 年)
+利用 Brun 筛法，素数分布理论与 Yu. V. Linnik 大筛法，A. Renyi 在 1948 年证明了 $(1, c)$，此处 $c$ 是一个常数。Renyi 定理的证明中隐含了下面的中值定理：存在 $\delta > 0$，使
+$(M_\delta) \sum_{k \le x^\delta} \max_{(l, k)=1} \left| \pi(x; k, l) - \frac{1}{\varphi(k)} \int_2^x \frac{\mathrm{d}t}{\ln t} \right| = O \left( \frac{x}{(\ln x)^{c_1}} \right)$，
+此处 $c_1 \ge 6$ 为一个常数，$\varphi(k)$ 表示 Euler 函数及 $\pi(x; k, l) = \sum_{\rho \le x, \rho \equiv l (\bmod k)} 1$，其中 $p$ 为素数 $\le x$，若将 $(M_\delta)$ 中的 $k$ 的范围扩大至 $x^{1/2-\epsilon}$，其中 $\epsilon$ 为任意正数，则 $(M_\delta)$ 就可以用来代替 $(1, 3)_R$ 证明中的 (GRH)。M. B. Barban 与潘承洞分别在 1961 年与 1962 年独立地证明了 $(M_\delta)$，其中 $\delta = \frac{1}{6} - \epsilon$ 与 $\delta = \frac{1}{3} - \epsilon$。潘承洞并由他的 $M_\delta \left( \delta = \frac{1}{3} - \epsilon \right)$ 推出了 $(1, 5)$，以后他们又独立得出 $(M_\delta)$，其中 $\delta = \frac{3}{8} - \epsilon$ 并推出 $(1, 4)$。王元指出由潘承洞的 $M_\delta \left( \delta = \frac{1}{3} - \epsilon \right)$ 即可推出 $(1, 4)$。
+以后，E. Bombieri 与 I. M. Vinogradov 于 1965 年分别证明 Renyi 公式中 $k$ 的范围可以扩大为 $k \le x^{1/2}/(\ln x)^A$ 与 $x^{1/2-\epsilon}$，此处 $A > 0$ 为一个常数，从而由王元证明的 $(1, 3)_R$ 的方法即得到 $(1, 3)$。1996 年陈景润引入了转换原理并成功地证明了 $(1, 2)$，该结果被称为陈氏定理。1975 年王元与潘承洞、丁夏畦一起给了陈氏定理的一个简化证明。
+王元将他处理猜想 (A) 的方法用于小区间中殆素数的分布及 $\{F(x) : x = 1, 2 \cdots\}$ 中殆素数分布问题，此处 $F(x)$ 为一个整值多项式。所谓殆素数即素因子个数不超过一个固定常数的整数。我们常常用 $P_k$ 表示素因子个数不超过 $k$ 的殆素数。王元改进了以往的结果，特别地，他首次考虑了小区间中 $P_2$ 的分布。他证明了当 $x$ 充分大时，有 $P_2$ 满足
+$x < P_2 \le x + x^{10/17}$。
+
+以后引起不少数学家对 (3) 进行改进。
+(2) 圆法与 Goldbach 猜想
+圆法起源于 G. H. Hardy 与 S. Ramanujan 关于整数分拆与表整数平方和的一篇文章 (1918 年), 接着 Hardy 与 J. E. Littlewood 在一系列论文中系统地发展了一个新的分析方法——圆法, 并用于 Waring 问题与 Goldbach 问题。他们在 (GRH) 之下, 证明了每一个大奇数都是三个素数之和。基于素变数三角和的天才估计, I. M. Vinogradov 于 1937 年取消了 Hardy 与 Littlewood 关于猜想 (B) 证明中的 (GRH)。
+Linnik 于 1951 年将圆法用来处理小区间中的猜想 (A), 它的研究基于密度猜想 (DH): 命 $0 \leqslant v \leqslant 1/2$ 及 $T > 0$, 命 $N(T, v)$ 表示 $\zeta(s)$ 在矩形
+$\frac{1}{2} + v \leqslant \sigma \leqslant 1, |t| \leqslant T$
+中的零点个数, 估计式
+(DH)
+$N(T, v) \leqslant c T^{1-2v} \ln(T+2), \quad 0 < v < 1/2,$
+此即密度猜想, 它是 (RH) 的推论, 但至今尚未得到证明。1951 年, Linnik 在假定 (DH) 成立时证明了对于任何整数 $n$ 与 $\varepsilon > 0$, 皆存在素数 $p_1, p_2$, 使
+$|n - p_1 - p_2| \leqslant c(\varepsilon)(\ln n)^{7+\varepsilon},$
+其中 $c(\varepsilon)$ 为依赖于 $\varepsilon$ 的正常数, 每次出现的值不一定相同。
+王元于 1977 年指出了 Linnik 结果的证明有错并给出了一个正确的证明, 详细言之, 在较 (DH) 更弱的假设
+(DH')
+$N(T, v) \leqslant c(\varepsilon) T^{1-2v} \ln(T+2),$
+$0 < v < \frac{12}{37} + \varepsilon, \varepsilon > 0,$
+之下, 他证明了对于任何整数 $n$, 皆存在 $p_1, p_2$, 使
+$|n - p_1 - p_2| \leqslant c(\varepsilon)(\ln n)^{\frac{148}{13} + \varepsilon}.$
+(4)
+(3) 素数 $p$ 的最小原根
+所谓模 $p$ 之原根 $g$, 即模 $p$ 之缩系 $\{1, 2, \cdots, p-1\}$ 的生成元。命 $g(p)$ 表示模 $p$ 之最小原根, I. M. Vinogradov 首先在 1930 年证明了
+$g(p) < 2^m p^{1/2} \ln p,$
+此处 $m = \omega(p-1)$ 表示 $p-1$ 的互异素因子个数。其后, 他将自己的结果改进为 $g(p) < 2^m p^{1/2} \ln \ln p$。华罗庚, P. Erdős 及 Erdős 与 H. N. Shapiro 又进一步先后证明了
+$g(p) < 2^{m+1} p^{1/2}, g(p) = O(p^{1/2} \ln^{17} p),$
+
+$g(p) = O(m^c p^{1/2})$,
+其中 $c$ 及与 $O$ 有关常数都是绝对常数。关于 $g(p)$ 的下界估计，P. Turan 证明了 $g(p) = \Omega(\ln p)$。而 N. C. Ankeny 在 (GRH) 之下，证明了
+$g(p) = O(2^m \ln^2 p \ln^2(2^m \ln^2 p))$.
+利用 D. A. Burgess 方法，王元 (1959) 与 Burgess (1962) 独立地证明了
+$g(p) \leqslant c(\varepsilon) p^{1/4+\varepsilon}$. \hfill (5)
+王元 (1959) 又将 Ankeny 的结果改进为：在 (GRH) 之下有
+$g(p) = O(m^6 \ln^2 p)$. \hfill (6)
+王元还改进了以往关于模 $p$ 的最小 $n$ 次非剩余及 J. Pell 方程最小解的估计。
+(4) 数论函数的分布
+1956 年，王元与 Schinzel 用 Brun 筛法证明了下面的结果：对于任何非负正数矢量 $\boldsymbol{a} = (a_1, \cdots, a_k)$ 及 $\varepsilon > 0$，皆存在整数 $n$ 使
+$\left| \frac{\varphi(n+i)}{\varphi(n+i+1)} - a_i \right| < \varepsilon, \quad 1 \leqslant i \leqslant h.$ \hfill (7)
+进而言之，存在常数 $c_0(\boldsymbol{a}, \varepsilon)$ 及 $X_0(\boldsymbol{a}, \varepsilon)$，使当 $X > X_0$ 时，区间 $1 \leqslant n \leqslant X$ 中有多于 $c_0 X / (\ln x)^{k+1}$ 个 $n$ 适合 (7) 式。
+过去 Schinzel 只能得到使 (7) 式成立的整数 $n$ 的存在性，但不能得到满足 (7) 式的整数个数的估计。
+结合 Brun 筛法及 Linnik-Renyi 大筛法，王元于 1958 年进一步证明了：对于任何非负矢量 $\boldsymbol{a}$ 及 $\varepsilon > 0$，皆存在素数 $p$ 使
+$\left| \frac{\varphi(p+v)}{\varphi(p+v+1)} - a_v \right| < \varepsilon, \ 1 \leqslant v \leqslant h$ \hfill (8)
+进而言之，存在常数 $c_1(\boldsymbol{a}, \varepsilon)$ 及 $X_1(\boldsymbol{a}, \varepsilon)$，使当 $X > X_1$ 时，区间 $1 \leqslant n \leqslant X$ 中有多余 $c_1 X / (\ln x)^{h+2} \ln \ln x$ 个素数适合 (8) 式。
+将 Euler 函数换成其他数论函数仍有相应的结果。
+(5) Diophantus 方程与不等式的最小解
+对于复矢量 $\boldsymbol{x} = (x_1, \cdots, x_k)$，命 $|\boldsymbol{x}| = \max_{1 \leqslant i \leqslant k} |x_i|$，对于复系数型 $F$，命 $|F|$ 表示 $F$ 的系数的最大绝对值。对于每一个 $k$ 次型 $F$，皆对应一个型 $\hat{F}(\boldsymbol{x}_1, \cdots, \boldsymbol{x}_k)$，它关于每个 $\boldsymbol{x}_i (1 \leqslant i \leqslant k)$ 都是线性的，且 $F(\boldsymbol{x}) = \hat{F}(\boldsymbol{x}, \cdots, \boldsymbol{x})$。
+W. M. Schmidt 于 1980 年证明了下述结果：给予整数 $h \geqslant 1, m \geqslant 1$ 及奇数 $k_1, \cdots, k_h$ 与任意大的数 $E$，皆存在
+$c_0 = c_0(k_1, \cdots, k_h, m, E)$
+
+使若 $M \geqslant 1$ 及 $F_1, \cdots, F_h$ 分别为 $\boldsymbol{x} = (x_1, \cdots, x_s)$ 的次数为 $k_1, \cdots, k_h$ 的实系数型，则当 $s \geqslant c_0$ 时有 $m$ 个在 $Z^s$ 上线性独立的点 $\boldsymbol{x}(1), \cdots, \boldsymbol{x}(m)$，使
+$|\boldsymbol{x}(i)| \leqslant M, \quad 1 \leqslant i \leqslant m$
+及
+$\left|\hat{F}_j(\boldsymbol{x}(i_1), \cdots, \boldsymbol{x}(i_{k_j}))\right| \ll M^{-E} |F_j|,$
+$1 \leqslant j \leqslant h, \quad 1 \leqslant i_1, \cdots, i_{k_j} \leqslant m.$
+由此推出：给予 $h \geqslant 1, m \geqslant 1$，奇数 $k_1, \cdots, k_h$ 及 $\varepsilon > 0$ 任意小，皆存在常数 $c_1 = c_1(k_1, \cdots, k_h; m; \varepsilon)$，使当 $G_1, \cdots, G_2$ 分别为 $\boldsymbol{x} = (x_1, \cdots, x_s)$ 的次数为 $k_1, \cdots, k_h$ 的整系数型，此处 $s \geqslant c_1$，则 $G_1, \cdots, G_2$ 在 $m$ 个整点 $\boldsymbol{x}(1), \cdots, \boldsymbol{x}(m)$ 张成的 $m$ 维子空间上皆为零，此处
+$|\boldsymbol{x}(i)| \ll G^\varepsilon, \ 1 \leqslant i \leqslant m,$
+$G = \max(1, |G_1|, \cdots, |G_h|).$
+取一个型 $F = x_1^2 + \cdots + x_s^2$，即可知在 Schmidt 的上述结果中必须限制诸型的次数皆为奇数。王元考虑将型的 Diophantus 不等式在全复代数数域中求解，从而取消了型的次数这一限制。详言之，命 $K$ 为一个 $2r$ 次全复代数域，其整数环记为 $J$，对于 $\xi \in K$，命 $\xi^{(i)} (1 \leqslant i \leqslant 2r)$ 表示 $\xi$ 的共轭数及 $\|\xi\| = \max_{1 \leqslant i \leqslant 2r} |\xi^{(i)}|$，当 $\boldsymbol{\lambda} = (\lambda_1, \cdots, \lambda_s)$ 时，命 $\|\boldsymbol{\lambda}\| = \max_{1 \leqslant i \leqslant s} \|\lambda_j\|$。
+王元于 1988 年证明了下面的结果：给予正整数 $h, m$ 及 $k_1, \cdots, k_h$，及一个任意大的整数 $E$，皆存在常数
+$c_2 = c_2(k_1, \cdots, k_h; m, r, E)$
+使若 $M \geqslant 1$ 及 $F_1, \cdots, F_h$ 分别为 $\boldsymbol{\lambda} = (\lambda_1, \cdots, \lambda_s)$ 的次数为 $k_1, \cdots, k_h$ 的复系数型，此处 $s \geqslant c_2$，则在 $J^s$ 中有 $m$ 个线形独立点，$\boldsymbol{\lambda}(1), \cdots, \boldsymbol{\lambda}(m)$，满足
+$\|\boldsymbol{\lambda}(i)\| \leqslant M, 1 \leqslant i \leqslant m$
+与
+$\left|\hat{F}_j(\boldsymbol{\lambda}(i_1), \cdots, \boldsymbol{\lambda}(i_{k_j}))\right| \ll M^{-E} |F_j|,$
+$1 \leqslant j \leqslant h, 1 \leqslant i_1, \cdots, i_{k_j} \leqslant m.$
+由此也可以推出系数属于 $J$ 型方程系的最小解的类似结果。
+关于模 $p$ 的二次同余方程的最小解问题，D. R. Heath-Brown 于 1985 年证明过：命 $Q(\boldsymbol{x}) = Q(x_1, \cdots, x_4)$ 为整系数二次型，$p$ 为素数，则同余方程
+$Q(\boldsymbol{x}) \equiv O(\bmod p)$
+
+有解 x 适合
+$0 < \max_{1 \leqslant i \leqslant 4} |x_i| \ll \sqrt{p} \ln p.$
+T. Cohrance 将上式得右端改进为 $\sqrt{p}$。这是最佳可能的结果。
+王元于 1989 年及 1993 年分别将上述结果推广至任意有限域。王元还研究了代数数域中同余方程组的最小解问题。
+
+2. 近似分析与统计
+
+(1) 近似分析中的数论方法
+近似分析中的数论方法的理论基础为数论中 H. Weyl 的一致分布论。其要点为找出空间中较小偏差的点列，称为伪随机数。所以这种方法又称为伪蒙特卡罗方法。其最成功的应用为高维定积分的近似算法。
+假定 $f(\boldsymbol{x}) = f(x_1, \cdots, x_s)$ 为单位立方体 $G_s = \{\boldsymbol{x}: 0 \leqslant x_i \leqslant 1, 1 \leqslant i \leqslant s\}$ 上定义的函数，我们要求定积分
+$I = \int_{G_s} f(\boldsymbol{x}) \mathrm{d}\boldsymbol{x}, \mathrm{d}\boldsymbol{x} = \mathrm{d}x_1, \cdots, \mathrm{d}x_s$
+的近似值。将下面的函数类记为 $E_s^\alpha(C): f(\boldsymbol{x})$ 为 $G_s$ 上的周期函数，且每个变数有周期 1，假定 $f(\boldsymbol{x})$ 有绝对收敛的 Fourier 展开
+$f(\boldsymbol{x}) = \sum_{-\infty}^{\infty} C(\boldsymbol{m}) \mathrm{e}^{2\pi \mathrm{i} (\boldsymbol{m}, \boldsymbol{x})}$
+$= \sum_{m_1=-\infty}^{\infty} \cdots \sum_{m_s=-\infty}^{\infty} C(m_1, \cdots, m_s) \mathrm{e}^{2\pi \mathrm{i} (m_1 k_1 + \cdots + m_s k_s)}.$
+此处
+$|C(\boldsymbol{m})| \leqslant \frac{C}{\|\boldsymbol{m}\|^\alpha}, \|\boldsymbol{m}\| = \overline{m}_1 \cdots \overline{m}_s, \overline{m} = \max(1, |m|),$
+其中 $\alpha > 1$ 及 $C > 0$ 为常数. N. M. Korobov(1959) 与 E. Hlawka(1962) 独立地证明了，对于素数 $P$，存在整矢量 $\boldsymbol{a} = (a_1, \cdots, a_s)$ 使
+$\sup_{f \in E_s^\alpha(c)} \left| \int_{G_s} f(\boldsymbol{x}) \mathrm{d}\boldsymbol{x} - \frac{1}{p} \sum_{k=1}^p f\left(\frac{k\boldsymbol{a}}{p}\right) \right| - O\left(\frac{C \log^{\alpha s} p}{p^\alpha}\right).$
+此处与 $O$ 有关的常数仅依赖于 $\alpha, s$。这一方法的误差比一维古典方法的直接推广的误差 $O(n^{-\alpha/s})$ 与蒙特卡罗方法的概率误差 $O(1/\sqrt{n})$ 要好得多，其中 $n$ 表示求积公式所需的点数。但欲得到 $\boldsymbol{a}(p)$ 的初等运算量为 $O(p^2)$，所以寻求一个依赖于分点个数 $N$ 的整矢量 $\boldsymbol{a}(N)$ 是很重要的问题。
+
+命 $F_n(n=0, 1 \cdots)$ 为 Fibonacci 数列，即由 $F_0 = F_1 = 1, F_{n+2} = F_{n+1} + F_n(n \geqslant 0)$ 定义的整数列，N. S. Bahvalov(1959) 与华罗庚及王元 (1960) 独立地证明了
+$$ \sup_{f \in E_2^\alpha(c)} \left| \int_0^1 \int_0^1 f(x, y) dx dy - \frac{1}{F_n} \sum_{k=1}^{F_n} f \left( \frac{k}{F_n}, \frac{F_{n-1}k}{F_n} \right) \right| = O \left( \frac{C \ln 3 F_n}{F_n^\alpha} \right) \quad (9) $$
+而华罗庚与王元还证明了 (9) 式右端的 $\ln 3 F_n / F_n^\alpha$ 是最佳可能的结果。算出 $F_n$ 所需的初度运算量仅为 $O(\ln 3 F_n)$。
+华罗庚与王元在一系列论文 (1964~1974) 中将他们的方法推广至 $s > 2$ 的情况。他们的方法基于由一个 $s$ 次全实代数数域 $K$ 的一组独立单位出发，构造出 $K$ 的一组单位 $\eta_k(k=1, 2, \cdots)$，满足
+$$ \eta_k = \eta_k^{(1)} > k, \eta_k^{(i)} \ll \eta_k^{\frac{1}{s-1}}, 2 \leqslant i \leqslant s. $$
+假定 $K$ 的基底为 $\omega_j(1 \leqslant j \leqslant s)$，其中 $\omega_j(1 \leqslant j \leqslant s-1)$ 为无理数，则
+$$ \sum_{i=1}^s \eta_k^{(i)} = n_k, \sum_{i=1}^s \omega_j^{(i)} \eta_k^{(i)} = h_{j,k}, 1 \leqslant j \leqslant s-1 $$
+都是有理整数，于是联立有理逼近
+$$ \frac{h_{j,k}}{\eta_k} = \omega_j + O \left( n_k^{-1-\frac{1}{s-1}} \right), 1 < j \leqslant s-1. $$
+命 $\boldsymbol{h}(k) = (1, h_{1,k}, \cdots, h_{s-1,k})$，这就是 $n_k$ 所对应的整矢量。于是得求积公式
+$$ \sup_{f \in E_2^\alpha(c)} \left| \int_{G_s} f(\boldsymbol{x}) d\boldsymbol{x} - \frac{1}{n} \sum_{m=1}^{n_k} f \left( \frac{m \boldsymbol{h}_k}{n_k} \right) \right| = O \left( C n_k^{-\frac{\alpha}{2} - \frac{\alpha}{2(s-1)} + \varepsilon} \right), \quad (10) $$
+其中与 $O$ 有关的常数依赖于 $\varepsilon$，在此得到矢量 $\boldsymbol{h}_k$ 的计算量仅为 $O(\ln n_k)$。在实际操作时，华罗庚与王元建议使用分圆域 $Q \left( \cos \frac{2\pi}{m} \right) (m \geqslant 5)$。华罗庚与王元关于 (9) 的另一推广基于 Jacobi-Perron 算法。
+(2) 统计中的数论方法
+统计中的问题常常需要用到伪随机数小样本，王元与方开泰在 1981 年首先用数论方法找出一批小样本，即伪随机数，并用于试验设计问题。假定一个试验，共有 $s$ 个因素，每个因素有 $q$ 个水平，则共有 $q^s$ 种可能的 $s$ 中因素的水平组合。让每个组合对应于 $G_s$ 中的一个格点，数论方法为从这 $q^s$ 个格点中选出 $O(q)$ 个点的集合 $v$，他们在 $G_s$ 上有较小的偏差。可在 $v$ 的点上做实验，根据试验结果，用回归分析方法求得较好的组合，他们称这个方法为均匀设计。这比普通的正交设计所需的试验次数 $O(q^2)$ 有较大的减少。根据在中国工业部门中的应用，均匀设计方法得到的结果的精度是可以与正交设计相比的。
+
+将数论方法用于统计问题时，还需要有其他一些区域上的一致分布点列，即偏差较小的点列。王元与方开泰在 1990 年提出了一个程序，它由 $G_s$ 上一个一致分布点集出发而得到
+$$
+\begin{aligned}
+A_s &= \{x : 0 \leqslant x_1 \leqslant x_2 \leqslant \cdots \leqslant x_s \leqslant 1\}, \\
+B_s &= \{x : x_1 + \cdots + x_s \leqslant 1\}, \\
+S_{s-1} &= \{x : x_1^2 + \cdots + x_s^2 = 1\}
+\end{aligned}
+$$
+及
+$$
+T_{s-1} = \{x : x_1 + \cdots + x_s = 1, x_i \geqslant 0, 1 \leqslant i \leqslant s\}
+$$
+上的一致分布点集。而且基本上可以得到
+$$
+T_{s-1}(a, b) = \{x : x_1 + \cdots + x_s = 1, a_i \leqslant x_i \leqslant b_i, 1 \leqslant i \leqslant s\}
+$$
+上的一致分布点集，此处 $a_i \geqslant 0 (1 \leqslant i \leqslant s)$, $\sum_{i=1}^s a_i < 1$ 及 $\sum_{i=1}^s b_i > 1$。$T_{r-1}(a, b)$ 上的一致分布点集实际上对应于一般的混料试验设计。
+概率与矩的计算实际上是多重积分近似计算。数论方法还可以用于统计中的最优化问题，多元分布代表点的寻求问题及统计推断问题等。
+
+3. 其他工作
+
+(1) 正交拉丁方
+由 $(1, 2, \cdots, s)$ 构成的 $s \times s$ 方阵，如果每个元素都在方阵的每一行与每一列中恰好出现一次，则称这种方阵为 $s$ 阶的拉丁方。若将两个拉丁方重合在一起，则上面拉丁方的每个元素恰好与下面拉丁方的每个元素遇到一次，就称这两个拉丁方是正交的。命 $N(s)$ 表示 $s$ 阶的两两正交的拉丁方的最大个数，Euler 曾猜想：当 $s > 6$ 及 $s \equiv 2 (\text{mod } 4)$ 时有 $N(s) = 0$，R. C. Bose, S. S. Shrikhande 与 E. T. Parker 对这一问题做出了重要贡献。他们在 1960 年反证了 Euler 猜想。他们证明了，当 $s > 6$ 时有 $N(s) \geqslant 2$，将他们的方法与 Brun 筛法结合起来，S. Chowla, Erdös 与 E. G. Straus 首先给出了 $N(s)$ 的下界估计：存在 $s_0$，当 $s > s_0$ 时有 $N(s) > \frac{1}{3} s^{\frac{1}{91}}$。王元于 1964 年将他们的结果改进为：存在 $s_1$，当 $s > s_1$ 时有
+$$
+N(s) > s^{\frac{1}{26}}. \tag{12}
+$$
+
+(2) 近代中国数学史
+王元撰写了《华罗庚》一书。该书除阐述中国近代最重要的数学家华罗庚的数学工作与生平外，还以华罗庚为中心，描写了中国数学从 20 世纪 20 年代由西方及日本引入及其发展的一些重要片断。该书已由国际著名的斯普林格出版社译成英文出版。
+
+三、谦虚勤奋的学者
+
+王元是国际上公认以华罗庚为首的“中国数论学派”的重要成员。王元同时又是华罗庚的亲密合作者，他们的合作关系一直持续到华罗庚逝世。“勤奋出天才”，这也是王元的座右铭。他认为科学研究特别是基础研究在很大程度上依靠积累。在创立华—王方法的过程中，仅为掌握原先不熟悉的数学知识及为以后的工作做准备，王元所作读书笔记就达几千页之多，他从事科学研究而付出的辛劳由此可见一斑。
+
+王元是一位谦逊的学者。研究 Goldbach 猜想的经历使他深深体会到，科学研究好似攀登无限的梯级，一个人无论达到多高，也总是在前人的基础上前进。因此他说：“恰如其分地估计自己，不要过于陶醉于自己已经做了些什么，始终有个危机感，这样就永远不存在自满的可能性。”他认为，这种态度来源于对整个数学知识海洋的客观认识。
+
+王元致力于推动我国与国际数学界的学术交往，为提高我国数学的国际地位而做出贡献。在他与杨乐的共同倡议和领导下，中国科学院数学所自 1985 年起成为可接待国内外访问学者的面向国际的开放型研究所。
+
+四、王元主要论著
+
+王元. 1956. 表大偶数为一个不超过三个素数的乘积及一个不超过四个素数的乘积之和. 数学学报, 6(3).
+Wang Y. 1957. On the representation of large even number as a sum of two almost-primes. Science Record (New Ser), 1(5): 15-19.
+华罗庚, 王元. 1960. 关于多重积分的近似计算的若干注记. 科学记录, 4(1): 6-8.
+华罗庚, 王元. 1978. 数论在近似分析中的应用. 北京: 科学出版社 (英文版: 1981. Applications of Number Theory to Numerical Analysis. New York: Springer-Verlag & Beijing: Science Press).
+Wang Y. 1984. Goldbach conjecture. Singapore: World Scientific.
+Wang Y. 1987. Bounds for solution of additive equations in algebraic number field, I, II. Acta Arithmatica, 48: 117-144, 307-323.
+Wang Y. 1988. Diophantine inequatilies for forms in an algebraic number field. Journal of Number Theory, 29: 324-344.
+Wang Y. 1991. Diophantine Equations and Inequalities. New York: Springer-Verlag.
+Fang K T, Wang Y. 1993. Number-Theoretic Methods in Statistics. London: Chapman and Hall.
+王元. 1998. 华罗庚. 北京: 开明出版社 (繁体字版: 1995. 台湾: 九章出版社; 英文版: 1999. New York: Springer-Verlag).
+王元. 1999. 王元文集. 长沙: 湖南教育出版社.
+
+主要参考文献
+
+王元. 1999. 王元文集. 长沙: 湖南教育出版社 (英文版: 2005. Singapore: World Scientific Publ Comp).
+王元. 1999. 王元论哥德巴赫猜想. 济南: 山东教育出版社.
+
+撰写者
+李文林，1942 年生，江苏常州人。1965 年在中国科学技术大学应用数学系毕业。中国数学史学会理事长、数学史专家、博士生导师。中国科学院数学与系统科学研究院研究员，曾任中科院数学研究所副所长、中国数学会秘书长。对数学发展史与数学文化进行了深层次的研究，发表过大量的研究论文，撰写了《数学史概论》等重要学术著作，在数学史的多个领域求真探索，发现了一系列重要的事实和结果。
+袁向东，1941 年 2 月 3 日出生。中国科学院数学与系统科学研究院研究员（2001 年退休）。研究方向是数学史。与丁石孙合作写有《北京大学数学系 80 年》、《段学复教授访谈录》等文章。

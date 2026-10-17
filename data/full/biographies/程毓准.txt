@@ -1,0 +1,88 @@
+人物：程毓准
+生年：1910年
+逝世：1995年
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第一分册_p428
+页码：178-183
+============================================================
+
+程毓淮
+
+程毓淮（1910～1995），安徽歙县人。数学家。1928 年高中毕业后赴德国留学。1934 年获哥廷根大学博士学位。先后在苏黎世大学、汉堡大学、哥本哈根大学、北京大学、西南联大、纽约大学柯朗研究所、普林斯顿高等研究所、俄克拉荷马大学、怀因大学和马萨诸塞州立大学等从事数学研究或任教。毕生主要从事微分方程，特别是数学物理方程领域的研究，在常微分方程的小参数奇摄动问题、极小曲面方程、双曲型偏微分方程的 Coursat 问题以及超音速流理论等方面均有重要建树。1960 年被选为台湾“中央研究院”院士。
+
+一、教研简历
+
+程毓淮，祖籍安徽歙县，1910 年出生于江苏南通。自幼天资聪颖，中小学阶段一直成绩优异。1928 年同济高中毕业，旋获安徽省政府奖学金留学德国，入哥廷根大学主修数学。于 1934 年获得该校博士学位。随后两年，先后在瑞士苏黎世大学、德国汉堡大学和丹麦哥本哈根大学从事博士后研究或任教。1936 年 2 月回国应聘任北京大学数学系教授。抗日战争期间，北京大学与清华大学和南开大学合并组成西南联大，程即随西南联大辗转于长沙、昆明等地继续执教。抗战胜利后，他应邀赴美国工作，先在纽约大学柯朗研究所和普林斯顿高等研究所从事数学研究，而后在俄克拉荷马大学、怀因大学和马萨诸塞州立大学等校任教。1960 年被选为台湾“中央研究院”院士。1995 年 2 月 6 日在美国病逝，享年 85 岁。
+
+二、主要学术成就
+
+程毓淮早年留学德国哥廷根大学，其后不久又在美国纽约大学柯朗研究所和普林斯顿高等研究所从事数学研究，以致其研究风格与哥廷根学派及其二战后在美国的继承者——柯朗学派比较接近，很注意所讨论问题的物理或几何背景。
+
+程毓淮留学德国期间，正是哥廷根学派的鼎盛时期。当时他们仍陶醉于自然科学方面的两大创造——量子力学和流体力学的附面层理论，数学研究亦深受其影响。正是在这样的氛围下，程毓淮发表于 Compositio. Math. (1935, 2: 378-401) 上的博士论文，便是以附面层理论为背景，讨论常微分方程的小参数奇摄动问题，发表后深受相关数学同行的注意。直到 20 世纪 40 年代末，以苏联著名数学家 A. Tihonov 为首的奇摄动学派，依然推许该文为这方面的前驱工作。
+
+但此后程毓准的主要兴趣，却转移到了偏微分方程的研究。正如 1992 年北京大学数学系建系 80 周年之际，程民德撰文所述，程毓准在偏微分方程方面“开我国之先河”。
+
+20 世纪 40 至 50 年代，程毓准主要致力于有关极小曲面的问题和柱对称喷管中的超音速流的研究。
+
+极小曲面问题是一个古老而又富有永恒生命力，充满挑战意味的课题。自从 18 世纪中期法国数学家 Lagrange 提出这个问题之后，一直吸引着众多知名数学家的注意，积累了丰富的成果。1975 年首版、1989 年修订与扩充的关于极小曲面的百科全书式的著作对此作了颇为详尽的论述。该书多处引用了程毓准发表于 Ann. Math. (1948, 49: 790-806) 和 Trans. Amer. Math. Soc. (1949, 65: 331-347) 上的两篇论文以及 1956 年他在马里兰大学微分方程会议上的报告。关于上述第一个工作，该书在 §363, 364 和 369 中详细引用了其中关于极小曲面在其一分支点邻近的性态等结果。关于上述其他两个工作，该书在 §10 谈到了所论问题的背景与意义，并对其中的结果作了评介。这里应该指出的是，其实上述第一个工作的核心部分，乃是在一允许有有限个支点与极点的“广义”极小曲面上，建立这两种点的数目与其 Gauss 映射的指标和作为其定义域的 Riemann 曲面 (假定为紧) 的亏格之间的关系 (这一论题已经超出该书的讨论范围，估计在该书的后续部分——第二卷中才会谈及)。程在该文中利用一套精巧的构作，将讨论的对象加以转换，使之便于应用 Riemann 曲面上的 Riemann-Roch 定理，从而完满地解决了所讨论的问题。这一成果实际上是论文发表后二三十年才被更加广泛重视的大范围分析中的一个良好范例。在马里兰大学微分方程会议上宣读的那篇论文中，程毓准在引言部分特别提到，他在存在性证明部分所采用的方法，乃是他哥廷根时期的导师 Courant 与 H.Weyl 所开创的变分原理与复分析的结合。借助这一技巧可以绕过诸多艰难的先验估计。为了充分利用叶繁枝茂的复分析，程毓准采用了下述迂回策略：先将原来非参数形式的问题，即作为“近似”亚音速机翼绕流问题的自然形式，设法换成参数形式的“广义”问题，并用变分方法作存在性的证明，然后通过 Gauss 映射引入速度图变量，从而便可借助于复分析，对速度图进行深入细致的考察，最后再回到非参数形式。此种方法之巧妙，实在令人叹为观止。程毓准在这方面的研究得到了 Weyl 的赞许。
+
+关于柱对称喷管中的超音速流的研究，程毓准的主要成果有：1952, 1953 和 1956 年发表在 Comm. Pure Appl. Math. 杂志上的 3 篇论文，1950 年在国际数学家大会 (剑桥) 上的报告，以及 1948 年发表于北京大学建校 50 周年论文集数学物理生物卷上的论文。在 1952 年发表的那篇论文中，程毓准曾谈到，此项研究乃是他哥廷根时期义兼师友的 K. O. Friedrichs 所建议，继其两份技术报告中触及的问题，进行深入的理论探讨和严格的数学论证。他首先强调指出了对这一问题进行认真严谨的数学分析的必要性。为此他援引了流体力学家兼应用数学家 S. Goldstein 在 1950 年国际数学家大会上所作的《气体动力学选讲》。该《选讲》指出，处理这类问题的常规线性化方法存在着诸多疑问，亟需从数学上予以严格澄清。实际上，由于流动是柱对称的，因而在中轴上的径向速度分量自然为零，从而有望取一次近似的线性化方法，能在中轴邻近提供不会过于失真的近似。但另一方面，正是
+
+由于轴对称性，相应的方程在中轴上会有奇性。因此，人们在这里面临的是具奇性的非线性双曲型偏微分方程的某种特征初边值问题。对于这种问题，其精确解应当如何理解，是否存在，如何恰当地截取其近似，以及解的渐近性态如何等，都是难度很大的问题。程毓准在上面提及的 1952 年和 1953 年发表的两篇文章中，借助于一些高难技巧，对上述那些问题进行了深入详尽的讨论，给出了甚为完满的解答。在 1955 年的伯克莱偏微分方程讨论会上，程毓准对上述两文的基本要点作了诠释，并报告了进一步的研究结果。这就是上面提及的 1956 年发表的那篇论文的主要内容。程毓准的这一力作，在 1960 年 R.E. Meyer 所作的关于空气动力学的特征线方法的综述中，有较为全面而肯定的反映。例如，在该综述的 §31 中，Meyer 强调指出，关于方程在中轴上的奇性，只是在程毓准对之作了透彻的研究之后，才得以澄清的；在 §32 中评介合理的“一致”一阶近似理论时他又屡次引用了程的相关工作。由此可见，程毓准在这方面的工作具有奠基性的意义。
+
+20 世纪 60 年代至 70 年代末，程毓准的主要兴趣领域是与机翼绕流问题有关的双曲型和混合型方程。他在 1982 年第三届国际双微 (微分几何与微分方程) 会议 (长春) 上的口头特邀报告《关于 Radon 变换的若干新老应用》中着重介绍了他在这一时期的一组精心之作。论题是，$R^{n+1}(n \geqslant 3)$ 中数据给在光锥之上时波动方程的解。当 $n=1$ 时，这就是经典的 Coursat 问题。但是，对 $n>1$，问题要比 $n=1$ 时困难得多，而程毓准是对之做了深入研究、并基本彻底解决了该问题的第一人。当 $n$ 为奇数时结果尤为完美。程毓准在相关论文的注记中特别提到，在他思考与写作过程中，曾与在哥廷根时期结识的老友，后来鼎鼎大名的 H. Lewy 和 F. John 多所讨论。由此可见，他对此项研究工作是倾注了心血的，对所取得的成果是颇为满意的。当人们仔细阅读他关于双曲型方程的那组论文时，更能体验作者的匠心独具。在该组文章中，他首创性地提出用来表达所讨论的问题之解的双曲面均值。这是经典的球面均值与多重球面均值的类似物。其作法是，在经过光锥外任意一点的特征和光锥的交集上引入一种所谓 Lorentz 不变测度，然后关于这种测度构造出一种更广义的积分平均。为使这种积分平均确实表达所论问题的解，必须将给在光锥上的数据，通过 Radon 变换和某种分数阶微分算子 (实即一种 Fourier 乘子型的第一代拟微分算子)，与积分号下的被积式和 (或) 积分后的结果，发生特定的联系。为此，程毓准在发表于 J. Math. Anal. Appl. 64(1978) 的那篇论文中，特意建立了 Radon 变换在 $L^2_2 R^n$ 空间 (即 $C^\infty_0(R^n)$) 在其 Dirichlet 积分模下的完备化) 中几种形式的“Plancerel 定理”，作为准备工具，并在该文开头的提要中予以强调指出。
+
+在这一时期内，他还对混合型方程的初值问题，进行了较为深入的研究。主要结果刊于 Comment. Math. Helv. (1959, 33: 296-321) 和 Comm. Pure Appl. Math. (1961, 14: 229-256)。
+
+三、教学风范与爱国情怀
+
+由于程毓准从 19 世纪 40 年代后期起就一直在国外工作，国内了解他的人现已为数
+
+甚少。但他在西南联大任教期间在数学教育方面的贡献是应当永志不忘的，影响是甚为深远的。
+程毓准是西南联大长期处在教学第一线的少数几位青年教授之一。他对教学十分重视，从确定教材，编写讲稿，直到课堂讲授，他都极其认真，一丝不苟。
+程毓准在教材的选择方面，充分显示了他的远见卓识以及他引导青年学子奔向当时蓬勃发展的数学科学主流的不懈追求。A.Weil 在介绍法国布尔巴基学派时曾经说过，他们就是从学习 van der Waerden 的《近世代数学》开始的。而程在 20 世纪 30 年代末就在西南联大讲授了刚出版不久的 van der Waerden 这本书。40 年代初，他还面向包括唐敖庆、黄昆、杨振宁等在内的理科青年教师和研究生讲授了 Weil 的《群论与量子力学》。他不只讲授专业课，也讲遍了初等微积分与“三高”等基础课。西南联大长期使用 Schreier 和 Sperner 编著的《解析几何与代数》作为基础课教材，就是由于他的倡导。
+程毓准的课堂教学也是蛮有特点的，而且对受业于他的学生们影响甚大。聂灵沼在西南联大（四川）叙永分校念一年级时，听过程毓准讲初等微积分，用的教材是 Osgood 的书。聂后来回忆说，“他最注意照顾听课学生的接受能力，又力图讲得严谨一些，所以并不拘泥于该书”。三年级时聂又听过程毓准讲《近世代数学》。后来他还听过程毓准开的选修课《群论与量子力学》。在他的记忆里，“程先生讲课不刻意追求板书整齐，并且使用的语言是中英合璧，还不时夹杂些德语，但思路清晰，逻辑严谨，条理分明，语言生动，听下来有一个完整的印象。”“如果把他讲的话都记下来，花点力气稍加整理，即可成为一份完整的讲义。”提及往事，聂动情地写道，“在西南联大学习期间，在诸位老师中，程先生对我的影响是最大的，我从之获益也最多”。其间，程毓准给他和邓汉英读过 Hasse 的一篇文章，内容是关于离散赋值域的结构的决定，篇幅很长，又很难念。据聂回忆，当时他并没有完全读懂，但后来却引起了他的兴趣，对他后来的工作影响甚大，促成他在 1946 年确定了以代数数论为其研究方向。
+程毓准的另一位学生廖山涛在几十年后回忆起当时的情景，还深有感触地说，“他讲的高等代数课给我的印象很深，使我受益匪浅。正是它，使我第一次获得最高的数学美感的享受。归根结底，这完全是由于程毓准老师所选教材的精准和讲授方法的生动所致。多年来我在自己的学习和工作中经常有效效仿”。于此可见他的讲课对学生的影响之深远。
+程毓准那种全身心投入地传播知识火种的启蒙之举，与他朴实诚恳、平易近人的风范相结合，使他的许多老学生，如廖山涛、王湘浩、冷生明、邓汉英、王曾贻、聂灵沼、江泽坚等在半个多世纪之后，仍感念不已。他们说，“程先生不只传授给我们知识，而且也在人格和精神上给了我们深深的教育、启迪和感染”。影响所及，他的学生中不少人都在注意科学研究的同时，非常重视教学。王湘浩正是把这种精神带到了他带头创办并主持工作多年的吉林大学数学系，为这个系的学风和日后的发展奠定了良好的基础。
+1982 年第三届国际双微会议（长春）之后，他与吉林大学数学系的教师座谈时，秉承其关怀后学的一贯精神，以自己的亲身经历谆谆告诫后学，在学术研究活动中，要特别重视与青年同行合作，因为这往往关系到能否把握机遇，乘胜前进的问题。
+
+程毓淮虽长期旅居海外，但仍怀着一颗赤子之心，十分关注自己的“根”。他教育和鼓励晚辈们认识中国，了解中国，热爱祖国。他经常与人谈起中国，促进中外交流。当我国实行改革开放政策之后，他以亲人般的关怀与热情，接待了来自祖国各地的数批学子，在生活、学习、工作等各个方面为他们提供方便。他积极从事中美数学界的学术交流，热切关注祖国数学教育和研究的发展。他向吉林大学数学系捐赠了他珍藏多年的大批数学书刊，并应聘为吉林大学数学系名誉教授。他也曾是台湾“中央研究院”院士。
+
+四、程毓淮主要论著
+
+Cheng Y H. 1933. Grenzübergang der Wellengleichung in die Warmesleitunge-gleichung. Göttingen Nachrichten, Bd, 46: 365–370.
+Cheng Y H. 1934. Das Verhalten einer Folge von partiellen differential Gleichungen welche ein Limes ausarter. Göttingen Dissertation: University of Göttingen.
+Cheng Y H. 1935. Das verhalten einer folge von (gewöhnlichen) differential Gleichungen welche ein Limes ausarter. Compositio Math, 2: 387–401.
+Cheng Y H. 1944. Bitrage zur Nevunlinna-Alforsen Theorie der meromorphen Funktionen. Berlin: Math-Naturwiss.
+Cheng Y H. 1945. Algebraisation of plane absolute geometry. Amer J Math, 67: 363–388.
+Cheng Y H. 1948. The characteristic initial value problem for a hyperbolic differential equation with a singularity. National Peking University Semi-Centennial Volume, Mathematical, Physical and Biological Series: 18–25.
+Cheng Y H. 1948. Branch points, poles & plannar points of minimal surfaces. Ann Math, 49: 790–806.
+Cheng Y H. 1949. Existence of minimal surfaces with a simple pole at infinity and condition transversality on the surface of a cylinder. Trans Amer Math Soc, 65: 331–347.
+Cheng Y H. 1950. On a quasi-linear system of hyperbolic differential equations with a parameter and a singularity. Cambridge: Proceedings of the International Congress of Mathematicians, 1: 667–668.
+Cheng Y H. 1950. Somes us pension theorems. Quaterly J Math Oxford, 1: 110–117.
+Cheng Y H. 1950. Homotopy invariants and continuous mappings. Proc Royal Soc, 202: 152–163.
+Cheng Y H. 1952. Supersonic flow through nozzles with rotational symmetry. Comm Pure Appl Math, 5: 57–86.
+Cheng Y H. 1953. Flows through nozzles & related problems of cylindrical and spherical waves. Comm Pure Appl Math, 6: 179–229.
+Cheng Y H. 1955. A generalization of the sextactic point of a planecurve. Duke Math J, 12: 155–178, 321–335.
+Cheng Y H. 1955. Degenerate solutions of partial differential equations. Proc Amer Math Soc, 6: 855–861.
+Cheng Y H. 1956. Discontinuity and representations of minimal surface solutions. Proceedings of Conference on Differential Equations (dedicated to A. Weinstein), University of Maryland: 115–138.
+Cheng Y H. 1956. Discontinuity of solutions of quasi-linear differential equations in two variables. Comm Pure Appl Math, 9: 373–381.
+Cheng Y H. 1959. Hölder continuity and initial value problems of mixed type differential equations. Comment Math Helv, 33: 296–321.
+
+Cheng Y H. 1961. Entire solutions of a class of differential equations of mixed type. Comm Pure Appl Math, 14: 229-256.
+Cheng Y H. 1964. On the solutions of the wave equation in the quardrant of R⁴. Bull Amer Math Soc, 70: 172-177.
+Cheng Y H. 1967. On the solutions of the wave equation in the exterior of the characteristic cones. J Math Mech, 16: 655-674.
+Cheng Y H, Hershi R. 1967. The three dimensional wave equation in a characteristic quarterspace. J Math Mech, 17: 449-460.
+Cheng Y H. 1970. Solutions of n-dimensional wave equation in the exterior of the characteristic cones(I), n odd. Indiana Univ Math J, 20: 33-55.
+Cheng Y H. 1971. On the hyperboloical means and the wave equation. Indiana Univ Math J, 21: 437-445.
+Cheng Y H. 1975. Solutions of n-dimensional wave equation in the exterior of the charalteristic cones(II), n odd. Indiana Univ Math J, 24: 757-766.
+Cheng Y H. 1976. A remark on the John-Asgeirsson formula for iterated spherical means. Taiwan: Math Research Center: 7-10.
+Cheng Y H. 1978. Solutions of the wave equation in Rⁿ⁺¹ with data on a characteristic cone. J Math Anal Appl, 64: 223-249.
+程毓淮. 1982. 关于拉当(Radon)变换的若干新老应用. 长春: 在第三届国际双微会议上的特邀报告.
+主要参考文献
+Тихонов А. 1948. Озависимости решений дифференциальных уравнений от малого параметра. Мат Сб, 22(64): 193-204.
+Градштейн ИС. 1950. Линейные уравненияс переменными коэффициентами ималзи пана метами при старщих производных. Мат Сб, 27(69): 47-68.
+Goldstein S. 1950. Lectures on gas dynamics. Proc Inter Congress Math, II: 280-291.
+Meyer R E. 1960. On characteristic line method in air dynamics. Encyclo-pedia of Physics, 9, Fluid Dynamics III, Springer-Verlag: 245-282.
+Nitshce J C C. 1975. Vorlesungen über Minimalflächen. Berlin-Heidelberg-New York: Springer-Verlag.
+撰写者
+严子谦, 1933 年出生, 吉林大学教授。

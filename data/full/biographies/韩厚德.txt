@@ -1,0 +1,88 @@
+人物：韩厚德
+生年：1938年
+研究方向：计算数学
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：103-109
+============================================================
+
+韩厚德
+
+韩厚德 (1938~)，河南开封人。计算数学家。1960 年毕业于北京大学数学力学系。先后在北京大学数学系和清华大学数学系任教。曾担任清华大学应用数学研究所所长，中国计算数学学会副理事长。他的研究领域为计算数学，特别在无界区域上偏微分方程的数值解，边界积分-微分方程和变分不等式问题的数值解，有限元与边界元的对称耦合法，奇异摄动问题的数值解，不适定问题的数值解，以及无限元方法等研究方面做出了重要的贡献。
+
+一、简 历
+
+韩厚德 1938 年生于河南省开封市。出生后即随父母逃难到河南省汝南县，在那里度过了童年，抗战胜利后返回开封。1956 年高中毕业后考入北京大学数学力学系，1960 年毕业后留校任教。1986 受聘于清华大学应用数学系任副教授，次年任教授。1997 年任清华大学应用数学研究所所长。1999 年任中国计算数学学会第五届理事会副理事长。
+
+韩厚德进入北京大学学习时正值中国实施第一个五年计划，“向科学进军”是当时响亮的口号。学校的学术气氛很浓厚，知名教授都亲临教学第一线讲授基础课程。1957 年周毓麟从苏联学成回国，带回了当时处于国际前沿的非线性(椭圆型和抛物型)偏微分方程的研究方法和理论，在北京大学为学生开设了专业课程来培养学生的科研创新能力。韩厚德正是在这样的条件下完成了基础课程和专业课程的学习，为以后的教学和科研工作打下了坚实的基础。
+
+改革开放之后，中国的科学教育事业逐步得到恢复和发展。1979~1981 年，韩厚德作为访问学者到美国马里兰大学进修两年。其后又应邀多次赴英、德、美、日等国的多所大学讲学。与国际计算数学界同行的合作研究和学术交流开阔了韩厚德的学术视野，提高了他的学术研究水平。
+
+二、学 术 成 就
+
+在从事计算数学和应用数学的研究和教学工作的几十年里，韩厚德先后取得了一系列重要的研究成果。在国内外学术刊物上共发表学术论文 100 余篇。韩厚德曾获得国家科学大会奖 (1978)，国家教委科技进步奖二等奖 (1988)、一等奖 (1995)，北京市科技进步奖二等奖 (2002)，国家自然科学奖二等奖等多项奖励。以下介绍韩厚德取得的主要研究成果。
+
+1. 人工边界方法 —— 无界区域上偏微分方程的数值解
+
+科学和工程研究领域中的大量计算问题归结为无界区域上偏微分方程的数值解。区
+
+域的无界性给这类问题的求解带来了本质的困难，已有的一些计算方法例如有限差分和有限元不能直接应用。韩厚德于 1979 年开始这一方向的研究。近 30 年来，韩厚德和他的学生们系统地发展了无界区域上偏微分方程数值解的人工边界方法，建立了严格的数学理论，克服了区域无界性带来的本质性困难。人工边界方法的核心技术是对给定的问题引进人工边界，将问题的物理区域分割为有界的计算区域和余下的无界区域，在人工边界上找出准确的边界条件或构造出各种高精度的近似人工边界条件，从而将原问题归化为有界计算区域上的等价问题或近似问题进行数值求解。韩厚德对二阶椭圆方程、Stokes 方程组、线弹性方程组的外问题在人工边界 (圆周和球面) 上得到了准确的边界条件和一系列高精度的整体和局部人工边界条件。此外对无界区域上的发展方程例如高维线性抛物方程、波动方程和 Schrödinger 方程也得到了准确的人工边界条件。进一步为 Poisson 方程、弹性力学方程组、Stokes 方程组外问题的人工边界方法建立了严格的数学理论，给出了数值近似解的误差估计，首次得到了数值解误差与剖分尺寸，人工边界位置及人工边界条件精确度之间关系的估计式。韩厚德在 1985 年已经发表了相关结果，而西方学者于 1997 年才出现类似的结果。此外，韩厚德和他的学生们对内界面问题，断裂力学中的应力强度因子计算，无限长管道中流体的流动，水下绕流问题的数值模拟、无限大弹性地基问题，期权定价问题等不同领域中的重要问题也用不同方法和技巧设计了各种高精度、有效的人工边界条件。
+
+2. 边界积分-微分方程和变分不等式问题的数值解
+
+边界元方法是应用基本解把偏微分方程的各种边值问题归化为区域边界上的积分方程后进行数值计算的一种求解偏微分方程的数值方法。它的显著优点是将原问题的空间维数降低一维，但是在运用过程中要数值计算各种奇异积分。在对原问题进行边界归化的过程中如何保持原问题的重要基本性质 (例如问题的自伴性，正定性等) 同时又要避免边界积分方程出现过高奇性的奇异积分是边界元方法的核心问题之一。韩厚德对 Laplace 方程、Helmholtz 方程、线性弹性方程组等的双层位势的微商进行了深入的研究，得到了双层位势微商的新表达式。应用这些新表达式可将相应偏微分方程 (组) 的 Neumann 问题归化为保持自伴特性的边界积分-微分方程 (组)，而且边界积分中仅包含弱奇性的积分核。这给下一步的数值计算带来了很大的好处。韩厚德对这类边界积分-微分方程 (组) 建立了严格的数学理论和可行的计算方法，得到了数值解的最优误差估计。
+
+变分不等式问题是应用数学的一个重要分支，它有许多物理应用背景。韩厚德是首先将边界元方法用于求解变分不等式问题的研究者之一。基于对双层位势微商的深入研究，韩厚德提出求解变分不等式问题的新的边界元方法，将一大类变分不等式问题 (例如 Signorini 问题) 直接归化为边界上的等价变分不等式。同时建立了问题的可解性，给出了边界元数值近似解的误差估计。
+
+3. 有限元与边界元的对称耦合法
+
+有限元方法与边界元方法是科学与工程计算中应用极为广泛和有效的两个重要算法。
+
+它们各具优势的同时也具有各自的局限性。有限元方法对问题有极强的适应性，适用于求解复杂区域上变系数的线性微分方程及各种非线性问题，但不能直接求解无界区域上的问题。边界元方法适用于无界区域上的偏微分方程的数值模拟，但只对常系数线性方程才有可能找到基本解的解析表达式，从而将所研究的问题归化为等价的边界积分方程。到 20 世纪 80 年代，人们迫切希望将它们耦合起来以取长补短。很多著名的计算数学家、计算力学家致力于这一研究，最初的耦合方法只用到一个积分方程，破坏了原问题的对称正定性。1987 年韩厚德提出了《一类新的有限元与边界元耦合的变分公式》(1987 年出了预印本，1990 年正式发表，预印本已被他人引用)，它适用于任意形状的人工边界。此文发表后引起国际同行的广泛关注，被国际同行称为两个基本的有限元与边界元耦合公式之一，引发了大量后续工作和新的研究热点。这是一种对称方法，它的优点是，离散化后可得到对称矩阵而以前西方流行的方法得到的矩阵是非对称的。同时它的一个等价形式具有正定性，从这个等价形式出发，能容易地得到数值解最优的误差估计。
+
+4. 奇异摄动问题的数值解
+
+奇异摄动问题出现在应用数学的很多分支中，它可以追溯到 1904 年 Prandtl 在第三届国际数学家大会（德国海德堡）上提出的边界层（boundary layers）问题，至今它仍是一个十分活跃的研究领域。奇异摄动问题常常带有一个小参数，边界层（boundary layers）或内层（internal layers）的存在给问题的数值求解带来了巨大的困难。韩厚德与美国马里兰大学教授 R.B. Kellogg 合作对椭圆型方程的奇异摄动问题的解及其微商得到了高阶渐近展开式，展现出问题解的边界层和由角点奇性引起的角点层（corner layers）。这个工作引起国际同行的广泛关注，其结果已被很多学者成功地应用于奇异摄动问题数值解一致收敛性的分析，成为椭圆型方程奇异摄动问题数值解分析的理论基础。
+
+在对流占优的对流扩散问题中，对流系数在整个区域上都可能改变方向和大小。对于离散后得到的大型方程组一直没有办法来确定格点的顺序来改善一大类迭代方法的收敛性。韩厚德等（1992）提出的“流动方向迭代法”解决了上述问题。“流动方向迭代法”即按照对流系数的流动方向对所得到的大型方程组中的未知量重新排列顺序，从而大大加快迭代法的收敛速度。此方法已获得广泛的应用。
+
+5. 不适定问题的能量正则化方法
+
+不适定问题是应用数学的一个重要分支，出现在很多工程技术问题中。椭圆型方程的 Cauchy 问题就是一个典型的不适定问题。由于问题的不适定性特别是不稳定性（连续问题的不稳定性可直接导致数值方法的不稳定性）给问题的数值模拟带来了本质性的困难。用通常的数值方法不能求解这类问题。韩厚德于 1982 年提出了能量正则化方法（Math. Comput. 38: 55-65）克服了数值计算的不稳定性。能量正则化方法已引起国际同行的广泛关注并被应用于求解多种不适定问题，例如逆向热传导问题。
+
+韩厚德与德国数学家 H.J. Reinhardt 等合作建立了不适定问题数值解的误差估计。给出了数值解的误差对剖分步长和辅助参数的依赖关系。
+
+6. 低阶四边形非协调有限元
+
+国际上公认有限元方法是 20 世纪 50 年代末至 60 年代初由西方学者和中国学者冯康独立创立的。后来人们发现在著名数学家 Courant 1943 年的一篇论文中已有了有限元方法的思想并给出了线性协调三角形单元，这是有限元历史上最早的单元，被称为 Courant 三角形单元。1973 年法国数学家 Crouzeix 和 Raviant 发现了线性非协调三角形单元，为解决流体力学中的 Stokes 问题和 Navies-Stokes 问题的数值解提供了有效的工具，同时也可应用于结构力学问题，解决了有限元计算的“闭锁”(Locking) 现象。1984 年，韩厚德在 Nonconforming element in the mixed finite element method 一文中给出了以四边形的中心和边的中点为节点的低阶四边形非协调单元，并将它应用于 Stokes 问题、Navies-Stokes 问题，得到了有限元解的误差估计。由于该非协调四边形单元具有内在的优越性，引起了国外同行的关注，得到了它的各种变形，并将它应用于解决结构力学问题有限元计算的“闭锁现象”。这一非协调四边形单元将与 Crouzeix-Raviant 三角形单元一起在非协调有限元方法中占有重要的位置。
+
+7. 无限元快速迭代法
+
+断裂力学的核心问题之一是研究裂纹尖端附近的应力分布和裂纹扩展的准则，应力强度因子的计算成为关键问题之一。由于在裂纹尖端存在应力集中现象，通常的计算方法 (包括有限元方法，差分方法) 失去了效力。无限元方法是为克服这个困难而发展起来的一种有效的方法，它是有限元方法的发展和补充。将求解区域剖分为无限多个 (一般情况下是相似的) 小单元，问题离散化后得到一个包括无限多个未知变量的代数方程组 (以下称无限阶代数方程组)。无限元方法的核心技术是如何高效求解这类包括无限多个未知变量的无限阶代数方程组。韩厚德与应隆安 (1979) 提出了快速迭代算法，并将无限元方法应用于椭圆型方程的内界面问题 (1982)、特征问题 (1983)、复合材料应力强度因子的计算等问题的数值模拟。为这些问题的数值解提供了高效的计算方法。
+
+韩厚德如今年过七旬，但思维仍旧活跃，新的研究成果不断出现。一如既往，韩厚德为培养后辈人才投入了大量的精力和心血，不仅在学术上，而且在生活上对学生和青年教师关怀备至。他的许多学生已经成为各单位的骨干力量，活跃在国际计算数学的舞台上。
+
+三、韩厚德主要论著
+
+Han H D, Ying L A. 1979. An iterative method in the infinite element. Mathematicae Numercae Sinica, 1: 91-99.
+Han H D. 1982. The finite element method in a family of improperly posed problems. Math Comput, 38: 55-65.
+Han H D. 1982. The error estimate for the infinite element method for eigenvalue problems. RAIRO Numerical Analysis, 16: 113-128.
+Han H D. 1982. The numerical solution of interface problems by infinite element method. Numerische Mathematik, 39: 39-50.
+
+Han H D. 1984. Nonconforming elements in the mixed finite element method. Journal of Computational Mathematics, 2: 223-233.
+Han H D, Wu X N. 1985. Approximation of infinite boundary condition and its application to finite element methods. Journal of Computational Mathematics, 3: 179-192.
+Han H D. 1988. Boundary integro-differential equations of elliptic boundary value problems and their numerical solution. Scientia Sinica, 31: 1153-1165.
+Han H D. 1990. A direct boundary element method for Signorini problems. Mathematics of Computation, 55: 115-128.
+Han H D. 1990. A new class of variational formulations for the coupling of finite and boundary element methods. Journal of Computational Mathematics, 8: 223-232.
+Han H D, Kellogg R B. 1990. Differentiability properties of solution of the equation -ε²Δu + ru = f(x, y) in a square. SIAM J Math Anal, 21: 394-408.
+Han H D. 1991. A boundary element method for Signorini problems in three dimensions. Numerische Mathematik, 60: 63-75.
+Han H D, Wu X N. 1992. The approximation of the exact boundary conditions at an artificial boundary for linear elastic equations and its application. Mathematics of Computation, 59: 21-37.
+Han H D. 1994. The boundary integro-differential equations of three dimensional Neumann problem in linear elasticity. Numerische Mathematik, 68: 269-291.
+Han H D, Bao W Z. 1996. An artificial boundary condition for two-dimensional incompressible viscous flows using the method of lines. International Journal for Numerical Methods in Fluids, 22: 483-493.
+Han H D, Wu X N. 1998. A new mixed finite element formulation and the MAC method for the Stokes equations. SIAM J Numer Anal, 35: 560-570.
+Han H D, Bao W Z. 2000. Error estimates for the finite element approximation of problems in unbounded domains. SIAM J Numer Anal, 37: 1101-1119.
+Han H D, Huang Z Y. 2001. The discrete method of separation of variables for composite material problems. International Journal of Fracture, 112: 379-402.
+Han H D, Huang Z Y. 2002. A class of artificial boundary conditions for heat equation in unbounded domains. Computers & Mathematics with Applications, 43: 889-900.
+Han H D, Zheng C X. 2002. Mixed finite element and high-order local artificial boundary conditions of elliptic equation. Comput Methods Appl Mech Engrg, 191: 2011-2027.
+Han H D, Zheng C X. 2003. Exact nonreflecting boundary conditions for acoustic problem in three dimensions. Journal of computational Mathematics, 21: 15-24.
+撰写者
+郑春雄，1975 年生，清华大学数学科学学院副教授。2001 年毕业于清华大学，获理学博士学位，研究领域为应用数学。

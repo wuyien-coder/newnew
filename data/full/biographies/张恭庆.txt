@@ -1,0 +1,82 @@
+人物：张恭庆
+生年：1936年
+研究方向：数学（非线性分析、偏微分方程、几何分析）
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第三分册_p428
+页码：375-380
+============================================================
+
+张恭庆
+
+张恭庆 (1936～)，上海人。数学家。1954 年从上海市南洋模范中学高中毕业后进入北京大学数学力学系学习，1959 年毕业后任北京大学数学力学系助教，1978 年 5 月至 1983 年 2 月，任北京大学数学系副教授，1983 年 2 月起，任北京大学数学系、数学科学学院教授，1991 年当选中国科学院院士，1994 年当选第三世界科学院院士。曾任国际数学联盟发展与交流委员会委员，中国数学会理事长，中国科学院数理学部副主任，国务院学位委员会数学学科评议组召集人，科技部“国家重点基础研究发展规划”专家顾问组成员，北京大学数学研究所所长和数学及其应用教育部重点实验室主任等职，现任教育部高校数学研究与人才培养中心主任。《中国科学》，《数学学报》，法国 Analyses Nonlinéaire, Ann. Institut de H. Poincaré, 英国 Proceedings A, the Royal Society of Edinburgh, 新加坡 International Journal of Mathematics, 美国 Nonlinear Analysis, TMA, 瑞士 Birkhäuser Monographs in Mathematics 等 10 多个杂志和丛书编委。研究领域为临界点理论、非线性微分方程和几何分析。1982 年获国家自然科学三等奖，1986 年获陈省身数学奖，1987 年获国家自然科学二等奖，1993 年获第三世界科学院数学奖，1995 年获何梁何利科技进步奖，2007 年被评为国家级教学名师。
+
+一、简 历
+
+张恭庆 1936 年 5 月 29 日生于上海市，1954 年从上海市南洋模范中学高中毕业后进入北京大学学数学力学系学习，1959 年毕业。1959～1978 年，北京大学数学力学系助教，1978 年 5 月～1983 年 2 月，北京大学数学系副教授，1983 年 2 月起，北京大学数学系教授。担任的主要职务：1988～1999 年，任北京大学数学研究所所长；1996～1999 年，任中国数学会理事长；1993～2007 年第八、九、十届全国人大代表；1993 年至今，国务院学位委员会数学学科评议组召集人；1993～2005 年，教育部属北京大学数学及其应用重点实验室主任；1994～2002 年国际数学联盟发展与交流委员会委员；1995～2003 年国家自然科学基金委员会委员；1996 年至今，教育部高校数学研究与人才培养中心主任；1998～2003 年，科技部“国家重点基础研究发展规划”专家顾问组成员；2000～2003 年，数学天元基金领导小组组长；2000～2005 年中国科学院数理学部常务委员 (2002～2005 年副主任)。同时兼任《中国科学》，《数学学报》(英文), Frontiers of Mathematics in China, Analyses Nonlinéaire, Ann. Institut de H. Poincaré(法国), Proceedings A, the Royal Society of Edinburgh(英国), International Journal of Mathematics(新加坡), Nonlinear
+
+Analysis, TMA(美国), Dynamic Systems and Applications(美国), Abtract and Applied Analysis(美国), Discrete and Continuous Dynamical Systems(美国), Communications in Contemporary Mathematics(美国) 编委。丛书 Monographs in Mathematics, Birkhäuser(瑞士) 编委。1999 年至今，香港科技大学兼职教授。
+张恭庆获得的荣誉有：1982 年获国家自然科学三等奖（带间断非线性项的偏微分方程）；1986 年获陈省身数学奖（Morse 理论及其在非线性微分方程的应用）；1987 年获国家自然科学二等奖（临界点理论及其应用）；1993 年获第三世界科学院数学奖；1994 年在世界数学家大会作 45 分钟应邀报告；1995 年获何梁何利科技进步奖；2007 年被评为国家级教学名师。
+二、主要研究领域和学术成就
+1. 带间断非线性项的微分方程理论
+20 世纪 70 年代中期，张恭庆参与研究受控热核装置中磁约束等离子体平衡的计算问题，以及石油勘探中出现的“水锥问题”，发现这两个数学物理方程的自由边界问题都可以抽象为“带间断非线性项的偏微分方程”的固定边值问题。此后他又发现有一大类数学物理方程的自由边值问题都可以这样处理，如障碍问题、水坝问题、燃烧问题等。为此，张恭庆系统发展了两种非线性泛函分析理论：集值映射的拓扑度与不可微局部 Lipschitz 泛函的临界点理论（Chang K C, Jiang B J, 1978; Chang K C, 1981）。有了这两种理论，处理带间断非线性项的问题与连续非线性项的问题在技术上没有区别。他先与姜伯驹（Chang K C, Jiang B J, 1978）合作把凸集值映射的拓扑度推广到一类非凸集值映射，再用这种拓扑度取代单值的 Leray-Schauder 拓扑度，得到的不动点是相应微分包含的解，在上述具体情形，所得的不动点正是微分方程所要的解（Chang K C, 1980）。借助于 Clarke 的广义微分概念，可以把有变分结构的带间断非线性项的微分方程化为求不可微局部 Lipschitz 泛函的临界点。张恭庆又系统发展了这类泛函的临界点理论，特别是把 Moutain Pass 等定理推广到这种情形（Chang K C, 1981）。这些工作方法新颖，富有特色，又有强烈的实际背景，是一项完全创新的成果，曾获得国家自然科学三等奖（1982）。特别是文（Chang K C, 1981）发表后，受到广泛的关注，引发了许多方面的后继研究，其结果在许多问题中得到了应用和发展。
+力学家 Panagiotopoulos 研究复合型材料，发展出非光滑力学以及 hemivariational inequality 理论，他们发现张恭庆的不可微局部 Lipschitz 泛函的临界点正是 hemivariational inequality 的解，从而（Chang K C, 1981）中的临界点定理直接可以应用。
+20 世纪 90 年代初，Corvellec, Degiovanni, Marzocchi, G. Katriel 以及 Ioffe, Schwartzman 等将临界点理论又推广到度量空间上的连续函数，尽管后者范围广，但其“导数”不易计算，至今在应用问题中人们还是经常引用张恭庆的结果。
+
+· 366 ·
+20 世纪中国知名科学家学术成就概览•数学卷•第三分册
+
+研究通常的微分方程在技术处理上允许出现间断非线性项有时会使问题简化，局部 Lipschitz 泛函的临界点理论是研究这类问题的一个很好工具，如蒋美跃用前文结果研究台球碰撞问题 (*Periodic solutions of second order equations with an obstacle, Nonlinearity, 19(2006), 1165-1183; Periodic solutions of second order equations with discontinuous nonlinearities, J. Dynamics and Differential Equations, 18(2006), 1043-1067*)。
+
+此文发表距今已逾 25 年，引用率仍未衰退，至今仍有很高的引用率。
+
+2. 无穷维空间的 Morse 理论及其在非线性分析问题中的应用
+
+在非线性分析的拓扑方法中，Leray-Schauder 拓扑度是一个非常重要的普遍使用的工具。从 20 世纪 50 年代开始，人们希望发展 Morse 理论以及 Birkhoff-Liusternik-Schnirelmann 极小极大原理使之对于有变分结构的问题也成为普遍使用的拓扑工具。在这些先驱中有：Krasnoselski, Rothe, Palais, Smale, Gromoll, Meyer 等。20 世纪 70 年代中，A. Ambrosetti-P. Rabinowitz 成功地发展了极小极大原理，得到了 Mountain Pass 定理，使之在偏微分方程和 Hamilton 系统中有广泛的应用。稍后，张恭庆 (Chang K C, 1981) 在前人工作基础上第一次成功地应用 Morse 理论于偏微分方程和 Hamilton 系统的多重解。随后，他在 (Chang K C, 1985) 中系统地发展了无穷维空间的孤立临界点的 Morse 理论，包括：统一了 Rothe 与 Gromoll Meyer 的临界群的定义，证明了临界群的同伦不变性；类似于 Leray-Schauder 拓扑度，他用水平集的相对奇异同调群作整体不变量，用孤立临界点的临界群作局部不变量，用 Morse 不等式连接整体与局部不变量；对渐近二次泛函他计算了作为整体不变量的相对奇异同调群。他还建立了 Leray-Schauder 度与临界群的关系，说明用临界群描写孤立临界点的局部形态比 Leray-Schauder 度精确。1983 年夏，加拿大蒙特利尔大学邀请张恭庆在其一年一度举办的高等数学讲习班作了十次演讲，系统介绍无穷维 Morse 理论及其在微分方程的中应用，其讲义后来整理成 *Infinite Dimensional Morse Theory and Its Application* 一书，1985 年由蒙特利尔大学出版社出版，这是张恭庆在无穷维 Morse 理论的工作在国际同行中受到重视的一个标志。后来，他又吸收了田刚、刘嘉荃和王志强的研究结果，把各种极小极大原理，包括群作用下不变泛函的指标理论用于计算水平集的相对奇异同调群，从而使得由各种极小极大原理导出的临界点定理融汇到他所建立的无穷维 Morse 理论框架之中，使后者成为估计临界点个数的强有力工具。这理论被广泛地应用到椭圆型偏微分方程的边值问题和 Hamilton 系统周期解的多解问题的研究中。此外，他把上、下解方法与临界点理论结合起来，加强了 Mountain Pass 定理 (Chang K C, 1983)，他还发现了周期非线性位势 Hamilton 系统周期解的个数与周期变量的关系。
+
+1987 年秋，张恭庆应 P. Rabinowitz 之邀再访威斯康星大学，为该校开设研究生专题课程，系统讲授无穷维 Morse 理论。因为这部分理论已成为非线性泛函分析的重要组成部分，于是应 H. Brezis 之邀，他又为 Birkhäuser 出版社《非线性偏微分方程及其应用》丛书撰写了一本专著 *Infinite Dimensional Morse Theory and Multiple Solutions*
+
+Problem, 系统地总结了他在 Morse 理论上所做的重要贡献。此书现已成为是从事临界点理论研究的数学家必读著作，具有很高的引用率。此后他与 Ghoussoub (Chang K C, Ghoussoub N, 1997) 又把“孤立临界点”的理论推广到“孤立临界集”，从而对于有变分结构的系统，还建立了孤立临界集的临界群与 Conley 指标的关系。由于对无穷维 Morse 理论的重要贡献，张恭庆于 1986 年获陈省身数学奖，1987 年获国家自然科学二等奖，1993 年获第三世界科学院数学奖，在 ICM(1994) 上，他应邀作 45 分钟报告介绍这些成果。由此表明他已成为该领域的领军人物。
+
+3. 几何分析
+
+20 世纪 80 年代初，几何分析作为微分几何与微分方程的交叉学科正在兴起，一些微分方程专家开始关心几何中的微分方程问题。1984 年，张恭庆访问了英国华威大学，该校 J. Eells 建议合作研究调和映射和极小曲面问题。这次合作是张恭庆进入几何分析的第一步，此后他与丁伟岳等继续在这方面开展工作。他在这方面的主要贡献有：利用 Morse 理论，对具有标准辛结构环面上关于辛同胚不动点的 Arnold 猜测，给出了一个新的简单证明 (Chang K C, 1986)，对具有标准辛结构的复射影空间中，实射影空间以标准方式嵌入作为 Lagrange 子流形，证明了 Arnold 关于 Lagrange 子流形相交数的猜测 (和蒋美跃合作)(Chang K C, Jiang M Y, 1990)；利用调和映射热流作为形变，在一定条件下，建立了二维调和映射的 Morse 不等式 (Chang K C, 1989)，给出了二维调和映射热流有限时间爆破的例子 (和丁伟岳，叶如钢合作)(Chang K C, Ding W Y, Ye R G, 1992)；利用带边 Morse 理论，统一处理了此前二维球面上预定曲率问题的有关结果并给出了新的存在性结果 (和刘嘉荃合作)(Chang K C, Liu J Q, 1993)；对极小曲面 Plateau 问题的热流方程的初值问题，建立了局部存在性，整体存在性，并以热流作为形变，建立了极小曲面的 Morse 不等式 (和刘嘉荃合作)(Chang K C, Liu J Q, 2004)。
+
+三、教学与人才培养
+
+在个人从事紧张研究工作的同时，张恭庆为培养学生倾注了许多精力。他已在三尺讲台上度过了 48 个春秋，他不仅带研究生，而且还给本科生上课。20 世纪 80 年代初回国后，张恭庆为本科生和研究生开设“泛函分析”课。此课程打破了传统框框，对课程的体系和内容进行了较大改革和调整。因为他认为当前数学发展的主流是数学各分支之间的综合与融汇，要培养学生对“数学是一个有机整体”的认识，所以他在编写讲义时就力图实现这一目标，尽量让学生们了解这门课程的来龙去脉，更好地把握它和数学其他分支的联系。张恭庆等 1987~1990 年编著的《泛函分析讲义》(上册与林源渠合著，为本科生用，下册与郭懋正合著，为研究生用) 是其教学成果的结晶，曾获全国高校优秀教材奖，多年来一直被许多学校指定为考研主要参考书。由于这本教材对教师有要求较高，开始几年，张恭庆亲自教这门课，现在该书已被许多学校采用。一些青年反映读了这本书后，
+
+增强了自己学数学的兴趣和信心。为了使青年数学家脱颖而出，张恭庆每次出国访问，都尽量多地了解国外大学培养人才的经验和方法，带回国内研究借鉴。他还常常不惜时间去学习一些自己没有基础也不太熟悉的数学重要分支，以便更好地为青年当好参谋。他还密切注视一些研究方向上的动态，组织专门讨论班，帮助青年人占领新领域。从1981年张恭庆最早出国回来至今，开设了非线性分析讨论班，介绍临界点理论，引领许多年轻人进入这一领域，又和丁伟岳一起开设几何分析讨论班，着眼于微分方程在几何中的应用，前后参加这两个讨论班的许多人，后来成为国内非线性分析和几何分析的研究骨干。2003年由讨论班主要成员组成的团队成为国家自然科学基金委创新群体。
+1981年在程民德力主下，北京大学数学研究所成立，程先生出任第一任所长。1988年张恭庆接任所长，当时北大数学系和国内其他学校数学系一样，正处在一个相当艰难的时期，数学系生源下滑，教师队伍青黄不接，教学科研图书经费严重不足，教职员工的生活工作条件很差，图书馆无钱订购十分急需的外文专业期刊杂志。为了营造一个宽松、良好的学术环境，提高数学研究水平，能够“育天下英才，出原创成果”，张恭庆投入了大量精力，为创造大家的工作条件而奔波。他对研究所实行开放流动机制，完善系、所结合体制。大力提倡各种学术活动，吸引在数学不同领域的活跃分子来所工作。特别是设立“特别数学讲座”，聘请活跃在当今热点研究前沿的专家学者担当讲座教授。每年来所几个月，选择带根本重要性的几个方向开设专题系列讲座，并要求他们参与青年教师和博士后的培养和指导。经过张恭庆和同事们的努力，北大数学系的教学和科研工作又上了一个新台阶。北京大学数学科学学院2003年获得国家教学特等奖，他在其中做出了重要的贡献。由于他本人在教学和人才培养的突出贡献，2007年，张恭庆被评为国家教学名师。
+
+四、服务数学界
+
+张恭庆没有把目光仅聚焦于自己和自己的弟子，也没有仅限于北大数学系和数学研究所，而是不断地为中国数学的发展和圆“中国成为世界数学大国之梦”而呕心沥血，特别是在1996~1999年出任中国数学会理事长期间，和数学界的同仁一起，为成功获得2002年国际数学家代表大会的举办权和组织筹备2002年国际数学家大会开展了艰苦细致而富有成效的工作。申办成功后，张恭庆又负责组建了大会组织委员会，并担任了前期主席。他为2002年国际数学家大会的申办和成功召开作出了重要的贡献。2002年在全国人民的支持下，在北京成功地召开了国际数学家大会。大会的组织工作得到了国际数学联盟和与会人员的高度评价。除此以外，从前面提到的许多学术兼职中，我们还可以想象张恭庆为中国数学的发展倾注了多少心血！
+
+五、张恭庆主要论著
+
+Chang K C. 1974. On the $L^p$ continuity of pseudo differential operators. Scientia Sinica, 7: 621-638.
+
+Chang K C, Jiang B J. 1978. A fixed point index for set-valued mappings and multiplicity of solution of elliptic equations with discontinuous nonlinearities. Acta Math Sinica, 21: 26–43.
+Chang K C, Jiang L S. 1978. Free boundary problems for the stationary water cone. Bull of Science, 23: 647–650.
+Chang K C. 1980. The obstacle problem and partial differential equations with discontinuous nonlinear term. Comm Pure Appl Math, 33: 117–146.
+Chang K C. 1981. Solutions of asymptotically linear operator equations via Morse theory. Comm Pure Appl Math, 34: 693–712.
+Chang K C. 1981. Variational methods for non-differentiable functionals. J Math Anal Appl, 80: 102–128.
+Chang K C. 1983. Variational methods and sub and super-solutions. Scientia Sinica, 26(12): 1256–1265.
+Chang K C. 1983. Free boundary problems and the set-valued mappings. J Differential Equations, 49: 1–28.
+Chang K C. 1985. Infinite Dimensional Morse Theory and Its Applications. Montréal, Canada: Les Presses des L’Université de Montréal.
+张恭庆. 1986. 临界点理论及其应用. 上海: 上海科学技术出版社.
+Chang K C. 1986. Applications of homology theory to some problems in differential equations. Nonlinear Functional Analysis and Appl, Berkeley, Proceedings Symposium on Pure Mathematics, 45. Providence: AMS: 253–262.
+张恭庆, 林源渠. 1987. 泛函分析讲义 (上). 北京: 北京大学出版社.
+Chang K C. 1989. Heat flow and boundary value problems for harmonic maps. Analyses Nonlinéaire, Ann Inst H Poincaré, 6: 363–395.
+Chang K C, Jiang M Y. 1990. The Lagrangian intersections for ($CP^n$, $RP^n$). Manuscripta Math, 68: 89–100.
+张恭庆, 郭懋正. 1990. 泛函分析讲义 (下). 北京: 北京大学出版社.
+Chang K C, Ding W Y, Ye R G. 1992. Finite time blow-up of the heat flow of harmonic maps. J Differential Geometry, 36: 507–515.
+Chang K C, Liu J Q. 1993. On Nirenberg’s problem. International Journal of Mathematics, 4: 35–58.
+Chang K C. 1993. Infinite Dimensional Morse Theory and Multiple Solution Problems. Boston: Birkhäuser.
+Chang K C, Ghoussoub N. 1997. The Conley index and the critical groups via an extension of Gromoll-Meyer theory. Topological Methods in Nonlinear Analysis, 7: 77–93.
+Chang K C, Liu J Q. 2004. An evolution of minimal surfaces with Plateau condition. Calculus Variations & PDE, 19: 117–163.
+Chang K C. 2005. Methods in Nonlinear Analysis. Heidelberg: Springer.
+主要参考文献
+高希尧, 刘嘉荃, 蒋美跃. 2004. 张恭庆传 (未发表).
+撰写者
+刘嘉荃, 1945 年 6 月出生, 北京大学数学科学学院, 教授, 研究方向为非线性分析。
+蒋美跃, 1963 年 3 月出生, 北京大学数学科学学院, 教授, 研究方向为非线性分析。

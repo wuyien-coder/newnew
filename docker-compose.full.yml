@@ -1,0 +1,41 @@
+# docker compose --env-file .env.full -p mathknow-full -f docker-compose.yml -f docker-compose.full.yml up --build -d
+x-full-build: &full-build
+  context: .
+  dockerfile: deploy/Dockerfile
+  args:
+    INSTALL_ML: "true"
+
+x-full-environment: &full-environment
+  MATHKB_DATA_DIR: /app/data/full
+  MATHKB_BIOGRAPHIES_DIR: /app/data/full/biographies
+  MATHKB_VECTOR__COLLECTION: mathkb_full
+  MATHKB_EMBEDDING__PROVIDER: bge
+  MATHKB_EMBEDDING__CACHE_DIR: /app/models
+  MATHKB_EMBEDDING__VECTOR_CACHE_DIR: /app/.index/embedding-cache
+  MATHKB_LLM__PROVIDER: openai
+  MATHKB_LLM__API_KEY: ${MATHKB_LLM__API_KEY:?Set MATHKB_LLM__API_KEY in .env.full}
+  MATHKB_LLM__TIMEOUT: "120"
+  MATHKB_AGENT__MAX_STEPS: "4"
+  MATHKB_AGENT__MAX_EVIDENCE: "12"
+  MATHKB_AGENT__MAX_OBSERVATION_CHARS: "6000"
+
+services:
+  api:
+    build: *full-build
+    environment: *full-environment
+    command: ["sh", "-c", "python scripts/verify_corpus.py && alembic upgrade head && exec uvicorn mathkb.main:app --app-dir src --host 0.0.0.0 --port 8000"]
+    volumes:
+      - type: bind
+        source: ${MODEL_CACHE_DIR:-./models}
+        target: /app/models
+        read_only: true
+    healthcheck:
+      start_period: 1800s
+  worker:
+    build: *full-build
+    environment: *full-environment
+    volumes:
+      - type: bind
+        source: ${MODEL_CACHE_DIR:-./models}
+        target: /app/models
+        read_only: true

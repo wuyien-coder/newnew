@@ -1,0 +1,103 @@
+人物：肖玲
+生年：1940年
+逝世：1988年
+研究方向：非线性偏微分方程
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：144-151
+============================================================
+
+肖玲
+
+肖玲（1940～），北京人。偏微分方程学家。1963年从中国科学技术大学应用数学系毕业，被分配到中国科学院数学研究所。此后一直在该所从事科研工作，于1986年晋升为研究员，1993年获国务院学位委员会授予的博导资格，曾任研究室主任多年。其间于1979年6月公派去美国布朗大学做访问学者为期两年，1984年（一学期）、1987～1988（一学年）和1988～1989（一学年）分别在美国罗格斯大学、华盛顿大学和印地安那大学做访问教授。曾任《数学学报》编委和常务编委以及《偏微分方程》编委，现任《数学物理学报》编委。研究领域为非线性偏微分方程，特别是流体动力学方程及相关应用偏微分方程等。发表研究论文百篇以上，出版英文专著两部。1983年获中国科学院重大科技进步奖二等奖，1990年获中国科学院自然科学奖二等奖，1992年获中国科学院有突出贡献中青年专家称号。
+
+一、简 历
+
+肖玲出生在北京市西城区。除了小学时期因父亲工作的调动有一年半时间不在北京，她的求学时代都在北京度过。1952年和1955年分别考入北京女一中和人大附中，1958年考入中国科学技术大学应用数学系。中国科大数学系第一届大学头三年的教课老师有华罗庚、万哲先、陈希孺、越民义、王元、王光寅等一大批优秀学者，这对其后肖玲在数学事业上的成长极为重要。大学三年级末的时候，她选择了“偏微分方程”专业，因为她对这个学科已经产生了很大兴趣。专业课学习期间，由于有吴新谋、丁夏畦、王光寅、罗佩珠和张同几位老师的授课，她对这个学科的兴趣越发强烈。中国科大的第五年是学生做毕业论文的一年，肖玲和李才中、杨绍祺及袁祖文一起在张同老师带领下，对一维等熵气动力学非凸双曲方程组Riemann问题的研究取得了突破，找到了适用于非凸双曲方程组的熵条件，证明了其Riemann问题熵解的存在唯一性。
+
+1963年秋，肖玲从科大毕业后被分配到中国科学院数学研究所微分方程室工作，和张同一起继续深入开展一般非凸双曲方程组Riemann问题的研究，并取得了可喜进展。遗憾的是1964年秋开始这项研究因故搁浅，更令人遗憾的是由于众所周知的原因此后各项理论研究被迫停止，直至1972年才陆续得以恢复。重新获得机会的肖玲和她的同事们以旺盛的激情积极展开科研工作，希望尽快赶上国际同行的步伐，在短短几年的时间内就取得了一批有关拟线性双曲守恒律组整体解的重要科研成果。
+
+改革开放的国策给肖玲带来了难得机遇，1979年6月作为公派出国的访问学者，她去美国的布朗大学这一著名学府开始了为期两年的访问，为她科研工作的发展掀开新的一页。在这里，她结识了对她的研究工作发展有重要影响的国际知名数学家 C.M. Dafermos。正是他的建议，肖玲深入探讨了熵速率条件这一有关拟线性双曲方程研究领域的重要课题，并取得突破性进展。其后，她与 Dafermos 开展合作研究，在非齐次双曲组和黏性守恒律组（非线性热黏弹性以及非线性热弹性基本方程组）等方面均取得有重要影响的结果。在布朗大学访问期间，她还有机会与 P. D. Lax, J. Glimm, R. Diperna(已故), J. Smoller, F. Treves, T. P. Liu, J. Greenberg 等多位美国知名数学家开展学术交流，为她其后 20 多年里与国际同行的广泛交流与合作打下了基础。
+
+肖玲曾多次出国进行学术访问，被邀请到美国、加拿大、德国、法国、意大利、奥地利、葡萄牙、瑞士、日本等国讲学，开展合作研究。其中既有作为访问教授的一学期或一学年的长时间访问（如美国的布朗大学、罗格斯大学、华盛顿大学和印第安纳大学）和一至三个月的较短时间访问（如美国的柯朗研究所、布朗大学；法国的里昂高师；意大利的比萨大学、里雅斯特国际高级研究生院和罗马第二大学；奥地利的维也纳大学；德国的海德堡大学；日本的早稻田大学；香港城市大学和香港中文大学等），也有很多一周或数天的短时间访问。通过这些访问，她不仅向国际同行介绍了自己的科研工作（在超过 100 所世界上的著名学府做过学术报告，在数十次国际学术会议上做过邀请报告等）和开展了学术交流，而且先后与一批优秀数学家开展合作研究（如美国的 C.M. Dafermos, P. Fife, J. Greenberg, T.P. Liu; 法国的 D. Serre; 意大利的 P. Marcati, P. de Mottoni; 奥地利的 P. Markowich; 香港的 T. Yang 等），在偏微的若干方向上取得了很有影响的研究成果。
+
+此外，先后与法国里昂高师的 D. Serre (1993~1995) 和图鲁兹大学的 P. Degond (1997~1999)，以及奥地利维也纳大学的 P. Markowich (1999~2001) 开展受双方政府支持的合作研究项目。这些合作研究项目的开展不仅对肖玲及其学生们的研究工作始终处于国际上相关领域的前沿颇为有益，而且为她的学生们提供了十分重要的参与国际合作研究的机会。
+
+二、学术成就
+
+肖玲的研究工作属于非线性偏微分方程的研究领域，特别是以连续物理、流体力学、材料科学等诸多科学领域为背景的非线性偏微分方程。在描述连续介质的运动时，针对考虑时不同的物理尺度或考察运动的不同侧面，能得到不同类型的运动方程。在宏观层次，最著名的当属 Euler 方程和 Navier-Stokes 方程，是守恒律的典型例子。在微观层次，相应运动模型由描述单个粒子运动的耦合的 Newton 方程组成。介于宏观和微观之间的一个介观模型是统计物理中的基本方程，称为 Boltzmann 方程。肖玲的研究工作集中在相关的宏观和介观模型方程解的适定性理论及性态分析，主要包括拟线性双曲守恒律组、
+
+具耗散机制的拟线性偏微组 (如非齐次拟线性双曲组、黏性守恒律组)、材料科学中的各类耦合非线性偏微组、Boltzmann 方程和相关的运动学方程以及非线性色散波方程等方面，兹介绍如下。
+
+1. 拟线性双曲守恒律组及其相关问题的研究
+
+这是是国际数学界公认的重要而困难的研究领域，美国国家科学基金会曾在题为“数学科学——一种统一的动力资源”的报告中提到六项数学研究的主流，其一即为非线性双曲型守恒律组。守恒律组的研究始于 18 世纪中期 Euler 关于声波的工作，具有十分悠久的历史和丰富的物理背景 (产生于气体动力学、流体力学、电磁流、大气物理、相对论和天体物理等领域)。比如，描述理想流体质量、动量和能量三个守恒律的 Euler 方程组就是其典型例子。
+
+众所周知，拟线性双曲守恒律组的一个核心特点是，无论初始值多么光滑，多么具有“小性”，一般而言都无法保证其光滑解的整体存在性，都可能在有限时刻出现解的“爆破”现象。为了寻找对时间而言整体存在的解，就只能转向在积分意义下满足方程的弱解，然而弱解没有唯一性。为了寻求拟线性双曲组初值问题具有物理意义的弱解，国际上一批著名数学家 (如美国的 P.D. Lax 和苏联的 O. Oleinik) 致力于熵条件的研究，提出不同类型熵条件以保证熵弱解 (即满足熵条件的弱解) 的唯一性，而这些熵条件之间等价关系的探讨成为弱解理论研究的核心问题之一。美国知名数学家 C.M. Dafermos 在 1973 年提出熵速率条件这一从力学角度考虑的熵条件，并对一维空间变量的单个守恒律和等熵气动力学方程组证明了该熵速率条件与粘性熵条件的等价性。由于黏性熵条件是物理意义十分明确的熵条件，受到该领域的广泛认可，熵速率条件受到重视，当时普遍认为这个熵条件与黏性熵条件是等价的。肖玲在 1980 年发表的文章中给出反例，否定了这一普遍看法。她研究了一维空间变量的绝热气动力学方程组，对绝热指数 $\gamma \leqslant 5/3$ (空气的 $\gamma$ 值即属此种情形) 的情况构造了一个始值问题，证明其解满足熵速率条件却并不满足黏性熵条件。这个结果在当时引起较大反响。P.D. Lax 在 1981 年写给当时数学所陆启铿所长的评价意见中称该结果为“很惊人的结果……，该领域的数学工作者们从未猜想到这个结果，该结果已得到很多褒奖”。这项工作深化了对熵条件的认识，被诸多欧美数学家引用。比如已故著名数学家 R. DiPerna 在 1985 年的文章中称，他提出的 extremum principle 是受到包括该文在内的几项工作的启发，J. Smoller 在其专著 (1982) 中认为广义熵的概念源于该文在内的几项工作，C.M. Dafermos 在他的不同论文中多次介绍这项工作，在其专著 (2000) 中再次予以介绍等。
+
+肖玲的早期工作集中在拟线性双曲守恒律组的 Riemann 问题、间断始值问题和初等波相互作用。Riemann 问题是关于双曲守恒律理论研究的基础问题，历史上关于双曲守恒律的非线性理论就始于 Riemann 1860 年关于该问题的奠基性工作。对非凸双曲守恒律组，肖玲与张同合作提出弱解应满足的熵条件，建立 Riemann 问题熵解适定性理论。对一维绝热气动力学方程组等初等波的相互作用，他们给出深入细致的分析。这
+
+些工作在 70 年代得以发表并引起国际同行重视。英国 Pitman 数学专著丛书主编 A. Jeffrey 于 1984 年邀请肖玲写书，信中称: “非常有兴趣地得知你关于 Riemann 问题的工作……, 我愿再次表示非常有兴趣请你和你的同事写本以此为内容的专著……”。美国数学家 Dafermos 在其专著 (2000) 中再次强调这些早期工作的贡献。她与张同合著的英文专著 The Riemann Problem and Interaction of Waves in Gas Dynamics 总结了这些早期工作，得到美、德、荷兰等国书评的大力赞扬，并被很多国际同行引用。
+当双曲守恒律组具有椭圆退化时被称为变型守恒律组，在这方面肖玲也做出了贡献。非线性变型守恒律组源于工程技术和其他自然科学领域提出的数学模型，对数学理论提出新的挑战。肖玲在 1990 年发表的三篇文章中针对相空间出现椭圆型区域，提出广义熵条件概念，引进新的可容许弱解 (即熵弱解) 定义，对不同类型变型守恒律组建立了 Riemann 问题熵弱解的存在唯一性，揭示了新波型及其稳定性，均为有独创性的工作，多次被国际同行引用。其中她与意大利 P. de Mottoni 的合作论文是国际上彻底解决一类变型守恒律组 Riemann 问题熵弱解存在唯一性的第一个工作，受到同行重视。她在另一篇论文中研究一个典型方程组，运用她提出的广义熵条件判别法证明 Riemann 问题解的唯一性，由于提出不同途径受到国际同行重视，被不少国外数学家介绍和引用。比如美国的 Y.G. Ni 和 B. Pitman 在他们的文章 (1996) 中五次提到她的广义熵条件 “Hsiao's admissibility criterion”，并指出: “It would be interesting to prove that viscoelastic relaxation is equivalent to Hsiao's generalized entropy criterion”。
+2. 具耗散机制的拟线性偏微组
+主要研究具有阻尼或张弛机制等这类低阶耗散的非齐次拟线性双曲组 (如具阻尼项的 Euler 方程)，以及具有黏性或热传导 (或两者同时出现) 这类高阶耗散的黏性守恒律组。目的在于理解耗散机制对解的定性行为的影响，诸如对解的光滑性的影响，对解的大时间行为的影响，揭示其非线性扩散现象、相变现象等。
+多年来非齐次拟线性双曲型方程组的研究一直是国际上重要的研究方向，肖玲在一系列论文中分别研究具各种不同机制非齐次性 (阻尼、张弛、记忆及一般耗散) 的拟线性双曲组，建立整体解的定性理论。
+她与美国数学家 T.P. Liu(1992 年) 率先发现和建立了具阻尼机制非齐次双曲组 (具阻尼项的一维等熵流 Euler 方程) 与相应扩散系统之间的时间渐近等价性，开始了一个新的研究方向，带动了国际上一大批后续工作，被很多数学家引用。其后她分别与法国数学家 D. Serre (1996, 1997)、罗涛 (T. Luo, 肖玲的博士研究生，1995 年获博士学位)(1996, 1998)、潘荣华 (R.H. Pan, 肖玲的博士研究生，1998 年获博士学位)(1999, 2000)、唐少强 (S.Q. Tang, 肖玲的 1990 年入学的硕士生，香港科技大学的博士，1995~1997 年为其博士后)(1995) 和李海梁 (H.L. Li, 肖玲的博士研究生，1999 年获博士学位)(2000, 2002) 合作，不仅将该课题的研究率先推向更复杂的方程组——具阻尼项的一维绝热流 Euler 方程，更推向熵弱解的范畴; 不仅将研究从 Cauchy 问题扩展至初边值问题，更深入揭示了激波
+
+的边界反射规律。这些工作也都带动了国际上的后续工作，其思想和方法被诸多数学家运用和引用。她的英文专著 Quasilinear Hyperbolic Systems and Dissipative Mechanisms 的头两章总结了在该方向的工作，也受到重视，被多次引用。如意大利著名数学家 A. Bressan (ICM 一小时大会特邀报告人) 在他的专著 (2000) 中介绍了本书。
+肖玲与美国数学家 Dafermos(1982) 在国际上最先研究一般形式具耗散属性的非齐次双曲组，提出处理非齐次性的新思想和构造近似解的简单格式，建立了整体间断解的存在性理论，被很多国际同行引用、使用和推广，至今仍有影响。
+肖玲和美国数学家 J. Greenberg(1983) 在国际上率先揭示具张弛机制双曲组解的结构和渐近性态，被国际同行广泛引用。她和潘荣华、李海梁等人在“张弛途径”研究拟线性双曲守恒律组这个方向上也有一系列独具特色的研究结果。
+具有黏性或热传导 (或两者同时出现) 这类高阶耗散的黏性守恒律组 (如 Navier-Stokes 方程) 是与拟线性双曲组关系极为密切的重要研究方向，肖玲与她的合作者研究高阶耗散机制对解的正规性和渐近性态的影响，在该方向作出了有很大影响、开创性的贡献。她在上述英文专著第四章总结了这些成果，受到同行重视。
+她与 Dafermos(1983) 合作研究关于不可压流体绝热剪向流的工作属国际上最早研究黏性依赖于温度所产生影响的工作，带动了大批后续工作，其中的结果和方法广泛被国际同行引用、运用和推广，所开辟的研究课题至今仍很活跃。
+她与 Dafermos(1982, 1986) 合作，分别在国际上首次解决类固态材料基本方程组不受小性限制初边值问题和首次证明始值不具小性时单纯热扩散耗散机制不能阻止解在有限时刻产生奇性，也都被大量引用，至今仍有影响。
+她和罗涛 (1996, 1998) 合作研究具外压力的黏性热传导真实气体运动方程组和非线性热粘弹性材料基本方程组，深入揭示耗散机制对解的渐近性的影响，也都是很有影响的工作，被多次引用。
+3. 半导体材料科学中若干非线性耦合偏微组
+基于半导体材料科学和工业设计的需求，自 20 世纪 90 年代以来一大批欧美著名应用数学家致力于不同应用领域数学模型的建立，对它们进行数学分析 (理论和数值的)，并进而探讨各类模型之间的关系。粗略地讲，这些模型可分为两类：运动学模型 (kinetic models) 和流体动力学模型 (fluid dynamic models) 或称拟流体动力学模型 (quasi-hydrodynamic models)。对每一类又可考虑经典 (半经典) 模型和量子模型。比如，Semiconductor Boltzmann 方程和 Quantum Boltzmann 方程是运动学模型。Hydrodynamic 方程，Energy-transport 方程和 Drift-diffusion 方程是流体动力学 (或称 quasi-hydrodynamic) 模型，对其加上量子效应的修正项即可得到相应的 Quantum Hydrodynamic 模型，Quantum Energy-transport 模型和 Quantum Drift-diffusion 模型。从形式分析的角度看，这些模型之间的关系是清楚的。比如，通过张弛极限 (relaxation limit) 从 HD 模型可以得到 ET 模型或 DD 模型；通过拟中性极限 (quasineutral limit) 从 DD 模
+
+型得到 Diffusion equation; 通过 classical limit 从量子模型得到经典模型, 等等。
+从数学上看, 这些模型都是不同类型的非线性耦合偏微组, 其理论研究具有很大的挑战性。比如, 单极 HD 模型是著名的 Euler-Poisson 方程或 Navier-Stokes-Poisson 方程, 其难度显而易见, 而双极 HD 模型的研究则难上加难。至于从数学上严格证明不同类型模型之间的极限关系, 更是对数学分析的诸多挑战, 尤为困难。
+自 20 世纪末以来, 肖玲和她的博士研究生 (李海梁、张凯军、琚强昌、黎勇、贾月玲)、博士后 (王术、陈丽、栗付才) 以及其他合作者们 (P.A. Markowich, I. Gasser, N. Mauser, T. Yang, 江松, 张平, 赵会江等) 在该领域开展了系统而深入的研究工作, 发表了一系列高水平的很有影响的科研论文, 不仅对 HD 模型、ET 模型、QHD 模型、QDD 模型等建立了解的适定性理论和渐近性态, 而且从数学上严格证明了上面提到的若干极限过程, 为该领域的理论分析做出了重要贡献。比如, 肖玲与她的合作者不仅建立了 HD 模型经典解的适定性理论和渐近性态 (包含高维空间变量情况) 和 HD 模型熵弱解的适定性理论, 而且深入揭示了 HD→DD 的张弛极限和 DD→DF 的拟中性极限行为等, 都是国际同行很重视的工作。
+4. Boltzmann 方程和相关的运动学方程
+由奥地利物理学家 L. Boltzmann 在 1872 年建立的以其名字命名的方程是统计物理与量子理论的基础, 它描述了稀薄气体中大量粒子通过相互碰撞而产生的各种物理现象随时间的统计演化, 和流体动力学方程有着密切的联系。比如, 当平均自由程趋于零时, 其 Hilbert 展开的一阶近似为 Euler 方程, 其 Chapman-Enskog 展开的二阶近似为 Navier-Stokes 方程。
+Boltzmann 方程和 Landau 方程 (包括经典形式、相对论形式和量子形式) 等运动学方程的数学研究是近年来国际纯粹数学、应用数学及计算数学中十分关注的重要研究领域。比如, P. Lions 获得 Fields 奖的三个主要工作之一就是关于 Boltzmann 方程的工作。在国内也受到重视, 国家自然科学基金委员会将“Boltzmann 方程及其相关宏观模型”做为重点项目 (2005~2008) 予以支持, 肖玲为项目负责人。
+肖玲与其合作者们在该领域也做出了一系列很有意义的贡献。比如, 她和喻洪俊 (她的博士研究生, 2005 年获博士学位) 合作 (2007) 建立了 Boltzmann 方程和 Landau 方程在十分困难的全部 soft potentials 情况下 Cauchy 问题靠近平衡态时整体古典解的存在唯一性结果和解以多项式的速率收敛到平衡态的结果, 其中包括 Landau 方程在 Coulomb potential 的情况解的存在唯一性结果。在 very soft potentials 的情况下, 这个结果是国际上第一个在整个空间上整体古典解的存在唯一性结果。她与喻洪俊 (2006) 合作研究了相对论效应下 Landau 方程 Cauchy 问题靠近平衡态时解的整体存在唯一性。审稿人在审稿意见中称: “In the paper under review, the authors construct the first global in time classical solutions near maxwellian for the relativistic Landau equation in the whole space. ……, which makes the mathematical analysis even more delicate. ……”。这是国
+
+际上该问题的第一个全局古典解的结果。
+她还与栗付才和王术合作研究 Vlasov-Poisson-Boltzmann 方程和 Vlasov-Poisson-Fokker-Planck 方程组，建立了其收敛到不可压 Euler 方程的极限收敛性。
+5. 其他研究领域
+除以上四个方面，肖玲与其合作者们还在 Schrödinger 方程及相关模型、反应扩散方程等重要研究方向上做出了很有意义的贡献。
+非线性色散波方程 (如 Schrödinger 方程, Schrödinger-Poisson 方程) 是理论物理、等离子体物理、光学和量子力学等领域中的重要模型，它们的研究不仅与诸多应用领域有密切的联系，在理论上也涉及许多深刻而又困难的数学问题。比如，从物理上看，Schrödinger-Poisson 方程组是对在诸如半导体器件、等离子体物理等中的量子效应的一种描述；从数学上看，其理论势必涉及非线性偏微分方程理论、拟微分算子、调和分析 (通过 Wigner 变换的应用) 和量子力学等的广泛应用。
+肖玲与她的合作者们在非线性色散波方程的适定性理论、渐近行为和散射理论等重要问题上做出了很有意义的贡献。为探讨双极 Schrödinger-Poisson 方程组解的渐近行为，她和郝成春 (她的博士研究生, 2005 年获博士学位)、李海梁 (2004) 率先将散射算子理论引入到 S-P 方程组的研究中，建立了修正散射算子理论，得到了双极 S-P 方程组初值问题的整体适定性及渐近性态的结果。对高阶非线性 Schrödinger 方程，目前国际上在理论方面少有结果。肖玲和王保祥、郝成春 (2006, 2007) 合作，分别对一维和高维四阶非线性 Schrödinger 方程 Cauchy 问题建立了局部适定性，弥补了含有导数项的高阶非线性 Schrödinger 方程方面的空白，克服了高阶项带来的困难，得到了用经典方法所不能得到甚至无法处理的结果。
+在反应扩散方程这个研究方向上肖玲和她的合作者们 (P. Fife, P. de Mottoni, Z.P. Xin 等) 也做出了很有意义的贡献。比如，她和美国数学家 P. Fife 合作 (1988) 讨论重要的“S 型”反应扩散方程，在国际上第一次严格论证了解中内层结构的形成和发展，被很多国际同行引用，引起一系列后续工作，是个很有影响的结果。
+总之，肖玲及其合作者的研究涉及非线性偏微分方程的诸多重要领域，其工作受到国际同行的高度重视，许多工作都受到广泛引用，一些工作历经多年仍受到重视，说明它们经受住了时间的考验。不少工作属于开创性的，开始了新的方向，很多研究者在其基础上作进一步的研究，或者这些工作中的开创性方法被其他研究者用于不同问题的研究，它们对于偏微分方程的相关领域具有广泛和持久的影响。
+自 20 世纪 80 年代以来，肖玲共培养了 10 位硕士和 9 位博士，还有与她一起工作过的 6 位博士后。她不仅在科研方向上引领他们致力于既有重要理论意义又有鲜明应用背景的位于国际前沿的研究领域和研究课题，而且尽最大努力为他们创造条件去参与国内和国际间的交流合作以开阔视野和提高科研能力。比如，她的博士研究生张凯军 (1999 年获博士学位) 在就读期间被纳入当时肖玲和法国 P. Degond 的中法合作研究计划，成
+
+为中法联合培养的博士，曾前后三次(每次2~3个月)到法国 P. Degond 所在的图鲁兹大学与他开展合作研究，做出了十分出色的科研成果。她为其博士研究生喻洪俊创造机会，使之在读期间前后两次(每次二个月)到香港城市大学访问青年数学家杨彤，这对喻洪俊科研水平的提高帮助很大。对曾经与她一起工作过的博士后，肖玲也尽量为他们创造机会，使之尽早建立与国际同行间的联系，开展合作研究。
+肖玲所培养的这些人在科研工作中都做出了非常出色的工作，很多研究论文发表在国际一流的著名学术刊物上，受到国际同行的高度关注，绝大多数已成为所在单位的科研骨干，有些已成为国际上相关领域颇有知名度的青年数学家，甚至是领军人物。她培养的硕士研究生，毕业后多数去美国继续攻读博士学位，其中最出色的当属辛周平，他于1991年获美国“Sloan 奖”(美国优秀博士后奖)，1993年获“美国总统奖”(为杰出青年颁发的奖)，在2002年世界数学家大会做45分钟邀请报告，2004年获晨兴数学金奖。20世纪90年代以来培养的博士研究生(有两人在美国大学任教，其余在国内高校和研究院所任职)和博士后也都很优秀，其中很多人在重要的国际学术会议上多次做过大会邀请报告，由于科研工作的杰出成绩他们获得过诸多奖励和荣誉，比如：霍英东基金会高校青年教师基金、日本振兴会外国人研究员奖励基金、教育部新世纪优秀人才、北京市高校学术创新人才、全国百篇优秀博士论文奖、中国科学院50篇优秀博士论文奖、中国科学院院长特别奖及优秀奖等。也都受到国家自然科学基金委员会的支持，诸如重点项目、面上项目、青年基金、博士后基金等等。
+此外，肖玲关心国内偏微事业的发展，乐于助人，总是尽力支持偏微界的同行和帮助国内偏微界年轻人的成长，尽自己的微薄之力促进中国偏微事业的发展。
+三、肖玲主要论著
+Hsiao L. 1980. The entropy rate admissibility criterion in gas dynamics. J Diff Eqns, 38: 226-238.
+Dafermos C M, Hsiao L. 1982. Hyperbolic systems of balance laws with inhomogeneity and dissipation. Indiana Univ Math J, 31: 471-491.
+Dafermos C M, Hsiao L. 1982. Global smooth thermomechanical processes in one-dimensionsl nonlinear thermo-viscoelasticity. Nonlinear Anal, 6: 435-454.
+Dafermos C M, Hsiao L. 1986. Development of singularities in solutions of the equations of nonlinear thermoelasticity. Quart Appl Math, 3: 463-474.
+Fife P, Hsiao L. 1988. The generation and propagation of internal layers. Nonlinear Anal, 12(1): 19-42.
+Chang T, Hsiao L. 1989. The Riemann Problem and Interaction of Waves in Gas Dynamics. Pitman Monographs and Surveys in Pure and Applied Mathematics 41. Pitman Monographs Essex: Longman Scientific and Technical.
+Hsiao L. 1990. The uniqueness of admissible solutions of Riemann problem for system of conservation laws of mixed type. J Diff Eqns, 86(2): 197-233.
+Hsiao L, Liu T P. 1992. Convergence to nonlinear diffusion waves for solutions of a system of hyperbolic conservation laws with damping. Commun Math Phys, 143: 599-605.
+
+Hsiao L, Tang S Q. 1995. Construction and qualitative behavior of solutions of perturbed Riemann problem for the system of one-dimensional isentropic flow with damping. J Diff Eqns, 123(2): 480-503.
+Hsiao L, Serre D. 1996. Global existence of solutions for the system of compressible adiabatic flow through porous media. SIAM J Math Anal, 27(1): 70-77.
+Hsiao L, Luo T. 1996. Nonlinear diffusive phenomena of solutions for the system of compressible adiabatic flow through porous media. J Diff Eqns, 125: 329-365.
+Hsiao L. 1998. Quasilinear Hyperbolic Systems and Dissipative Mechanisms. Singapore: World Scientific.
+Hsiao L, Pan R H. 1999. Initial boundary value problems for the system of compressible adiabatic flow through porous media. J Diff Eqns, 159: 280-305.
+Hsiao L, Zhang K J. 2000. The relaxation of the hydrodynamic model for semiconductors to the drift-diffusion equations. J Diff Eqns, 165: 315-354.
+Hsiao L, Yang T. 2001. The asymptotic behavior of solutions of the initial-boundary value problems to the hydrodynamic model and drift-diffusion model in semiconductors. J Diff Eqns, 170: 472-493.
+Hsiao L, Li H L. 2002. The shock reflection of the damped p-system on bounded domain. Q Appl Math, LX(3): 437-460.
+Hsiao L, Markowich P A, Wang S. 2002. Quasineutral limit of a standard drift diffusion model for semiconductors. Science in China, 45(1): 33-41.
+Hsiao L. 2002. Some mathematical analysis in semiconductors devices. Methods Appl Anal, 8(4): 635-644.
+Hao C C, Hsiao L, Li H L. 2004. Modified scattering for bipolar nonlinear Schrödinger-Poisson equations. Math Mech Model Appl Sci, 14(10): 1481-1494.
+Hsiao L, Yu H J. 2006. Global classical solution to the initial value problem for the relativistic Landau equation. J Diff Eqns, 228: 641-660.
+Hsiao L, Yu H J. 2006. Asymptotic stability of the relativistic Maxwellian. MMAS, 29: 1481-1499.
+Hsiao L, Li F C, Wang S. 2008. Combined quasineutral and inviscid limit of the Vlasov-Poisson-Fokker-Planck system. Commun Pure Appl Anal, 7(3): 579-589.
+
+撰写者
+肖玲

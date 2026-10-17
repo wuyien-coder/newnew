@@ -109,13 +109,12 @@ class Settings(BaseSettings):
     env: str = "dev"
     log_level: str = "INFO"
     log_json: bool = False
-    database_url: str = f"sqlite:///{ROOT / '.index' / 'mathkb.db'}"
+    database_url: str = f"sqlite:///{ROOT / '.index' / 'full' / 'mathkb.db'}"
     # 本地/测试自动建表；生产设为 false，先执行 alembic upgrade head。
     create_schema: bool = True
-    data_dir: str = str(ROOT / "data" / "seed")
+    data_dir: str = str(ROOT / "data" / "full")
     index_dir: str = str(ROOT / ".index")
-    # 全量语料留在论文目录，不复制进本仓库（避免把受版权保护的整本书带进 git）
-    # 为空表示用 data_dir/biographies；生产/全量场景设 MATHKB_BIOGRAPHIES_DIR 指向原文目录
+    # 为空表示使用随仓库提供的 data_dir/biographies；也可指向外部语料目录。
     biographies_dir: str = ""
     llm_config_file: str = ""  # 可只读引用本机已有配置的密钥，不复制到新仓库
 

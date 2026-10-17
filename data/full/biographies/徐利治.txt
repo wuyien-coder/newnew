@@ -1,0 +1,316 @@
+人物：徐利治
+生年：1920年9月23日
+研究方向：渐近分析、逼近论、计算方法、数学基础
+来源：11134318_中国现代数学家传第1卷_
+页码：434-466
+============================================================
+
+徐 利 治
+
+隋允康
+
+徐利治 1920 年 9 月 23 日诞生于江苏省沙洲县。大连理工大学应用数学研究所教授。渐近分析、逼近论、计算方法、数学基础。
+
+(一)
+
+徐利治，原名徐泉涌。他的家乡是江苏省沙洲县(现张家港市)的东莱乡。1920 年 9 月 23 日，徐泉涌诞生在这个江南水乡普通木匠的家庭。10 岁时，父亲徐士芳去世，母亲王根梅含辛茹苦，帮人做衣服养家糊口。贫寒的家境对于一个人的童年并不全是坏事，只要还能勉强维持，清苦反能砥砺意志。小泉涌 8 周岁上小学，他好学上进，成绩优秀。一方面是资质聪明，学习兴趣浓厚；另一方面则是早早立下志向：要学好功课，长大了在农村
+
+* 徐利治像 1985 年摄于大连。——编者
+
+411
+
+当教师，赡养和孝敬母亲。他背诵了大量唐诗、宋词，写一手漂亮的毛笔字，对算术更有着浓厚的兴趣。
+1934年，小泉涌以第一名的成绩小学毕业，并且考上了全部公费的江苏省立洛社乡村师范学校。他刻苦学习，门门课程都非常出色。课余，则如饥似渴地阅读各种书籍。他曾把课外书中学到的定积分知识用在一次力学考试中，使物理老师大为欣赏。然而，使小泉涌激动不已的还是关于欧拉、高斯、拉普拉斯、庞加莱那些引人入胜的故事，尤其石匠的儿子高斯成为大数学家的故事，大大激发了这位木匠儿子的上进心。
+1936年夏天，他买了一本“查理斯密大代数”。整个暑假，贪婪地读着，开始了他一生中第一次正式地对一本数学教程的自学。
+1937年秋冬，抗日的烽火逼近无锡地区。泉涌来不及赶回家乡，就与同班四位同学结伴，向西南方流亡。1938年，他进入贵州铜仁国立第三中学师范部。尽管大后方的生活十分艰难，他精神上却十分富有，从破晓的晨曦中直到深夜的桐油灯下，他认真地学习每门功课，尤其对数学更下功夫，他做了不少微积分题目和代数难题。困倦了，常常和衣卧床。他被同学们称为“数学大王”。
+一个偶然的机会，他买了本中国算学会出版的《数学杂志》第一期，从中看到了华罗庚等人的论文，有些论文读懂了，而华的文章没有读懂，这成了促使他进大学深造的动力。为此，他与几个同学互助自学英语。他以高中同等学力于1940年考上了西南联合大学数学系。在报考大学时，徐泉涌将自己的名字郑重地改为“利治”，寓意为：稳步地学习有利于治学。
+（二）
+联大数学系聚集着许多著名的数学家，如江泽涵、华罗庚、许宝騄、陈省身、钟开莱等。名家汇聚的学府对于刚入学的徐利治真
+412
+
+是如鱼得水。华罗庚教授的数论和近代代数使他大开眼界。华强调数学研究的方法和技巧，对他影响很大。许宝騄的数理统计使他思想开阔，许先生强调的研究技巧和思考方法使他印象极深。年龄只比徐利治大三四岁的年轻讲师钟开莱是概率论专家，也是徐的良师益友，他们经常在一起切磋学问。钟开莱强调数学的直观能力对发挥创造性的作用，使他难以忘怀。
+
+年轻的徐利治在这样一个良好的学术环境中受到了很好的熏陶，他深感自己一定要选一个方向去钻研。开始他选代数为主攻方向，以后转向分析，他认真地研读了波利亚-赛格(Polya-Szegö)的《数学分析中的定理和命题》一书。
+
+在大学里，徐利治不知不觉地学会了独立地研究问题。二年级时，他悉心研究了自己在组合数学中发现的问题，将研究成果寄给美国的一份数学杂志。三年级时，这篇论文发表了，他默默地享受着数学研究的第一次欢乐。四年级，当美国普林斯顿的《数学统计年刊》把徐利治的第二篇处女作的抽印本寄至昆明时，开始误送到许宝騄教授那儿。原来送信人把P.L.Hsu与L.C.Hsu弄混了。许先生发现自己的学生这样出息，十分欣慰，在他去美国访问前向华罗庚建议务必留下徐利治，这恰与华先生不谋而合。1945年，华罗庚从校方那儿一再争取留下了徐担任助教兼科研助手。耳濡目染，他在治学之道上受华的影响更大了。
+
+受进步思想的影响，1945年1月徐利治参加了“民青同盟”。1946年，组成西南联大的三所大学分别迁回北平和天津，徐利治作为华罗庚的助教也应聘到清华大学任教。他先后任助教、教员，讲授过初等微积分、高等微积分和复变函数等课程。1946年10月他参加了中共地下党。他一如既往，学业上刻苦钻研。与他大几岁的施惠同讲师搞了一个两人研讨班，共同研读惠泰克-华生(Whittaker-Watson)的《现代分析》一书。
+
+1949年北平解放的前夕，他获得了英国文化委员会的奖学金
+413
+
+去英国访问、进修。徐先去北部的阿伯丁(Aberdeen)大学访问，后又转到剑桥大学进修。他听了许多名家的讲课，又参加了史密斯(F. Smithies)领导的泛函分析研讨班。英国一行两年，调整了他的知识结构，使他由古典分析进入到泛函分析的领域。他扩大了研究范围，进行了积分变换的研究，并深化了渐近积分的研究。回国后，1951年至1952年，徐利治任清华大学数学系副教授，同时兼任北京师范大学数学系副教授。
+
+(三)
+
+1952年，徐利治同王湘浩教授、江泽坚副教授一起自愿来到长春，在东北人民大学(今吉林大学)组建了数学系，任数学系副主任。他每年至少讲授两门数学课。1954年，他创办函数逼近论讨论班，培养从事该方面研究的人才。他本人也从此时开始进行逼近论和泛函分析方面的研究。1956年，被提为教授，同时被任命为教务长兼教务处长，并被选为教师工会组织部长。这一年，徐利治作为中国科学院的三人代表团成员参加了在莫斯科举办的全苏泛函分析及其应用会议。回国后创办计算数学专业，倡议请苏联专家在该专业讲学；并举办了全国计算数学的第一个培训班，培养从事计算数学研究人才。后来吉林大学计算数学专业成为国内第一批博士点，与当时奠定的基础是分不开的。
+
+正当“春城飞花”的时候，无情的“霜雪”突然袭来。1957年夏，徐利治的一次批评党内存在的教条主义和宗派主义倾向的发言，让他戴上了“右派分子”的帽子。1957年秋冬，苏联列宁格勒大学米索夫斯基赫(И. П. Мусовских)副教授到东北人大数学系计算数学专业讲学。匡亚明校长代表校党委向省委打了一份报告，要求继续使用徐利治，以便不影响与苏联专家的合作。
+
+这个时期，徐利治有了另一种环境：他有更多的时间和精力去
+
+阅读大量图书文献,静心思考数学问题。他潜心研究逼近论和高维数值积分,在匈牙利、波兰、捷克斯洛伐克、苏联等国的杂志上发表了不少论文。
+徐于1961年10月第一批摘掉了“右派”帽子。同年,美国《数学评论》邀请他担任特约评论员,经匡校长默许,他接受了这一邀请。
+1966年夏,“文革”开始,昔日的“右派”无法幸免。1970年,他到吉林省长岭县腰坨子公社插队落户。去那里的第一年因工作队活动繁忙而没有时间从事研究。第二年他开始重操数学研究的旧业,但只能看自己带的书和上海寄来的过期的外文杂志(这是他以前订阅的)。在草屋里昏暗的煤油灯下,他专心地研究自反函数和相应的级数变换以及积分变换的反演问题。
+1975年9月,持续6年的“五七”道路结束了,徐利治重又回到了阔别近十年的讲台,重新坐在窗明几净的房间里研究学问,他倡议办起了非标准分析讨论班,并担任主讲。1980年,吉林省委批准对徐利治平反改正。1981年,吉林省委批准恢复他的党籍。徐把补发给自己的1000元工资全部捐赠给党组织。
+从1952年至1982年,徐利治教授在长春整整呆了30年,人生的大好时光在起伏坎坷中度过。
+（四）
+1980年开始,徐利治同时在吉林大学、大连工学院、华中工学院三校兼职。1981年,大连工学院成立了应用数学研究所,屈伯川院长请徐利治担任了所长。同时,徐还担任了华中工学院数学系系主任。1981年,在大工和华工两校领导支持下,徐利治创办了全国性杂志《数学研究与评论》。1982年徐正式调到大连工学院,并仍在三校兼职。
+
+徐利治再一次大展宏图了。他以自己学术上的洞察和远见指导着一批中青年教师从事研究。1981年,他争取到教育部的硕士点,为大工和华工两校联合招收硕士研究生。1984年以后,又开始招收博士研究生。
+1981年8月,徐利治参加了在西德汉堡举行的第九届国际运筹学会议。1982年7月,参加了在波恩举办的国际数学规划会议。他和越民义教授获得了西德科技促进会为国际知名数学家提供的资助。在大会上他做了中国东北运筹学发展情况的报告。会后,西德阿亨(Aachen)大学的数学系主任布策尔(Butzer)教授邀请他到该校访问,访问中他作了将非标准分析方法用于研究组合数学的报告。
+1983年1月,徐利治参加在美国德克萨斯(Texas)举办的国际逼近论会议,大会单独为他提供了经费。大会上他用一小时介绍了中国在逼近论方面近年来的发展概况。会后应邀到西弗吉尼亚(West Virginia)大学、匹兹堡(Pittsburg)大学和斯坦福(Stanford)大学三所学校短期访问,并做学术报告。在西弗吉尼亚大学还看望了通信结识18年却才第一次见面的亨利·高尔德(Henry. W. Gould)。早在1973年12月Duke Math. J. 杂志上发表了高尔德与徐利治合写的论文,这是中美建交以后的第一篇两国学者合作的论文。在斯坦福大学又见到了40年代的师友钟开莱教授。
+1985年6月,徐利治开始了一年八个月的出国科研合作和访问讲学。这次他的夫人孙革女士一同前往。孙革是大连理工大学(前身是大连工学院)应用数学研究所副教授,她除了很好地完成自己的工作之外,帮助徐做了大量工作,堪称贤内助。
+在美国的头一年,徐利治取得了美国国家科学基金NSF(National Science Foundation)的资助。1986年暑假到1987年初,他受聘为德克萨斯州立大学(Texas A & M University)的客座
+416
+
+教授，兼逼近论研究中心成员。他为70名美国学生讲授微分方程课。徐利治每推导新公式时，总要在黑板的右下角写好预备的公式，使学生做到温故知新。美国学生称道他的讲课水平时说：“学您的课比从美国教师那儿的得益要多得多。”“您指导学生是最耐心的。”这次出国的最后一个月，徐利治应邀到加拿大曼尼托巴(Manitoba)大学和里金纳(Regina)大学访问讲学。整个出国期间，他主要从事多元函数逼近方法和应用的研究。1986年春，他还分别应邀参加在加拿大埃德蒙顿(Edmonton)举行的国际逼近论会议和哈利法克斯(Halifax)举行的数值积分高级研究会议。徐在国外合作、讲学、开会，费用全是国外资助和自己兼职挣来的。他不仅没花国家钱，还主动上交了外汇。
+
+这一时期是徐利治一生中大展宏图的时期。他心情舒畅，凡希望开拓的事业总会得到支持，研究工作不断做出结果，硕士生、博士生不断培养出来。正如他不无感慨地指出的那样：“我一生感到很幸运的是有机会在中国杰出的教育家匡亚明、屈伯川、钱令希与朱九思领导的学府内工作，并得到他们的信任与器重。”
+
+(五)
+
+徐利治性格外向，热情爽朗，兴趣广泛。这些性格特征反映在学问上，则是涉猎面广泛，研究成果带着浓厚兴趣的烙印，论文流畅明朗，绝少晦涩的特点。
+
+渐近分析(渐近积分与渐近展开)是徐利治早年就开始的研究领域。1948年到1951年间他在美国、英国发表的成果，经常被国外学者(包括物理学家)引用。阿斯柯里(G. Ascoli)、贝尔格(L. Berg)、里克司廷斯(E. Riekstens)等人的论文与专著中，专门介绍了他的“渐近积分定理”和“展开定理”。东德黎德尔(R. Riedel)的博士论文的选题就是专门推广徐的两条积分渐近定理。在英国
+
+和美国数学家大卫 (David)、巴顿 (Barton)、莫瑟 (Moser)、外曼 (Wyman) 等人的著作中，把他的高次零差的渐近展开公式称为“徐氏逼近公式”，与之有关的一类数被命名为“凯雷-徐氏数” (Cayley-Hsu numbers)，对此，大卫和巴顿还造了数值表以供统计学家参考之用。徐利治在渐近分析方面的论文有 18 篇、专著有《渐近积分和积分逼近》(科学出版社, 1958, 1960)。
+逼近论 (数值逼近与函数逼近) 方面的工作，他从 50 年代开始一直持续到现在。美国数值分析专家图德 (Tood) 和斯乔德 (Stroud) 等人在综合性报告中均提到徐利治用线积分逼近多重积分的工作；徐提出了解决无界函数逼近的“扩展乘数法”，此法被国外引用的次数最多，直至最近国外还有人在博士论文中改进徐的一条基本定理，国内发表研究此法的则有王仁宏等人；徐利治最先给出了关于线性算子半群理论中著名的 Hille 第一指数公式的定量形式，该公式对于逼近论具有应用价值，由此导致迪度 (Ditzian)、布策尔 (Butzer)、法埃佛 (Pfeifer) 的许多工作；徐给出的广义兰道 (Landan) 多项式算子被国外学者称为“兰道-徐氏多项式”，德国数学家赫劳卡 (Hlawka) 还把这类多项式用做随机逼近的漂亮工具。徐在这方面发表了 20 余篇论文并和合作者出版了两本著作：《函数逼近的理论与方法》(上海科技出版社, 1983)、《逼近论方法》(国防工业出版社, 1986)。
+数值积分方面，徐利治的工作也是从 50 年代开始的。他发展’了激烈振荡函数积分法，概括了前人的许多成果；首先提出了“降维展开法”用以解决一大类高维边界型求积公式构造法问题。徐在这一领域里撰写论文 20 余篇，著书两本：《高维数值积分》(科学出版社, 1963, 1980)、《高维数值积分选讲》(安徽教育出版社, 1985)。
+互逆变换 (级数变换与积分变换的反演) 方面，徐利治提出了一套独特的方法，亦即应用自反函数的方法，这一普遍方法能用来解决 L 可积函数的自反积分变换问题，而华生 (Watson) 变换不
+
+能处理这种问题。正如前述，1965年徐发现的级数反演公式概括了高尔德的一系列反演关系，这可以应用于算法分析和插值方法中，美国数学家克努斯(Knuth)等人合编的《算法分析的数学》第一章中介绍了“高尔德-徐氏公式”。在这方面徐写了12篇论文。
+组合分析方法，是徐利治最早开始的研究领域，大学时代在美国杂志上发表的两篇处女作就是这方面的工作。后来徐对麦比乌斯(Möbius)反演作了大量研究，并且用组合分析研究概率论，用组合分析研究高次零差的渐近展开。这方面的论文有13篇，著作两部：《计算组合数学》(上海科技出版社，1983)、《组合数学入门》(辽宁教育出版社，1985)。
+计算方法方面，徐利治的主要工作是插值法和求根迭代法的研究。1964年由他首先发现的平方根迭代法，是具有大范围收敛性的求超越方程实根的方法。这项成果曾在当年吉林大学计算数学讨论班上报告过。但由于“文化大革命”的影响，未能及时发表，直到1973年才与瑞士数学家奥斯特洛夫斯基(A.M.Ostrowski)同时发表。此法后来成为欧美和国内不少数值分析家研究的出发点，并引出一系列结果。徐在这方面的有关论文计有12篇。
+非标准分析方面，徐利治把它作为研究工具，建立了广义的麦比乌斯反演理论，得到了普遍的反演定理，把离散数学中的广义麦比乌斯-罗塔(Rota)反演公式和微积分基本定理以及卷积型积分方程的求解公式都作为特例包括进去了。该工作于1983年发表后，引起葡萄牙里斯本(Lisbon)数学中心学者高耳多维尔(Gordovil)的注目。徐在这方面的论文有4篇。
+数学基础方面，徐利治首先研究了数学真理性数量上把握的问题，首次提出了数学抽象度问题，研究了超穷数论和悖论等问题。他在1980年提出的“双相无限”的原则，刻画了数学无限过程的矛盾本性，从而在西方数理哲学界“潜无限”与“实无限”两大派别的传统争论之外，提出了解决问题的新的方案。徐在这方面和他
+
+的合作者发表了9篇论文。
+其他方面，如数论、数学方法论、数学教学体系的改革等方面，徐利治也做了大量研究。例如在数论上他举出反例解决了匈牙利数学家埃尔德斯（Erdős）于1956年提出的等差数偶问题。徐在这些方面撰写论文20余篇，著书三本：《数学分析的方法及例题选讲》（高教出版社，1955，1984）、《应用解析数学选讲》（吉林人民出版社，1983）、《数学方法论选讲》（华中工学院出版社，1983）。
+徐利治教授在国内外发表的论文共130篇左右，著作12本。
+作为一位东方数学家，徐利治研究的面是比较广的，而且对涉及领域的研究深度也是可观的。如果仅仅从他的功底深、兴趣广、才能强等去寻找答案，那就可能流于表面地看问题了。正如陆游谈诗时指出的“功夫在诗外”，徐利治数学上的造诣也应从数学之外寻找答案。这除了可以找到他的非智力因素如志向、毅力、兴趣等这些成大器必备的素质，还在于他有一个博大精深的学术思想体系，包括数学教育思想、数学科研方法，以至数学美学观、数学哲学论等，形成一个完整的数学系统论——介于哲学与数学科学之间的一般方法论。不无遗憾的是，数学系统论只是潜隐在为数较少的“战略”兼“战术”型的数学家头脑中。如果能将其抽取出来，系统地整理，奉献于世，其意义将不可估量。
+徐利治教授正诚心竭力地做着这件事，他不仅在数学基础的研究上涉及哲学，而且用哲学思想指导科学研究。他娴熟地分析概念发展的矛盾转化过程，善于发掘寓于个性中的共性，常常高屋建瓴地从个别概念中抽象出普遍概念，从特殊结论中提炼出一般结论。他坚信数学的源在于客观世界，而前人的成果只是数学的流；他认为美不仅是文学家、艺术家的专利品，美也是数学探索的最佳境界。他分析了数学中的和谐美与奇异美，指出：“真是美的，而美未必真。”并且身体力行，用作为必要条件辅助检验数学成果的真伪。一方面他提出：数学直觉=美的直觉+关系直觉+真伪真觉；
+
+另一方面，他对数学创造力又补充了心理学家们提出的逻辑积公式：创造力＝发散思维能力×透视本质能力×有效知识量。徐笃信波利亚（Polya）关于数学知识具有“演绎与归纳二重性”的观点，大力推行他的教育思想。徐不仅重视严格推演的逻辑思考过程，而且善于运用依据数值计算的直觉判断方式。他针对数学发展中比比皆是的通过映射手段、反演求解的现象，首次归纳出关系、映射、反演一般原则，即所谓 RMI 原则，它具有一般方法论上的指导意义。在国内，他首先开设数学方法论课程，并撰写成书，这决不是把哲学方法论在数学研究上具体化的简单对号，而是数学与研究方法的水乳交融，其中凝结着“吃草、反刍、消化”等一系列心血经验的结晶。在数学教学上，他十分强调“表现知识发生过程”的课程教学和相应教材，以利于培养学生的创造性；他倡议学数学的要学好文学、关心艺术，因为这不仅是提高文化素质的手段之一，而且在于数学研究与文学、艺术的创造有许多内在的相通之处，这有利于想象力、创造力的发挥。
+
+不难看出，徐利治的知识广博与其兴趣的广泛和博览群书密切相关。其实，他的广博的成果基于他“提纲”（以数学系统论为纲）“挈领”（数学诸领域）地建造了自己的知识结构。
+
+华罗庚曾说过：“在我的众弟子中，徐利治的研究领域是最广的，思想也是最活跃的。”华的评价是恰当的。然而，论及弟子，徐利治只是华罗庚的一般学生，正如徐也是许宝騄、钟开莱等人的学生一样。严格讲，徐利治无师——无导师，只有老师。相形之下，今天的年青人令人羡慕，他们有硕士导师、博士导师，而年青时的徐利治则没有导师，他寻找课题、确定方向、研究投稿，全是自己完成的。没有依靠任何一棵“大树”来“乘凉”。后来，徐也是完全靠自己的学识找到了那么多研究方向，取得了大批成果。
+
+尽管徐本人无导师，但是他的“嫡传”弟子却有他这样一位和蔼可亲的导师。徐利治平易近人，没有架子，讲究学术民主，学问上
+
+不保守，瞧不起知识私有的悭吝之气。他深信知识是属于全人类的，对求教者毫无保留。在弟子眼中，他是良师益友、忘年之交。他还要求年轻人不要只向一位老师学习，而要博采众长。他对中青年教师进行科研与教学指导，他亲自带的中青年助手进步很快，如王仁宏、朱梧檵、林龙威等人，其中王仁宏已是博士导师。1982年，徐利治、王仁宏、梁学章、周蕴时研究的“数值逼近与数值积分”获国家自然科学三等奖。徐利治对于不是自己弟子的中青年知识分子也十分热情，在学术上指导、帮助他们解决困难，乐于同他们合作。杭州大学中年博士生导师王兴华与徐利治交往甚厚，徐与王合著的再版《数学分析的方法及例题选讲》获1988年国家优秀教材奖。西安地区逼近论讨论班，也一直得到徐利治的通信指导。
+
+朱梧槚一毕业就被徐利治留校做助手。后来朱被错划为“右派”，遣送回江苏老家。徐利治虽身处逆境，工资又降了两级，可仍然经常寄钱给他资助其生活。他们书信往来400多封，谈思想、谈学问。他们有共同的成果。由于徐利治研究面广、学术民主和为人随和，导致他的合作者很多。
+
+徐利治在学术上有这么几个特点：思想敏感，善于捕捉发展方向。例如：他60年代就强调逼近论应搞多元和显式结构，后来该领域国际上的发展表明他的观点是超前的；他兴趣广泛，喜欢浏览别人的工作，但思想又不受别人束缚，做到“进入内，出于外”；他思想不保守，乐于支持新生事物。例如，国内外有些学者认为模糊集合论“肤浅”、“无价值”，认为非标准分析“意义不大”，而徐利治则透过这门学科还没有拆掉的“脚手架”，看到了它们的远大前景，鼓励年轻人从事这方面的研究；他工作起来专心致志，却又富于类比，善于联想，集“发散思维”与“收敛思维”于一身；他不怕计算，很有耐心地从繁复的计算中归纳规律，验证结论。
+
+他的成功要诀在于：青少年立志。而贫寒的家境、纷乱的年代又砥砺了他的意志，使之更坚，而学习的兴趣则从另一方面强化了
+
+422
+
+他的意志;自学能力的培养,使他在课堂学习之外,打下了坚实的基础,尤其阅读一些数学上的经典著作,受到熏陶,能力随知识的积累得到增长,学习中创造性得以增强;及时地在人生的叉路口以顽强的毅力抓住了机会。他兴趣广泛,思想活跃,永远站在高处,时刻让生动新鲜的学术观点指导自己的研究。
+徐利治除了在大连理工大学应用数学研究所任所长,担任计算数学博士点导师,还分别担任华中理工大学、辽宁大学、苏州大学、吉林大学、东北工学院等院校数学系的名誉系主任、校学术顾问和兼职教授,被聘为中国科学院数学研究所顾问和陈省身先生领导的南开数学研究所学术委员,还担任《数学研究与评论》杂志主编,德国数学文摘杂志(Zentralblatt für Mathematik)的评论员,以及国际性英文刊物《逼近论及其应用》杂志副主编,等等。1988年,英国剑桥国际传记中心已把徐利治列入国际知识界名人录和太平洋与大洋洲地区名人录。1989年,美国传记研究所将徐利治列入杰出领导人物国际人名录。
+(1988年7月初稿,1990年1月修改稿)
+徐利治主要论著目录
+[1] Some combinatorial formulas with applications to probable values of a polynomial product and to differences of zero. Ann. Math. Statisitcs, 15(1944), 399-413.
+[2] K. L. Chung(钟开莱)L. C. Hsu(徐利治), A combinatorial formula and its application to the theory of probability of arbitrary events, Ann. Math. Statistics, 16(1945),91-95.
+[3] A combinatorial formula with some applications, Bull. Amer. Math. Soc., 51(1945),106-113.
+[4] Abstract theory of inversion of iterated summations, Duke Math. J., 14(1947),466-473.
+[5] A generalization of Romanoff's method for the construction of orthog-
+423
+
+onal systems, Science Record (Acad. Sinica), 2(1948),178-182.
+[ 6 ] Approximations to a class of double integrals of functions of large numbers, Amer. J. Math. , 70(1948),698-708.
+[ 7 ] A theorem on the asymptotic behavior of a multiple integral, Duke Math. J. 15(1948),623-632.
+[ 8 ] Note on an asymptotic expansion of the n-th difference of zero, Ann. Math. Statistics, 19(1948),273-277.
+[ 9 ] On Romanoff's device of orthonormalization, Sci. Rep. Nat. Tsing Hua Univ. , 5(1948), 1-12.
+[10] Application of a symbolic operator to the evaluation of certain sums, Sci. Rep. Nat. Tsing Hua Univ. , 5(1948),139-149.
+[11] An asymptotic expression for an integral involving a parameter, Science Record (Acad. Sinica),2(1949),339-345.
+[12] On a generalized Kelvin series, Sci. Rep. Nat. Tsing Hua Univ. , 5 (1949), 280-288.
+[13] Theory of limiting elements of arbitrary sequences, ibid, 5(1950), 428-440.
+[14] Generalized Stieltjes-Post inversion formula for integral transforms involving a parameter, Amer. J. Math. , 73(1951),199-210.
+[15] On the asymptotic evaluation of a class of multiple integrals involving a parameter, Amer. J. Math. 73(1951), 625-634.
+[16] A theorem concerning an asymptotic integral ( I ), Bull. Calcutta Math. Soc. , 43(1951),109-112.
+[17] 关于渐近积分的一个定理(I)(英文摘要),中国科学,2(1951), No. 2, 149-155.
+[18] The representation of functions of bounded variation by singular integrals, Duke Math. J. , 18(1951),837-844.
+[19] On the inversion of the Laplace-Lebesgue integral, Science Record (Acad.Sinica), 4(1951), No. 2, 93-100.
+[20] The asymptotic behaviour of a kind of multiple integrals, Quart. J. Math (Oxford Ser.) 2(1951), 175-188.
+424
+
+[21] Concerning the derived limits and set sequences in complete metric spaces, J. Chinese Math. Soc., 1(1951),88-97.
+[22] Some remarks on a generalized Newton interpolation formula, Math. Student 19(1951), 25-29.
+[23] 一类指数函数积分的渐近研究(与腊维茨(J.R.Ravetz))(英文摘要),中国数学学报,2(1952),45-49.
+[24] 富理、梅林变换的广义约当条件(英文摘要),中国数学学报,3(1953),142-147.
+[25] 论马氏积分逼近法(英文摘要),中国数学学报,3(1953),148-153.
+[26] 在边点取极大值的函数的渐近积分(英文摘要),数学学报,4(1954),305-316.
+[27] Note on an abstract inversion principle, Proc. Edinburgh Math. Soc., (2)9(1954),71-73.
+[28] 广义 Stieltjes-Post 反演公式及渐近积分(与吴智泉),数学学报,5(1955),161-172.
+[29] 关于 Saks BV 函数的奇异积分表现定理的改进(英文摘要),吉林大学自然科学学报,(1955),No.1.
+[30] 关于向量值函数的几个极限定理(英文摘要),吉林大学(东北人大)自然科学学报,1955.
+[31] A generalization of the Riemann-Lebesgue theorem, Bull. Calcutta Math.Soc., 48(1956), No. 4, 191-195.
+[32] On an asymptotic integral, Proc. Edinburgh Math. Soc., (2)10(1956),141-144.
+[33] 论 Arnold 型的奇异积分对某些类函数的最佳逼近,数学进展,2(1956),695-702.
+[34] 论一种离散性的 Bernstein 多项式(英文摘要)(与王在申),吉林大学自然科学学报,(1956),83-90.
+[35] Concerning the condition of uniform boundness for a type of scalar-to-vector transformations, J. Indian Math. Soc., 21(1957),115-126.
+[36] 关于渐近积分和积分逼近的若干研究结果,吉林大学自然科学学报,
+
+(1957), No. 1, 215 - 233.
+[37] A general approximation method of evaluating multiple integrals, Tohoku Math. J., 9(1957), 45 - 55.
+[38] 答 Erdos 的“等差数偶”问题(英文摘要), 吉林大学自然科学学报, (1957), No. 1, 1 - 5.
+[39] A refinement of the line integral approximation method with applications, Science Record(Acad. Sinica), (2)(1958), 193 - 196.
+[40] Note on the approximate integration of violently oscillating functions, Golden Jubilee Commemoration Volume of Calcutta Math. Soc., (1958/1959), 71 - 74.
+[41] Two new methods for the approximate calculation of multiple integrals (with L. W. Lin), Acta Math. Sci. Acad. Hungar., 9(1958), 279 - 290.
+[42] An efficient process of successive approximation for solving algebraic or transcendental equations, ibid, 291 - 298.
+[43] The polynomial approximation of continuous functions defined on (-∞, ∞), Czechoslovak Math. J. J., 9(1959), 574 - 577.
+[44] On a new class of approximating polynomials for real functions(与 L. P. HSu (徐立本)), Science Record (Acad. Sinica), 3(1959), 65 - 70.
+[45] Some approximation formulas for the integration of violently oscillating functions and periodic functions, ibid, 3(1959), 545 - 549.
+[46] A new type of polynomials approximating a continuous or integrable function, Studia Math., 18(1959), 43 - 48.
+[47] Concerning the numerical integration of periodic functions of several variables, Acta Sci. Math. (Szeged, Hungary), (20)(1959), 230 - 233.
+[48] A method for finding precise error bounds of numerical integration formulas in higher dimensions, Acta Math. Sci. Acad. Hungar., 11 (1960), 163 - 171. Correction and remark, ibid, 13(1962), 269 - 270.
+[49] An estimation for the first exponential formula in the theory of semi
+
+— groups of linear operations, Czechoslovak Math. J., 10(1960), 323-328.
+[50] Concerning an expansion formula for a type of integrals, Ann. Polon. Math., 11(1961), 7-12.
+[51] Approximation of non-bounded continuous functions by positive linear operators or polynomials, Studia Math., 21(1961), 37-43.
+[52] Concerning the change of variable of integration in general analysis, J. Pure & applied math., (Rumania), 6(1961), No. 2, 305-310.
+[53] Note on the numerical integration of periodic functions and of partially periodic functions, Numerische Mathematik, 3(1961), 169 173.
+[54] On the numerical integration of non-periodic functions of several variables, ibid, 4(1962), 330 335.
+[55] A reduction formula for the numerical integration of periodic functions of several variables, Acta Math. Sci. Acad. Hungar., 13 (1962), 383-386.
+[56] A few expansion formulas for the approximate integration over plane regions, ibid, 387-392.
+[57] On a method for expanding multiple integrals in terms of integrals in lower dimensions, Acta Math. Sci. Acad. Hungar., 14(1963), 359-367.
+[58] An expansion formula for the approximate evaluation of double integrals (Russian), Soob. Acad. Nauk GSSR, (1962) No. 5, 521-524.
+[59] On a method for constructing a type of numerical cubature formulas, J. pure & applied math. (Rumania), 7(1962), 109-117.
+[60] 几个敛速阶数较高的迭代程序和一个测定实根重数的方法, 数学学报, 12(1962), 331-340.
+[61] 关于“几个敛速阶数较高的迭代程序等”一文的改正及注记, 数学学报, 12(1964), No. 1, 175-176.
+[62] 关于日本河田龙夫的“富氏变换与拉氏变换”一书某节定理的评注及修正(英文标题), 吉林大学自然科学学报, (1962) No. 1, 185-190.
+[63] Concerning an expansion formula for a type of parameter integrals,
+
+Scientia Sinica, 12(1963), 1238.
+[64] Approximate integration of rapidly oscillating functions and of periodic functions, Proc. Camb. phil. Soc. , 59(1963),81-88.
+[65] On a kind of extended Fejer-Hermite interpolation polynomials, Acta Math. Sci. Acad. Hungar. , 15(1964),325-328.
+[66] A kind of stochastic approximating polynomials, Notices Amer. Math. Soc. , (1963), abstract.
+[67] 扩展乘数法与无界函数的多项式逼近(I)(与王仁宏)(英文摘要), 吉林大学自然科学学报, 1(1963),61-79.
+[68] 扩展乘数法与无界函数的多项式逼近(II)(与王仁宏)(英文摘要), 吉林大学自然科学学报, 2(1963),375-385.
+[69] General method of “multiplierenlargement” and approximation of non-bounded continuous functions by means of some explicit polynomial operators (Russian)(与 J. H. Wang(王仁宏)) , Doklady AN SSSR, 156 (1964) , No. 2,264-267.
+[70] 关于寻求一类对称反演公式的一般方法(英文摘要), 吉林大学自然科学学报, (1964),No. 1, 25-33.
+[71] (H. W. Gould、L. C. Hsu (徐利治)) Some new inverse series relations, Duke Math. J. , 40 (1973) , No. 4, 885-891.
+[72] Note on a combinatorial algebraic identity and its application, Fibonacci Quart. , 11(1973) , No. 5, 480-484.
+[73] On the unconditional convergence of an interation process, Notices Amer. Math. Soc. , 20(1973),A-577, Abstract 73T-B279.
+[74] Symmetric inversion formulas for series transforms, Notices Amer. Math. Soc. , 21(1974), A-311, Abstract. 74T-B74.
+[75] Symmetric inversion formulas for integral transforms, ibid, 21 (1974),A-734, Abstract.
+[76] 两类级数变换的反演公式, 吉林大学自然科学学报, (1978) , No. 1, 136-141.
+[77] 边界型求积公式的构造方法及应用(与王仁宏、周蕴时), 计算数学, (1978) , No. 3, 54-75.
+
+[78] 关于一类具有大范围收敛性的迭代法(与朱自强)(英文摘要),计算数学,1(1979),No.1,82-90.
+[79] 数值分析中的某些未解决的问题,杭州函数逼近论会议论文集,(1978),57-60.
+[80] 近代数值积分方法研究概况评述(与周蕴时),为1978年全国数学年会上所作的一个综合报告。
+[81] 关于计算方程重根的弦截程序(与陈永昌、徐贤议),吉林工业大学学报,(1979),No.1,1-7.
+[82] 评N. Rashevsky的一篇著作,吉林大学自然科学学报,(1955),No.1.
+[83] 关于CANTOR超穷数论上几个基本问题的定性分析和连续统假设的“不可确定性”的研究(英文摘要),吉林大学自然科学学报,(1956),No.1,67-103.
+[84] 渐近积分和积分逼近,科学出版社,1958年初版,1960年重印.
+[85] 高维的数值积分,科学出版社,1963年出版,增订版1980年出版,增订版合作者周蕴时.
+[86] 数学分析的方法及例题选讲,商务印书馆1955年出版,高教出版社1958年重印,1983年出版修订本,修订版合作者王兴华.
+[87] 寻找整函数实零点的一族大范围收敛的迭代法(与陈永昌)(英文摘要),计算数学学报(北京),(1980),No.2,172-179.
+[88] 寻求互反公式的一类图示可逆程序及其应用(与蒋茂森)(英文摘要),吉林大学自然科学学报,(1980),No.4,43-55.
+[89] 关于$\int f(x,\{Nx\})dx$的渐近展开及其应用(与周蕴时),应用数学学报(北京),3(1981),No.3,204-209.
+[90] An asymptotic formula for a type of singular oscillatory integrals(与Y.S.Chou(周蕴时)),Math. Comput.(U.S.A.),37(1981),No.156,403-407.
+[91] 具有代数精度的降维展开与边界型求积分式(与杨家新)(英文摘要),高校计算数学学报(南京),(1981),361-369.
+[92] Self-reciprocal functions and self-reciprocal transforms,J.Math.
+
+Res. & Exposition, (1981), No. 2, 119-138.
+[93] Mobius 反演理论的拓广及应用(英文摘要), 数学研究与评论(JMRE), (1981)创刊号, 101-112.
+[94] 一类广义 Newton 插值级数及应用(与杨家新)(英文摘要), 高校计算数学学报(南京), 3(1981), No. 1, 88-96.
+[95] 一类广义复变 Newton 插值级数(与杨家新)(英文摘要), 数学研究与评论(JMRE), (1981)创刊号, 69-72.
+[96] 关于 Euler-Maclaurin 求和公式余项的一个表达式(与王兴华)(英文摘要), 数学研究与评论, (1981), No. 1, 101-105.
+[97] 论 Godel 不完备性定理(与朱梧槚, 袁相碗, 郑毓信)(英文摘要), 数学研究与评论(JMRE), (1981), No. 1, 151-162.
+[98] 不用导数的一族大范围收敛迭代法(与杨家新)(英文摘要), 大连工学院学报, 21(1982), No. 1, 1-6.
+[99] 关于一类自反变换的必要与充分条件, 自然杂志(科研通讯), (1982), No. 4, 319-320.
+[100] On a method of constructing interpolation formulas via inverse series relations(与 J. X. Yang(杨家新)), J. Math. Res. & Exposition, (1982), No. 2, 113-126.
+[101] 关于数值积分法新近进展的评述(与周蕴时、杨家新), 数学进展(北京), (1982), 134-144.
+[102] 降维展开的余项极小化估计(与何天晓)(英文摘要), 数学杂志(武汉), (1982), No. 3, 247-255.
+[103] 关于三重阻力积分的极小化问题(与范泉鑫)(英文摘要), 大连理工大学学报, 22(1983), No. 1, 1-9.
+[104] Generalized Möbius inversion theory associated with non-standard analysis, (English abstract), J. Math. Res. & Exposition, (1983), No. 1, 51-53.
+[105] Generalized Mobius inversion theory associated with non-standard analysis, Science Exploration, (1983), No. 1, 1-8.
+[106] A survey of some recent developments of approximation theory in China, Approximation Theory IV (Texas, 1983 Conference Pro-
+430
+
+ceedings), 123-151.
+[107] 函数逼近的理论与方法(与王仁宏、周蕴时),上海科技出版社,1983年出版.
+[108] 计算组合数学(与蒋茂森、朱自强),上海科技出版社,1983年初版.
+[109] 应用解析数学选讲(与朱自强、丁培柱),吉林人民出版社,1983年出版.
+[110] 数学方法论选讲,华中理工大学出版社,1983年初版,1988年二版.
+[111] 运筹学小丛书:组合数学入门(与蒋茂森),辽宁教育出版社,1983年出版.
+[112] A class of multivariate rational interpolation formulas(与J.X.Yang)), J. of Computational Mathematics (English issue, Peking), (1984), No. 2, 164-169.
+[113] 一类光滑插值公式及对曲面插值问题的应用(与杨家新)(英文摘要),高校计算数学学报(南京),(1984), No. 4, 355-361.
+[114] 关于离散型多重卷积的计算公式及应用(与欧阳植)(英文摘要),大连理工大学学报, 23(1984), No. 2, 1-8.
+[115] 关于一类反演级数关系的注记,(英文摘要),数学研究与评论(JM-RE), (1984), No. 1, p. 54.
+[116] 关于一类无穷积分展开方法的注记,工科数学杂志(合肥), (1984), No. 1.
+[117] M obius 反演理论发展的综述(与王天明),第一届中国组合数学学术会议论文集, 1984 (大连出版).
+[118] 一类广义 Stirling 数偶(论文摘要——英文),同上文集, 1984, p. 55.
+[119] 组合学与分析学中的一个普遍反演定理(英文),数学进展(北京), (1985), No. 1, 91-92.
+[120] 一个普遍反演定理及其对卷积型积分方程的应用,工科数学杂志(合肥), (1985), No. 1, 1-5.
+[121] 高维数值积分选讲(与周蕴时、何天晓),安徽教育出版社,1985年出版.
+[122] 逼近论方法(与周蕴时、孙玉柏),国防工业出版社,1986年出版.
+
+[123] 数学抽象度概念与抽象度分析法(与张鸿庆)(英文摘要),数学研究与评论(JMRE),(1985),No.2
+[124] 从数学结构主义到数学抽象度分析法,数理化信息(沈阳,辽宁教育出版社),(1985)No.1,1-15.
+[125] Concerning various combinatorial identities(与C.Euyang(欧阳植)),J.Math.Res.&Exposition,(1985),No.4,25-30.
+[126] 关于*R中显微测度概念的注记(英文摘要),数学研究与评论(JM-RE),(1984),No.3,p.114.
+[127] Generalized Möbius inversion with applications to integral equations and interpolation process,J.Math.Res.Exposition.7(1987),355-350.
+[128] 多元函数逼近研究的近况述评(与杨家新),数学进展,(1987),No.3,241-249.
+[129] Generalized Stirling number pairs associated with inverse relations,Fibonacci Quarterly,25(1987),346-351.
+[130] 关于S_n^k(△_m^ω)插值问题(与高俊斌)(英文摘要),高校计算数学学报(南京),(1988),No.1,55-67.
+[131] Inverse theorems for a certain class of operators(与S.S.Guo(郭顾生)),Demonstratio Mathematica,21(1988),745-760.
+[132] Characterization of the class Lip*αby means of Rappoport operators,Approximation Theory and Its Applications,4(1988),87-93.
+[133] Inverse theorems for a special class of operators,Constructive Theory of Functions(Sofia),(1988),190-193.
+[134] On a general class of multivariate linear smoothing operators(与C.K.Chui(崔锦泰)、T.X.He(何天晓)),J.Approximation Theory,55(1988),35-48.
+[135] Asymptotic properties of positive summation-integral operators,J.Approximation Theory,55(1988),49-60.
+[136] Comment on G.P.Egorychev's book“Integral Representation and the Computation of Combinatorial Sums”(与M.S.Jiang(蒋茂森)),
+432
+
+Math. Appl. 1(1988), No. 1-2, 163-166.
+[137] Two classes of boundary - type cubature formulas with algebraic precision(与 Y. S. Chou (周蕴时), Calcolo (Italy), 23(1986), No. 3, 227-248.
+[138] 一类和积算子(与陈文忠、杨家新)(英文摘要),中国逼近论会论文集(大连), 1984.
+[139] Approximate integration of rapidly oscillating functions with compound precision(与 Y. S. Zhou(周蕴时)), Approximation Theory V (Proceedings of Texas International Conference), 1986, p. 383-386.
+[140] Approximate computation of strongly oscillatory integrals with compound precision, NATO Proceedings of an Advanced Workshop on Numerical Integration Methods and Software (Halifax, Canada), 1987. 201-211.
+[141] 广义 Duhamel 原理及其应用(I)(I)(与孙广润), 曲阜师范大学学报(自然科学版), (1988), No. 3, 21-25, No. 4, 1-5.
+[142] Some combinatorial problems, J. Math. Res. & Exposition, (1987), No. 1, 157-160.
+[143] Two wider classes of combinatorial identities (Abstract), J. Math. Res. & Exposition, (1987), No. 4, p. 550.
+[144] A note on Young's integral inequality, J. Math.Res. & Exposition, (1988), No. 4, p. 512.
+[145] 计算组合数学中的两种互反变换(英文摘要),清华大学学报(自然科学版), 28(1988), No.s6, 1-9.
+[146] A remark on a paper of Banerjee, Lardy and Lutoborski, J. Math. Res. & Exposition, (1989), No. 2, p. 180.
+[147] Theory and application of generalized Stirling number pairs, J. Math.Res. & Exposition, 9(1989), No. 2, 211-220.
+[148] A kind of partition identity, ibid, (1989), No. 4, p. 536.
+[149] 关于 RM1 方法的反问题(与刘一鸣、徐本顺)(英文摘要), 曲阜师范大学学报(自然科学版), 15(1989), No. 2, 1-9.
+
+[150] 逼近论在中国的某些新进展(英文摘要),全国函数逼近论会议文集
+(南京出版),1983.
+[151] A quadrature method for a class of strongly oscillatory infinite integrals(与 R.J. Tomkins, C.L. Wang (王中烈)), BIT (Sweden), 30
+(1990), 114-125.
+下列一些著作主要讨论数学基础及方法论等有关专题(如 152-168 诸项):
+[152] 超穷过程论中的两个基本原理与 Hegel 的消极无限批判(与朱梧槚),东北人民大学自然科学学报,(1956), No. 2, 111-121.
+[153] 超穷过程论的基本原理(与朱梧槚),东北人民大学自然科学学报,
+(1957), No. 1, 41-45.
+[154] 在素朴集合论与超穷过程论观点下的 Cantor 连续统假设的不可确定性(与朱梧槚)(英文摘要),同上刊物,No. 1, 53-60.
+[155] 悖论与数学基础问题(I)(与朱梧槚、袁相碗、郑毓信),数学研究与评论(JMRE),(1982), No. 3
+[156] 悖论与数学基础问题(II)(与朱梧槚、袁相碗、郑毓信),数学研究与评论,(1982), No. 4.
+[157] 悖论与数学基础问题(III)(与朱梧槚、袁相碗、郑毓信),数学研究与评论,(1983), No. 2.
+[158] 悖论与数学基础问题(补充 I、补充 II)(与朱梧槚、袁相碗、郑毓信),数学研究与评论,(1983), No. 3, (1984), No. 2.
+[159] 略论近代数学流派的无限观和方法论,吉林大学社会科学论丛,第一集,(1980), 76-91.
+[160] 论非标准时空连续统模型及其对 Zeno 悖论分析的应用(与谢洪欣)
+(英文摘要),数学研究与评论,(1987), No. 2, 351-355.
+[161] 数学直觉的意义及作用(与张鸿庆),高等教育研究(大连理工大学编),(1984), No. 1.
+[162] 略论科学计算在理论研究中的作用,数学的实践与认识(北京),
+(1987), No. 4.
+[163] 关于数学创造规律的断想及对教改方向的建议(与隋允康),高等工程教育研究(教委主办),(1987), No. 3.
+
+[164] 略论数学真理及真理性程度(与郑毓信),自然辩证法研究(北京), 4 (1988), No. 1.
+[165] 数学研究中的创造性思维规律,百科知识(北京),(1989), No. 3.
+[166] 关系映射反演方法(数学方法论丛书之一)(与郑毓信),江苏教育出版社(南京),1989 年出版.
+[167] 数学与思维(数学·我们·数学丛书之一)(与王前),湖南教育出版社(长沙).
+[168] 数学模式观的哲学基础(与郑毓信),哲学研究,(1990),74-81.
+[169] 关于双边 Young 不等式和一个逆定理(与邹春苓),曲阜师范大学学报,(1989)15 卷 3 期,12-16.
+[170] “数学模式观”与数学教育及哲学研究中的有关问题,数学教育科学论文集(1988-1989),天津科技出版社,1990 年出版.
+
+作者简介 隋允康 男,1943 年生于大连市。1968 年毕业于大连工学院(现大连理工大学)数理力学系。现为大连理工大学工程力学研究所教授,系徐利治的学术朋友与合作者。

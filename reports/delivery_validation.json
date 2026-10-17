@@ -1,0 +1,23 @@
+{
+  "full_corpus_real_bge": {
+    "chunks": 9921,
+    "documents": 326,
+    "persons": 335
+  },
+  "all_265_biography_names_retrievable": "passed",
+  "real_non_seed_qa": {
+    "person": "丁伟岳",
+    "citations": 6
+  },
+  "real_react_stream": {
+    "token_events": 129,
+    "tools": [
+      "person_profile",
+      "graph_neighbors",
+      "text_search",
+      "text_search"
+    ]
+  },
+  "saved_history": "passed",
+  "status": "passed"
+}

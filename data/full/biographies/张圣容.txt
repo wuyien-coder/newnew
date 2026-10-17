@@ -1,0 +1,124 @@
+人物：张圣容
+生年：1948年
+逝世：2000年
+研究方向：调和分析、几何分析
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：295-303
+============================================================
+
+张圣容
+
+张圣容(1948~),湖南长沙人。调和分析与几何分析学家。1966年,被保送进台湾大学数学系学习,1970年毕业,获学士学位。即赴美国加利福尼亚大学伯克利分校数学系学习,指导教授是 Donald Sarason,1974年获博士学位。先后在纽约州立大学布法罗分校、加利福尼亚大学洛杉矶分校和马里兰大学任助理教授。1980年,回到加利福尼亚大学洛杉矶分校任副教授;1982~2000年任教授。在上述学校工作期间,曾数次到普林斯顿高等研究所、瑞典米塔-列夫勒数学研究所以及瑞士苏黎世联邦工业大学等研究机构访问。1989~1991年,兼任加利福尼亚大学伯克利分校数学教授。1998年,兼任普林斯顿大学数学教授;2000年起,任该校全职教授;2009年7月,出任普林斯顿大学数学系主任。早期研究调和分析,解决了一些难题。1987年开始发表几何分析研究论文,获得了一系列重要的成果。已发表论文著50余篇。1986年,应邀在国际数学家大会上做45分钟分会报告。2002年,应邀在国际数学家大会上做1小时大会报告。1989年,获加利福尼亚大学洛杉矶分校杰出女科学家奖。1995年,获美国数学学会的 Ruth Lyttle Satter 杰出女数学家奖。1989~1991年,任美国数学会副会长。2008年,当选为美国艺术与科学学院院士;2009年,当选为美国全国科学院院士。
+
+一、简 历
+
+张圣容出生于中国的十朝古都西安市。父亲张范是湖南长沙人,建筑师;母亲陈里育是浙江宁波人,会计。1950年全家由西安迁至香港,1953年又迁往台湾,张圣容在台湾长大。小时候家境艰难,但父母亲竭力维持了她和弟弟的学业。
+
+张圣容从小就喜欢读书并爱好文学,同时数学成绩也特别好,她很欣赏数学的简单和优美。1960年考入台北第二女子中学(现改名为台北市立中山女子高级中学),那时留下最深刻的印象就是在炎炎夏日中阅读中外名著和钻研数学题目,感到其乐无穷。读高三时,她已经决定将来学习理工科,因为当时只有学理工科的人才能较轻松地找到好工作,做到早日自立。恰逢诺贝尔物理学奖获得者杨振宁来台讲学,他说,数学是年轻人研究科学最好的方向。这句话影响了她把数学作为读大学的第一志愿。1966年,张圣容以全校第一名的成绩,被保送进台湾大学数学系学习。台大数学系这一届的学生很特别:总共40位学生中竟有12位女同学!须知那时人们一般认为女生不适合学习抽象的数学。更令人惊奇的是,这些女同学当中有好几位后来真的成为有相当成就的数学家:如张圣容、李文卿、金芳蓉、胡守仁和吴徵眉等。
+
+大学 4 年中受到了严格的教育和训练，张圣容与班上的几位女生一同学习和玩乐，生活热闹愉快。她那时完全没有想到，将来作为女数学家会感觉很孤独。1970 年，以第 4 名的成绩从台大数学系毕业，获学士学位。即赴美国加利福尼亚大学伯克利数学系攻读博士学位。陈省身正在该系执教，丘成桐则早她一年来此读博士；那里还有其他好几位华裔和非华裔的著名数学家，张圣容眼界大开。1974 年，她以论文《论一些 Douglas 子代数的结构》(On the structure of some Douglas subalgebras) 获博士学位，指导教授是 Donald Sarason。1974~1980 年，先后在纽约州立大学布法罗分校、加利福尼亚大学洛杉矶分校和马里兰大学任助理教授。1980 年，回到加利福尼亚大学洛杉矶分校任副教授；1982~2000 年任教授。在上述学校工作期间，曾数次到普林斯顿高等研究所、瑞典米塔-列夫勒数学研究所以及瑞士苏黎世联邦工业大学等研究机构访问。1989~1991 年，兼任加利福尼亚大学伯克利数学教授。1998 年，兼任普林斯顿大学数学教授；2000 年起，任该校全职教授；2009 年 7 月，出任普林斯顿大学数学系主任。
+1973 年，张圣容与同在加利福尼亚大学伯克利数学系读博士的杨建平 (Paul Chien-Ping Yang) 结婚。他们俩在大学时代就已经是同学。杨建平现在也是普林斯顿大学数学系教授，他们有一个儿子和一个女儿。张圣容业余时间喜欢看小说、散步和听音乐。
+二、数 学 成 就
+1. 调和分析
+令 L∞ 表示：由在复平面单位圆边界上有界的全体 Lebesgue 可测函数所形成的复 Banach 代数；H∞ 表示：由在复平面单位圆上有界的全体解析函数所形成的代数。则 H∞ 是 L∞ 的闭子代数。设 B 是一个介于 H∞ 和 L∞ 之间的闭子代数，令 BI 是由 H∞ 和 B 中可逆内函数的复共轭所生成的闭子代数，显然 B ⊃ BI。美国数学家 Ronald G. Douglas 在 1968 年猜测，B = BI。这就是 Douglas 猜想，BI 则被称为 Douglas(子) 代数。该猜想涉及函数空间的深刻性质，能帮助理解全纯函数在边界上的行为，因而当时备受包括 Sarason 在内的许多调和分析专家关注。在 Sarason 的指导下，张圣容的博士论文就是研究 Douglas 子代数的性质。张圣容运用 BMO(有界平均振动) 函数和 Carleson 测度的概念，成功地证明了上述闭子代数 B 均由其极大理想空间唯一确定。由于这一结果，以及稍后美国数学家 Donald E. Marshall 的工作，使得 Douglas 猜想被完全证明。张圣容进一步证明了，B 还可以由 H∞ 和 B 中可逆内函数的商所生成。她又继续与 Sarason 和 Marshall 等人合作，在研究 Carleson 测度、Toeplitz 算子乘积、Fourier 变换、Schrödinger 算子和 Hp 空间性质，以及推广 BMO 函数概念等方面取得一系列成果。
+2. 几何分析
+所谓几何分析，是指用分析方法研究几何问题；通常可归结为研究流形上的各类
+
+偏微分方程。张圣容进入几何分析领域，缘于她和她的丈夫、几何学家杨建平的合作。他俩同为数学家，并且经常交流对数学的一般看法，却在相当长的时间内彼此不了解对方具体的研究工作。直到婚后十年他们才认识到，可以结合她的分析工具和他的几何工具来共同研究一些数学问题，于是开始了卓有成效的合作。
+张圣容和杨建平主要研究共形几何问题，即研究 Riemann 流形在共形度量变换条件下各种曲率和相关偏微分算子的性质。流形共形变换概念是复变函数论中解析函数保角性概念的推广。共形几何中的问题往往非常困难，张圣容则做出了相当广泛的贡献，因而被公认为该研究领域的领军人物。她的成就主要在以下几方面。
+(1) Nirenberg 问题及其推广的研究
+这是一个著名的共形几何问题，它问：给定一个标准的二维球面 $S^2$，通过共形度量变换，使得 $S^2$ 上的 Gauss 曲率分布正好是函数 $K$，则 $K$ 应满足什么条件？此问题的解答可归结为在 $S^2$ 上求解关于 $K$ 的非线性椭圆偏微分方程 $\Delta u + K e^{2u} = 1$。
+1987 年，张圣容和杨建平发表了首篇合作论文，其中通过运用极大-极小方法找到有关变分泛函式的鞍点，从而确立了 Nirenberg 问题中使方程有解的正函数 $K$ 的两个充分条件。他们随后发表的论文又找出了一大类符合条件的正函数 $K$。
+张圣容继续与杨建平以及其他人合作，研究 $S^3$ 乃至 $S^n$ 上推广的 Nirenberg 问题 (当 $n \geqslant 3$ 时，原问题中的 Gauss 曲率函数 $K$ 需换成纯量曲率函数 $R$)，取得一系列重要结果。
+(2) 等谱共形度量与紧致性问题
+两个 Riemann 度量被称为是等谱的 (isospectral)，如果它们的伴随 Laplace-Beltrami(偏微) 算子具有相同的特征谱。可以形象地说：两个大鼓是等谱的，如果它们发出的鼓声完全相同。共形几何学中一类重要的问题是：紧致 Riemann 流形上一些等谱度量 (isospectral metric) 的集合是否紧致？此类问题非常困难，当时只获得特殊情况的一些结果。
+1989 年，张圣容和杨建平证明了：$S^3$ 上与给定度量 $g_0$ 等谱并与标准度量共形的度量集合在 $C^\infty$ 拓扑中是紧致的。1990 年，他们又证明了：闭 3 维 Riemann 流形上每个共形等谱的度量族都在 $C^\infty$ 拓扑中紧致。张圣容由于这些出色的工作而于 1995 年获美国数学会的 Satter 数学奖。
+(3) Moser-Trudinger 不等式及其在共形几何中的应用
+Moser-Trudinger 不等式是 Sobolev 嵌入定理的极限情况，它是估计紧流形上偏微分方程解的有效工具。张圣容对于该不等式有独到的研究，并把它成功地应用于解决上述 Nirenberg 问题和等谱度量问题。事实上，张圣容的大部分共形几何研究工作都与此不等式有关。
+1986 年，她与瑞典著名数学家 Lennart Carleson 合作，证明了 Moser-Trudinger 不等式在 $n$ 维球上极值函数的存在性；该文后来被广泛引用。她还在同年举行的国际数学家大会上，以《加强 Sobolev 不等式中的极值函数》为题作了 45 分钟分会报告。她在 1996 年
+
+发表的讲课报告《Moser-Trudinger 不等式及其在共形几何若干问题中的应用》，对该不等式作了系统阐述；该报告被同行评价为漂亮和深刻（参见 Mathematical Review）。2003 年，她与杨建平合作发表的关于 Moser-Trudinger 不等式论文，总结了该不等式应用于三维和四维流形上共形变换研究的最新成果。
+
+(4) 关于偏微分算子谱 zeta 函数定式的研究
+
+设流形上的一个偏微分算子的特征值集合是 $\{\lambda_k | \lambda_0 \leqslant \lambda_1 \leqslant \lambda_2 \leqslant \dots \lambda_k \leqslant \dots\}$，则该算子谱的 zeta 函数定义为 $\zeta(s) = \sum_{\lambda_k \neq 0} \lambda_k^{-s}$，其 zeta 函数定式 (zeta functional determinant) 定义为 $\det \Delta = \mathrm{e}^{-\zeta(0)} = \prod_{\lambda_k \neq 0} \lambda_k$。人们起初发现 zeta 函数定式可以控制二维流形上共形因子的大小，从而能解决一系列共形度量变换问题；进而发现该定式本身也很值得研究。张圣容在深入研究偏微分算子谱 zeta 函数定式并把其应用推广到高维流形方面做了大量的工作。
+
+1992 年，她与杨建平等人合作证明了：对于任意一个既非标准球面也非双曲空间的四维紧致局部对称 Einstein 流形上的，共形于常数曲率的度量来说，其 Laplace 算子和 Dirac 平方算子谱的 zeta 函数定式控制了它的共形因子；在 $S^4$ 上，标准度量则使这些算子谱 zeta 函数定式达到最小。1995 年，她与杨建平合作，为四维流形上的共形 Laplace 算子和 Paneitz 算子谱 zeta 函数定式找到了极值度量。1997 年，她和庆杰合作，确定了带边界的三、四维流形上共形椭圆算子谱 zeta 函数的表达式，给出了有关极值度量并证明了等谱集合的紧致性。这些都是难度极大的研究成果。
+
+(5) 高阶共形偏微分算子以及相关曲率函数的研究
+
+近十几年来，共形几何的研究逐渐从低维流形转向高维流形，其中一个研究热点是 Paneitz 算子 —— 这是一个四阶共形共变微分算子，其对于四维流形的作用就相当于 Laplace 算子对于二维流形的作用；该算子还可以推广作用到更高偶数维流形上。
+
+1997 年，张圣容与杨建平合作，证明了 Paneitz 算子在偶数维球面上的解是标准度量的共形变换。1999～2000 年，张圣容与杨建平等人合作，进一步研究了 Paneitz 方程解的存在性和正则性，与 Laplace 算子 zeta 函数定式之间的关系，以及该算子所对应的 Q 曲率与陈-高斯-博内公式的联系等。
+
+记 Riemann 流形上 Weyl-Schouten 曲率张量特征值的 $k$ 阶基本初等函数记为 $\sigma_k (k=1, 2, \cdots)$。2002 年，张圣容与杨建平等合作，首次把 $\sigma_k$ 曲率用于共形几何研究，他们证明了：在四维 Riemann 流形上，$\sigma_2$ 积分的正定性与 Yamabe 类的正定性蕴含了具有正定 Ricci 曲率的共形度量的存在性。张圣容等又证明了，如果 $n (\geqslant 5)$ 维球面上一个连通开区域容许有完备共形度量，并且满足 $\sigma_1, \sigma_2$ 正定等条件，则球面去掉该区域后的 Hausdorff 维数小于一定数。还成功地对带有共形平坦度量的环状区域上的 $\sigma_k$ Yamabe 方程的所有可能的径向解作了分类。由于张圣容等人这些开创性工作，使得 $\sigma_k$ 曲率成为近年来共形几何研究的另一大热点。
+
+由于研究高阶共形偏微分算子以及相关曲率函数取得一系列重要成果，张圣容和杨
+
+建平夫妇受邀在 2002 年北京举行的国际数学家大会上做 1 小时大会报告。这是世界上最杰出的活跃数学家才能得到的荣誉。
+
+三、荣誉与社会活动
+
+1986 年，张圣容应邀在美国加利福尼亚大学伯克利举行的国际数学家大会上作 45 分钟分会报告，题目为《Sobolev 加强不等式中的极值函数》(Extremal function in a sharp form of Sobolev inequality)。2002 年，张圣容和杨建平夫妻数学家，应邀在中国北京举行的国际数学家大会上做 1 小时大会报告，题目为《共形几何中的非线性偏微分方程》(Nonlinear partial differential equations in conformal geometry)。
+
+1989 年，张圣容获加利福尼亚大学洛杉矶分校杰出女科学家奖。1995 年，获美国数学学会颁发的 Ruth Lyttle Satter 奖，该奖旨在表彰过去 5 年内取得杰出成就的女数学家，每两年颁发一次。授奖词为：“本届 Ruth Lyttle Satter 奖授予张圣容，以表彰她对于 Riemann 流形上偏微分方程研究的深刻贡献，特别是她的关于紧三维流形上的谱几何以及固定共形类中等谱度量紧致性的研究工作。”张圣容在致答词中说：“以上所提到的所有工作都是我和别人合作研究的成果 (主要合作者是杨建平，但还有 Tom Branson 和 Matt Gursky)，因此我对他们表示感谢。”最后说道：“与我的学生时代相比，很显然现在有更多活跃的女数学家……但是，我认为需要有更多的女数学家来证明好的定理并做出职业贡献。”
+
+1989~1991 年，张圣容任美国数学会副会长；1989~1992 年，她是美国国家科学基金会数学科学部的顾问委员会成员；2001~2004 年，是美国数学会 Steele 奖遴选委员会成员。2008 年，张圣容当选为美国艺术与科学学院 (American Academy of Arts and Sciences) 院士；2009 年，当选为美国全国科学院 (United States National Academy of Sciences) 院士。
+
+2009 年 3 月，张圣容回到台湾，参加在母校台湾大学举行的“数学月”活动。她在接受记者采访时指出：“其实，数学是最适合女性的一门学问。”因为研究数学不像研究化学和物理，非得整天待在实验室不可。不管是教室、办公室或是家里，任何地方都可做数学研究，工作时间自由，最适合必须兼顾家庭的女性。学数学不仅可以训练逻辑思考能力，女生只要有兴趣，愈投入也会愈喜爱。
+
+四、张圣容主要论著
+
+Zhang S R. 1976. A characterization of Douglas subalgebras. Acta Math, 137: 81–89.
+Zhang S R. 1977. Structure of subalgebras between L^∞ and H^∞. Trans Amer Math Soc, 227: 319–332.
+Zhang S R, Carleson L. 1986. On the existence of an extremal function for an inequality of J. Moser. Bull Sci Math, 110: 113–127.
+
+Zhang S R. 1986. Extremal function in a sharp form of Sobolev inequality. Proceeding of International Congress of Mathematician, ICM: 715–723.
+
+Zhang S R, Yang P C. 1987. Prescribing Gaussian curvature on S². Acta Math, 159: 215–259.
+
+Zhang S R, Yang P C. 1988. Conformal deformation of metrics on S². J Diff Geometry, 27: 259–296.
+
+Zhang S R, Yang P C. 1989. Compactness of isospectral conformal metrics on S³. Comm Math Helv, 64: 363–374.
+
+Zhang S R, Branson T, Yang P C. 1992. Estimates and extremal problems for the log-determinant on 4-manifolds. Comm Math Physics, 149(2): 241–262.
+
+Zhang S R, Yang P C. 1995. Extremal metrics of zeta function determinants on 4-manifolds. Annals of Math, 142: 171–212.
+
+Zhang S R. 1996. Moser Trudinger inequality and applications to some problems in conformal geometry. Nonlinear Partial Differential Equations. Hardt and Wolf editors, AMS IAS/Park City Math, 2: 67–125.
+
+Zhang S R, Qing J. 1997. The zeta functional determinants on manifolds with boundary I-the formula; II-Extremum metrics and compactness of isospectral set. JFA, 147(2): 327–399.
+
+Zhang S R, Yang P C. 1997. On uniqueness of solution of a n-th order differential equation in conformal geometry. Math Research Letters, 4: 91–102.
+
+Zhang S R, Matt Gursky, Yang P C. 2002. An equation of Monge-Ampere type in conformal geometry, and four-manifolds of positive Ricci curvature. Annals of Math, 155(3): 711–789.
+
+Zahang S R, Yang P. 2002. Non-linear partial differential equations in conformal geometry. Proceedings for ICM: 189–209.
+
+Zhang S R, Yang P C. 2003. The inequality of Moser and Trudinger and applications to conformal geometry. Comm Pure and Applied Math, 6(8): 1135–1150.
+
+Zhang S R, Gursky M, Yang P. 2003. A conformally invariant sphere theorem in four dimensions. Publications de l’IHES, 98: 105–143.
+
+Zhang S R, Hang F, Yang P. 2004. On a class of locally conformally flat manifolds. IMRN, 4: 185–209.
+
+Zhang S R, Qing J, Yang P. 2004. On the topology of conformally compact Einstein 4-manifolds. Noncompact Problems at the intersection of Geometry, Analysis and Topology. Contemporary Math, 350: 49–61.
+
+Zhang S R, Han Z C, Yang P. 2005. Classification of singular radialsolutions to the σk Yamabe equation on annular domains. JDE, 216: 482–501.
+
+Zhang S R. 2005. Conformal invariants and partial differential equations. Colloquium Lecture notes, BAMS, 42(3): 365–393.
+
+主要参考文献
+
+Zhang S R. 1995. Ruth Lyttle Satter Prize in Mathematics. Notices of AMS, 42(4): 460.
+
+陈省身, 康润芳. 2002. 记几位中国的女数学家. 陈省身文集. 上海: 华东师范大学出版社.
+
+Chang S Y. 2009. Autobiography. Mariana Cook Mathematicians: An Outer View of the Inner World. Princeton: Princeton University Press.
+
+彭国伟. 2009-07-06. 女数学家张圣容: 愈有兴趣愈能投入. 自由时报.
+
+林进修. 2009-07-18. 张圣容: 数学最适合女性的学问. 联合晚报.
+
+撰写者
+张奠宙，1933 生，华东师范大学退休教授，国际欧亚科学院院士，曾当选国际数学教育委员会执行委员。著名现代数学史专家和数学教育家。
+王善平，1954 生，《华东师范大学学报》编辑部，编审，研究方向为现代数学史。

@@ -26,7 +26,28 @@ flowchart LR
   Queue --> PG
 ```
 
-默认轻量模式使用 SQLite、内存向量、hash 编码和离线摘录，方便验证交互；真实 ReAct 需要配置外部模型。完整模式使用 PostgreSQL/pgvector、Redis、Celery 和本地 BGE。旧固定工作流保留为可选执行器对照。
+仓库现在附带与本地完整版逐文件一致的全部语料：326 份传记文件、9,921 个文本块、335 条人物记录与 355 条关系。默认数据目录为 data/full。默认离线模式使用 SQLite、内存向量、hash 编码和离线摘录；接入真实 ReAct、BGE、PostgreSQL/pgvector、Redis、Celery 请使用下面的完整版部署流程。旧固定工作流保留为可选执行器对照。
+
+326 份文件包含同一人物的多篇传记，解析后有 265 个不同传记姓名。图谱与传记存在别名和收录范围差异；有图谱记录不代表有对应全文。此版本恢复本地已有资料覆盖，不承诺回答资料中未记载的问题。精确覆盖与文件校验值见 data/full/manifest.json。
+
+## 与本地一致的完整版
+
+安装 Docker Compose 和 Python 3.11+。在项目目录执行：
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -e ".[prod,ml]"
+Copy-Item .env.full.example .env.full
+# 编辑 .env.full，填写 MATHKB_LLM__API_KEY，并修改数据库密码和应用访问令牌。
+.\.venv\Scripts\python.exe scripts/verify_corpus.py
+.\.venv\Scripts\python.exe scripts/download_models.py
+docker compose --env-file .env.full -p mathknow-full -f docker-compose.yml -f docker-compose.full.yml up --build -d
+docker compose --env-file .env.full -p mathknow-full -f docker-compose.yml -f docker-compose.full.yml exec api python scripts/check_stack.py --require-all
+```
+
+打开 http://127.0.0.1:8080/web/ ，在页面连接设置填写 .env.full 中的应用访问令牌。模型 API 密钥保留在 .env.full。已有 BGE 缓存时，可把 MODEL_CACHE_DIR 设为该目录，跳过模型下载。首次建库会处理全部文本并生成 BGE 向量，需要等待；后续启动复用向量缓存。
+
+完整版提供真实模型 ReAct、多轮会话、SSE 流式回答、原文引用、混合检索、图谱关系与路径查询，以及 TXT/Markdown/PDF 上传、Celery 异步摄取和删除。完整原文随 GitHub 仓库与镜像提供，模型权重通过下载脚本准备，访问服务所需密钥由使用者填写。
 
 ## 本地运行
 
@@ -47,7 +68,7 @@ cd ..
 
 轻量配置不会调用收费模型。配置真实模型时在本机 .env 设置 MATHKB_LLM__PROVIDER=openai、MATHKB_LLM__BASE_URL、MATHKB_LLM__MODEL、MATHKB_LLM__API_KEY；不要把密钥提交到仓库或填写到网页的应用令牌输入框。真实问答会把检索片段发送给所配置服务商。
 
-BGE 需要安装 requirements-ml.txt，下载模型并设置 MATHKB_EMBEDDING__PROVIDER=bge 和 MATHKB_EMBEDDING__CACHE_DIR。模型权重与完整传记原文不随仓库发布。
+BGE 需要安装 requirements-ml.txt，下载模型并设置 MATHKB_EMBEDDING__PROVIDER=bge 和 MATHKB_EMBEDDING__CACHE_DIR。完整传记原文已随仓库发布；模型权重用 scripts/download_models.py 准备。若只需原来的小样例，可复制 .env.seed.example 为 .env，并使用独立数据库。
 
 ## PostgreSQL / Redis / Celery
 
@@ -62,7 +83,9 @@ Copy-Item .env.production.example .env.production
 
 ## 数据与验证
 
-仓库包含 data/seed 样例语料、图谱与回归用例，data/full/kg 和 data/full/qa 提供全量结构化图谱及评测辅助数据。完整传记原文由使用者按来源授权自行准备，使用 MATHKB_BIOGRAPHIES_DIR 指定；模型、索引、会话、上传文件与密钥均被忽略。
+仓库包含 data/seed 样例，以及 data/full/biographies 全部本地传记、data/full/kg 全量结构化图谱、data/full/qa 评测辅助数据。模型、索引、会话、上传文件与密钥均被忽略。原始资料的权利与来源信息保留在数据中。
+
+若已有数据库只加载了样例，修改 MATHKB_DATA_DIR 后运行 `python scripts/build_index.py --sync-corpus`，补齐传记及图谱并重建索引；该命令保留原会话和上传资料。单独使用 --force 仅重算向量，不切换数据集。
 
 ```powershell
 .\.venv\Scripts\python.exe -m pytest -q

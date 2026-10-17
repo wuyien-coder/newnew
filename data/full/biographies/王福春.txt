@@ -1,0 +1,420 @@
+人物：王福春
+生年：1947年9月26日
+逝世：1947年9月26日
+来源：11134319_中国现代数学家传第2卷_fenleiID_0K8120_
+页码：103-145
+============================================================
+
+王福春
+
+徐义保
+
+王福春 1901 年诞生于江西省安福县。1947 年
+9 月 26 日在南昌病故。暨南大学、浙江大学、中
+正大学教授。分析学。
+
+王福春是本世纪三四十年代的分析学
+家。他一生致力于傅里叶(Fourier)级数和
+黎曼(Riemann)猜想研究，在傅里叶级数
+的强性求和与黎斯(Riesz)平均等方面作
+出了贡献。
+
+一 生平事略
+
+王福春，字梦强，1901 年诞生在江西
+省安福县十里楼村一个农民的家庭。他兄弟二人，排行老大。由于
+伯父膝下无子，按传统习俗他就被过继作为养子。伯父在湖南长沙
+开店经营小百货，生活较为宽裕。王福春虽被过继但仍留在父母身
+
+• 王福春像系由瓷画像翻拍而来。王去世于 1947 年 9 月 26 日，画遗像
+属办丧事之列，故可推测瓷画像应在 1947 年底以前就制好了。瓷画像上有如
+下文字：
+
+76
+
+边。11岁那年，伯父突然病故，于是赴湘奔丧。事毕就留在伯母身旁，一边帮助照看店面，一边上学。他学习勤奋、刻苦，每次考试都名列前茅，常常受到老师的夸奖。
+王福春一上学就对数学产生浓厚的兴趣。到高中时，老师在课堂上教授的知识已不能满足他的求知欲。于是在课余，他就自学高等数学，阅读霍尔(Hall)和奈特(Knight)著的《Higher Algebra》等外文数学著作，“广览代数、解析几何、微积分诸书”[1]。1922年高中毕业投考武昌高等师范学校时，他“以微积分解数学题，曾为阅卷者所惊异”[1]。
+在中学，王福春对化学也很入迷。他经常在家根据课本的内容作一些简单的实验。有一次他把鸡蛋装入小方盒内，然后浸于醋中，在醋酸的作用下蛋壳变软，形状渐渐变为方形。这个淘气的孩子偷偷把它放在鸡窝内，伯母捡蛋时发现了它，非常吃惊，于是急忙出去请道士。正当道士们喃喃呓语、振振有词，认为灾难来临，必须驱灾免祸时，王福春从人群中钻出来说那个怪异的蛋是他做出来的，并出示小方盒，说明蛋在醋酸作用下进行化学反应的道理。道士们听后只好怏怏而去。对化学的兴趣使他报考武昌高等师范时，选定了理化系。
+王福春初到武昌学习物理和化学。一年半以后，他才发现自己的真正兴趣和特长所在。他虽未专习数学，但“成绩冠全校”[1]，比数学系的学生学得还好，于是决定转系。
+到数学系后，他结识了曾炯同学。曾炯，字炯之，是江西省新建
+梦强先生 像赞 貌清癯 心坦白 德日新 学有获 墨没掸隶首之奥
+说解夺次仲之席 文宣域外 函驰稿易 溽暑临疴 不废招摭 全功
+方竟 遽归仙籍 是诚以学术而殉身 足为士林所矜式 刘咏藻敬题
+南昌丽泽轩梁少石监制
+据王福春之子，国家地震局地球物理研究所王鸣告，此瓷画像为他所保存的王福春的唯一遗物，照片毁于动乱年代。——编者
+77
+
+县生米街斗门村人，毕业于江西省立第一师范。由于对数学的共同兴趣，他们很快结为知己，经常在一起研讨数学，畅叙抱负、理想。
+1924年，第二次从日本留学归来的陈建功由杭州甲种工业学校受聘于武昌高师。陈建功是中国现代数学奠基人之一，他曾于1913、1920年两次赴日本留学。在日本东北帝国大学读本科一年级时，他就发表了"Some Theorems on Infinite Products"，该文推广了无穷乘积的两个定理并简化了外尔斯特拉斯(Weierstrass)的证明，被誉为中国现代数学兴起的标志。陈到武昌时，年方31，风华正茂，为了祖国数学的振兴，他把主要精力集中于培养学生。在两年多的时间，他开设了数学分析、实变函数、复变函数等课程。实函使用的教材是以霍布森(E.W.Hobson)的《The Theory of Functions of a Real Variable》为蓝本编写的讲义。霍布森的书在当时是一本名著，内容博大精深，在国内作为教材还是首次。在良师的指导下，王福春的数学才能和解题技巧得到进一步的提高。这几年奠定了他一生科学研究的坚实基础。
+1927年下半年，王福春毕业留校任助教。半年后，由于大学院停办，他就在曾炯同学的帮助下回到江西，任教于江西省葆灵女子中学。在那儿，一边致力于研究，一边从事教学。他备课极其认真，教学效果很好，把枯燥的数学讲得生动有趣，深深吸引了每一位学生。在这些学生中有一位卢运藩小姐十分仰慕他的才华，后来两人于1932年结为伉俪。婚后生有一子一女。长女王平(1934)已退休，现住杭州市；子王鸣(1937)，1963年毕业于北京大学地球物理系，现任国家地震局地球物理研究所研究员。
+除在葆灵女中授课外，王福春还兼任江西省立第二中学的数学课。由于他擅长解题、待人和善、热情，当时一些中学教师遇到平面几何和初等代数中的难题，都向他请教，他也总是乐于助人。
+1928年江西省教育厅招考官费留学生，曾炯报名应考，结果榜上有名。是年末曾炯去德国柏林大学，次年3月转学哥廷根师从
+
+抽象代数的创始人埃米·诺特(Emmy Nother)、施密特(F. K. Schmidt)等著名数学家，研习抽象代数。王福春因故未参加考试，当时江西省教育厅厅长陈礼江闻知此事深表遗憾。陈是江西九江人，毕业于美国芝加哥大学教育系，获硕士学位。回国后任武昌师大*教育系教授、系主任，1927 年 8 月任江西省教育厅厅长。他在武昌时就知王福春极有数学才华。陈深知人才难得，于是冲破阻碍决定由教育厅官费派遣他去日本留学。这在王福春一生中是一个非常重要的转折点，决定了他今后的发展道路。
+1929 年春，王福春东渡日本，到东北帝国大学。该校是当时日本数学研究中心之一。我国著名数学家、王福春的老师陈建功、苏步青当时正在此攻读博士学位。由于事先没有办好手续，他到仙台后首先找到陈建功和苏步青，然后通过苏把他写的关于三角级数的论文转送数学系主任藤原松三郎教授。藤原教授看后，决定接收他作为旁听生，后来以特别入学的名义改为数学系学生。
+王福春在这里除听一些选修课外，大部分时间集中于科研。当时东北帝大的研究重点之一是级数论。在藤原教授领导下有一批学者如小岛铁藏、冈田良知、泉信一、河田龙夫、高桥龙夫以及陈建功等作出了许多贡献，在世界数学界有一定影响[2]。于是他选定了科研课题：黎曼ζ函数和傅里叶级数。这成为他一生的研究方向。在这良好的环境中，他的数学才能得到充分发挥。1933 年，他在《帝国科学院通报》(Proceedings of the Imperial Academy)上发表了第一篇论文“用黎斯对数平均求傅里叶级数的和”。该文解决了哈代(G. H. Hardy)1931 年提出的两个问题并推广了齐革蒙特(A. Zygmund)关于用黎斯对数平均求傅里叶级数和的一个定理，
+• 武昌高师于 1923 年 9 月改为武昌师范大学，1924 年秋更名武昌大学，1926 年 10 月改名武昌中山大学，1927 年冬经大学院改组，旋令停办，1928 年 10 月成立武汉大学。
+
+深得藤原先生的赞许。此文在中国现代数学史上也属发表较早的论文之一。在此之前只有少数数学家如胡明复、陈建功、俞大维、苏步青、杨武之、孙光远、王守竞、江泽涵、李仲珩[3]、华罗庚[4]、陈省身[5]等有论著发表。
+从 1933 到 1937 年，王福春在日本数学杂志《帝国科学院通报》、《东北数学杂志》、《日本数理学会通报》、《东北帝大理科报告》上发表了一系列论文，计有十六七篇之多，内容涉及黎斯对数平均，蔡查罗 (Cesàro) 平均，收敛因子，黎曼ζ函数等。他的这些工作得到当时日本数学界以及现在日本数学史界的好评。1983 年，岩波书店出版的《日本数学 100 年史》，对中国留日生的工作只提到陈建功、苏步青等少数几位，他便是其中之一。“其(王福春)成绩使日本治数学者惊异，吾国数学见重于日本，实以陈建功与先生及苏步青三君为始。”[1]
+留日期间，他还曾应教育家黄任初教授的邀请回国任教两年。1930 年应邀至河南大学，1932 年任教于齐鲁大学。
+1934 年他从日本回国*，应聘为暨南大学教授。不久曾炯从德国归来，他的博士论文“函数域上的代数”对抽象代数是一个基本性的贡献。主要结果被称为“曾定理”*。曾炯回国后受聘于浙江大学。当时暨南大学在上海真如、浙江大学在杭州，但每逢节假日王、曾都在一起聚会，谈哥廷根、东北帝大研究的风格，讨论数学。他们这种聚会直到一年半后王福春受聘于西北农林专科学校为止。
+• 苏步青教授在华函中写道:(王福春)“于 1936 年 3 月正式毕业(根据该系毕业生同学录)。当然,获得了理学士学位。1936 年回国去陕西武功农学院任教两年得了肺病”。但刘洁民副教授提供的《中央研究院研究员兼任研究员论著目录》第 51 页说:“王福春(Wang, Fu-Tring),日本东北帝国大学理学士(1934)……”又,刘方由教授来信认为王福春教授 1934 年已回国,并受聘于暨南大学。叶彦谦教授也认为他回国后任教于暨南大学[6]。故此采用 1934 年回国之说。
+• • 见本卷“曾炯之”。
+80
+
+王福春因多年劳累过度，到西北后对那里的气候、饮食又极不适应，身体日渐孱弱，终于染上了肺结核。得病后，他回到江西樟树镇（现樟树市）岳母家休养。在夫人精心调养下，半年后病情渐趋好转，但没等完全康复，他又接受了浙江大学苏步青教授、陈建功教授的邀请。由于日本侵略军的逼近，刚从浙江建德迁到江西泰和的浙大又不得不西迁。他拖着病体，带着妻、子跟随西迁队伍一路历尽坎坷，1938年夏到达广西宜山。
+王福春是一个惜时如金，把事业看得比生命更为重要的人。在宜山一安定下来，他就全力投入了科研。在很短的时间内，完成了一篇高水平的论文“傅里叶级数的黎斯和”。该文完成于1939年元月，1942年发表在《伦敦数学会会志》(Proceedings of the London Mathematical Society)。他在这篇文章中讨论了黎斯可和的充要条件；指数型、指数对数型黎斯和，否定了哈代和利特伍德(J.E.Littlewood)1932年关于傅氏级数收敛的一个猜测，并在比哈代和利特伍德给出的条件稍强的情况下，讨论了傅里叶级数的收敛问题。此后，他在此基础上深入讨论了黎斯平均，得到一系列成果。
+1940年春，他随浙大理学院迁贵州遵义，一年后又迁湄潭。由于他用功过度，加之湄潭的气候春秋多雾对患肺病的人极为不利，可怕的病魔一次次向他袭来。当时物质生活非常艰苦，而且每况愈下，一年不如一年；医疗物品价格昂贵又极匮乏。据西南联大教授、经济学家杨希孟先生的调查结果表明：1944年昆明地区大学教师的平均月薪只有1935年的11%。但到1946年初却跌到3%，教授的收入已经比不上人力车夫[8]。与昆明相比，湄潭的物价较低一些，但教授的生活却一样艰辛。他除养活一家四口，供孩子上学外，还得付一大笔医药费，而吃营养品以补虚弱的身体是不可能的事。尽管如此，但他“遇病发时不得不放弃工作，休养身体；可是病情稍有好转，又会立刻读写如初，从不肯作一年半载的休息”[6]。
+在湄潭的五年半时间里，他尽管病魔缠身，但研究硕果累累。
+81
+
+从 1941 年起到他逝世后的两年，每年都有论文发表。仅 1942 至 1945 年的四年中，他就发表了 19 篇，占当时全国数学研究者发表论文总数 189 篇的十分之一[3]。由于他的突出贡献，1946 年被中央研究院数学研究所聘为兼任研究员，并先后获民国 32 年度（1943）自然科学三等奖和民国 35、36 年（1946、1947）度一等奖*。他是当时数学界少数两次获奖的人。
+在浙大，王福春除潜心科研外，还教授数学分析、函数论、近世代数、群论等课程。“他和学生谈数学时态度永远是那么平静而诚恳，就像一个公园里的老游客指点新来的游客应该怎样去看园中一处处的景致一样，绝不因自己比较熟悉而有丝毫的骄傲”[6]。他善于因材施教，把每一个学生引入数学奥趣之中，经常把国外杂志上发表的一些数学名题的初等证明的文章（如美国《数学月刊》上发表的有关$\pi$是无理数的初等证明）介绍给学生，并对玩具也注入深刻的数学内容，使学生了解处处皆数学。“七巧板”，又名智慧板，是我国供小孩玩的一种传统智力玩具。早在十七八世纪就已出现，1803 年并有《七巧图合璧》出版。但数百年以来，它一直只被看作一种玩具，很少有人从数学的角度对它进行研究。王福春则提出了一个问题：由七巧板（一个平行四边形、一个正方形、五个等腰直角三角形）能组成多少个凸多边形？他巧妙地列出了一个不定方程，证明了“七巧板只能摆成 13 个凸多边形”。这样的教学大大激发了学生学习数学的热情，引导了一批批青年学生走上数学研究的道路。除授课外，他还指导青年教师、高年级学生撰写论文。得到他指导和受业于他的年轻助教、学生有：卢庆骏、程民德、叶彦谦、崔士英、秦元勋、曹锡华、越民义等。
+1946 年 7 月浙大迁回杭州时，他病势正重，只好暂留湄潭。等
+• 在此之前获数学一等奖的有：华罗庚（1941），苏步青（1942），陈建功（1943）。见参考文献[9]。
+
+病情稍好，他就由重庆顺江东下，回到江西岳母家。11月，王福春受聘于中正大学，任数学系第一任系主任。在中正大学，他除主持数学系日常事务和给学生授课外，全力倾注于黎曼猜想研究。
+1859年，德国数学家黎曼发表了题为“论小于给定数的素数个数”的著名论文。该文提出了6个猜想。30年后，其中的5个很快被法国数学家阿达玛(J. Hadamard)等人解决，剩下一个第五猜想(以下黎曼猜想均指此):$\zeta(s)$的所有非无聊零点都在直线$\text{Re}(s)=\frac{1}{2}$上。到19世纪末它仍未得到解决。1900年8月，希尔伯特(D. Hilbert)在巴黎召开的第二届国际数学家大会上又把它重新提出，与“哥德巴赫(Goldbach)猜想”、“孪生素数猜想”等素数分布问题共列为23个数学问题中的第8个问题。
+黎曼猜想提出后，吸引了阿达玛、希尔伯特等众多一流数学家，但他们也没能解决，只好寄希望于下一代。1914年英国著名数学家哈代发表了“论黎曼$\zeta$函数的零点”(Sur les zeros de la fonction $\zeta(s)$ de Riemann)，该文证明了：在直线$\text{Re}(s)=\frac{1}{2}$上，有$\zeta(s)$的无穷多个零点。这是一个很大的进展，给黎曼猜想的研究带来曙光、激励着有为青年投身于此。在当时世界数学的中心哥廷根大学，就有兰道(E. Landan)、西格尔(C. L. Siegel)等杰出的数论大家致力于此。在英国，除哈代外，利特伍德、梯其玛希(E. C. Titchmarsh)也都对黎曼猜想广泛涉猎。尽管这些众多大师孜孜以求，但猜想依然如故。证明黎曼猜想是当时数学界中心话题之一。哈代在1940年元旦对新年提出的五点希望中，第一条就是证明黎曼猜想。
+黎曼猜想有“数学难题之王”、“超级难题”之称，没有相当精深的数学素养和坚韧不拔的毅力，一般人是不敢问津的。在众多一流数学家进行激烈角逐时，王福春加入了他们的行列。在日本留学时，他就写了三篇论文，对$\zeta$函数的中值定理和零点个数的估计作
+83
+
+了一些有价值的工作。他深信黎曼猜想是不成立的，极力想反证它[10]。回国后，在极端困苦的条件下，他仍溽暑临病，奋力攻关。1937年，他身患肺病，但病魔并不能迫使他退却，躺在床上，在五寸见方的掌板上仍忘我工作。在湄潭时，连数学系的学生都几乎知道他是国内唯一的研究者[6]。到南昌后更是夜以继日、埋头演证。不久，他认为解决了黎曼猜想，把手稿寄给中央研究院数学研究所代所长陈省身教授，陈又转寄给当时ξ函数的权威牛津大学梯其玛希教授审阅。但还未等到复信(梯其马希指出了手稿中引理22有误)，他就因过度紧张工作，肺病再次加剧，1947年9月26日病逝于南昌江西省立医院。一代学者，英年湮逝，终年仅46岁。
+希尔伯特在给他一个致力于解决黎曼猜想的学生的悼词中说:“这样一位年轻的天才,在他的才华还没有得到充分发挥以前就离开了人世,这是多么令人痛惜啊!这个年轻人对黎曼猜想的论文虽然有错,但沿着他的路走下去,是有可能解决这个著名问题的。”[11]这些话对王福春也非常适合。
+黎曼猜想至今未得到解决*,但不管今后结论怎样,在黎曼猜想的研究史上,将永远留下王福春不畏艰难、奋力跋涉的足迹;科学史将永远铭刻着这些攻关者的名字,他们在后人难以想象的艰苦条件下,为科学的进步奉献了自己的青春、才华。
+二 学术贡献
+王福春对数学的贡献主要是关于傅里叶级数的研究,涉及的内容有蔡查罗平均、黎斯对数平均、收敛因子、强性求和、绝对求和、黎斯平均等。
+• 长居巴黎的日本数学家松本(H. Matsumoto),1984年宣布解决了黎曼猜想[12],但未得到数学界承认。
+84
+
+(1)蔡查罗平均。对于级数 $\sum_{n=0}^{\infty} u_n$，令
+$S_n = S_n^0 = \sum_{i=0}^{n} u_i, \quad n=1, 2, \cdots$
+$S_n^\alpha = \binom{n+k-1}{n} S_0 + \binom{n+k-2}{n-1} S_1 + \cdots + S_n,$
+$A_n^\alpha = \binom{n+\alpha}{n} = \frac{\Gamma(\alpha+n+1)}{\Gamma(\alpha+1)\Gamma(n+1)},$
+其中 $\binom{n}{r}$ 代表二项式展开的第 $r$ 项系数。若当 $n$ 趋于无穷大时，
+$\sigma_n^\alpha = \frac{S_n^\alpha}{A_n^\alpha}$
+的极限存在且极限值为 $S$，则称 $\sum_{n=0}^{\infty} u_n$ 可 $k$ 次蔡查罗求和于 $S$，记为
+$\sum_{n=0}^{\infty} u_n = S(C, \alpha)$。
+对于蔡查罗求和，王福春著有 [3, 4, 11, 18, 26, 41]。内容涉及
+傅里叶级数、傅里叶级数的导数级数、连续导数级数、共轭级数、共轭级
+数的导数级数等。对傅里叶级数的导数级数，他找到了它可 $(C, k)$
+$(k \geqslant 1)$ 求和的一个充要条件。$(C, k)$ 求和法也就是 $(C, \alpha)$ 求和法中
+$\alpha$ 为正整数的情况，当 $k=1$ 时，即一般所指的蔡查罗求和。
+令
+$f(t) \sim \frac{a_0}{2} + \sum_{n=1}^{\infty} (a_n \cos nt + b_n \sin nt)$
+$\psi(t) = \frac{1}{2} \{ f(x+t) - f(x-t) \},$
+$g(t) = \frac{\psi(t)}{t}, \quad -\pi \leqslant t \leqslant \pi$。
+王福春的充要条件是：
+定理 1：如果 $g(t)$ 在 $(-\pi, \pi)$ 可和，则 $f(t)$ 的傅里叶级数的导
+数在 $t=x$ 点可 $(C, k) (k \geqslant 1)$ 求和于 $A$ 的充要条件是：$g(t)$ 的傅
+85
+
+里叶级数在 0 点可(C,k-1)求和于A。
+由此定理和别的一些定理可导出陈建功*、泉信一**等关于傅里叶级数导级数的定理。需要指出的是，上述定理齐革蒙特已于1931年得到***，但王福春的工作是独立的。
+对于傅里叶级数的连续导级数，1925年齐革蒙特证得：设
+$P(t)=\sum_{i=0}^{r-1}\frac{\alpha_i}{i!}t^i,$
+$g(t)=\frac{\{f(x+t)-P(t)\}+(-1)^r\{f(x-t)-P(-t)\}}{2t^r}$
+其中，$t\in(-\pi,\pi)$，$g(t)=g(t+2\pi)$。
+若$\lim_{t\to0}g(t)$存在且等于A，则$f(x)$的第$r$次傅里叶导级数在$t=x$点$(C,k)(k>r)$可和于$r!A$。
+王福春把这一结果推广为[4]：
+定理2：如果$g(t)$在$(-\pi,\pi)$中可和且$g(t)$的傅里叶级数在$t=0$点可$(C,\delta)(\delta>0)$和于A，那么$f(x)$的第$r$次傅里叶导级数在$x$点可$(C,r+\delta)$和于$r!A$。
+由定理2，王福春导出了一些结果，这些结果是陈建功****等人工作的推广。
+对于傅里叶级数的共轭级数，他得到一个与哈代和利特伍德的定理*****相等价的定理[11]。
+(2)黎斯对数平均。
+对于数项级数$S_0,S_1,S_2,\cdots$若
+* 见“Tohoku Math. Journ., 31(1929)”。
+** 见“Tohoku Math. Journ., 38(1933)”。
+*** 见“Studia Mathematica, 3(1931)”。
+**** 见“Tohoku Mathematics Journal, 30(1929)”。
+***** 见“Journal of the London Mathematical Society, 6(1931)”。
+86
+
+$\tau_{n}=\left(\sum_{v=1}^{n} \frac{S_{v}}{v}\right) / \log (n+1), n=1,2, \cdots$
+则把由 (2.01) 定义的求和法称为对数平均。因它最早是由黎斯定义的，故又称黎斯对数平均。当 $k$ 为正整数时，令
+$R_{\omega}^{k}=\frac{a_{0}}{2}+\frac{1}{(\log \omega)^{k}} \sum_{n<\omega}\left(\log \frac{\omega}{n}\right)^{k}\left(a_{n} \cos n t+b_{n} \sin n t\right),$
+若
+$\lim _{\omega \rightarrow \infty} R_{\omega}^{k}=S,$
+则称 $f(t)$ 的傅里叶级数在 $t=x$ 点可用 $k$ 次黎斯对数平均求和于 $S$，简记为 $(R, k)$。当 $k=1$ 时，即为 $(R, 1)$。对于正数 $\alpha$，若
+$C_{\alpha}(\omega)=\frac{1}{2} a_{0}(\log \omega)^{\alpha}+\sum_{n<\omega}(\log \omega-\log n)^{\alpha} A_{n},$
+$A_{n}=a_{n} \cos n t+b_{n} \sin n t,$
+当 $\omega \rightarrow \infty$ 时，有
+$C_{\alpha}(\omega)=S(\log \omega)^{\alpha}+o\left((\log \omega)^{\alpha}\right),$
+则称 $f(t)$ 的傅里叶级数在 $t=x$ 点可用 $\alpha$ 次黎斯对数平均求和于 $S$，简记为 $(R, \alpha)$。
+对数平均是一种比 $(C, 1)$ 更强的求和法。一级数可用 $(C, 1)$ 求和，则一定可用对数平均求和；但可用对数平均求和的级数却不一定能用 $(C, 1)$ 求和。这一事实，就使数学家们进一步考虑关于对数平均求和的一般定理。对于 $(R, 1)$ 求和，1931 年哈代证得*，令
+$\phi(u)=\frac{1}{2}\{f(x+u)+f(x-u)-2 S\},$
+若
+$\int_{0}^{t}|\phi(u)| d u=O\left(t \log t^{-1}\right),$
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点 $(R, 1)$ 可和，和为 $S$ 的充要条件是
+* 见"The Quarterly Journal of Mathematics", Oxford Series 2(1931)。
+87
+
+$$ \int_{t}^{\pi} \frac{\phi(u)}{u} d u=O\left(\log t^{-1}\right), t \rightarrow 0 $$
+
+在文章的末尾, 他问: $1^{\circ}$ 如果省略条件 (2.02) 会得到什么结果? $2^{\circ}$ 能否找到与条件 (2.02) 类似的关于 $(R, k)$ 求和的充要条件? 王福春在 [6]、[7] 中彻底解决了这些问题。
+
+令
+
+$$ \begin{aligned} & \psi_{0}(t)=\phi(t), \\ & \psi_{r}(t)=\int_{t}^{\pi} \frac{\psi_{r-1}(u)}{u} d u=O\left[\left(\log t^{-1}\right)^{r}\right], r=1,2, \cdots \end{aligned} $$
+
+则哈代的上述定理可推广为:
+
+定理 3: 若
+
+$$ \int_{0}^{t}\left|\psi_{k-1}(u)\right| d u=O\left[t\left(\log t^{-1}\right)^{k}\right], \quad(2.03) $$
+
+其中 $k$ 为一正整数, 则 $f(t)$ 的傅里叶级数在 $t=x$ 点 $(R, k)$ 可和, 和为 $S$ 的充要条件是
+
+$$ \psi_{k}=O\left[\left(\log t^{-1}\right)^{k}\right], t \rightarrow 0 $$
+
+和
+
+$$ \int_{0}^{t} \psi_{k-1}(u) d u=o\left[t\left(\log t^{-1}\right)^{k}\right], t \rightarrow 0 $$
+
+因
+
+$$ t \psi_{k}(t)=\int_{0}^{t} \psi_{k}(u) d u-\int_{0}^{t} \psi_{k-1}(u) d u, $$
+
+故由定理 3, 又可得到:
+
+定理 4: 若 (2.03) 成立, 则 $f(t)$ 的傅里叶级数在 $t=x$ 点 $(R, k)$ 可和, 和为 $S$ 的充要条件是
+
+$$ \psi_{k}(t)=O\left[\left(\log t^{-1}\right)^{k}\right], t \rightarrow 0 $$
+
+若省去条件 (2.03), 则定理 4 的结论对某些正整数 $k$ 成立。
+
+对哈代定理的条件 (2.02), 他证明了在它用
+
+$$ \int_{0}^{t}|\phi(u)| d u=o(t) \quad(2.04) $$
+
+代替下，$f(t)$的傅里叶级数可用任意正阶黎斯对数平均求和的充要条件与哈代给出的一致。他还指出条件(2.04)不能省略。
+(3)收敛因子。关于傅里叶级数的收敛因子，1912年哈代给出了以下定理：如果
+$\int_{0}^{t}|\phi(u)|du=o(t)$，
+(3.01)
+则级数 $\sum_{n=2}^{\infty}(a_n \cos nt+b_n \sin nt)/\log n$ 在 $t=x$ 点收敛。
+王福春在此基础上分别用 $o(t(\log t^{-1}))$，$O(t)$ 代替(3.01)右边的 $o(t)$ 得到一批类似的定理$^{[10]}$。并把这些定理作了推广$^{[12]}$，其中之一为：
+定理5：如果 $\alpha>0, \beta>0$，且当 $\beta+1>\alpha$ 时有
+$\phi_\alpha(t)=\frac{1}{\Gamma(\alpha)}\int_{0}^{t}(t-u)^{\alpha-1}\phi(u)du=O(\log t^{-1})^\alpha$，
+则级数
+$\sum_{n=1}^{\infty}(a_n \cos nt+b_n \sin nt)/n^{\frac{\alpha}{\alpha+1}}(\log n)^\alpha$
+在 $t=x$ 点收敛。
+(4)强性求和。设 $S_n=u_0+u_1+\cdots+u_n$，对于级数 $\sum u_n$，假如存在正数 $p$ 和常数 $S$，当 $n \rightarrow \infty$ 时，
+$\frac{1}{n+1} \sum_{v=0}^{n}|S_v-S|^p \rightarrow 0$，
+则称 $\sum u_n$ 关于指数 $p$ 可强性求和于 $S$。
+王福春关于强性求和的文章有$[28,33,34,35,37]$，主要贡献是解决了哈代和利特伍德的一个难题。哈代和利特伍德于1935年发表了一篇题为“傅里叶级数的强性和”(The Strong Summability of Fourier Series, Fundamenta Mathematicae, 25(1935))的论文。在该文中，他们证明了：
+89
+
+如果
+$$ \int_0^t |\phi(u)| du = O(t), \quad (4.01) $$
+则有
+$$ \sum_{v=0}^n |S_v(x) - S|^2 = O(n \log n), n \to \infty; $$
+并问
+$$ \int_0^t |\phi(u)(1 + \log^+ |\phi(u)|) du = O(t) \quad (4.02) $$
+是不是强性求和的充分条件？王福春给出了肯定的回答。他证得：
+定理 6：如果(4.02)成立，则
+$$ \sum_{v=0}^n |S_v(x) - S|^2 = O(n), n \to \infty。 $$
+(5)绝对求和。 王福春关于绝对求和的文章有三篇[19, 21, 24]，主要讨论 $|C, \alpha|$ 求和。
+所谓的 $|C, \alpha|$ 求和是指绝对蔡查罗平均求和法。设 $\sigma_n^\alpha$ 是级数 $\sum u_n$ 的第 $n$ 个 $\alpha$ 级数的蔡查罗平均，即
+$$ \sigma_n^\alpha = \frac{1}{\binom{n+2}{n}} \sum_{v=0}^n \binom{n-v+\alpha-1}{n-v} S_v, S_v = \sum_{i=0}^v u_i, $$
+则当级数 $\sum_n |\sigma_n^\alpha - \sigma_{n-1}^\alpha|$ 收敛时，称 $\sum u_n$ 可用 $\alpha$ 级数的蔡查罗平均绝对求和和。
+王福春证得：
+定理 7：如果
+$$ \sum_{n=2}^\infty (a_n^2 + b_n^2) (\log n)^{1+\epsilon}, \epsilon > 0 \quad (5.01) $$
+收敛，则级数
+90
+
+$$ \sum_{n=1}^{\infty}(a_n \cos nt + b_n \sin nt) $$
+(5.02)
+对任一 $a > \frac{1}{2}$, 几乎处处可 $|C, a|$。
+这里的 $\epsilon$ 不能为 0, 否则存在一级数
+$$ \sum_{n=2}^{\infty}(n \log n)^{-1} \cos 2^n t, $$
+在一正测度点集上非 $|A|$。$a$ 也不可加强为 $0 < a < \frac{1}{2}$。
+(6) 黎斯平均。 王福春关于黎斯平均著力很深, 取得的成就也最大。他著有 [13, 14, 22, 23, 25, 27, 29, 30, 32, 44] 等, 主要论及 $(R, e^{n^*}, \tau), (R, e^{(\log n)^s}, \tau)$。
+对于 $(R, \lambda, k)$ 求和, 他给出了一个充要条件 [22]。
+设
+$$ \lambda = \lambda(\omega) = e^{\mu(\omega)} = \mu, $$
+$\mu$ 满足以下条件:
+A. $\mu(\omega)$ 可微且在 $(0, \infty)$ 上单调递增, 当 $\omega \to \infty$ 时, $\mu(\omega) \to \infty$。
+B. 对 $\omega > A, \mu'(\omega)$ 单调递增; 当 $\omega \to \infty$ 时, $\mu'(\omega) \to 0$。
+C. 对 $\omega > A, (\mu'(\omega))^2 \geqslant -u''(\omega) \geqslant 0$。
+该充要条件是:
+定理 8: 若
+$$ \int_0^t |\phi(u)| du = O(t), t \to 0 $$
+(6.01)
+且 $\lambda$ 满足以上三个条件, 则 $f(t)$ 的傅里叶级数在 $t=x$ 点可 $(R, \lambda, k) (k \geqslant 1)$ 求和于 $S$ 的充要条件是
+$$ \int_0^{\lambda(\omega)} \phi(t) \frac{\sin \omega t}{t} dt = O(1), \omega \to \infty。 $$
+对 $(R, e^{n^*}, \tau)$, 他证得:
+定理 9: 如果
+91
+
+$\int_0^t |\phi(u)| du = O\left(\frac{t}{\log t^{-1}}\right), t \to 0,$ (6.01)
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点可 $(R, e^{s^*}, \tau) (\tau > 0)$ 求和于 $S$。
+随后推广为[33]：
+定理 10：如果对 $r > \beta > 0$，有
+$\phi_\beta(t) = \frac{1}{\Gamma(\beta)} \int_0^t (t-u)^{\beta-1} \phi(u) du = O(t^\tau), t \to 0,$
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点对所有 $\tau > r$ 可 $(R, e^{n^{(1-\beta)r}}, \tau)$ 求和于 $S$。
+当 $\beta=1$ 时，即为定理 9。把条件减弱，他又得到[32]：
+定理 11：如果
+$\phi_\beta(t) = O(t^\tau), r > \beta > 0,$
+$\int_0^t |\phi(u)| du = O(t),$
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点可 $(R, e^{n^{(1-\beta)r}}, 1)$ 求和于 $S$。
+定理 10 中的条件若保持不变，他又得到[30]：
+定理 12：如果
+$\phi_\beta(t) = O(t^\tau), t \to 0,$
+$\tau$ 是大于 $r+1$ 的正整数，则 $f(t)$ 的傅里叶级数在 $t=x$ 点可 $(R, e^{n^*}, \tau)$ 求和于 $S$。
+此外，他还证得以下结果[29]：
+定理 13：如果
+$\sigma_n' - s = (n^{-\tau})^\alpha, 0 < \alpha < 1, n \to \infty,$ (6.02)
+则级数 $\sum a_n$ 可 $(R, e^{n^*}, \tau) (\tau > r/(1-\alpha))$ 求和于 $S$。
+上述关于 $(R, e^{n^*}, \tau)$ 求和的定理，应用哈代的陶伯 (Tauberian) 定理，可导出相应的收敛理论。如
+定理 9'：若 (6.01) 成立，且
+$A_n > -kn^{-\delta}, \delta > 0,$
+92
+
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点收敛于 $S$。
+定理 13' :若(6.02)成立,且
+$a_n > -kn^{\alpha-1}$,
+则级数 $\sum a_n$ 收敛于 $S$。
+定理 9'是哈代和利特伍德 1934 年得到的收敛定理*。
+对于 $(R, e^{(\log n)^\alpha}, \tau)$ 求和,他有
+定理 14:如果
+$\int_0^t \phi(u) du = O\left(\frac{t}{\log t^{-1}}\right), t \to 0,$
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点,对 $\delta>0$ 可 $(R, e^{(\log n)^2}, 1+\delta)$ 求和于 $S$。
+当 $\delta=0$ 时,此定理不真。改变其条件,又可推广为:
+定理 15:如果 $\alpha>0$,且
+$\phi_\alpha(t) = O\left(\frac{t^\alpha}{\log t^{-1}}\right), t \to 0,$
+则 $f(t)$ 的傅里叶级数在 $t=x$ 点可 $(R, e^{(\log n)^{1+\frac{1}{\alpha}}}, \alpha+1)$ 求和于 $S$。
+对上述两定理,应用哈代的陶伯定理也可得出相应的收敛定理。
+王福春关于黎斯平均最有名的工作是解决了哈代和利特伍德
+1934 年提出的猜测。他们在证明了定理 9'后问(6.01)能否被较弱的
+条件
+$\int_0^t \phi(u) du = O\left(\frac{t}{\log t^{-1}}\right), t \to 0$
+代替? 王福春对此给出了否定的回答[22]。
+除傅里叶级数外,王福春对黎曼 $\zeta$ 函数也进行了深入研究。他
+著有[15-17,36,39,40]等,主要讨论了黎曼 $\zeta$ 函数的中值定理。
+• 见“Annali Scucia Normal sup。”di Pisa, 3(1934)。
+93
+
+1922 年，利特伍德证明了中值定理*：
+∫_1^T |ζ(σ+i(t))|^2 dt
+= Tζ(2σ)+(2π)^(2σ-1) [ζ(2-2σ)/(2-2σ)] T^(2-2σ)+O(T^(1-1/2 σ+ε)), 1/2<σ<1。
+4 年以后，该定理右边的 O(T^(1-1/2 σ+ε))被英革汉姆(A. E. Ingham)用
+O(T^(1-σ)log^2 T)代替。王福春证明 O(T^(1-σ)log^2 T)能被 O(T^(5/6(1-σ)))代
+替[1]。
+令 ρ_v=β_v+ir_v(β_v>0)是黎曼 ζ 函数 ζ(1/2+z)的零点，佩莱
+(Paley)和温纳(Wiener)曾证得**
+∫_1^T log|ζ(1/2+i(t))| / t^2 dt
+=2π Σ_{v=1}^∞ [β_v / |ρ_v|^2] + ∫_0^(π/2) R{e^(-iθ)logζ(1/2+e^(iθ))}dθ+O(log T)。
+王福春把上式右边的 O(log T)改进为 O(|log T|/T)。当 δ>1/2 时，他还
+得到中值公式[40]：
+(1/T)∫_0^T |ζ(σ+it)|^2 log |ζ(σ+it)| dt ~ ζ(2σ)logζ(2σ)。
+该公式与寻常中值公式
+(1/T)∫_0^T |ζ(σ+it)|^2 dt ~ ζ(2σ)
+成为一有趣的对比。
+王福春一共发表论文 44 篇。他对傅里叶级数的研究大多是在
+哈代、利特伍德工作的基础上进行的，先后解决了他们提出的四个
+* Proceedings of the London Mathematical Society, (2), 20 (1922)。
+** America Mathematical Society Colloquium Publications, 19(1934)。
+94
+
+问题,并对黎斯平均进行了深人探讨,得到一系列结果。关于黎曼$\zeta$函数,他改进了佩莱和温纳的一个定理,证明了一个三阶渐近公式。他的数学工作得到当时数学界的普遍赞扬。哈代、利特伍德、梯其玛希“俱于先生之成就,极力赞许”[1]。
+1947年,我国数学家李仲珩在总结中国现代数学的发展时说:“就以往来说,我们在分析和几何方面的成就最大,其次是代数和数论。走分析这条路,是陈建功和熊庆来两位领导起来的。其中成就最大的要算伏氏级数的研究者,尤以王福春为难能可贵。”[3]
+尽管这些话现在看来有失偏颇,但对中国现代数学的振兴乃至世界数学的发展,王福春作出了不可磨灭的贡献。
+王福春是农民的儿子,他继承了父辈勤劳、敦厚、朴实的优良品质。与父辈一样,终其一生,都在辛勤耕耘。所不同的是,他在科学园地创造精神财富。他一生执著追求,数十年如一日,在极端困苦的条件下,披荆斩棘,进行数学研究。“国立”中正大学文学院教授刘泳溱在他的像赞中写道:“诚以学术而殉身,足为士林所矜式。”他吃的是草,献出的却不仅是奶、血,而是整个生命。
+王福春从事基础理论研究,与从事应用、军事和技术发明相比,自然得不到应有的重视、鼓励和物质支持。但他抱定坚不可摧的信念:报效祖国,为振兴数学竭尽全力。他箪食瓢饮,人皆不堪其忧;病魔缠身,挣扎于死亡线;于战乱连年,人心惶惶之际,倾注于科学创造,直至生命最后一刻。1947年2月李仲珩曾大声疾呼政府赶快帮助贫病交加的王福春,并说“爱惜他,便是保存国家的元气”[3]。可是天不假年,半年以后我们的数学家便凋谢了。他的好友,中国抽象代数的先驱曾炯七年前已先他而去,两年后另一位代数学家李华宗又殒落了。他们都是中国数学界的栋梁之材,一个接一个夭折,中年辞世,山河悲泣,日月无光。
+王福春去世后归葬原籍。四十多年后,人们怀着崇敬的心情来
+
+到安福县十里楼村，希望能拜谒他的亡灵，但却找不到他的墓冢，
+更找不到墓碑。老人们依稀记得，他的墓在修路时已平掉，至今踪
+迹全无。他就安息在那条公路下面，愿人们前进的脚步声永远伴他
+长眠。
+
+历史不会遗忘他。中国现代数学史将镌刻着王福春这个名字，
+他永远活在具有科学精神的人们心中。
+
+（本文得到苏步青教授、程民德教授、刘方由教授、李迪教授、罗见今教
+授、刘洁民副教授以及王福春的夫人卢运藩女士、儿子王鸣先生的帮助，在此
+谨致谢意！）
+
+王福春主要论著目录
+[ 1 ] On the summability of Fourier series by Riesz's logarithmic means,
+Proceedings of the Imperial Academy. Tōkyo, 9(1933),568—569.
+[ 2 ] On the convergence factor of the Fourier-Denjoy series, Proceedings
+of the Imperial Academy. Tōkyo, 10(1934),53—56.
+[ 3 ] Cesàro summation of the derived Fourier series, Tōhoku Mathemeti-
+cal Journal. 39(1934),107—110.
+[ 4 ] Cesàro summation of the successively derived Fourier series, Tōhoku
+Mathematical Journal. 39(1934),399—405.
+[ 5 ] On the convergence factor of Fourier-Lebesque series, Proceedings
+of the Imperial Academy. Tōkyo, 10(1934),299—302.
+[ 6 ] On summability of Fourier series by Riesz's logarithmic means.
+Tōhoku Mathematical Journal. 40(1935),142—159.
+[ 7 ] On the summability of Fourier series by Riesz'z logarithmic means
+I , Tōhoku Mathematical Journal. 40(1935),274—292.
+[ 8 ] On the summability of the derived Fourier series by Riesz's logarith-
+mic means, Tōhoku Mathematical Journal. 40(1935),237—240.
+[ 9 ] On the summability of conjugate Fourier series by Riesz's logarithmic
+means, Tōhoku Mathematical Journal. 40(1935),392—397.
+
+[10] On the convergence factor of Fourier series at a point, Tōhoku Mathematical Journal. 41(1935),91—108.
+[11] Some notes on trigonometric series(与 Tatsuo Takahashi), Tōhoku Mathematical Journal. 41(1935),169—187.
+[12] On the convergence factor of Fourier series at a point I , Science Reports, Tōhoku Imperial University, 24(1936),665—696.
+[13] A note on summability of Fourier series. Science Reports, Tōhoku Imperial University, 24(1936),697—700.
+[14] Remarks on the summability of Fourier series(与 Tatsuo Takahashi) Proceedings of the Physics and Mathematical Society, 18(1936), 153—156.
+[15] A note on the zeroes of Riemann zeta—function. Proceedings of the Imperial Academy, Tōkyo, 12(1936),305—306.
+[16] A remark on the mean value theorem of Riemann zeta—function, Science Reports. Tōhoku Imperial University, 381—391.
+[17] On the mean value theorem of Riemann zeta function, Science Reports. Tōhoku Imperial University, 25(1937), 392—414.
+[18] A note on the summability of lacunary partial sums of Fourier series, The Quaterly Journal of Mathematics. Oxford Series, 12(1941), 57—60.
+[19] Note on the absolute summability of Fourier series, Journal of the London Mathematical Society, 16(1941),174—176.
+[20] A theorem of the tangram(与熊全治), American Mathematical Monthly. 49(1942), 596—599.
+[21] The absolute Cesàro summability of trigonometrical series, Duke Mathematical Journal. 9(1942),567—572.
+[22] On Riesz summability of Fourier series, Proceedings of the London Mathematical Society. 47(1942),308—325.
+[23] On Riesz summability of Fourier series I , Journal of the London Mathematical Society. 17(1942),98—107.
+[24] Note on the absolute summability of trigonometrical series, Journal
+97
+
+of the London Mathematical Society. 17(1942),133—136.
+[25] Some results on Riesz's summability of Fourier series, Academy Sinica Science Record. 1(1942),42—44.
+[26] A note on Cesàro summability of Fourier series, Annals of Mathematics. 44(1943),397—400.
+[27] On the summability of Fourier series by Riesz's typical means, Journal of the London Mathematical Society. 18(1943),155—160.
+[28] On strong summability of Fourier series, Bulletin of the American Mathematical Society. 50(1944),412—416.
+[29] A note on Riesz summability of the type $e^{x^s}$, Bulletin of the American Mathematical Society. 50(1944),417—419.
+[30] On Riesz summability of Fourier series by exponential means, Bulletin of the American Mathematical Society. 50(1944),420—424.
+[31] Some remarks on oscillating series, The Quaterly Journal of Mathematics. Oxford Series, 15(1944),1—6.
+[32] A convergence criterior for a Fourier series, Duke Mathematical Journal. 11(1944),435—439.
+[33] A note on strong summability of Fourier series, Anais Academy Brassil. Ci. 16(1944),149—152.
+[34] A note on strong summability of Fourier series, Revista de la Universidad Nacional de Tucuman.
+[35] Note on H$_2$ summability of Fourier series, Journal of the London Mathematical Society. 19(1944),208—209.
+[36] A formula on Riemann zeta function, Annals of Mathematics. 46(1945),88—92.
+[37] Strong summability of Fourier series, Duke Mathematical Journal. 12(1945),77—87.
+[38] Some results of summability of a Fourier series, Academy Sinica Science Record. 1(1945),306—307.
+[39] A note on the Riemann zeta—function, Bulletin of the American Mathematical Society. 52(1946),319—321.
+98
+
+[40] A mean—value theorem of the Riemann zeta function, The Quaterly Journal of Mathematics. Oxford Series, 18(1947),1-3.
+[41] A remark on (C) summability of Fourier series, Journal of the London Mathematical Society. 22(1947),40-47.
+[42] Note on Paley-Wiener's theorem, Duke Mathematical Journal. 15 (1948),1-3.
+[43] Summability of Fourier series by Riesz's logarithmic means ■, Duke Mathematical Journal. 15(1948),5-10.
+[44] On Riesz summability of Fourier series ■, Proceedings of the London Mathematical Society. 51(1949),215-231.
+
+参考文献
+[1] 刘方由,王福春教授事略,国立中正大学校刊,第6卷第3期(1948),4。
+[2] 日本数学100年史编委会,日本数学100年史(下),岩波书店,1983,20;82-83。
+[3] 李仲珩,三十年来的中国算学,科学,第29卷第3期(1947),67-72。
+[4] 李文林,关于华罗庚的第一篇数学论文,中国科技史料,第10卷第3期(1989),83-85。
+[5] 陈省身,陈省身文选,科学出版社,1989,31。
+[6] 叶彦谦,记王福春先生及其数学工作,科学,第30卷第2期(1948),51-54。
+[7] 曾铎、曾令林,中国抽象代数的先驱者曾炯,数学史研究文集(第二辑),内蒙古大学出版社,九章出版社,1991,142-149。
+[8] 孙守全,被遗忘了的中国科学家,科学,第29卷第3期(1947),161-164。
+[9] 教育部教育年鉴编委会,第二次中国教育年鉴,商务印书馆,1948,869-872。
+[10] 闵嗣鹤,数论在中国的发展情况,数学进展,第1卷第2期(1955),400。
+[11] 楼世拓、邬冬华,黎曼猜想,辽宁教育出版社,1987,66。
+99
+
+[12] K.Devlin(李国伟译),1984:数学丰收年,科学月刊,第16卷第6期,
+454—456。
+作者简介 徐义保 男,汉族,江西波阳人,1965年12月生,1991年毕业于
+内蒙师大科学史研究所,获理学硕士学位。现在南昌市江西省地方志编纂委
+员会办公室工作。
+(1991年9月修改稿,1991年8月曾请王鸣先生审核)
+100

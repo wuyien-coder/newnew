@@ -1,0 +1,101 @@
+人物：陈繁昌
+生年：1952年1月20日
+研究方向：应用数学
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：348-355
+============================================================
+
+陈繁昌
+
+陈繁昌（1952～），香港人。应用数学家。香港科技大学校长，美国科学促进会院士。曾任美国国家科学基金助理署长、加利福尼亚大学洛杉矶分校自然科学学院院长。1973 年在加州理工学院获得工程学理学士及理学硕士学位，并在 1978 年于斯坦福大学取得博士学位。在加州理工学院访学一年后，曾于耶鲁大学任教。2007 年因其出色的工作表现和对学术的贡献，获得南加州美籍华人教授协会成就奖。陈繁昌的研究领域甚广，包括数值分析、数学造影处理、计算机视像、大规模整合物理设计，及运算大脑制图。他发表超过 200 篇获推荐的学术论文，是世界上其中一位最常获引述的应用数学家。
+
+一、学术生涯
+
+陈繁昌 1952 年 1 月 20 日在香港出生，籍贯广东省，为家中长子。父亲在广州中山大学毕业，来港后投身工程工作。陈繁昌幼时家道消乏，一家数口居于筲箕湾亚公岩的木屋。他虽出身寒微，但自幼孜孜不倦，最终在学术研究上有非凡表现，成为国际知名的应用数学家。
+
+陈繁昌早年在香港接受教育，于慈幼英文中学中五毕业后，考进香港著名学府皇仁书院升读预科课程。据陈繁昌忆述，这次转校的决定，是他人生的一个转折点；而考进皇仁书院，亦是一段非常难忘的经历。当时，皇仁书院预科的最低入学要求，为会考成绩最少取得七良。他的会考成绩是一优六良，刚刚符合该校的收生要求。因此，他成为该校预科的后备生。后来，因剩余一个预科名额，同学便鼓励他约见校长进行面试。陈繁昌当年性格害羞，起初并不愿意踏出这一步；但经过母亲的勉励，终于鼓起勇气约见校长。他面试后即获皇仁书院录取，成为该校的预科生。皇仁书院提供非常优良的学习环境，他遇到很多优秀的老师和同学，获益良多。这次转校经历，除了让他明白到机不旋踵，时不我待的道理，还对他以后做人处事有很深远及积极的影响。
+
+到了大学选科时，陈繁昌跟大部份香港理科生一样，希望考进热门的香港大学。然而中七那年，他在一本科杂志里读到关于两位诺贝尔奖得主兼加州理工学院教授 Richard Feynman 和 Murray Gell-Mann 的故事，启发了他到美国升学的想法。后来虽然他在高考以两优三良成绩获香港大学医学院取录，他还是决定放弃医学而投考美国学府，以 SAT 全科满分获得加州理工学院（CalTech）录取，负笈美国。
+
+陈繁昌本在加州理工学院主修物理，成绩优异，但他却感到物理的概念较为抽象，所以转修工程学学士课程和航空学硕士课程。1973 年，他先后获得工程学理学学士及理学
+
+硕士学位。修读工程学和航空学时，他经常接触很多关于应用数学的知识。有一次他询问其中一位教授，所学的应用数学如何能帮助他制作一架飞机。这位教授建议他修读计算机科学 (computer science) 和数值分析 (numerical analysis)，从而激发他钻研科学计算 (scientific computing) 的决心。
+
+毕业后，在 Joel Franklin 的鼓励下，陈繁昌决定到斯坦福大学攻读计算机科学，师承 Joseph E. Oliger，于 1978 年以他的博士论文 Comparison of numerical methods for initial value problems 取得博士学位。他在斯坦福大学攻读博士学位时，有幸地认识很多知名的应用数学家，包括 Donald E. Knuth 和 Gene Golub。这些学者在陈繁昌的研究上，曾给予他很大的启发。Golub 对陈繁昌在数值分析的研究上尤其有着举足轻重的影响，他的处事风格、对学生的指导方法、及敬业乐业的态度都成为陈繁昌的仿效目标。
+
+陈繁昌 1978 年取得博士学位后，得到伦斯勒理工学院 (RPI) 聘用为助理教授及加州理工学院聘为博士后学者。在 Joe Keller 的建议下，他最后选择在加州理工学院跟 Herb Keller 合作，进行为期一年半的博士后研究。回到加州理工学院，是他在事业上一个关键的决定；适逢当时加州理工学院正在进行数值分析学上的重要研究，例如：Herb Keller 正进行非线性特征值问题的研究，Achi Brandt 亦刚好到加州理工学院作学术访问，研究他刚发明的多重网格法，这些研究都成为数值分析学的重要建树。而陈繁昌在加州理工学院进行的研究，亦对他日后的工作有着深远的影响。
+
+一年后，陈繁昌完成在加州理工学院的博士后研究，得到耶鲁大学和哈佛大学聘用为助理教授。最后，他投身耶鲁大学的计算机科学系，原因是 Martin Schultz 和 Stan Eisenstat 适逢在耶鲁大学设立了一所计算机科学研究中心。结果，此中心吸引了很多与他研究相同范畴的人才，例如 Ken Jackson, Youcef Saad, Bill Gropp, Ilse Ipsen, Joel Saltz, Randy Bank 和 Vladimir Rohklin 等。另一方面，在如此优良的条件下，他决定放弃哈佛大学的职位，而成为耶鲁大学计算机科学系的助理教授。在耶鲁大学，他见证了 GMRES 和 Fast multipole 算法的诞生，而 Randy Bank 博士亦成为他的合作伙伴，他们一同在双共轭梯度法上做了很多重要的研究。
+
+1983 年，因为美国签证及居留权申请未被答覆的问题，他差点儿接受了香港中文大学计算机学系的聘请。最后他成功通过美国永久居民的申请，因而留美，并继续在耶鲁大学任教。
+
+1985 年，从没有正式修读过数学本科学位的陈繁昌，因其在数值分析研究上的卓越表现，获美国加利福尼亚大学洛杉矶分校 (UCLA) 数学系聘请为教授。1996 年，他晋升为该系系主任，随后并获得计算机科学系、生物工程学系荣誉联合教席，成为学术界的传奇佳话。他在该大学任教期间，向美国国家科学基金 (NSF) 建议及成功地争取在该大学设立纯粹数学及应用数学研究院 (Institute of Pure and Applied Mathematics, IPAM)，更于 2000~2001 年出任该研究院主任一职。
+
+2004 年，他跟 Arthur Toga 向美国国立卫生研究院成功建议在加利福尼亚大学洛杉矶分校成立计算生物学研究中心，推动应用数学在医学上的研究。
+
+2001 年，陈繁昌成为美国加利福尼亚大学洛杉矶分校自然科学院院长。2006 年，他的任期届满，随即获美国国家科学基金聘请为助理署长，掌管接近十亿美元的科学研究基金。
+2009 年 3 月陈繁昌应香港科技大学邀请成为校长候选人，经过多番遴选，成功获选为候任校长，并于 9 月返港就任，成为香港科技大学第三任校长。
+
+二、科 学 成 就
+
+陈繁昌是一位杰出的应用数学家，在科学研究上有着卓越的成就。他的研究范围广泛，涵盖了不同的领域，包括数值分析、数学图像处理、计算机视像、大规模整合物理设计及运算大脑制图。他曾发表超过 300 篇获推荐的学术论文，论文获广泛引用，在科学研究上有着举足轻重的地位。
+在 1995 年以前，陈繁昌的研究主要集中于数值分析。在过去的 20 年里，他一直在数值分析的研究上担当着领导的角色，他在数值线性代数及数值偏微分方程这两方面的研究尤为出色。由于他对很多事物都有独特的真知灼见，在很多数值计算的问题上，都能找出一个有效的解决方法。他能够掌握数值方法的精髓，借此帮助他提升了解决数值问题的效率。他提出利用数值线性代数的技巧为偏微分方程设计一系列有效的解决方法。他近期一篇和 Tarek P. Mathew 合作撰写的相关调查论文，已成为这个范畴的参考典范。
+陈繁昌其中一项革命性的研究，是利用预处理技术来处理数值微分方程。他是少数能够洞悉预处理技术对数值微分方程有深远影响的数位应用数学家之一，因此他在 80 年代初，已开始这方面的研究。他为解决 Toeplitz 系统设计了一个名为最佳循环预条件的矩阵。他的设计已成为解决 Toeplitz 系统最有效的方法，并且获广泛应用在图像及讯息处理上。当数值分析学家还在钻研预处理技术在线性系统上的应用时，陈繁昌已能够利用这项技术来处理非线性问题，并发表了数篇重要的文章，例如 1984 年为 Krylov 子空间方法找出预处理矩阵，为解决非线性数值计算问题立下一块重要的奠基石。
+陈繁昌在数值计算上的另一个重要研究名为 Chan-SVD 的运算方法，这个运算方法主要用来计算 m × n 矩阵的单值分解，这个方法改良了 Golub-Reinsch 的运算方法，用这个方法来计算 SVD 较一般的方法还要快两倍，对解决大型最小二乘法问题有巨大的贡献。而他的另一项出色的研究名为 Rank-revealing QR 分解，这个方法有效地透过 QR 分解及行主元化来找出矩阵的秩 (rank)，在数值计算范畴上已被广泛应用。
+另一方面，多重网方法和域分解方法是现今解决数值微分方程最先进和有效的工具。陈繁昌在这两个领域上是一个先驱。他发起利用这两个方法来研究数值微分方程，并作出了重大的贡献。
+当众多应用数学家仍然对多重网方法和平衡计算感到陌生时，陈繁昌在 1985 年已经开始研究发展多重网的平衡计算方法在椭圆微分方程上的应用。此外，适应性网格加密策略目前已成为一个非常受欢迎的数值计算工具，能有效地解决有奇点的数值微分方
+
+程，陈繁昌早在 1986 年已提出把适应性网格加密策略运用在多重网格方法上。他的第一篇关于域分解方法的论文于 1985 年发表，此后他在这 20 年里成为在这方面一位多产的数值分析学家。
+20 世纪 90 年代初期，当多重网及域分解方法在结构网上的发展刚进入初步成熟阶段，陈繁昌已把焦点转向这两个方法在非结构网上的发展。他发表了一系列关于这方面的研究结果，并深入探讨该方法的计算效能，结果发现他所设计的方法，和在结构网上的计算效能相同。
+陈繁昌多年来积极参与多重网及域分解方法的研究，并致力推动这两方面的发展。从 1987 年到 2003 年期间，他参与多个关于这方面研究的国际学术会议，并担当重要的角色。由于他的积极参与和推动，令多重网及域分解方法在这 20 年间逐渐普及，成功地应用在多个复杂的问题上。今天，这两个方法已成为工程学及数值计算方面的重要工具。1994 年，陈繁昌与 Tarek Mathew 合作发表了一份关于域分解方法的调查论文，该论文有系统并全面地分析了域分解预处理方法在数值微分方程的应用。这论文已成为这研究范畴的一个标准参考。
+自 1995 年开始，陈繁昌的研究渐渐从数值偏微分方程转为图像处理问题的研究。著名应用数学家奥沙于 1993 年发表一份关于总变差去噪声 (TV denoising) 方法的文章，把偏微分方程带进图像处理的问题上，令许多图像还原方法可以透过偏微分方程来表示。陈繁昌在数值偏微分方程早已奠下深厚的根基，因而在这方面大展拳脚，发表了多个革新的方法，并且获广泛引用。而最重要的一篇关于图像分割的文章 Active contours without edges 更曾获引用多于 3500 次，亦获美国电机及电子工程师学会选为最佳论文。在这文章里，陈繁昌与 Luminita Vese 一起发表了知名的 Chan-Vese 图像分割方法，现今这个方法已应用在多个不同的层面，包括医学、工程和计算机视像等领域。
+陈繁昌在另一份跟 Gene Golub 合作的论文里，把原始双重方法带进总变差 (total variational) 图像还原的问题上，他们一起提出将最初的和双重的变数结合，来处理总变差的变分问题，从而解决了因奇点而产生的各种问题。
+除了学术文章外，陈繁昌亦与他的博士后学生 Jackie Shen 博士合作撰写了一本关于图像处理的书。这本书叙述了图像处理学上的四个重要工具，包括变分方法、偏微分方程、小波变换和随机方法，深入探讨了这四个工具的理论和效能。著名图像处理学家 Jean-Michel Morel 曾赞扬这本书完整地回顾了过去 20 年图像处理学的发展。此外，这本书亦曾经是工业及应用数学学会十大畅销书之一。
+在 2002 年，陈繁昌开始研究大规模整合物理设计 (VLSI) 上的重要问题。电路安置 (circuit placement) 问题是一个 NP 复杂问题，在过去 30 年来都是一个非常困难的问题。陈繁昌与 Jason Cong 合作，把他卓越的数学见解带进这个难题上，引导大规模整合物理设计踏出重要的一步。他的研究小组亦设计了一个完善的安置软件，为这个问题作出重大的贡献。而他的一份关于这方面研究的文章 Multilevel generalized force-directed method for circuit placement，于 2005 年在一个有名的国际会议上获颁最佳论文奖。
+
+除此以外，陈繁昌洞悉到微分几何能有效地应用到图像处理上，特别是处理复杂曲面上的图像造影问题，自2003年起，他把这个概念带进大脑制图研究，这是属于新兴的计算生物学范畴。他将数学的微分几何学运用于脑部的系统性研究，对医学研究贡献良多，包括加深医学界对老人痴呆症及脑癌等疾病的认识。在大脑制图研究上，神经学家主要的工作是分析正常脑部与有病脑部之间的分别。在还没有使用精确的数学以前，医学界人士只能靠肉眼分析，因此经常出现误差。陈繁昌与著名几何学家丘成桐合作，设计了一系列数学模型及算法，利用保角几何学技术有效的研究脑部结构。他们提出计算大脑的保角及拟保角结构，用以准确及有效地找出正常脑部和有病脑部在结构上的差异。另一方面，他们亦提出透过计算大脑上的偏微分方程，来找出大脑上的解剖特征，大大帮助医学界加强对大脑的研究。陈繁昌先后发表了30多篇有关这些研究的重要医学论文，影响深远。
+陈繁昌是一位见多识广的学者，他在很多不同范畴的研究均有杰出的表现，对数学界、工程界、及医学界都有重大贡献，是一位当代杰出的华人应用数学家。
+
+三、对科学发展的贡献
+
+陈繁昌不单拥有卓越的学术成就，他亦是一位杰出的老师和领袖。在过去数十年间，陈繁昌积极参与很多科学发展活动，对推动科学发展有重大的贡献。为了提高数学的研究气氛，陈繁昌在2000年向美国国家科学基金成功建议在加利福尼亚大学洛杉矶分校成立数学研究中心，最后成立了纯粹数学及应用数学研究院，而他亦于2000~2001年成为该研究院的院长。IPAM已成为美国一个重要的研究中心，为纯粹数学家及应用数学家提供良好的研究环境。过去数年间，IPAM举行了多个大型的数学会议，吸引很多著名的数学家作学术性交流和探访，对科学发展有深远而正面的影响。
+陈繁昌积极推动数学在医学领域的应用。2004年，他跟Arthur Toga向美国国立卫生研究院提交建议方案，成功设立一所计算生物学研究中心(CCB)，进行应用数学在神经系统科学的研究。CCB吸引了很多不同范畴的杰出科学家前来进行运算大脑制图的研究，他们包括数学家、工程师及医生等。CCB有很多重要的科学发现，对神经学及脑疾病的研究有重大的贡献。
+陈繁昌亦致力推动图像处理学的研究，为了给科学家一个讨论平台，他以主要撰写人的身份，联同其他几位应用数学家一同撰写建议书，极力向SIAM建议出版一本关于图像处理学的科学杂志。该杂志于2006年创刊，成为科学家们发表研究成果及交流的渠道，对图像处理学的研究发展有极大帮助。陈繁昌并积极参与科学教育，在教学工作上他经常亲力亲为，并曾在不同的大学任教，包括加州理工学院、耶鲁大学和加利福尼亚大学洛杉矶分校(UCLA)。他曾指导了约36名博士学生及约25名博士后学者。在他的指导下，他们都在应用数学研究上有出色的表现。
+2001年，陈繁昌成为加利福尼亚大学洛杉矶分校自然科学学院院长，管理6个学系、200
+
+名教职员、700 名研究生及 700 名大学本科生。他在发展教育、聘请教授、取录研究生和分配约五亿美元研究基金等重要范畴上，担当重要的角色。在他的领导下，UCLA 自然科学院的教学和研究进步一日千里，培育了许多出色的科学家。
+陈繁昌是多个科学学会的活跃成员，这些学会包括工业及应用数学学会 (SIAM)、美国数学学会 (AMS)、电机及电子工程学会 (IEEE) 等，他曾担任 SIAM 的理事会成员。他亦担任多本数学和运算学期刊的编辑，包括德国《Numerische Mathematik 学报》、《SIAM 造像科学学报》、SIAM Review、《SIAM 科学计算学报》、Number. Math.、《亚洲数学期刊》等。其中，他更是德国《Numerische Mathematik 学报》三位主编辑之一。
+2006 年，陈繁昌出任美国国家科学研究基金 (NSF) 助理署长，负责分配近十亿美元的研究基金和管理多个美国的重点科学研究项目，在美国和国际的科学发展扮演举足轻重的角色。
+陈繁昌曾于多个国际性学术会议上作重点讲座，包括 1989 年和 2012 年工业及应用数学学会国家会议、2002 年联席数学会议、2005 年亚洲数学会议等。在这些会议中，他跟很多科学家分享研究成果，并互相交流经验，促进国际学术研究的发展。陈繁昌曾出任多个国际性机构的顾问，2007 年因其出色的表现获得美国科学促进会 (AAAS) 颁授院士衔，是该会数学组五位获颁授院士衔的学者之一，并且在 2010 年被选为工业及应用数学学会院士。
+陈繁昌旅居美国三十多年，一直与香港及中国大陆保持密切联系。自 1985 年起，他分别在香港多间大学作客席教授及校外考试评审员，包括香港大学、香港中文大学、香港浸会大学和香港城市大学。在这二十多年间，他出席中国的学术活动多达三十余次，更于 2002 年与诺贝尔奖得主李远哲同获香港中文大学册封为联合书院杰出讲师。2007 年 10 月，他带领美国国家科学基金代表团访问中国，跟重要官员讨论科学及科技发展，足见他对香港及中国的科学发展，不遗余力。
+四、陈繁昌主要论著
+Chan T F. 1982. An improved algorithm for computing the singular value decomposition. ACM Transactions on Mathematical Software, 8(1): 72–83.
+Chan T F. 1987. Rank revealing QR factorizations. Linear Algebra and Its Applications, 88: 67–82.
+Chan T F, Golub G H, Mulet P. 1988. An optimal circulant preconditioner for Toeplitz systems. SIAM Journal on Scientific and Statistical Computing, 9: 766–771.
+Chan T F, Hansen P C. 1992. Some applications of the rank revealing QR factorization. SIAM Journal on Scientific and Statistical Computing, 13: 727–741.
+Bank R E, Chan T F. 1993. An analysis of the composite step biconjugate gradient method. Numerische Mathematik, 66: 295–319.
+Liu X D, Osher S, Chan T F. 1994. Weighted essentially non-oscillatory schemes. Journal of Computational Physics, 115: 200–212.
+Chan T F, Mathew T P. 1994. Domain decomposition algorithms. Acta Numerica, 3: 61–143.
+
+Chan T F, Smith B F. 1994. Domain decomposition and multigrid algorithms for elliptic problems on unstructured meshes. Electronic Trans Numerical Analysis, 2: 171-182.
+Chan T F, Olkin J A. 1994. Circulant preconditioners for Toeplitz-block matrices. Numerical Algorithms, 6(1): 89-101.
+Chan T F, Vassilevski P S. 1995. A framework for block ILU factorizations using block-size reduction. Mathematics of Computation, 64: 129-156.
+Chan T F, Smith B F, Zou J. 1996. Overlapping Schwarz methods on unstructured meshes using non-matching coarse grids. Numerische Mathematik, 73(2): 149-167.
+Zhao H K, Chan T F, Merriman B, et al. 1996. A variational level set approach to multiphase motion. Journal of Computational Physics, 127: 179-195.
+Chan T F, Ciarlet P, Szeto W K. 1997. On the optimality of the median cut spectral bisection graph partitioning method. SIAM J Sci Comput, 18: 943-948.
+Chan T F, Wong C K. 1998. Total variation blind deconvolution. IEEE Transaction on Image Processing, 7(3): 370-375.
+Blomgren P, Chan T F. 1998. Color TV: total variation methods for restoration of vector-valued images. IEEE Transaction on Image Processing, 7(3): 304-309.
+Chan T F, Xu J, Zikatanov L. 1998. An agglomeration multigrid method for unstructured grids. Amer Math Soc, 218: 67-81.
+Chan T F, Wong C K. 2000. Convergence of the alternating minimization algorithm for blind deconvolution. Linear Algebra and Its Applications, 316: 259-285.
+Chan T F, Vese L A. 2001. Active contours without edges. IEEE Transactions on Image Processing, 10: 266-277.
+Chan T F, Shen J. 2001. Nontexture inpainting by curvature-driven diffusions. Journal of Visual Communication and Image Representation, 12(4): 436-449.
+Chan T F, Vese L A. 2002. A multiphase level set framework for image segmentation using the mumford and Shah model. International Journal of Computer Vision, 50(3): 271-293.
+Chan T F, Shen J. 2002. Mathematical models for local nontexture inpaintings. SIAM Journal of Applied Mathematics, 62(3): 1019-1043.
+Gu X, Wang Y, Chan T F, et al. 2004. Genus zero surface conformal mapping and its application to Brain surface mapping. IEEE Transactions on Medical Imaging, 23(8): 949-958.
+Chan T F, Esedoglu S, Nikolova M. 2006. Algorithms for finding global minimizers of image segmentation and denoising models. SIAM Journal of Applied Mathematics, 66(5): 1632 1648.
+Chan T F, Cong J, Shinnerl J R, et al. 2006. Enhanced multilevel mixed-size placement. Proceedings of the 2006 international symposium on Physical Design. New York: ACM.
+Chan T F, Shen J, Zhou H M. 2006. Total variation wavelet inpainting. Journal of Mathematical Imaging and Vision, 15(1): 107-125.
+Lui L M, Wang Y, Chan T F, et al. 2007. Brain anatomical feature detection by solving partial differential equations on general manifolds. Discrete and Continuous Dynamical Systems, 7(3): 605-618.
+Lui L M, Gu X, Chan T F, et al. 2008. Variational method on Riemann surfaces using conformal parameterization and its Applications to image processing. Journal of Methods and Applications of Analysis, 15(4): 513-538.
+撰写者
+雷乐铭，香港中文大学数学系助理教授，2008 年博士毕业于加利福尼亚大学洛杉矶分校数学系，师承陈繁昌教授。2008~2010 年在美国哈佛大学数学系跟从知名数学家丘成桐教授从事博士后研究。研究兴趣包括计算保角几何、拟保角几何、大脑几何映射和表面配准等。研究成果发表在多个神经影像杂志、应用数学杂志、以及多个医学影像会议上。担任多个医学杂志如 IEEE TMI 和医学会议如 MICCAI 的审稿人。

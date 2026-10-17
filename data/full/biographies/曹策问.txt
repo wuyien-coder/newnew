@@ -1,0 +1,91 @@
+人物：曹策问
+生年：1940年2月16日
+逝世：1963年
+研究方向：微分方程特征值、孤立子与可积动力系统
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：153-159
+============================================================
+
+曹策问
+
+曹策问 (1940～ )，湖南长沙人。数学家。1957～1963 年北京大学数学力学系本科毕业，1963～1966 年北京大学数学力学系研究生毕业。1986 年任郑州大学教授。1993 年被国务院学位委员会评为博士生导师。曾任郑州大学校长 (1994～2003)、河南省数学会理事长 (1990～2000)、中国数学会理事 (1988～2000)。多年从事微分方程特征值、孤立子与可积动力系统等方向的研究。发表论文 62 篇。1988 年以来先后被聘为北京大学、南京大学等校兼职教授。曾在美国波特兰州立大学，意大利罗马大学，日本名古屋大学、东京大学、京都大学，香港中文大学、浸会大学、城市大学等校作学术访问与合作研究。已培养博士 10 名、硕士 17 名。
+
+一、简 历
+
+曹策问，1940 年 2 月 16 日生于四川成都。父亲为工程技术人员。抗战胜利后，于 1946 年举家返回原籍湖南长沙。1952 年技术人员归队，他的父亲归属第一机械工业部，先后调往武汉、上海、洛阳工作。他的母亲亦于 1954 年北上。自此曹策问在长沙市第二中学 (长郡中学) 住校，较早开始独立生活。曹策问的祖父为金石篆刻家，外祖父为长沙著名书法家。曹策问的母亲为会计，在书法上造诣颇深，尤工隶书和小楷，能随口大段背诵古典诗文。曹策问小学高年级时受老师影响，对化学、动植物学、天文学产生浓厚兴趣。中学时酷爱体操，1956 年代表湖南省参加在青岛举行的第一届全国少年运动会，获得双杠第二名和鞍马第五名。1957 年考入北京大学数学力学系。当年秋天在北京市高校体操比赛中获得单杠第一名。北大当时理科为 6 年制，特别强调基础，一流老教授到第一线教基础课业已形成传统。曹策问听过段学复的高等代数、程民德的数学分析、吴光磊的微分几何、申又枨的数理方程、江泽涵的拓扑学。曹策问四年级进入偏微分方程专门化，学习非线性偏微分方程，主要内容为周毓麟从苏联带回的一整套理论和工具，主讲老师为姜礼尚和应隆安。同时跟萧树铁学习抛物型方程的拟基本解理论。五年级下学期奉命转到申又枨门下主攻微分方程特征值理论和解析理论。1963 年秋考上申又枨的研究生，继续该方向的学习和研究。1966 年研究生毕业时“文化大革命”开始。1968 年分配到洛阳农村一所初中，从此开始长达 10 年的体育教师生涯。业余爱好变成主业，主修专业成为业余爱好。1979 年调入郑州大学数学系。1984 年担任数学系系主任，自此又开始了长达 20 年的行政领导经历，其间 1987～1994 年任副校长，1994～2003 年任校长。1990～2000 年兼任河南省数学会理事长。
+
+曹策问多年从事微分方程特征值、孤立子与可积动力系统等方向的研究。发表论文 62 篇。已承担过的国家课题有：1988~1990 国家自然基金项目“可积动力系统”；1990~1992 国家自然基金项目“特征值问题及其在孤立子理论中的应用”；1991~2000 国家攀登计划 (A) 项目“非线性科学”子课题“可积动力系统的数学理论”；2001~2005 国家重点基础研究发展规划项目 —— “非线性科学中的若干前沿问题”子课题“经典可积系统的数学结构、显式解法及物理意义”。1988 年以来先后被聘为北京大学、南京大学等校兼职教授。曾在美国波特兰州立大学，意大利罗马大学，日本名古屋大学、东京大学、京都大学，香港中文大学、浸会大学、城市大学等校作学术访问与合作研究。已培养博士 10 名、硕士 17 名。
+
+曹策问重视基础，重视课程教学。他深感他们这一代人，由于历史原因，能做的事情已经非常有限，要为下一代当好铺路石。他往往认真地、不止一遍地教同一门课程，不断更新教学内容和方法。他先后教过的本科生课程有：数学分析、高等代数、解析几何、常微分方程、点集拓扑学等；教过的研究生课程包括：代数拓扑、微分流形、经典力学中的数学方法、特征值问题、椭圆算子的谱、反散射问题、孤立子理论、辛流形与可积系统、李代数、代数曲线与 Riemann 面、李群及其应用等。他痛感基础薄弱是制约研究水平提高的最基本原因。他认为数学研究中的基本文献，光念懂是不够的，还必须反复修炼。就像运动员的基本功训练水平，直接影响运动成绩。他提倡治学必须“老老实实做简单的事情”。
+
+多年以来他遵循一位先哲的治学规则，坚持背诵古文和不太熟悉的其他外语语种的诗歌和散文，以培养记忆力、思维能力和人文精神。他努力使困难命题的教学和研究成果的报告具有友好界面，努力揭示思维运动的合理性，认为这是培养学生悟性和创造性的重要手段。学生喜欢听他的讲课和报告。
+
+曹策问对工作有很强的责任感。中年以前教过 10 年体育，中年以后担任过 20 年学校各级行政职务，他始终尽职尽责。尽管如此，他从未中断对数学的追求与探索。他曾经困惑，请教过谷超豪。谷超豪一句话：“在特定时期，做了该做的事情”，给他很大启发，使他能平静地对待具体社会职责与他喜爱的数学研究在时间和精力分配上的矛盾，无怨无悔。
+
+二、学术成就
+
+曹策问的主要学术贡献有如下几个方面。
+
+1. 微分算子的迹公式
+
+有限维向量空间上线性算子的特征值计算，归结为多项式求根，一般而言是困难问题。然而计算所有特征值之和，却非常容易，它恰等于线性算子的矩阵对角线元素之和，是一个不变量，包含线性算子有价值的信息。一个自然的想法是将此推广到微分算子。
+
+然而微分算子是无穷维空间上的无界线性算子，特征值的迹是发散的。1953 年，I. M. Gelfand 和 B. M. Levitan 研究由 Sturm-Liouville 问题给出的一个二阶微分算子，发现将特征值减去渐近主部后，其和收敛，可以由算子量直接表出：
+$$ \sum_{n=1}^{\infty} [\lambda_n - n^2 - \frac{1}{\pi} \int_0^{\pi} q(x)dx] = \frac{-1}{4}[q(0) + q(\pi)] + \frac{1}{2\pi} \int_0^{\pi} q(x)dx, $$
+称为正则化迹。1963 年曹策问做大学毕业论文时，申又枨将这篇文章交给他。当时他正在申又枨指导下在念 Mathieu 函数，J. Meixner 与 F. W. Schäfke 书上双参特征值问题框架给了他启发。曹策问在毕业论文（曹策问，1963）中，通过特征函数双线和的估计，一举求出 Sturm-Liouville 问题 4 种不同类型边条件下的迹公式。一个诱人的想法是推广到偏微。然而偏微分算子情形要复杂得多。在毕业后多年曲折的非数学工作过程中，他没有中断对该问题的思考。直到 1979 年，曹策问终于取得实质性进展，得到紧区域上 Laplace 算子及其势扰动算子 (即多维 Schrödinger 算子) 特征值之间的平均偏移公式 (Cao C W, 1979):
+$$ \lim_{N \to \infty} \sum_{n=1}^{N} (\lambda_n - \mu_n) = \frac{1}{|D|} \int_D q(x)dv, $$
+他建立了 Hilbert 空间中的几条引理，实质性的步骤仍是特征函数双线和的渐近估计，不过更困难，为此借助了数论中的 Tauber 反演定理。平均偏移公式相当于第一渐近项。第二渐近项只得到一个较弱的结果：设 D 为 k 维立方体，则存在一串趋于无穷的实数 R，使得
+$$ \lim_{R \to \infty} \frac{1}{R^{(k-1)/2}} \sum_{\mu_n \leqslant R} \left[ \lambda_n - \mu_n - \frac{1}{|D|} \int_D q(x)dv \right] $$
+$$ = \frac{-|\partial D|}{2^{k+1}\pi^{(k-1)/2}\Gamma((k-1)/2 + 1)} \left[ \frac{1}{|\partial D|} \int_{\partial D} q(x)d\sigma - \frac{1}{|D|} \int_D q(x)dv \right]. $$
+即使这一串实数的存在性，也来之不易。继续改善的努力没有结果。后来意识到情况很像 Laplace 算子特征值的 Weyl 猜想，在一些反例中不具备第二渐近项。1980 年，曹策问借助从萧树铁那里学来的抛物型方程的拟基本解方法，将平均偏移公式推广到紧区域上的一般自伴椭圆算子 (Cao C W, 1982)，并以此工作入选为陈省身创办的第一次双微国际讨论会的正式代表。1981 年又回过来研究常微分算子，将一维 Schrödinger 算子的两点边条件进行完全分类，求出全部非自伴情形的迹公式 (曹策问，1981, 1989a)。
+
+2. 有限维 Liouville 完全可积系统
+
+1983 年国际数学会主席 J. Moser 来华，他在第四次双微国际讨论会上的系列报告对曹策问后来的研究产生很大影响。Moser 证明，若将特征函数系约束到球面上，则 Schrödinger 方程组化为多自由度 Neumann 问题，其二自由度特例是 19 世纪发现的一个完全可积的力学系统。Moser 用共焦对合系证明了它的 Liouville 完全可积性，而且用
+
+它的守恒积分算出 KdV 方程 (D. J. Kortweg, G. de Vries) 的有限带精确解，与 A. R. Its 和 V. A. Matveev 用 Baker 函数方法求出的著名公式完全一致。KdV 方程和 Neumann 方程分别是无穷维和有限维可积系统，其内在关系的揭示，重要性不言而喻。
+曹策问观察到 Schrödinger 方程的反散射理论中一个格局非常近似公式，其中束缚态特征函数平方和恰等于无反射位势。将它代入方程，线性方程组便成为三次非线性方程组，这是一个有限自由度 Hamilton 系统，Hamilton 函数为一个四次多项式：
+$H = \frac{1}{2}\langle p, p \rangle + \frac{1}{2}\langle q, q \rangle^2 + \frac{1}{8}\langle Aq, q \rangle.$
+曹策问发现这种非线性化机制在其他特征值问题的反散射理论中同样存在(曹策问, 1989b)。他意识到这应该是完全可积的，然而直到 1988 年底才找到解决问题的关键。他将位势的表达式代入各阶 KdV 方程 Lax 对的时间部分，一举求出对合守恒积分系，证明了它的 Liouville 完全可积性。由于量子力学背景，将其称之为 Bargmann 系统 (Cao C W, 1991)。在此基础上进一步与耿献国合作，将结果推广到其他孤子方程的特征值问题，在 1989 年 4 月复旦大学举行的国际非线性物理会议上，报告了生成有限维可积系的“非线性化方法”，以及由此得到的 7 个新的有限维 Liouville 完全可积系 (Cao C W, 1990)。在报告中曹策问给出两个基本类型的约束条件：
+(I) Neumann 约束: $g_{-1} = \sum_{n=0}^{N} \gamma_n \frac{\delta \lambda_n}{\delta u},$
+(II) Bargmann 约束: $g_0 = \sum_{n=1}^{N} \gamma_n \frac{\delta \lambda_n}{\delta u}.$
+前者是 Neumann 系统中球面约束的推广，后者是无反射位势的散射表示的推广；两式左端分别是相应孤子族的 Lenard 梯度序列的前两个成员。该方法此后被广泛应用，由线性特征值问题，经非线性化约束，生成新的有限维可积系统。为揭示这两类约束的内在联系，曹策问在 1992 年北京大学学报纪念申又枋的专栏中，发表一篇论文 (曹策问, 1992)，其中证明，对于周期有限带势的 Schrödinger 方程 (即 Hill 方程) 而言，全部带谱左端点相应的特征函数平方和为 1，给出 Neumann 约束；全体带谱右端点相应的特征函数平方和等于位势函数，给出 Bargmann 约束。
+3. 孤子方程的有限带精确解
+由于新的有限维可积系不断出现，Moser 用 Liouville 可积系的守恒积分计算 KdV 方程的方法具备了推广的基础。1999 年，曹策问利用 ZS-AKNS 谱问题 (V. E. Zakharov, A. B. Shabat; M. J. Ablowitz, D. J. Kaup, A. C. Newell, H. Segur) 求解流体力学中著名的 KP 方程 (B. B. Kadomtsev, V. I. Petviashvili)，这是一个 (2+1) 维可积非线性偏微分方程。他通过非线性化方法由 ZS-AKNS 特征值问题得到一个有限维 Liouville 可积系，选取前 3 个守恒积分生成 Hamilton 相流，在相应的超椭圆曲线的 Jacobi 簇上将其拉直，其线性组合给出 KP 方程的 Abel-Jacobi 解，再通过 Jacobi 反演，最终得到位势变量表
+
+出的解 (Cao C W, 1999a):
+w(x, y, t) = 2∂_x^2 ln θ(xΩ_1 + yΩ_2 + tΩ_3 + D) + const,
+与 Baker 函数方法算出的公式完全一致。此后几年，曹策问逐步将此解法发展成为“分解、拉直、反演”的框架算法，有效地应用于空间高维以及含离散变元的可积方程的有限带解的计算 (Cao C W, 1999b, 2002, 2006, 2007, 2008)。
+4. 可积辛映射
+带离散变元的偏微分方程，物理上称为粒子系统。从实际问题到数学模型，离散性与连续性既有相当大的差别，也有密切的内在联系。有限维 Liouville 完全可积系统的离散版本的合理框架是可积辛映射，正式理论于 1990 年前后由 O. Ragnisco 等人制定。曹策问 1993 年访问罗马大学，与 Ragnisco 合作，开始做 Toda 链的离散谱问题非线性化生成的可积辛映射 (Cao C W, 1995)。到 1999 年，通过“分解、拉直、反演”的框架算法，将可积辛映射用于求解一个含离散变量的 (2+1) 维可积模型 (Cao C W, 1999b)。获得可积辛映射的基本方法仍是离散谱问题的非线性化。离散情形的困难是双重的：一方面，合理的离散谱问题不容易找到；另一方面，非线性化约束条件比连续情形复杂。近年曹策问对几个孤子族的相关的离散谱问题进行了成功的探索，算出了几个含离散变量的 (2+1) 维可积方程的有限带解 (Cao C W, 2002, 2006, 2007, 2008)。特别是考察了与 ZS-AKNS 特征值问题相容的两个离散谱问题，由它们得到两个实质上不同的可积辛映射，在其支持下，求出了下列双离散 (2+1) 维 Toda 方程的精确代数几何解:
+∂_x[Q(x, m+1, n) - Q(x, m, n)]
+=e^{Q(x,m+1,n+1)-Q(x,m,n)} - e^{Q(x,m+1,n)-Q(x,m,n-1)}.
+在一定的度规下，它关于一个离散变量的连续极限成为古典的 (2+1) 维 Toda 方程:
+∂_{XY}^2 W = e^{W_{n+1}-W_n} - e^{W_n-W_{n-1}}.
+三、曹策问主要论著
+曹策问. 1963. 关于 Sturm-Liouville 问题特征函数双线和的估计及其应用. 北京大学数学力学系, 微分方程论文集: 125-133.
+Cao C W. 1979. On the asymptotic estimation of the trace of a partial differential operator. Scientia Sinica, special issue on Math, II: 56-68.
+曹策问. 1981. 非自伴 Sturm-Liouville 算子的渐近迹. 数学学报, 24(1): 84-89.
+Cao C W. 1982. On the asymptotic trace of the second order self-adjoint elliptic operator. Proceedings of the 1980 Beijing Symposium on Differential Geometry and Differential Equations, 3. Beijing: Science Press: 1107-1114.
+曹策问. 1989. 微分算子的迹. 数学进展, 18(2): 170-178.
+
+曹策问. 1989. AKNS 族的 Lax 方程组的非线性化. 中国科学, A7: 701–707.
+Cao C W, Geng X G. 1990. Classical integrable systems generated through nonlinearization of eigenvalue problems. Nonlinear Physics, Research Reports in Physics. Berlin: Springer–Verlag: 66–78.
+Cao C W. 1991. A classical integrable system and the involutive representation of solutions of the KdV equation. Acta Math Sinica(New Series), 7(3): 216–223.
+曹策问. 1992. Hill 方程特征函数的一个迹公式. 北京大学学报 (自然科学版), 28(1): 62–70.
+Ragnisco O, Cao C W, Wu Y T. 1995. On the relation of the stationary Toda equation and the symplectic maps. J Phys A Math Gen, 28: 573–588.
+Cao C W, Wu Y T, Geng X G. 1999. Relation between the Kadomtsev–Petviashvili equation and the confocal involutive system. J Math Phys, 40 (8): 3948–3970.
+Cao C W, Geng X G, Wu Y T. 1999. From the special 2+1 Toda lattice to the Kadomtsev–Petviashvili equation. J Phys A Math Gen, 32(46): 8059–8078.
+Cao C W, Geng X G, Wang H Y. 2002. Algebro–geometric solution of the 2+1 dimensional Burgers equation with a discrete variable. J Math Phys, 43(1): 621–643.
+Cao C W, Cao J L. 2006. On an integrable (2+1)-dimensional Korteweg–de Vries equation with a discrete variable. Il Nuovo Cimento, 121(7): 675–687.
+Cao C W, Cao J L. 2007. An integrable (2+1)-dimensional Toda equation with two discrete variables. Phys Lett, A365: 301–308.
+Cao C W, Yang X. 2008. A (2+1)-dimensional derivative Toda equation in the context of the Kaup–Newell spectral problem. J Phys A Math Theor, 41: 025203.
+主要参考文献
+Titchmarsh E C. 1946. Eigenfunction Expansions Associated with Second-order Differential Equations. Oxford: Clarendon Press.
+Gelfand I M, Levitan B M. 1953. On a simple identity for eigenvalues of a second order differential operator. Dokl Akad Nauk, 88(4): 593–596.
+Arnold V I. 1978. Mathematical Methods in Classical Mechanics. Berlin: Springer.
+Novikov S P, Manakov S V, Pitaevskii L P, et al. 1980. Theory of Solitons: The Inverse Scattering Method. Moscow: Nauka.
+Moser J. 1986. Integrable Hamiltonian system and spectral theory. Proc 1983 Beijing Symposium on Diff Geom and Diff Equ. Beijing: Science Press: 157–229.
+Bruschi M, Ragnisco O, Santini P M, et al. 1991. Integrable symplectic maps. Physica, D49: 273–294.
+撰写者
+王鸿业, 1963 年 8 月生, 郑州大学数学系任教, 副教授, 研究方向是孤立子与可积动力系统。1983 年随曹策问教授攻读硕士, 1996 年读博士。发表论文十余篇、出版论著两部。曾于 2001 年赴香港浸会大学作短期科学研究, 2004 年受教育部委派到悉尼大学参加双语教学培训。

@@ -1,0 +1,304 @@
+人物：陈国才
+生年：1923年7月15日
+研究方向：代数拓扑
+来源：11680973_中国现代数学家传第5卷_
+页码：340-370
+============================================================
+
+陈国才
+海恩 唐德尔
+
+陈国才 1923 年 7 月 15 日诞生于浙江宁波。
+1987 年 8 月在美国逝世。台湾的中央研究院院士。美国纽约大学、伊利诺大学教授。代数拓扑。
+
+陈国才于 1923 年 7 月 15 日生于中国浙江省。1946 年，他在昆明的西南联合大学数学专业获理学学士。随后，他回到上海，在那里成为中央研究院数学研究所的一名助理研究员，直至 1947 年。在研究所负责人陈省身的推荐下，他去印地安纳大学 (Indiana University) 跟艾伦伯格 (Samuel Eilenberg) 工作了一年。之后他又随艾伦伯格来到纽约的哥伦比亚大学 (Columbia
+
+* 此文原题为：THE LIFE AND WORK OF KUO-TSAI CHEN., 原载《伊利诺数学杂志》(ILLINOIS JOURNAL OF MATHEMATICS), (Volume 34, Number 2, Summer 1990)。2000 年 10 月，台湾大学理学院院长康明昌教授推荐。李文林、王辉翻译。海恩 (Richard Hain) 是陈国才的学生，此文由他与唐德尔 (Philippe Tondeur) 两人合写于 1989 年 4 月。海恩现在美国公爵大学 (Duke University) 数学系，其电子信箱为 hain@math. duke. edu; 唐德尔现在美国国家科学基金会，其电子信箱为 ptondeur@nsf.gov. ——编者
+
+283
+
+University), 1950 年在该大学取得博士学位。在攻读博士学位期间,从 1948 年到 1950 年,他在纽约国立圣经研究所(the National Bible Institute)当数学讲师, 1949—1950 年,他同时是哥伦比亚大学的助教。获得博士学位后,他首先去了普林斯顿大学(Princeton University), 1950—1951 年,在那里任讲师。1951—1952 年,他到伊利诺大学(the University of Illinois)任研究助理。
+
+1952—1958 年,陈国才在香港大学(the University of Hong Kong)任讲师。他的父母那时生活在台湾台北。在香港开设第一门课程时,陈国才,也就是广为人知的 Chester Chen,遇见了迷人的大学二年级女生方资娴(Julia Tse-Yee Fong)。1953 年,她成为他的新娘。陈国才对工作极强的责任心不容许他为自己钟爱的学生提供特别帮助,这一点偶尔会使她非常生气。幸福的婚姻给他们带来三个孩子:陈世唱(Matthew)生于 1955 年,在加利福尼亚大学(the University of California)伯克莱(Berkeley)分校获数学博士学位,现为美国电话电报公司(AT&T)的一名电机工程师;陈蒙惠(Lydia)生于 1956 年,毕业于赛拉劳伦斯学院(Sarah Lawrence College),现在是画家兼编辑;陈蒙解(Lucia)生于 1960 年,毕业于麻省理工学院(MIT),现在是伊利诺大学材料科学专业的研究生。
+
+1958 年,陈国才来到巴西的圣若泽-杜斯坎普斯(Sao Jose dos Campos),先在那里的航空技术研究所担任了一年副教授, 1959—1960 年成为教授。1960—1961 年的冬天,他成为普林斯顿高等研究院的一员,后来在 1962 年春, 1971 年秋,以及 1979 年春,他又三度在高等研究院访问研究。1962—1963 年,他被拉特哥大学(Rutgers University)聘为副教授, 1963 年被聘为正教授,直至 1965 年。离开拉特哥大学后, 1965—1967 年,他在位于布法罗(Buffalo)的纽约州立大学(the State University of New York)工作, 1967 年,他以教授身份再次加盟位于厄巴纳(Urbana)的伊利诺大学,直到
+
+1987 年 8 月，他久病而逝*。终其一生，他都是一位虔诚的基督徒。
+陈国才是一位出色的、富有创造性的数学家。他的研究工作可以自然划分为三个阶段：他早期从事研究群论和三维球面中的链环(links in the three sphere)；随后致力于形式微分方程，这逐渐发展成为他的最重要且最有影响的工作；在生命的最后二十年里，他专注于对累次积分和同伦理论的研究。他的累次积分研究计划的目标，即获取道路空间中的德拉姆(de Rham)定理，旨在通过路线积分研究拓扑与分析之间的相互关系。
+陈国才的早期研究对三维球面中的链环理论具有重大贡献。两个光滑链环称为同痕的(isotopic)，如果通过光滑嵌入，$S^1$ 在 $S^3$ 中的相伴嵌入可以由一个向另一个变形。在文献[3]中，陈国才说明了链环群的降中心列
+$\pi_1(S^3 - L) = \pi^1 \supset \pi^2 \supset \pi^3 \supset$
+的商
+$\pi^1/\pi^{s+1}$
+仅依赖于链环的同痕类。既然所有纽结都与平凡纽结同痕，作为特例，可以得到一个众所周知的结论，即纽结群的降中心列稳定于 $\pi^2$：
+$\pi^s = \pi^2$，对于所有 $s > 2$.
+这导致米尔诺(Milnor)在研究链环的同痕不变式方面取得成果，特别明显的是，他对 $\overline{\mu}-$ 不变量的界定：$\overline{\mu}-$ 不变量指某链环群的降中
+* 1974 年春，陈国才曾在法国的 Hautes Etudes Scientifiques 研究所访学三周，还访问了德国的 Oberwolfach. 1975 年 4 月，他参加了在密苏里州的圣路易斯举行的数学大会，并发表了有关累次积分发展评述的报告。是年夏天，他还在波恩大学(the University of Bonn)停留了数周时间。
+
+心列的不变数,也即广义环绕数$[M]$。
+陈国才与福克斯(Fox)和莱恩顿(Lyndon)合作,对于一个有限表示的群的降中心列的商,确曾给出一种算法$^{[10]}$。尽管如此,这种商的计算问题仍然非常困难。在他的论文[1]中,陈国才证明了对于任何有限表示的群$\pi$,群$\pi/\pi'$的降中心列的商都是可计算的。其中$\pi''$指群$\pi$的第二导出子群$[\pi^2, \pi^2]$。当$\pi$是链环群时,这些群都是同痕不变式,并以链环的陈群(Chen groups)为人所知。
+陈国才随后的工作明显地联系着两方面的研究,即形式李理论(formal Lie theory)的对偶线形和丛上的联络理论,其中丛的结构群为形式幂级数的“李群”(Lie group)。他在这方面的思想肇始于他关于群论的第一篇论文[1]。尽管早期的思想萌芽经过论文[5],[7]-[9],[11]-[21]变得渐为清晰,但从论文[22]起,累次积分成了他的研究主题。为了展示陈国才最初的新思想,我们提供某种修正的观点,来看待他如何通过形式李群处理德拉姆同伦理论,这理论是他在与沙利文(Dennis Sullivan)提出极小模型理论[S1][S2]大约同时发展起来的。
+陈国才所使用的基本工具是平凡化丛的迁移映射。设$M$是一个流形,本文中始终假设它是光滑的。$M$上一个平凡化主$G$-丛(trivialized principal G-bundle),指一个平凡丛$M \times G \rightarrow M$及一个正规平凡化(distinguished trivialization),对于$G$的右乘运算它是唯一的。其中$G$可能是$GL(n)$的一个子群或者是马尔采夫群。平凡化丛上的一个联络通过规则
+$\nabla s = ds - s\omega$ (1)
+对应着$M$上一个$g$-值$l$-型的$\omega$,其中$s: M \rightarrow G$是一个截断。记分段光滑道路$[0,1] \rightarrow M$的空间为$PM$。给定平凡化丛上一个联络$\omega$,可以得到一个迁移映射:
+$T_\omega: PM \rightarrow G,$
+
+选取道路 $\gamma$,使映射沿 $\gamma$ 平行变换单位元。等价地,$T(\gamma) = X(1)$,
+这里的 $X(t)$ 是初值问题
+$X'(t) = X(t)A(t), X(0) = Id.$ (2)
+的解,其中 $A: [0,1] \to g$ 是由
+$\gamma^* \omega = A(t)dt$
+定义的函数。由初等微分几何可知,只要 $\alpha$ 和 $\beta$ 是可组合的道路,
+则 $T(\alpha)T(\beta) = T(\alpha\beta)$。
+
+当 $G$ 是马尔采夫群时,方程式(2) 就是陈国才所谓的形式微
+分方程式(参考他的论文[12]—[20])。这些是他早期关于标准型
+研究的一个关键部分。他早期曾研究过微分同胚($\mathbf{R}^n, 0$) $\to (\mathbf{R}^n, 0)$
+的芽及其无穷小类比 $\mathbf{R}^n$ 中向量场在 0 点的芽的标准型。在他的论
+文[15],[17],[18],[19],[21],[24] 中,陈国才研究了向量场中积
+分曲线在奇点附近的性状,并在斯特恩伯格(Sternberg) 首创的思
+想路线的基础上研究了局部微分同胚在不动点附近的性状。他所
+获得的主要成果之一就是微分同胚的芽的非线性分解定理,这类
+似于矩阵的半单乘幂单分解$^{[17]}$。在论文[18]中,他对向量场建立
+了无穷小类比,该文证明,当初等临界点在 0 点时,向量场的芽具
+有约当标准型,也就是说,它可以写作交换的半单和幂零向量场的
+和。据此,他进一步证明以原点为初等临界点的两个向量场是等
+价的,当且仅当它们形式等价。微分同胚中相应的结论在论文
+[19]中得到证明。
+
+陈国才在同伦理论研究方面的基石是对映射 $T_\omega$ 所给出的一个
+有名而完美的公式。为了把它表示出来,需要先介绍一下他的
+累次积分,即他的论文[5]在一种特殊情况下、论文[7]对于 1-型、
+论文[32]对于高维型所引进的累次积分。假设 $w_1, \cdots, w_r$ 是 $M$ 上
+的光滑型,在一个结合代数 $A$ [例如 $gl(n), Ug$ 或者一个幂级数
+环]中取值,每个次数至少是 1,那么
+
+$\int w_1, \cdots, w_r$
+是 $PM$ 上一个 $A$ -值的微分形式,次数为
+$\sum_{1}^{r}(\deg w_j - 1)$
+将标准 $r$ -单型表示为
+$\Delta^r = \{ (t_1, \cdots, t_r) \in \mathbf{R}^n : 0 \leqslant t_1 \leqslant \cdots \leqslant t_r \leqslant 1 \},$
+如下定义一个光滑函数 $\Phi: \Delta^r \times PM \rightarrow M^r$
+$\Phi[ (t_1, \cdots, t_r), \gamma ] = ( \gamma(t_1), \cdots, \gamma(t_r) ).$
+那么,累次积分可以定义为
+$\int w_1, \cdots, w_r = \pi_* \Phi^* (w_1 \times w_2 \times \cdots \times w_r),$
+其中 $\pi$ 指 $\Delta^r \times PM$ 在 $PM$ 上的投影,而 $\pi_*$ 指 $\pi$ 的纤维上关于体积型 $\mathrm{d}t_1 \wedge \cdots \wedge \mathrm{d}t_r$ 的积分。
+当每一个 $w_j$ 都是 $1$ -型时, $\int w_1, \cdots, w_r$ 就是函数
+$\int w_1, \cdots, w_r: PM \rightarrow A$
+这是平常线积分的一个自然推广。取路径 $\gamma$ 得
+$\idotsint\limits_{0 \leqslant t_1 \leqslant \cdots \leqslant t_r \leqslant 1} f_1(t_1) \cdots f_r(t_r) \mathrm{d}t_1 \cdots \mathrm{d}t_r,$
+其中 $g^* w_j = f_j(t) \mathrm{d}t.$
+迁移公式可以通过用皮卡迭代(Picard iteration)解方程(2)而得到。它类似于物理学中的戴森指数(the Dyson exponential)。
+引理(陈国才论文[41],[12],[7]): 假设 $G$ 是具有李代数 $g$ 的一个李群或马尔采夫群。如果 $g$ -值 $1$ -型的 $\omega$ 通过(1)式在丛 $M \times G \rightarrow M$ 上定义了一个联络,那么,迁移可由如下收敛的幂级数
+
+给出：
+$$T_{\omega}(\gamma)=1+\int_{\gamma} \omega+\int_{\gamma} \omega \omega+\int_{\gamma} \omega \omega \omega+\cdots$$
+平凡化丛上的联络 $\omega$ 是平坦的,当且仅当其曲率等于零：
+$$\mathrm{d} \omega+1 / 2[\omega, \omega]=0 .$$
+在此情况下,某道路上迁移的值仅依赖其同伦类。该迁移诱导出一个完整(或单值)同胚
+$$\Theta: \pi_{1}(M, x) \rightarrow G,\{\gamma\} \rightarrow T(\gamma) .$$
+为了明确其作用,考虑流形 $M$,它具有闭的 1-型 $w_{1}, \cdots, w_{r}$,它们上同调线性无关,即对于每个 $i$ 和 $j$ 满足 $w_{i} \wedge w_{j}=0$ 。令
+$$\omega=\sum w_{p} X_{j} \in E^{1}(M) \otimes \mathbf{R}\left\langle\left\langle X_{1}, \cdots, X_{r}\right\rangle\right\rangle .$$
+由于曲率为零,故可得完整同胚
+$$\Theta: \pi_{1}(M, x) \rightarrow \mathbf{R}\left\langle\left\langle X_{1}, \cdots, X_{r}\right\rangle\right\rangle .$$
+可以选择经过 $x$ 的封闭回路 $\gamma_{1}, \cdots, \gamma_{r}$,以使矩阵
+$$\left(\int_{\gamma_{i}} w_{i}\right)$$
+非退化,从而得到 $\mathbf{R}\left\langle\left\langle X_{1}, \cdots, X_{r}\right\rangle\right\rangle$ 的 $r$ 个元 $1+U_{1}, \cdots, 1+U_{r}$,其中 $U_{1}, \cdots, U_{r} \in I$,且模 $I^{2}$ 线性无关。现在容易看出,这里会生成 $\mathbf{R}\left\langle\left\langle X_{1}, \cdots, X_{r}\right\rangle\right\rangle$ 的一个秩为 $r$ 的自由子群 [这实质上是曼戈纳斯 (Magnus)的一条定理]。自然 $\gamma_{1}, \cdots, \gamma_{r}$ 也生成 $\pi_{1}(M, x)$ 的一个秩为 $r$ 的自由子群。利用这一点,陈国才给出了第一个例子,以说明紧的凯勒(Kähler)流形 $M$ 的霍治(Hodge)数 $h^{p, q}=\operatorname{dim} H^{p, q}(M)$ 如何影响它的基本群:
+定理(陈国才论文 [31],[32]): 设 $M$ 是一个紧的凯勒流形。
+如果
+289
+
+$h^{1,0} > h^{2,0} + 1,$
+那么, $\pi_1(M, x)$ 包含一个自由子群, 其秩不小于 2(因此是一个可数秩)。
+事实上,陈国才的研究更加深入,并且发展了幂级数联络理论$^{[41, 42]}$,这是一种计算过程,即从 $M$ 的德拉姆复形起,作为幂级数环 $\mathbf{R}\langle\langle H_1(M)\rangle\rangle$ 与由李元素生成的理想的商,来计算流形基本群实群环 $J$-进完备化的表示的过程。
+在论文 [41] 中,陈国才给出了一个直接算法,以寻求一个 $\mathbf{R}\langle\langle H_1(M)\rangle\rangle$-值 1-型的 $\omega$ 和关系 $R_1, \cdots, R_m \in g[\mathbf{R}\langle\langle H_1(M)\rangle\rangle]$,使得 $\omega$ 模由 $R_j$ 生成的闭理想为平坦的,且使由迁移诱导的同胚
+$\Theta: \mathbf{R}\pi_1(M, x)^\sim \to \mathbf{R}\langle\langle H_1(M)\rangle\rangle / (R_1, \cdots, R_m)$
+是一个同构。该方法是标准变形理论的一种变形。设丛
+$M \times \mathbf{R}\langle\langle H_1(M)\rangle\rangle \to M$
+(4)
+的单值表示为扩张
+$\rho_0: \mathbf{R}\pi_1(M, x) \to \mathbf{R}.$
+由丛(4)上的平凡联络($\omega=0$)开始,变形出一系列联络$(\omega_n)_{n \geqslant 0}$,同时得到一系列李元素$(R_1(n), \cdots, R_1(n))$,以使丛(4)上的联络模以理想
+$(R_1(n), \cdots, R_1(n)) + J^{n+1}$
+是平坦的,而且 $\omega_n$ 的迁移 $T_n$ 诱导出一个同构
+$\mathbf{R}\pi_1(M, x) / J^{n+1} \to \mathbf{R}\langle\langle H_1(M)\rangle\rangle / (R_1(n), \cdots, R_1(n)) + J^{n+1}.$
+可以将陈国才关于联络形式 $\lim \omega_n$ 的构造$^{[41]}$解释为丛 $M \times \mathbf{R} \to M$ 上平凡联络的通用变形的对偶构造。
+这一技巧与沙利文以 $M$ 的 1-极小模型计算 $g(\mathbf{R}\pi_1(M, x)^\sim)$ 的方法[S1],[S2]相对应,且彼此等价。但是,陈国才的方法通常
+290
+
+被认为更为简便,比如,M是一个有限胞腔复形的情形:C^n中超平面的一个并的余集也是一个很好的例子,在那里,陈国才的方法非常有效(参考文献[K])。
+陈国才的革命性思想之一就是将幂级数联络方法推广到了高同伦群,他在论文[32],[35],[38],[42]中完成了这一切。为简单起见,不妨假设流形M是单连通的。固定M的一个点x,再次利用标准同构
+$\pi_{k+1}(M,x) \cong \pi_k(\Omega_x M, \eta_x)$
+其中$\Omega_x M$表示M中基于x的分片光滑回路空间,$\eta_x$表示过x的常回路,根据波莱尔(Borel)和塞尔(Serre)一条有名的定理,胡列维兹(Hurewicz)同胚诱导一个内射
+$\pi_k(\Omega_x M, \eta_x) \otimes \mathbf{R} \rightarrow H_k(\Omega_x M, \mathbf{R}).$
+回路的乘法运算诱导出一个在回路空间同调的结合积。将$H_*(\Omega_x M, \mathbf{R})$看做具有标准方括号积
+$[U,V] = UV - (-1)^{\deg U \deg V} VU$
+的一个分次李代数,$\pi_*(\Omega_x M, \eta_x) \otimes \mathbf{R}$继承了分次李代数的结构。从陈国才的研究角度来看,$\pi_*(\Omega_x M, \eta_x) \otimes \mathbf{R}$与$H_*(\Omega_x M, \mathbf{R})$之间的关系类似于$g(\mathbf{R}\pi_1(M,x))$与$\mathbf{R}\pi_1(M,x)$之间的关系(后者自然同构于$H_*(\Omega_x M, \mathbf{R})$)。陈国才的大胆措施在于应用形式李理论来计算李代数$\pi_*(\Omega_x M, \eta_x) \otimes \mathbf{R}$,其方式类似于他在非单连通情况下计算李代数$g(\mathbf{R}\pi_1(M,x))$的幂级数方法。
+平凡化丛$M \otimes g(A^*/I) \to g(A^*/I)$上联络的类比是一个联络形式,一个在
+$E^*(M) \hat{\otimes} g(A^*/I) = \lim E^*(M) \otimes [g(A^*/I)/(J^n \cap g(A^*/I))].$
+中次数为1的元素$\omega$。这样,一个联络形式被定义为可积的,如果
+291
+
+它满足通常的可积性条件：
+dω + 1/2[ω, ω] = 0.
+与每个联络相伴的是其迁移映射
+T: C.(PM)→A^./I,
+即从道路空间上的光滑链到 A^./I 的分次 R-线性映射。它可以通过
+在每个链上确定 0 次 A^./I -值累次积分
+1 + ∫ω + ∫ωω + ∫ωωω + ···
+的值来定义。当 ω 可积时，其迁移诱导一个链映射
+T: C.(ΩₓM)→A^./I,
+和完整映射
+Θ: H.(ΩₓM)→A^./I, log Θ: π.t(ΩₓM)→g(A^./I),
+后一个映射，作为 Θ 的对数与胡列维兹同胚的合成，是自然映射
+与对数的合成的类比：
+π₁(M, x)→S(Rπ₁(M, x)^.)→g(Rπ₁(M, x)^.).
+在基群情况下，陈国才的论文[32], [34]根据这些思想探究了
+πₖ(ΩₓM, ηₓ)的大子代数：假设 w₁, ..., wᵣ 是流形 M 上的闭微分
+形，每一个的次数都大于 2，上同调线性无关，即对于每个 i 和 j 满
+足 wᵢ ∧ wⱼ = 0。考察分次代数
+A = R⟨X₁, ..., Xₙ⟩
+其中 Xⱼ 的次数为 1 - deg wⱼ(这同构于由 - deg wⱼ 次不定元 Xⱼ 所生
+成的分次向量空间上的张量代数。由于每个 Xⱼ 的次数都不大于
+-2，所以 A 是完备的)。形
+ω = Σ wⱼXⱼ ∈ E^.(M) ⊗ R⟨X₁, ..., Xᵣ⟩
+292
+
+的次数为 1,并且是可积的。它因此界定了一个完整同胚
+$\log \Theta : \pi_*(\Omega_x M) \to g(\mathbf{R}\langle X_1, \cdots, X_r \rangle) = \mathbf{L}\langle X_1, \cdots, X_r \rangle$
+如果存在元素 $\alpha_1, \cdots, \alpha_r \in \pi_k(\Omega_x M, \eta_x)$,使得矩阵
+$\begin{pmatrix} w_i \\ \eta_j \end{pmatrix}$
+是非退化矩阵,那么,按照曼戈纳斯定理的分次类比,元素
+$\log \Theta(\alpha_1), \cdots, \log \Theta(\alpha_r)$ 生成 $\mathbf{L}\langle X_1, \cdots, X_r \rangle$ 的一个自由 $\mathbf{Z}$ -李子代
+数。随之得知,$\alpha_1, \cdots, \alpha_r$ 生成 $\pi_k(\Omega_x M, \eta_x)$ 的一个自由李子代数。
+陈国才将这一思想发展成为形式幂级数联络方法,用以直接
+从 $M$ 的德拉姆复形计算李代数 $\pi_*(\Omega_x M, \eta_x) \otimes \mathbf{R}$ 及霍普夫(Hopf)
+代数 $H_*(\Omega_x M, \mathbf{R})$。在基群的情况下,通向德拉姆理论的这一方
+法对偶且等价于沙利文的极小模型方法。
+除了允许联络形式在分次李代数中取值以扩展联络外,陈国
+才还允许分次李代数具有微分。$M$ 上一个形式幂级数联络是 $M$
+上的一个 1-型 $\omega$,它在一个广义马尔采夫李代数 $g$ 上取值,具有
+一个次数为 -1 的连续微分 $\delta: g \to g$。联络 $(\omega, \delta)$ 是可积的,如果
+$D\omega + 1/2[\omega, \omega] = 0$,
+其中 D 指微分分次李代数 $E^*(M) \hat{\otimes} g$ 的微分 d$\otimes$1 + 1$\otimes$$\delta$。因此,
+形式幂级数联络的迁移
+$T = 1 + \int \omega + \int \omega \omega + \int \omega \omega \omega + \cdots$
+就是由在链上积分 $T$ 而得到的链映射
+$T: C_*(\Omega_x M) \to Ug$.
+这诱导出一个霍普夫代数同胚
+$\Theta: H_*(\Omega_x M) \to H_*(Ug)$.
+293
+
+陈国才的基本定理是:
+定理$^{[41, 42]}$: 对每一个连通流形 $M$,在 $g(\mathbf{R}\langle H_{\cdot}(M)\rangle)$上存在一个 -1 次的连续微分 $\delta$ 和一个 $g(\mathbf{R}\langle H_{\cdot}(M)\rangle)$-值 1-型的 $\omega$,使得 $(\omega,\delta)$是可积的。而且,如果 $M$ 是单连通的,那么,完整映射
+$\Theta: H_{\cdot}(\Omega_x M) \rightarrow H_{\cdot}(U_g(\mathbf{R}\langle H_{\cdot}(M)\rangle), \delta)$
+是一个分次霍普夫代数同构。如果 $M$ 不是单连通的,那么,同胚
+$\mathbf{R}\pi(M, x) \cong H_0(\Omega_x M) \rightarrow H_{\cdot}(U_g(\mathbf{R}\langle H_{\cdot}(M)\rangle), \delta)$
+作为霍普夫代数是基群的群环的 $J$-进完备化。
+若不仔细研究 $M$ 的闭路空间的上同调与累次积分之间的关系,人们不可能形成这样的思想。陈国才在一系列论文 $[35]$, $[39],[42]$,及与之密切相关的、提出其形式幂级数联络方法的论文中正是这样做的。将累次积分看做 $M$ 的道路空间的德拉姆复形 $E^{\cdot}(PM)$的一个子空间 $g^{\cdot}(PM)$,陈国才证明了 $g^{\cdot}(PM)$是一个微分分次代数,具有从 $E^{\cdot}(PM)$诱导出的乘积和微分,并给出 $g^{\cdot}(PM)$一个完全代数的描述,即 $M$ 的德拉姆复形上的约化棒构造(reduced bar construction),一个十分有用的经典棒构造变式 $[40]$。将局限在回路空间 $\Omega_x M$ 上的累次积分复形记为 $g^{\cdot}(\Omega_x M)$。他还证明了道路乘法运算诱导的同胚
+$\mu: E^{\cdot}(\Omega_x M) \rightarrow E^{\cdot}(\Omega_x M \times \Omega_x M)$
+诱导出一个上积
+$\triangle: g^{\cdot}(\Omega_x M) \rightarrow g^{\cdot}(\Omega_x M) \otimes g^{\cdot}(\Omega_x M)$
+$\int w_1 w_2 \cdots w_r \rightarrow \sum \int w_1 \cdots w_i \otimes \int w_{i+1} \cdots w_r.$
+有了该上积, $g^{\cdot}(\Omega_x M)$变成一个 $d.g.$ 霍普夫代数。积分诱导出一个分次霍普夫代数同胚
+294
+
+I: H*(g*(ΩxM)) → H*(ΩxM, R).
+人们自然会期望 I 总是一个同构。然而，如果按长度过滤累次积分：
+R ⊆ g1 ⊆ g2 ⊆ ... ⊆ g*(ΩxM),
+那么，累次积分的标准性质将显示，作为一个 π1(M, x) 模，H*(g*(ΩxM)) 是幂单子模的一个并
+im{H*(gs) → H*(g*(ΩxM))}.
+所以，在一般情况下，I 不可能是一个同构。可是，在缺少基群的情况下，陈国才证明了如下结论。这是亚当斯(Adams)基本定理的一个德拉姆类比[A]。
+定理[35, 38, 42]：如果 M 是单连通的，那么，积分映射 I 是一个分次霍普夫代数同构。
+在非单连通的情况下，他证明了如下与斯特林的研究工作[S]有关的结论。在文献[H]中可以找到它的一个初等证明。
+定理[39]：对所有 s ≥ 0，积分诱导的同胚
+H0(gs)→Hom(Zπ1(M, x)/J+1, R)
+是一个同构。因而，如果 π1(M, x) 是有限生成的，那么，积分映射的伴随
+Rπ1(M, x)* → Hom(H0(g*(ΩxM)), R)
+是完全霍普夫代数的一个同构。
+在他后来的文章[42], [43], [47], [54]中，陈国才研究了空间 Pf 的德拉姆理论，Pf 沿函数 f: N → M × M :
+295
+
+P_f --F--> PM
+|          |
+v          v
+N --F--> M × M
+
+拉回纤维化 PM → M × M 而得到。陈国才考虑到 E·(P_f) 的子复形 g·(P_f)，它由累次积分沿 F 的拉回和 N 上的形沿投影的拉回生成。该复形能够被描述为 N 和 M × M 的德拉姆复形上的循环棒构造 (circular bar construction)[45]。陈国才证明了当如 M 是单连通的，则 g·(P_f) 的上同调同构于 H·(P_f)。令 N = M，且 f 是对角的，陈国才获得一个复形，以计算 M 的自由闭路空间的上同调，这是最近关于自由闭路空间的循环同调和上同调研究的先声。
+
+参考文献
+[ A ] J. F. ADAMS, On the cobar construction, Colloque de topologie algébrique (Louvain, 1956), George Thone, Liège, Masson, Paris, 1957, pp. 81—87.
+[ H ] R. HAIN, The geometry of the mixed Hodge structure on the fundamental group, Algebraic Geometry, 1985, Proc, Symp. Pure Math., Vol. 46 (1987), pp. 247—282.
+[ K ] T. KOHNO, On the holonomy Lie algebra and the nilpotent completion of the fundamental group of the complement of hypersurfaces, Nagoya J. Math., Vol. 92(1983), pp. 21—37.
+[ M ] J. MILNOR, Isotopy of links, A Symposium in Honor of S. Lefschetz 1954, Princeton University Press, 1957, pp. 280—305.
+[ Q ] D. QUILLEN, Rational homotopy theory, Ann. of Math., Vol. 90(1969), pp. 205—295.
+[ S ] J. STALLINGS, Quotients of the powers of the augmentation ideal in a group
+
+ring. In: L. Neuwirth (ed.), Knots, Groups and 3-manifolds, Papers dedicated to the memory of R. H. Fox, Annals of Math. Studies 84, Princeton, 1975.
+[S1] D. SULLIVAN, Topology of manifolds and differential forms, Proceedings of a conference on manifolds, Tokyo, 1973.
+[S2] _________, Infinitesimal computations in topology, Publ. Math. IHES., Vol. 47(1977), pp. 269—331.
+陈国才主要论著目录
+[ 1 ] Integration in free groups, Ann. of Math., Vol. 54(1951), pp. 147—162.
+[ 2 ] Commutator calculus and link invariants, Proc. Amer. Math. Soc., Vol. 3 (1952), pp. 44—55.
+[ 3 ] Isotopy invariants of links, Ann. of Math., Vol. 56(1952), pp. 343—353.
+[ 4 ] A group ring method for infinitely generated groups, Trans. Amer. Math. Soc., Vol. 76(1954), pp. 275—287.
+[ 5 ] Iterated integrals and exponential homomorphisms, Proc.London Math. Soc., Vol. 4(1954). pp. 502—512.
+[ 6 ] On the composition of nilpotent Lie groups, Proc. Amer. Math. Soc., Vol. 8 (1957), pp. 1158—1159.
+[ 7 ] Integration of paths, geometric invariants and generalized Baker-Hausdorff formula, Ann. of Math., Vol. 65(1957), pp. 163—178.
+[ 8 ] Integration of paths, a faithful representation of paths by noncommutative formal power series, Trans. Amer. Math. Soc., Vol. 89(1958), pp. 395—407.
+[ 9 ] Exponential isomorphism for vector spaces and its connection with Lie groups, J. London Math. Soc., Vol. 33(1958), pp. 170—177.
+[10] Free differential calculus IV (With R. H. Fox and R. C. Lyndon), Ann. of Math., Vol. 68(1958), pp. 81—97.
+[11] Linear independence of exponentials of Lie elements, An. Acad. Brasil. Cienc., Vol. 31(1959), pp. 507—509.
+[12] Formal differential equations, Ann. of Math., Vol. 73(1961), pp. 110—133.
+
+[13] Decomposition of differential equations, Math. Ann., Vol. 146(1962), pp. 263-278.
+[14] An expansion formula for differential equations, Bull. Amer. Math. Soc., Vol. 68(1962). pp. 341-344.
+[15] Decomposition and equivalence of local vector fields, Proc. Nat. Acad. Sci., Vol. 49(1963), pp. 740-741.
+[16] Expansion of solutions of differential systems, Arch. Rational Mech. Anal., Vol. 13(1963), pp. 348-363.
+[17] On local diffeomorphisms about an elementary fixed point, Bull Amer. Math. Soc., Vol. 69(1963), pp. 838-840.
+[18] Equivalence and decomposition of vector fields about an elementary critical point, Amer. J. Math. Vol. 85(1963), pp. 693-722. Amer. J. Math., Vol. 85 (1963), pp. 693-722.
+[19] Local diffeomorphismx-C^r realization of formal properties, Amer. J. Math., Vol. 87(1965), pp. 140-157.
+[20] On a generalization of Picard's approximation, J. Differential Equations, Vol. 2(1966), pp. 438-448.
+[21] On nonelementary hyperbolic fixed points of diffeomorphisms, Proceedings of International Symposium on Differential Equations and Dynamic Systems, Academic Press, San Diego, 1967, pp. 525-530.
+[22] Iterated path integrals and generalized paths, Bull. Amer. Math. Soc., Vol. 73(1967), pp. 935-938.
+[23] Algebraization of iterated integration along paths, Bull. Amer. Math. Soc., Vol. 73(1967), pp. 975-978.
+[24] Normal forms of local diffeomorphism on the real line, Duke. Math. J., Vol. 35(1968), pp. 549-556.
+[25] Algebraic paths, J. Algebra, Vol. 10(1968), pp. 8-36.
+[26] Homotopy of algebras, J. Algebra. Vol. 10(1968), pp. 183-193.
+[27] Convering-space-like algebras, J. Algebra, Vol. 13(1969), pp. 308-326.
+[28] An algebraic dualization of fundamental groups, Bull. Amer. Math. Soc., Vol. 75(1969), pp. 1020-1024.
+298
+
+[29] An exact dynamical system is tree-like and vice versa, Trans. Amer. Math. Soc., Vol. 149(1970), pp. 561-567.
+[30] A sufficient condition for nonabelianness of fundamental groups of differential manifolds, Proc. Amer. Math. Soc., Vol. 26(1970), pp. 196-198.
+[31] Algebras of iterated path integrals and fundamental groups, Trans. Amer. Math. Soc., Vol. 156(1971), pp. 359-379.
+[32] Differential forms and homotopy groups, J. Differential Geom. Vol. 6(1971), pp. 231-246.
+[33] On Whitehead products, Proc. Amer. Math. Soc., Vol. 34 (1972), pp. 257-259.
+[34] Free subalgebras of loop space homology and Massey products, Topology, Vol. 11(1972), pp. 237-243.
+[35] Iterated integrals of differential forms and loop space homology, Ann. of Math., Vol. 97(1973), pp. 217-246.
+[36] Fundamental groups, nilmanifolds and iterated integrals, Bull. Amer. Math. Soc., Vol. 79(1973), pp. 1033-1035.
+[37] Solvability on manifolds by quadratures, Bull. Amer. Math. Soc., Vol. 80 (1974), pp. 1210-1212.
+[38] Connection, holonomy and path space homology, Proceedings of Symposia in Pure Mathematics, Vol. 27, pp. 139-152, American Mathematical Society, Providence, R. L., 1975.
+[39] Iterated integrals, fundamental groups and covering spaces, Trans. Amer. Math. Soc., Vol. 206 (1975), pp. 183-198.
+[40] “Reduced bar construction on de Rham complex” in A collection of papers in honor of Samuel Eilenberg, Academic Press, San Diego, 1976, pp. 19-32.
+[41] Extension of C^∞ function algebra by integrals and Malcev completion of π₁, Adv. In Math., Vol. 23(1977), pp. 181-210.
+[42] Iterated path integrals, Bull. Amer. Math. Soc., Vol. 83 (1977), pp. 831-879.
+[43] Pullback de Rham cohomology of the free path fibration, Trans. Amer. Math. Soc., Vol. 242(1978), pp. 307-318.
+299
+
+[44] Path space differential forms and transports of connections, Bull. Inst. Math. Acad. Sinica, Vol. 6(1978), pp. 1457—1477.
+[45] Circular bar constructions, J. Algebra, Vol. 57(1979), pp. 466—483.
+[46] Poles of maps into $P_n(C)$ and Whitehead integrals, South Asian Bull. Math. Vol. 3(1979), pp. 116—124.
+[47] Pullback path fibration, homotopies and iterated integrals, Bull. Inst. Math., Acad. Sinica, Vol. 8(1980),pp. 263—275.
+[48] The Euler poerator, Arch. Rational mech. Anal., Vol. 75 (1981), pp. 175—191.
+[49] On the Hopf Index theorem and the Hopf invariant, Bull. Amer. Math. Soc., Vol. 5(1981), pp. 57—69.
+[50] “Pairs of maps into complex projective space” in Contribution to analysis and geometry, Johns Hopkins Tress, Baltimore, Maryland, 1980, pp. 51—62.
+[51] Degeneracy indices and Chern Classes, Adv. in Math., Vol. 45(1982), pp. 73—91.
+[52] On the bezout theorem, Amer. J. Math., Vol. 106(1984), pp. 725—744.
+[53] “loop spaces and differential forms” in Homotopie Algébrique et Algèbre Locale, Astérisque, Vol. 113—114, 1984, pp. 725—744.
+[54] Smooth maps, pullback path spaces, connections and torsions, Trans. Amer. Math. Soc., Vol. 297(1986),pp. 617—627.
+
+附记：据陈国才的女儿陈蒙解(Lucia)提供给译者的材料，陈国才在兄妹中排行老大，出生于浙江宁波以北的一个小村镇，其后有4个弟弟和2个妹妹，均出生于上海。陈国才的父亲当时在上海开了家店铺，后来逐渐扩展成为几家药店，陈国才小时候常在店中帮忙。抗日战争爆发以后，陈国才随全家人搬回老家，过了三四个月，全家开始乘坐汽车和火车西迁。他们先到杭州，随即又到湖南长沙，在那里度过了最初的三个月后，又在沅陵呆了三个多月。受时局影响，他们全家最终迁往云南。先居于昆明，后居于昆阳(晋宁)。陈国才分别在玉溪中学和同济大学附中读完初中和高中。1940年，陈国才曾一度随父母迁往大理，但随后又返回昆阳。1942年，陈国才考入西南联合大学。他的父亲原想让他学习化工，但他出于个人兴趣，不久便转向了数学。
+
+大学第一年，陈国才住在学校。第二年，他父母将全家迁到了昆明。但没过多久，日军投降，他们家迁回了上海。完成学业后，陈国才也回到上海，成为中央研究院数学研究所的一名助理研究员。在陈省身的鼓励下，陈国才通过参加政府考试，获得了去国外从事研究生学习的机会。
+陈国才的夫人现仍居于伊利诺州的厄巴纳。他的儿子陈世唱现在新泽西州，是美国电话电报公司的软件设计师。他的大女儿陈蒙惠已在加利福尼亚大学伯克莱分校获得新闻学与亚洲研究硕士学位，现在北京，是美国在华商会的信息主管。他的小女儿陈蒙解已在伊利诺大学获材料科学博士学位，现居于德克萨斯州的奥斯汀。——译者
+(2001年元月)

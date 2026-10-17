@@ -1,0 +1,121 @@
+人物：严加安
+生年：1941年12月6日
+研究方向：鞅论与随机分析，白噪声分析，金融数学
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：208-216
+============================================================
+
+严加安
+
+严加安（1941～），江苏邗江人。概率论学家。1964年7月毕业于中国科学技术大学应用数学系，先后在中国科学院数学研究所、应用数学研究所和1998年合并了的中国科学院数学与系统科学研究院工作，1986年起任研究员和博士生导师。1999年10月当选为中国科学院院士。在鞅论、随机分析、白噪声分析和金融数学领域做出了基础性贡献：建立了局部鞅分解引理，为研究随机积分提供了简单途径；给出了一类可积随机变量凸集的刻画，该结果在金融数学中有重要应用，被文献称为“Kreps-Yan定理”；用统一且简单的方法获得了指数鞅一致可积性准则；提出了白噪声分析的新框架；给出了金融数学中“资产定价基本定理”的修正形式。严加安迄今发表论文80多篇，出版专著和教材9部（其中英文专著3部）。2002年8月应邀在北京召开的第24届国际数学家大会上做45分钟报告。1987年获中国科学院科技进步二等奖，1992年获中国科学院自然科学奖一等奖（排名2），1993年获国家自然科学奖二等奖（排名2），1999年获国家图书奖提名奖，2006年获何梁何利基金科技进步奖，2007年获华罗庚数学奖。
+
+一、主要学术经历
+
+严加安1941年12月6日出生于江苏省扬州县（现为扬州市邗江区）一个贫苦农民家庭。他从小爱好数学，1959年从江苏省镇江中学毕业后考取中国科学技术大学应用数学系。中国科学技术大学是1958年由中国科学院创办的，学制五年，前三年学基础课，后两年学专业课。应用数学系的教学主要由中国科学院数学所的研究人员担任。基础课由一位老师主讲，俗称“一条龙”。1958、1959和1960届分别是“华龙”（华罗庚）、“关龙”（关肇直）和“吴龙”（吴文俊）。关肇直是泛函分析专家，他的泛函分析课讲得尤为深入浅出，严加安从关肇直的课中中不仅学到了专业知识，而且受到了泛函分析这门数学分支探求数学的一般性和统一性的思维方式的熏陶。在大学里打下的泛函分析基础使他终身受益。他在大学三年级第一学期就写了一篇题为《对最速下降法的改进》的研究论文。在大学四年级，他又写了《随机函数的构造》和《统计判决函数》的两篇论文，并在1963年10月中国科学技术大学五周年校庆科学讨论会上做了报告。他写的一篇介绍学习经验的文章《从学习上有无窍门谈起》也被入选编进了校庆五周年征文《向科学进军》（学习方法专辑）一书。
+
+1964年8月严加安从中国科学技术大学毕业后分配到中国科学院数学所工作。同年10月去吉林梨树县参加“四清”工作队，1965年8月被借调到新成立的七机部705所工
+
+作，1970年1月回到数学所。1971年9月后，周总理主持中央日常工作。在周总理亲自过问下，1972年外交部与来访的法国外长签订了选派10名中国科技人员去法国进修的协定，严加安有幸入选，于1973年4月来到法国，他在接受了9个月的法语培训后被派往斯特拉斯堡大学高等数学研究所进修，他的指导老师是国际著名的概率论学家、斯特拉斯堡概率学派的创始人和现代鞅论和随机过程一般理论的主要奠基者P.A. Meyer。他去斯特拉斯堡时，Meyer 正和 Dellacherie 合著《概率与位势》多卷著作的第一卷。严加安在短短的两个月内不仅学懂了有关内容，还发现可以将 Souslin 集论从经典的拓扑形式推广为可测形式，并写成了论文，该论文发表在1975年《中国科学》(外文版)。后来Meyer 按照严加安的论文对书中第二章是有关解析集论的内容进行了改写。
+1975年7月严加安从法国学成回国。1973~1984年他主要从事鞅论和随机过程一般理论的研究，先后完成和发表了《指数鞅一致可积性准则》(1980)、《随机积分的初等定义》(1980)和《一类L凸集的刻画》(1980)等有较高学术价值的论文。他还将在法国学到的现代鞅论和随机过程一般理论写成《现代鞅论》讲义，并于1979年7月在杭州莫干山概率论讲习班上做了两周的系统讲解。此后，在讲义的基础上写成了专著《鞅与随机积分引论》，于1981年由上海科学技术出版社出版。该书系统介绍了当时国际上该领域的最新进展，并收入了他有关“局部鞅分解引理”的重要工作(该成果由Meyer 在1977年的一篇文章中介绍而被国际同行知晓)。后来国内许多大学都用他的这本书作为概率论研究生的教材。1981年1月至1982年11月，严加安以洪堡奖学金获得者身份在德国海得堡大学应用数学所从事研究工作，其间他完成了4篇有关鞅论的论文。20世纪80年代初，正是白噪声分析理论初创时期，严加安于1985年在斯特拉斯堡大学高等数学研究所访问时，Meyer 建议他关注这一新领域。由于他有较好的泛函分析基础，很快进入了白噪声分析领域，并做出了一些基础性贡献。从1985年到1995年严加安主要从事白噪声分析研究，同时也研究鞅论和随机分析。1994年严加安应邀在阿姆斯特丹召开的“随机过程及其应用”国际会议上做大会邀请报告。在这次会议上他得知随机分析在金融数学中有重要应用后，从1995年起就主要从事金融数学研究，并培养这一方向的博士研究生。
+从1985年起，严加安曾出访过法国、德国、新加坡、美国、加拿大、日本、苏联、瑞士、葡萄牙等10多个国家和地区，应邀在20多次国际学术会议上做大会报告或分组会报告。严加安担任过的主要学术职务有：1994~1998年任中国数学会概率统计学会理事长；1997~2001年任国际贝努利概率统计学会理事；2002年至今任 Acta Mathematicae Appliatae Sinica 主编。曾任 Annals of Probability, Stochastic Analysis and Application 等国际概率论刊物编委。
+二、主要学术贡献
+严加安的主要学术贡献可以概括如下：
+
+1. 鞅和随机分析
+1) 1980 年在 (Yan J A, 1980b) 中给出了可积随机变量空间中的一类 $L^1$ 中凸集的刻画:
+定理 1 设 $(\Omega, \mathcal{F}, P)$ 为一概率空间, $K$ 为 $L^1$ 中的一凸集, 且 $0 \in K$。则下列三个条件等价:
+(1) 对任一 $\eta \in (L^1)^+ \setminus \{0\}$, 存在 $c > 0$, 使 $c\eta \notin \overline{K - (L^\infty)^+}$;
+(2) 对任一非不足道 $A \in \mathcal{F}$, 存在 $c > 0$, 使 $cI_A \notin \overline{K - (L^\infty)^+}$;
+(3) 存在 $\zeta \in L^\infty$ 使得 $\zeta > 0$ a.s. 且 $\sup_{\xi \in K} E[\zeta\xi] < \infty$。
+这里 $\overline{B}$ 表示 $B$ 在 $L^1$ 中的闭包。
+Dellacherie 在他发表于 Lecture Notes in Math. 794 (施普林格, 1980) 的一篇文章中首次用该刻画给出了著名的半鞅刻画定理证明中的一个关键引理的简单证明。自 1990 年起, 该刻画成了金融数学中一个很有用的工具, 被广泛引用, 并被有关金融数学文献或著作称为 “Yan 定理” 或 “Kreps-Yan 定理”。
+2) 严加安 1980 年提出了在鞅论中基本的局部鞅分解引理 (写入著作 (严加安, 1980), 此前该结果被 1977 年 Meyer 的一篇文章介绍而被国外知晓):
+定理 2 设 $(X_t)$ 为一局部鞅, 则 $X$ 有如下分解:
+$X_t = M_t + N_t,$
+其中 $(M_t)$ 为局部有界鞅, $(N_t)$ 为有限变差局部鞅。
+P. Protter 在他的一部专著中明确指出: “The fundamental theorem of local Martingale is due to Jia-an Yan”。在 Jacod-Shiryaev 的一专著中称该引理为 “Yan's Lemma”。基于这一引理, 严加安给出了半鞅随机积分的等价定义, 该定义既初等又方便, 为研究随机积分的性质提供了简单的途径, 此前研究随机积分的线性性和对概率改变的不变性曾经是比较困难的。
+3) 设 $M$ 为一初值为 0 的局部鞅, 且 $\Delta M_s > -1$, 其中 $\Delta M$ 为 $M$ 的跳过程。令
+$\mathcal{E}(M)_t = \exp \left\{ M_t - \frac{1}{2} \langle M^c, M^c \rangle_t \right\} \prod_{0 < s \leqslant t} (1 + \Delta M_s) \mathrm{e}^{-\Delta M_s},$
+称 $\mathcal{E}(M)$ 为 $M$ 的指数 (局部) 鞅。在与随机分析的许多理论和应用问题中, 需要知道在什么情况下 $\mathcal{E}(M)$ 为一致可积鞅。严加安用统一且简单的方法获得了指数鞅一致可积性准则, 改进和推广了 Novikov 准则和 Kazamaki 准则以及 Lepingle-Memin 的两个结果, 并简化了已有结果的证明。主要结果是:
+定理 3 设 $M$ 为一初值为 0 的连续局部鞅。如果
+$\liminf_{a \uparrow \uparrow 1} \left( E \left[ \exp \frac{a}{2} \langle M, M \rangle_\infty \right] \right)^{1-a} = 1,$
+则 $\mathcal{E}(M)$ 为一致可积鞅。
+
+定理 4 设 M 为一初值为 0 的局部鞅，且 ΔMs > -1。令
+Wt(a) = exp { a/2 <Mc, Mc>t } ∏(1+aΔMs)exp ( - aΔMs / 1+ΔMs ).
+如果 lim inf(E[W∞(a)])^(1-a) = 1，则 E(M) 为一致可积鞅。
+4) 文章 (Yan J A, 1985) 给出了本性上确界与条件期望运算可交换的充要条件：
+定理 5 设 H ⊂ L1 满足 inf{E[ξ] | ξ ∈ H} > -∞，则下列条件等价：
+(1) 对任意的 η1, η2 ∈ H 及 ε > 0，存在 η3 ∈ H，使得
+E[(η3 - η1 ∧ η2)+] < ε;
+(2) E[ess.inf H]=inf{E[ξ] | ξ ∈ H};
+(3) ess.inf H 可积，且对每个 F 的子 σ 代数 G，有
+E[ess.inf H|G] = ess.inf {E[ξ|G] | ξ ∈ H}.
+5) 他与合作者关于半鞅和随机分析的专著受到国际同行的重视和好评。国际专家认为该专著和另一部 Meyer-Dellacherie 的专著是“仅有的两部自封的随机分析专著”。
+2. 白噪声分析
+1) 严加安与法国通讯院士 Meyer 合作的文章中提出了白噪声分析数学框架，被文献称为“Meyer-Yan 空间”，并被写入国际上权威的《数学百科全书》“白噪声分析”条目；
+2) 他与 Kondratiev 等完善了无穷维非高斯分析的数学框架；
+3) 他和合作者关于无穷维随机分析专著受到国际同行的广泛好评。国际专家在书评中指出：“该书是同时处理 Malliavin 分析和白噪声分析的唯一专著，必将成为随机分析专家和数学物理学者的宝贵源泉”。
+3. 金融数学
+1) 给出了连续时间“资产定价基本定理”的修正形式，并与合作者澄清了套利定价理论中的若干基本概念和结果。2002 年 8 月他以此为论题应邀在北京召开的国际数学家大会上做 45 分钟报告；
+2) 与合作者在论文中研究了完备市场中连续时间均值-风险投资组合问题，证明了均值半方差模型和非常广泛的一类具有凸性的风险函数的模型的有效前沿不可达；
+3) 与合作者在论文中研究了不完备市场中 Markowitz 投资组合优化问题，给出了半鞅模型下的一般结果；
+4) 与合作者在论文中利用 Choquet 积分给出了共单调次可加 (或共单调凸) 风险度量的刻画。
+
+三、人才培养和学术思想
+
+1984~2007 年，严加安共计培养出 17 名博士和 7 名硕士。他对硕士生的培养非常强调打好测度论和概率论基础，要求学生不要急着做论文。还要求学生在做论文之前要练好基本功。所谓基本功，就是对基本概念和主要定理的理解和灵活应用，以及对主要定理证明技巧的掌握。他常用“工欲善其事，先必利其器”这一格言劝导学生打好基础，练好基本功。为了给研究生打好测度论和概率论基础，他专门为研究生编写了《测度论讲义》，该书被许多大学用作研究生教材，受到学生的普遍欢迎。他对博士生的培养着重训练他们的独立科研工作能力，鼓励研究生自己找文献和问题，和研究生们在讨论班上共同切磋。例如，1985 年他在法国访问时了解到狄氏型是一个很有发展前途的方向，就写信给当时刚获得博士学位留所工作的马志明，请他组织博士生在讨论班上报告狄氏型专家 Fukushima 的专著，并把狄氏型定为他们的博士论文方向。又如，当他观察到从 80 年代末国际上许多随机分析专家转向金融数学研究，感到有必要在中国开拓这一新领域，于是从 1994 年起就把金融数学方向作为他的博士生的主要研究方向。
+
+如何做学问，严加安遵从的原则是宋朝大文学家苏轼的名言:“博观而约取，厚积而薄发”。这里的“博观而约取”是指“在博览群书时要汲取书中的要领和精髓”，这里“薄发”的原意是“不要随便发表意见”。后人把“厚积薄发”引申为“从大量的知识或材料积累中提炼出精华部分再著书立说”。科研工作要力求创新，如何才能做到这一点呢？严加安认为，创新的基础在于长期的知识积累，但更需要有丰富的想像力和敏锐的直觉。关于创新严加安有一个格言：科技创新犹如化学反应，知识是载体，直觉、想象和灵感是催化剂。做出创新成果也需要有机遇，但机遇只施惠于有准备的头脑 (巴斯德语)。严加安认为：在一定条件下可以人为地去创造产生机遇的环境。他的做法是：为了保持研究活力和对研究问题有新鲜感，每隔一段时期就改变自己的研究领域。在新领域里机遇就会多一些。在改变研究领域的过渡期内，他往往也同时研究几个相关领域。
+
+严加安认为：做学问除了要提高自己的专业素质外，还要提高自己的文化素质和思想境界。一个有较高文化素质的人就能思路开阔，高瞻远瞩，富于联想，触类旁通。他还认为：经常在闲暇时阅读一些古代诗词和名篇佳作可以提高一个人的文化素质和思想境界，创作诗词更可以锻炼自己的形象思维能力。他根据自己从事概率论研究的体会，写了一首《悟道诗》:“随机非随意，概率破玄机，无序隐有序，统计解迷离”。还写了一首《春日有感》:“直觉和好奇，科研原动力，想象和灵感，创新催化剂”。另外，书法是严加安的一项业余爱好。他的一幅作品被《中央电视台二零零七年书画展作品集》收录。他的书法作品《龙》、《福》、《喜》分别被中国书法家协会为迎接北京奥运而出版的《千龙宝典》、《千福宝典》和《千喜宝典》三部宝典收录，另有一幅书法作品获得了 2008 年中国庆奥运诗书画印作品大赛书法作品优秀奖。
+
+严加安的座右铭是：“不求著作等身，但企文章久远”。就是说，他不追求文章的数量和篇幅，而注重文章的质量，力求解决一些基本问题，能够对有关研究领域做出实质性的贡献，希望发表后能得到同行关注和引用，最大的愿望是某些结果能够长远留存下来。据不完全统计，至今已有 30 多部国外专著（不包括他本人的国外专著）引用了他的论文或著作，他有几篇在 20 世纪 80 年代发表的论文至今还被文献引用。
+
+四、严加安主要论著
+
+Yan J A. 1975. Forme mesurable de la théorie des ensembles sousliniens, applications à la théorie de la mesure. Scientia Sinica, 18(4): 444-463.
+
+Yan J A. 1980. Remarques sur l'intégrale stochastique de processus non bornés. Séminaire de Probabilités, XIV. Berlin: Springer: Lecture Notes in Math, 784: 148-151.
+
+Yan J A. 1980. Caractérisation d'une classe d'ensembles convexes de L¹ ou H. Sémminaire de Probabilités, XIV. Berlin: Springer: Lecture Notes in Math, 784: 220-222.
+
+Yan J A. 1980. Criteria for the uniform integrability of exponential martingales. Acta Math Sinica, 23(2): 293-300.
+
+严加安. 1980. 鞅与随机积分引论. 上海：上海科学技术出版社.
+
+Yan J A. 1982. A propos de l'intégrgrabilité uniforme des martingales exponentielles. Séminaire de Probabilités, XVI. Berlin: Springer: Lecture Notes in Math, 920: 338-347.
+
+Yan J A. 1985. On the commutability of essential infimum and conditional expectation operations. Kexue-Tongbao (Science Bulletin), 30(8): 1013-1018.
+
+Meyer P A, Yan J A. 1987. A propos des distributions sur l'espace de Wiener. Séminaire de Probabilités, XXI. Berlin: Springer: Lecture Notes in Math, 1247: 8-26.
+
+Yan J A. 1989. Developpement des distributions suivant les chaos de Wiener et applications à l'analyse stochastique. Séminaire de Probabités, XXI. Berlin: Springer: Lecture Notes in Math, 1247: 27-32.
+
+Meyer P A, Yan J A. 1989. Distributions sur l'espace de Wiener (suite), d'après I. Kubo et Y. Yokoi, Séminaire de Probabilités, XXIII. Berlin: Springer: Lecture Notes in Math., 1372: 382-392.
+
+Yan J A. 1989. Generalizations of Gross' and Minlos' theorems. Séminaire Probabilités, XXIII. Berlin: Springer: Lecture Notes in Math, 1372: 395-404.
+
+Meyer P A, Yan J A. 1991. Les “fonctions caractéristique” des distributions sur l'espace de Wiener. Séminaire de Probabilités, XXY. Berlin: Springer: Lecture Notes in Math, 1485: 61-78.
+
+Potthoff J, Yan J A. 1992. Some results about test and generalized functionals of white noise. Probability Theory. Berlin: Walter de Gruyter: 121-145.
+
+He S W, Wang J G, Yan J A. 1992. Semimartingale Theory and Stochastic Calculus. Beijing: Science Press & Boca Raton: CRC Press.
+
+Yan J A. 1995. Products and transforms of white-noise functionals (in general setting). Appl Math Optim, 31(2): 137-153.
+
+Yan J A. 1998. A new look at the fundamental theorem of asset pricing. J Korean Math Soc, 35(3): 659-673.
+
+Kondratiev Y G, Streit L, Westerkamp W, Yan J A. 1998. Generalized functions in infinite dimensional analysis. Hiroshima Mathematical Journal, 28: 213-260.
+
+Huang Z Y, Yan J A. 2000. Introduction to Infinite Dimensional Stochastic Analysis. Beijing: Science Press & New York: Kluwer Academic Publishers.
+Yan J A. 2002. A numeraire-free and ornginal probability based framework for financial markets. Proceedings of the ICM, III: 861–871.
+Jin H, Yan J A, Zhou X Y. 2005. Continuous-time mean-risk portfolio selection. Ann I H Poincaré-PR, 41: 559–580.
+Xia J M, Yan J A. 2006. Markowitz’s portfolio optimization in an incomplete market. Mathematical Finance, 16(1): 203–216.
+Song Y, Yan J A. 2006. The representations of two types of functionals on $L^\infty(\Omega, \mathcal{F})$ and $L^\infty(\Omega, \mathcal{F}, P)$. Science in China, A49(10): 1376–1382.
+主要参考文献
+马志明. 1996. 中国学者在随机分析领域的若干成果//杨乐, 李忠主编. 中国数学会 60 年. 长沙: 湖南教育出版社: 109–121.
+严加安. 2002. 严加安//程民德主编. 中国现代数学家传. 第五卷. 南京: 江苏教育出版社: 637–648.
+严加安. 2005. 博观约取, 厚积薄发. 科学的道路. 上卷. 上海: 上海教育出版社: 95–98.
+撰写者
+严加安

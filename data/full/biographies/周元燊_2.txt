@@ -1,0 +1,95 @@
+人物：周元燊
+生年：1924年
+逝世：1961年
+研究方向：概率统计（鞅论、最优停止理论、序贯分析）
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第三分册_p428
+页码：42-47
+============================================================
+
+周元棻
+
+周元棻 (1924~ ), 湖北襄樊人。概率统计学家。1949 年 1 月毕业于浙江大学数学系。1949 年 3 月 ~1954 年 7 月任职于台湾大学数学系。1954 年赴美国伊利诺大学数学系攻读博士学位, 师从概率大师 J. L. Doob, 于 1958 年 1 月毕业。毕业后跟 A. H. Taub 做博士后研究航空力学。1959~1961 年任职于 I. B. M. Watson 实验室, 同时在纽约哥伦比亚大学统计系兼职助理教授。1961 年任哥伦比亚大学统计系副教授。1962 年赴美国普渡大学统计系任教, 1965 年升为正教授。1968 年返回哥伦比亚大学统计系任教直至 1993 年退休。1970~1977 年任台湾“中央研究院”数学研究所所长, 期间创办数学集刊, 1974~1980 年任该杂志主编。1967 年当选为国际数理统计学会会士。1974 年当选为台湾“中央研究院”院士。1980 年当选为国际统计学会荣誉会员。
+
+一、学术生涯
+
+周元棻 1924 年 9 月 1 日出生于湖北省襄樊市南漳县周湾村。父亲周鼎臣负责地方治安, 靠土地为生。1929 年因战乱举家迁至汉口。1931 年返回襄樊, 同年周元棻进入襄阳省立第十二小学就读。1932 年全家又由襄樊迁回南漳, 他不愿随家再迁, 寄住于襄阳汉圣庵, 继续在十二小读书。1937 年夏周元棻考取襄阳省立第十五中学, 同年 7 月 7 日日军侵略我国, 未及一年占领华北、华东等地, 襄樊成为对日抗战最前线, 省立十五中西迁 200 公里至均县, 成立湖北省立联合中学均县分校。周元棻 1941 年元月于均县分校毕业后, 与同班同学王嘉琪、姚重华、崔德忻三人在严冬天气历时两周由南漳徒步行至恩施, 准备报考恩施高中。至恩施后发现鄂西高中由教育厅分配入校, 周元棻等四人乃被分配在恩施高级农业职业学校入学。1941 年 7 月周元棻同姚重华、崔德忻徒步四天至万县后搭船至重庆。到重庆后步行一百八十里至合川, 考取在合川的国立第二中学。二中毕业后, 周元棻被保送到贵州的浙江大学数学系, 同班同学有廖崇美、沈文信、吴德昌、董静珊共五人。1944 年 8 月在贵州湄潭永兴场入学, 永兴场是浙江大学新生部所在地, 那年新生共有 300 人左右。不久, 抗日战争形势恶化, 广西柳州被占, 兵临贵州, 浙江大学全部停课。一部分同学组织军事顾问团参加前线抗战, 周元棻和另外一些男同学在校接受军事训练, 成立自卫队准备抗日。两三个月后, 滇缅公路打通, 日军溃退, 浙江大学复课。1945 年夏抗战结束, 此时周元棻随浙江大学由永兴场到湄潭读二年级, 由此得识四年级同学杨忠道、朱润祖等。1946 年夏, 浙江大学迁回杭州, 此时浙江大学龙泉分校也
+
+迁回杭州。数学系二年级除了原来的五人外，又增添了谷超豪、张鸣墉、吴洪鳌、陈庆益四人，共有九人。
+1947 年因内战关系，家中经济来源断绝，周元燊休学半年，经苏步青介绍到杭州青年中学任教。
+日本投降后，1946 年台湾大学由浙江大学罗宗洛、陈建功、苏步青诸位教授接收，罗宗洛为校长，陈建功为教务长，苏步青为理学院院长。在日本统治时代，台湾大学没有数学系，只有数学教研室，苏步青在台湾大学成立了数学系。陈、苏二教授 1948 年回浙江大学后，理学院院长及数学系系主任由沈璇继任。1949 年周元燊浙江大学毕业后，由苏步青介绍给沈璇，于 1949 年 3 月到台湾大学数学系任助教。
+周元到达台湾大学后不久，“中央研究院”数学研究所也由上海搬到台北，借用台湾大学数学系办公室。那时数学所有姜立夫(所长)、胡世桢、王宪钟(研究员)、廖山涛、杨忠道(助理研究员)等，都在台湾大学兼课。稍后“中央大学”原校长周鸿经也在台湾大学兼课，周元燊一直担任周鸿经助教，从周鸿经那里得到很多启示，同时，与王宪钟、廖山涛、杨忠道在这段时期的交往也对周元燊此后的学术发展有很大的影响。
+1954 年 7 月周元燊经杨忠道介绍，获得伊利诺大学数学系奖学金，赴美留学攻读博士学位。次年 7 月中国学生暑期学生会上，得到芝加哥大学陈省身指引师从伊利诺大学概率大师 J. L. Doob。1958 年元月在 Doob 指导下，完成测度论方面的博士论文。
+1958 年元月周元燊获得博士学位后，留校在计算机中心做博士后，跟随 A. H. Taub 从事航空力学研究。1959 年 7 月加入纽约 I. B. M. 研究中心从事图像识别研究。1960 年元月调至纽约市 I. B. M. Watson 实验室工作。Watson 实验室为 I. B. M. 与哥伦比亚大学合办，设在哥伦比亚大学校区，负责哥伦比亚大学的应用数学研究与教学，由于概率属于应用数学，周元燊便在哥伦比亚大学统计系兼任助理教授。哥伦比亚大学统计系此时有 H. E. Robbins, H. Levine, T. W. Anderson, R. Pyke, J. Gani, D. Yilvisaker, J. Sacks, L. Takacs, C. Derman 等教授。周元燊自此时起与 H. E. Robbins 合作，开始概率统计方面的研究。1961 年周元燊升任为哥伦比亚大学副教授，1962 年转至普渡大学，并与 S. Gupta 结为终身好友。1965 年升为正教授，1968 年再回哥伦比亚大学任教。其间于 1967 年当选为国际数理统计学会会士 (IMS Fellow)。
+1968 年夏天，在美国的陈省身和在台湾的王九逵联名写信给在美国从事数学研究的华人学者，询问最近两三年内是否可能利用休假期间去台湾半年或一年，周元燊立即表示很有兴趣，并在 1970 年与赵民德 (后来担任“中央研究院”统计科学研究所筹备处主任及第一、二届所长) 一起返台。1970~1977 年周元燊担任“中央研究院”数学研究所所长。其间创办数学集刊，并自 1974~1980 年担任该杂志主编。除了数学以外，周元燊对台湾计算机的发展也相当注重，1971 年邀请任职 IBM 的刘兆宁返台一年，并由他请张系国一起加入。1974 年在“中央研究院”院士会议上通过成立资讯科学研究所。周元燊同时当选为“中央研究院”院士，并担任资讯科学研究所学术咨询委员会委员。1980 年周元燊、李景均、刁锦寰等由杨忠道领衔出面，在“中央研究院”院士会议提案并通过成
+
+立统计科学研究所，周元燊担任其所设咨询委员会主任委员。
+除此之外，周元燊热心为统计科学培养人才。早在 1962 年即推动哥伦比亚大学招收华人学生，开启了台湾数学系毕业生转学统计的风气。改革开放后，周元燊又积极推动中国大陆发展统计科学，首先在哥伦比亚大学统计系招收中国大陆留学生。先后直接受其影响者有林丕二、黄登源、熊昭、蓝光国、吴建福、魏庆荣、刘月琴、郑祖康、张存惠、周迈、籍传述、钱颖一、郑渝生、应志良、顾鸣高、寇星罡、吴伟标等。
+周元燊经常关心家乡教育事业的建设和发展，自己出资并募捐设立了两个奖学金，一个奖励考入中国顶级高校的学生，另一个资助当地考入重点大学的贫困学生。1989 年周元燊家乡的重点中学创办了数学竞赛。
+周元燊 1967 年当选为国际数理统计学会会士 (Fellow, Institute of Mathematical Statistics)，1974 年当选为台湾“中央研究院”院士，1980 年当选为国际统计学会荣誉会员 (Elected Member, International Statistical Institute)。
+
+二、学术成就
+
+周元燊的主要学术贡献，可从鞅论、最优停止理论以及序贯分析三方面来描述。
+
+1. 鞅论
+
+鞅论的基本定义是从赌局的一些粗糙想法激发出来的。周元燊的博士论文指导教授 J. L. Doob 在 1940 年到 1950 年间的划时代作品，使得鞅论变为近代概率论的重要支柱。
+早在周元燊还是博士生时，他就导出了现在众所皆知的 Hájek-Rényi-Chow 不等式。这是个最大概率不等式，推广了先前 Kolmogorov 及 Doob 在独立变量和下鞅中的结果，而且与他们不同的地方在于不借用 Kronecker 引理可直接导出强收敛定理。当初周元燊发现这个结果，因感于证明简单而询问 Doob 是否适宜发表。是在 Doob 的鼓励下，这篇文章才得以问世。老师的影响，在此可见一斑。
+接着周元燊研究下标 (index) 为有向集 (directed set) 的鞅收敛性质。其动机有部分是因为 Dieudonné提出的一个反例，说明 Doob 的收敛定理在下标并无完全有秩 (totally ordered) 时并不成立。另有一部分是在微分理论里，下标集只要求是部分有秩 (partially ordered)。周元燊引进一些覆盖 (covering) 性质 (有个特例现在叫做 Vitali-Chow 条件)，将古典 Lebesgue 及 Wald 的微分理论，在鞅的架构下统一起来。
+周元燊也做了不少鞅的局部收敛定理，这些结果可用来分析过程的局部表现，在随机回归理论与自适应控制理论里相当有用。
+此外，对鞅收敛与对应平方函数的研究，周元燊是第一位考虑鞅差任何次方和，并且引进三项分解式的人。他得到了指数大过 2 的一些收敛定理，这些都是 Burkholder 不等式难以应用的结果。
+
+2. 最优停止理论
+
+最优停止理论研究在一序列的赌局里，为对其财富最为有利，赌客应何时停止赌局的问题。
+
+自 1961 年起，周元燊和 Robbins 合作发表了一系列基础性的文章，提供了这个问题清晰的数学架构，探讨了最优解是否存在的条件，以及如果存在，如何算出最优停止的规划。其中最有趣的范例就是所谓的“秘书问题”。另外周元燊也和 Robbins 探讨了最优停止理论在动态规划以及 Bayes 序贯分析中的应用。
+
+1971 年周元燊、Robbins 和 Siegmund 出版专著 Great Expectations: The Theory of Optimal Stopping，描绘了最优停止的一般理论。该书目前虽已绝版，却早已成为这个领域的经典之作。
+
+3. 序贯分析
+
+序贯分析是哥伦比亚大学 A. Wald 于 20 世纪 40 年代开创出来的。和经典统计不同的是，序贯分析的抽样程序并不要求样本量固定，而是随时可以根据已有的资料，决定是否停止抽样。Wald 首先在假设检验这个子领域，发展出序贯概率比检验 (SPRT)。
+
+1965 年周元燊和 Robbins 提出了一种对总体平均值的序贯区间估计法，可事先固定置信区间的宽度以及覆盖总体平均值的概率，将序贯方法朝前推进一步，引起相当多的回应作品。1981 和 1982 年周元燊分别和其博士生余启汾及 A. Martinsek 发展了一套序贯点估计法，其特色是该方法具有有界缺憾 (bounded regret)，并且不用假设总体分布的形式。
+
+由于在实用上对序贯点估计法以及其他序贯方法要求对其效能有较精细的描述，因而牵涉到随机漫步 (random walk) 里跨越边界理论与再生理论，周元燊和黎子良、余启汾、熊昭及张存惠等都有相关的合作作品，并集结在专著 Topics on Random Walks 里。
+
+最后必须一提的是，周元燊和 Teicher 合写过一本适合研究生和研究者的教科书：Probability Theory，其副标题是 Independence, Interchangeability, Martingale，里面包含了不少近代发展的结果。1978 年第一版以来，颇受欢迎，并分别在 1988、1997 年修订二、三版。对一本深奥的教科书来说，能出这么多版，而且历时 30 多年，是少有的事，其对学术的影响更加深远难测。
+
+(本文系根据“中央研究院”统计科学研究所前所长魏庆荣教授所写的《周元燊先生传》修改。)
+
+三、周元燊主要论著
+
+Chou Y S. 1960. A martingale inequality and the law of large numbers. Proc Amer Math Soc, 11: 107–111.
+
+Chou Y S, Robbins H. 1961. On sums of independent random variables with infinite moments and fair games. Proc Nat Acad Sci, 47: 330–335.
+
+Chou Y S. 1965. Local convergence of martingales and law of large numbers. Ann Math Statist, 36: 552–558.
+Chou Y S. 1965. A martingale convergence theorem of Ward’s type. J Math, 9: 569–576.
+Chou Y S. 1966. On the moments of some one-sided stopping rules. Ann Math Statist, 37: 382–387.
+Chou Y S, Robbins H. 1966. A class of optimal stopping problems. Proc Fifth Berkeley Symp on Math Statist and Probab, 1: 419–426.
+Chou Y S. 1966. On a strong law of large numbers for martingales. Ann Math Statist, 38: 610.
+Chou Y S. 1968. Convergence of sums of squares of martingales differences. Ann Math Statist, 39: 123–133.
+Chou Y S. 1969. Martingale extensions of a theorem of Marcinkiewicz and Zygmund. Ann Math Statist, 40: 427–433.
+Chou Y S, Robbins H, Siegmund D. 1971. Great Expectations: The Theory of Optimal Stopping. Boston: Houghton Mifflin.
+Chou Y S, Teicher H. 1971. Almost certain summability of independent, identically distributed random variables. Ann Math Statist, 42: 401–404.
+Chou Y S, Lai T L. 1973. Limiting behavior of weighted sums of independent random variables. Ann Probab, 1: 810–824.
+Chou Y S, Lan K K. 1975. Optimal stopping rules for Xn/n and Sn/n. Statistical Inference and Related Topics. Vol 2. New York: Academic Press: 159–177.
+Chou Y S, Teicher H. 1978. Probability Theory. New York: Springer.
+Chou Y S, Hsiung C A, Lai T L. 1979. Extended renewal theory and moment convergence on Anscombe’s theorem. Ann Probab, 7: 304–318.
+Chou Y S, Cuzick L. 1979. Conditions for the existence and nonexistence of optimal stopping rules for Sn/n. Proc Amer Math Soc, 75: 300–307.
+Chou Y S, Yu K F. 1981. The performance of a sequential procedure for the estimation of the mean. Ann Statist, 9: 184–189.
+Chou Y S, Martinsek A T. 1982. Bounded regret of a sequential procedure for estimation of the mean. Ann Statist, 10: 909–914.
+Chou Y S, Yu K F. 1984. Some limit theorems for a subcritical branching process with immigration. J Appl Probab, 21: 50–57.
+Chou Y S, Zhang C H. 1986. A note on Feller’s strong law of large numbers. Ann Probab, 14: 1088–1094.
+Chou Y S. 1991. Moment convergence for reciprocals of some first passage times. Amer J Math and Management Sci, 11: 135–146.
+Chou Y S. 1992. On the law of iterated logarithm and the central limit theorem for the number of runs. Chinese J Math, 20: 217–221.
+Chou Y S, de la Pena V H, Teicher H. 1993. Wald’s equation for a class of de-normalized U-statistics. Ann Probab, 21: 1151–1158.
+Chou Y S. 1994. On the moments of ladder epochs for driftless random walks. Applied Probability Tract: 201–205.
+Chou Y S, Kou S G. 1997. A central limit theorem for the number of success runs: an example of regenerative process. Statist Sinica, 7: 157–166.
+Chou Y S, Cheng T L. 2002. On stable convergence in the central limit theorems. Statist Probab Letters, 57: 307–313.
+
+撰写者
+应志良，哥伦比亚大学，统计系教授。
+张存惠，罗格斯大学，统计系教授。

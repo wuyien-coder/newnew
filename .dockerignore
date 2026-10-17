@@ -11,5 +11,4 @@
 frontend/dist
 reports
 models
-data/full
 *.log

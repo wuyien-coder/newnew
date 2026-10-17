@@ -1,0 +1,194 @@
+人物：李达
+生年：1905年7月20日
+逝世：1998年12月17日
+研究方向：差分方程稳定性
+来源：11680973_中国现代数学家传第5卷_
+页码：136-154
+============================================================
+
+李 达
+
+许 康 苏衡彦
+
+李 达 1905 年 7 月 20 日生于湖南平江。
+1998 年 12 月 17 日在美国加利福尼亚州圣迭戈市逝世。中国近代最早从事差分方程稳定性研究的数学家。
+
+1947 年第三期《科学》上，发表了《三十年来中国的算学》，作者李仲珩。李仲珩，即李达。20世纪三四十年代他先后在清华、山东、同济、重庆、复旦、中央等大学及兰田国立师范学院任教授。后去美研究应用数学，曾服务于阿波罗登月计划。1968年转到加州州立综合工艺大学任教。
+
+* 李达像约摄于 1989 年。——编者
+
+(一)
+
+湖南东北角与江西、湖北接壤的山区，
+是平江县境。平江，近代以彭德怀领导平江起义队伍上井冈山而知名。平江西乡三渡江的李姓，是唐太宗之后人。据史载，李世民
+
+79
+
+特别喜爱第三子李恪,曾想废太子李治传位于李恪,被舅子长孙无忌谏阻。李恪九世孙落籍江西,又四世至李碧山,在石敬塘的后晋天福二年(公元937年),迁往湖南平江。至九世为李可昭,可昭公一族现有约三千人。李达李碧山他的三十八世裔孙。
+李达,族名李后达,幼号奠南,字仲,生于清光绪三十一年六月十八日辰时,小地名是三渡江新平村。其父李介藩(1876—1960),“不好读书,业农,性善,不与人争”。担任过小学校长,乐于助人。妻卢氏,生三子五女,李达排行第二。其兄弟姊妹中,还有四人大学毕业。1947年李达被教育部派赴美国进修前夕,曾最后一次回乡,还在故里小河上捐建了一座木桥。
+关于李达少时情况以及简历,1987年2月24日他应我们的函请,在美国写了一篇几近游戏文字的《李达自传》,全文如下:
+小时我很顽皮,喜谈是非曲直。才进学堂,因为好问,被老师打了一顿。稍大爱抱不平,常遭族邻打骂。连自己的母亲也不喜欢我。
+祖母爱我不偷她的谷子。住房曾被水淹,我未雨绸缪,屋外通沟。她又信任我,告诉我许多叔祖横暴的事实。祖父在世,曾买米赈灾,祖母给我三本登记受惠人姓名和米价的簿子,叫我整个烧掉,莫让伯父知道。
+我父亲没有当过和尚,可真是阿弥陀佛,他会种田,但不知怎样驾牛。
+在欧神庙上高小,只闻钟鼓鞭爆,不知先生在说什么。后来转读东山寺,晋和尚送我一些书,可没教我如何成佛。东山寺石级多、树高大,爬上爬下使我的身体炼得不错。在妙高峰学了一点东西。在中央大学领导“免费驱胡”闹了一次风潮,张乃燕讨嫌我。到德国走了一趟,学了一点数学,回国教了几个学生,才到美国宇航界工作。
+
+一生不会经营,永远是个穷鬼,虽然没下牛棚,将来定入地狱。死前经历,如是我闻。
+
+文中所说的东山寺,初建于唐朝元和年间,清康熙时重修,坐落在牛形山头,寺前有古枫,山下清溪环绕。1913年,长沙教育家童澹村在这里创办高等小学,主持八年,后迁别处,升格为中学,即现在的平江县第五中学。
+
+1919年,李达到长沙,考入妙高峰中学。该校位于长沙城南第一高阜妙高峰,原为宋代创立的城南书院,理学家张栻,字南轩,系丞相张浚之孙,在这里讲学。清代这书院培养的名人很多。新政时期兴办学堂,分为中路师范(即第一师范,毛泽东的母校)和中路中学。北洋军阀时期克扣经费,校董们竭力维持这所中学,校长方克刚动用家产办学,遂改为私立妙高峰中学,现名长沙市第十一中学。
+
+方克刚(1884—1946)字筱川,湖南优级师范学堂毕业(1909),这时已是湖南教育会负责人,思想较先进,赏识同乡少年学子李达的文才和体育成绩,还有张鹿村、陈习丁、傅熊湘等老师也器重他。1923年,李达以优等成绩考入当时与北京大学齐名的东南大学。川资学费无着,方校长请同乡士绅江隽、万国钧资助,才得以赴南京入学。在校又得李马利、商章孙教授支援。几十年后李达仍铭记师长们的恩惠。
+
+李达在东南大学,“初习文史,后改数学”,系主任是熊庆来,还有何鲁、段子燮等教授,同学有周绍濂、陈传璋、周怀衡、胡坤陞、唐培经、周鸿经,可谓人才济济,数学系居国内高校一流地位。李达自述:“革命军兴(按:指北伐战争。按,系作者按,下同),学校改为第四中山大学。是时民生凋敝,交通阻塞,学校加费,学生莫能缴。乃号召同学,作免费运动(按:学生和一部分教师如竺可桢等行动起来,拒绝胡敦复就任校长,以表示对国民党当局的抗议。)政
+
+府以为左倾，开除学籍，系之囹圄。后以所控无征，释归复学。1927年毕业，留校助教。校长张乃燕(按：国民党元老张静江的侄子，留学英国、瑞士，化学博士，时兼江苏教育厅长。张静江是蒋介石的赞助者，故权倾一时)。以李达曾闹风潮，于1928年解其职。因返湘，方校长命在妙中作教务主任。”
+机遇只垂青有准备的头脑。李达的东南大学(这时已改名中央大学)学程及留校任教经历，为其奠定了相当坚实的学业基础。在湘当年，德国学术院(Deutsche Akademie)在中国招收研究生，两个名额给予湖南。教育厅长黄士衡，主张公平竞争、公开考试。李达欣然报名应考，榜发，名列第一。另一位中试者是何凤山(1901—1997)，长沙雅礼大学(美国耶鲁大学雅礼学会在湘所办学校)毕业生。湖南省政府主席何键本乃一武夫，这时也附庸风雅，给他们以旅费资助，顺利进入德国慕尼黑大学。李达学数学，何凤山攻读经济学。
+李达师从庇隆(O. Perron)、卡拉西奥陀利(C. Caratheodory, 1873—1950)，后者是原籍希腊的数学家，闵可夫斯基门下博士，擅长实函、复函、偏微、变分法和数值计算，对热力学公理化和狭义相对论也有贡献。还有哈尔托格(Hartogs)。此外，按规定要选修天文学和物理学，于是他分别在威尔肯(Wilkens)和索末菲(A. Sommerfeld)的课程上下功夫。李达从这几位奇才那里学到了终身受用的知识和技巧。
+留学期间，他争取到了中华教育文化基金会的庚款。在他之前(该款从1928年起开始资助)，数学家中只有江泽涵(1930)获得过，而他以“变系数差分方程组解的稳定条件”课题，连续两年(1932, 1933)得到资助，共计1500美元。以后几年内，胡坤陞、陈传璋、曾炯、程毓准、周绍濂、葛世勋、华罗庚、许宝騄、吴大任、陈省身、李国平、周鸿经、方德植也陆续得到资助。对于上述项目，李达在瑞典的 Acta Mathematica(《数学学报》)发表了几篇论文，以后在
+
+瑞士的 Commentarii Mathematici Helvetici(《数学通讯》)还有新作。
+1932 年9月4日—12日,第9届国际数学家大会在瑞士苏黎世召开,他与熊庆来、许国保(交通大学在德进修教师)、曾炯(哥廷根大学博士生)报名参加,结果曾炯迟到未能入场。他们三人“以远道而来,亦颇受人注意”。“移时名家 Hilbert(希尔伯特)氏到,群趋瞻仰,我国代表,由 Hilbert 之学生美人 Hurwitz(胡尔维茨)介绍,亦与略谈。”这是中国数学家首次出席最高级别的国际数学盛会。
+李达攻读博士学位期间,与德国小姐、慕尼黑大学语源学专业学生杜泛霓(这是李达为她取的汉语名字)邂逅,两人感情日笃,终于缔结姻缘。先是,李达少年时家中已为他定亲,对象是朱蕙文,女子师范肄业,婚后感情不合,生有一子。现既另结新欢,他们办理了离婚手续。
+1933年,李达获得数学博士学位,这时德国纳粹党已经上台,他像躲避瘟疫一样,旋即去巴黎研究。1934年,偕新夫人杜泛霓道经苏联回国,在车箱飘散的浓郁马合烟(劣质烟草)气味中,经过漫长的西伯利亚旅途,辗转来到北平,应熊庆来之聘在清华大学任数学教授,不久去山东大学,任数学教授并兼系主任,然后又去同济大学,这所大学以德语作为第一外国语,其夫人更适应这里的环境和任教;1936年,为他生下一女。七七事变爆发,他们随同济大学迁赣州。寒假,全家去香港及澳门。这时,同济校长翁之龙以李达反纳粹为由,解除对他的聘约。于是全家返湘,到湖南安化县兰田镇(现属涟源县),就任新成立的国立师范学院数学系主任之职。当时该系还有陈传璋、杨善基、李修睦等人,实力不弱。学院虽然条件简陋,而人才济济,如钱基博、钱钟书父子即分别在中文系和外文系任教,他们与李达均有一定的交往。杜泛霓在外文系任德语副教授。后来钱钟书的小说《围城》所写的“三闾大学”即有该校影子,但该小说并非写实文学。
+李达在兰田镇,还义务在内迁到那里的妙高峰中学兼课,以报
+83
+
+答恩师方克刚等人的提携。在国立师院,他培养的学生如戴世虎,当年参加战时全国大学生数学竞赛,取得第一名的好成绩。这时,妻子杜泛霓再赴香港,在德国领事馆的胁迫下,与李达离异。而在国立师范学院,院长廖世承是留美教育学博士,作为国民党、三青团的中央监委,学术思想和教育见解都与李达不合,发生争执。于是李达离职,去四川任重庆大学教授,然后应聘内迁重庆北碚夏坝的复旦大学理学院院长兼教授职务。
+在重庆时期,李达又争取到管理中英庚款董事会的补助,用以担任中央大学的(拔尖人才)“讲座教授”。据统计,抗战期间约有近400人次得到补助,李达是其中之一。复旦大学这时改为国立,办学条件比内迁初期有所改善,有五个学院,学生达到二千余人,不过数学系这样的冷门,入学者很少,比起西南联大、浙江大学逊色一些,李达鼓励真心向学的曹锡华等人另觅高校,这反映他实事求是的作风。夏坝风光优美,名师荟萃,思想活跃,被称为民主堡垒。嘉陵江水澄碧,林阴道树影婆娑,身为理工学院长的李达,这时赢得了一位女性的芳心,她就是文学院的学生张文方。其祖父张彪,清末曾任两湖提督,民国时寓居天津,张文方是将门之后,逃难到四川。纵然师生年龄差距很大,两情相悦,结为连理,相扶相伴,达半个世纪。李达后来与侄儿的信这样写道:“谈到婚姻问题,真是人生大事,选得不够谨慎,失足便成千古恨。”这是他两次婚姻失败的经验教训。而与张文方的结合,他认为:“大叔(按:指自己)很幸运,遇着了大婶(按:指张文方)。大婶省吃俭用,克己疼人,对婆家对娘家毫无区别。若不是她细心管理,也许大叔晚年饭都没得吃。原因是:大叔好冒险,有点钱喜乱用;大婶是保守的,喜欢脚踏实地,稳扎稳打,才积下一点钱。”
+整个抗战时期,李达像大多数数学教授一样,忙于教书育人,过着艰苦清贫的日子,学术研究成果质量均不如战前。1945年
+84
+
+秋，抗战胜利学校复员，迁回上海江湾旧址，与他曾任教的同济大学相距颇近，时移世换，已非从前。1946年，儿子李方仲出生，比女儿李天芳小10岁，这时前妻长子李凡甫已19岁了。
+在1947年，他仍在上海，应陈省身教授之请，为《科学》月刊撰写了《三十年来中国的算学》（载于该刊1947年第3期），署名李仲珩。该文约一万余字，共分三章。在“编年的(地)写”一章中，介绍了国内从事数学研究的冯祖荀等“开山祖”及来华的外国数学家，并将1916年至1946年分为上下两个半期，依年序简述了胡明复、苏步青、陈建功、江泽涵、熊庆来、赵访熊、杨振宁、周培源等学者所做的工作。在“分门的(地)写”一章中，介绍了在算学史、代数、数论、群论、分析、拓扑、几何七大领域内国内学者所做的主要工作，并作了评介。在“目前和将来”一章中，论及了当时国内已形成的六个数学研究中心及其中浙大、清华成就最大的五个原因，列举出国人发表数学论文的20余种国内外主要刊物名录，提出要以“合作运动”取代“英雄主义”来进行研究；要以打倒“门面主义”来办好“算学研究所”；以请国外学者来华，聊补中国高校数学教授之缺乏。李在文末的“编后语”中对学术空气的养成所应具备的条件、中国大学学生的学习现状、高校数学教师的聘任提出了自己的看法。由于当时资料收集的困难，又系催稿赶写，内容不免疏漏，该文未能全面反映数学界的情况。不过，李达勉为其难的这番尝试，毕竟为中国数学史界的现代史研究打了头炮，留下了若干史料，提出的某些观点，至今还有一定的参考价值。
+写完该文，他又获得教育部派赴美国进修的资格。回湘省亲之后，即携妻儿出国，在依阿华州德拉克大学(Iowa Drake University)访学和任教。1948年，他得Dr. Richard Bellman(贝尔曼,1920—1984,动态规划创始人,微分和变分法也有重要贡献)介绍，至Chance Vought公司研究飞机机翼受力情况。1950年，转入通用动力公司的Canvair Division(按：似可译为“飞行筒壳部”),探
+
+讨火箭在零重力场时物体的动态。1962年，他到北美宇航部（现为 Rockwell 国际宇航部）参加阿波罗登月计划工作，曾任科研主任。1968年退休，到加州州立工艺大学任数学教授，1974年以年迈再次退休，定居圣迭戈（San Diego）的莫拉加（Moraga）林阴道私宅。
+李达长子在四川自贡，是离休干部；女儿是德国弗赖堡大学文学博士，任德国南德气象研究所主任；二儿李方仲，美国加州大学（伯克利）理学硕士；三儿李小珩，美国加州大学（圣迭戈）理学硕士。李达退休后，“居林下，感师恩，思己过。听潮，栽花，悼亡，待召（按：指待上帝召去）”，1998年12月8日不慎跌倒，昏迷9天后去世。终年90有三。
+（二）
+李达主要的学术成就，按他自己的总结，有如下几个方面：
+1. 稳定性控制的基础理论。他在攻读博士学位时，即致力研究变系数差分方程组解的稳定性问题，难度很大，在中国是第一人，在国际上也居先驱地位。他得到的稳定性准则（判据），被哈亨（Wolfgan Hahn）、贝尔曼和甘特马赫尔（Gantmacher，苏联数学家）先后收入其专著中，从而被广泛引用用于稳定性控制研究工作。这样说来，他算得上中国现代微分—差分—泛函方程稳定性理论的开山人物了。（参见他的论文目录[3]）
+2. 气流中机翼的弹性变形问题——超音速飞机设计的“马赫单元方法”（Mach Box Method）。他本人译为“矩格法”，并称其表格由麻省理工学院编制，故又称 MIT Box Method。依飞机预定最高速度（马赫数）来计划翼形，其受力情况按分划成的“矩格”计算，使得设计出的机翼能抵抗最高速度引发的振动，免遭折损。“目下各国均用此法。”（参见论文目录[10]）
+
+3. 壳体理论——极轨道地球物理观测卫星周频。按他的解释，这是20世纪50年代美国用火箭发射极轨道卫星时，要符合15周频率，而火箭壳体的振动问题要作相应的分析，他研究出“内涨薄壳理论”和结构法解决问题，在阿特拉斯火箭和大力神火箭上得到验证。（参见论文目录[9],[11]）
+4. 流体力学——在失重条件下液体的动态问题。他运用其师索末菲的最小动能原理加以解决。对于液体燃流火箭而言，因为飞行过程中重力不断发生变化，所以事先分析预测各种重力水平下的燃料位置具有基本的意义；即使是固体燃料火箭，里面也有其他流体应加以考虑。同时，还涉及人体内流体失重造成的影响。因而“这一理论运用于每一件有流体的宇航器上”。他指出，苏联物理学家朗道（Landau，诺贝尔奖获得者）也曾运用最小动能原理研究流体量问题，不过两人讨论的对象条件不同。（参见论文目录[22],[27]和[40]）
+5. 热传导——在绝热故障下土星Ⅱ号航天器的水的温度预测。他第一次解决了封闭状态下热动力边界层方程式的建立和求解问题。（参见论文目录[41]和[42]）
+6. 流体力学——奈威尔-斯托克司（Navier-Stokes）方程的积分问题。他自称：“我发明了127年以来未解决的两种新的逼近方法，看来它们是这个问题的解的最佳逼近。”（参见论文目录[20]等）美国在海湾战争前夕曾使用该方程预测油井燃烧后果。
+此外，他在奇异积分变换方面的成果，也得到数学界的广泛引用（参见论文目录[17]、[19]、[23]）。
+李达在中央大学任助教时，其师周君适命他翻译奥地利裘倍尔（E. Czuber）的《统计研究法》（1920），此书在他去德国后才于1931年4月译毕，1933年在国内出版。
+李达还获得中华教育文化基金会的科学教育委员会（编译委员会）资助，撰著《积分方程概论》，时在1935年，此前仅有秦汾的
+
+《解析几何》列入数学类著作资助。另外像申又枨、胡浚济、吴大任等人也获得资助,但都是翻译数学名著。关于积分方程,他与张世勋(著《积分方程式论》,1936)并列国内最早作者之冠。此外当时仅有胡敦复、范会国、顾澄合译了美国波瑟尔(M.Bocher)的《积分方程式导引》(1935)。
+李达除发表了数学史论文之外,对数学哲学也有一定的兴趣,因为德国高等学府的哲学氛围是相当浓重的,他受到影响。据查,他曾撰写《数学的本质和应用》一文,登在南京中华自然科学社编印的《科学世界》杂志第4卷第11期(1935),该期是“数学专号”,还载有李锐夫《数学之目的》、徐正凡《数学之发展》等文。
+李达在加州综合工艺大学任教时,同事(教研室主任)给他的鉴定称:“李先生够得上我系最有价值成员资格。他的教学经验和技巧受到全体教员的认可和学生的爱戴。”“他是一名极活跃的研究员,其发表的论文超过本室其他人的总和,现正从事修订教科书工作。”“李先生服务于几个部门委员会,他对本系最大的支持是在全体教师会议上频繁地发表有价值的建议。”
+(三)
+李达才思敏捷,下笔千言,倚马可待,不需润饰,即成佳篇,到老童心不泯,善作文字游戏,如所居城市 San Diego,他译为“山地夜过”、“山地夜歌”、“三弟二哥”,可见一斑。今录他的诗文几则:
+1.重九游 Partnachklamm 寄伯珊兄(按:作于1930年)
+Partnachklamm 为明兴西南94公里 Garmisch Partenkinhen 风景最佳处。岩层中断,飞桥若线,泉水潺潺。山顶有酒店,有赤松,山间月照,风味飘然。
+
+谁家新月照人圆？欲拈茱萸路万千！
+断岸飞桥人入画，飘风滴露境疑仙。
+半山烟雨迷归路，一片泉声出洞天。
+对酒高歌人不解，醉来且抱赤松眠。
+
+2. 西江月 并 序
+石潭湖(Starnberg Sea)在西德巴阳(Bayern, Bavaria 巴威略)首都明兴(Muenchen 慕尼黑)西南 15 公里, 1929—1934 年余在德读书,时往游水荡舟。1956 年至比都布拉塞尔(Bruxelles)第 9 届世界力学会提出论文,抽暇重游石潭湖。兴酣唱郑板桥“老渔翁道情”,邻船有人探头拍手相和。问之,知系在德读书之国人,感而赋此。
+
+几度石潭湖上,晓风残月新腔。
+另来世事几沧桑,且喜青山无恙!
+风景何妨引吭,隔舟可是同乡?
+探头拍手和锵锵,惊起沙鸥相望。
+
+3. 忆舟行三峡 用区鲤腾兄原韵
+
+夹岸猿声送客舟,吾年怎似水长流?
+熙熙攘攘何时了,谁个江头数白鸥!
+
+4. 怀古 楚霸王
+
+为甚坑降卒? 因何去范增? 只凭匹夫勇,叱咤起风云。
+秦火连三月,雠仇集一身。人言斯可杀,垓下刎无因?
+那得虞姬泪? 长辜父老心。未能城众志,遂使拥污君。
+哀哉重瞳子,神化误一生!
+
+89
+
+5. 三渡江修桥 高寄鹊桥仙
+
+倚门待我,扶肩问字,竹马青梅往事。
+今朝生死两茫茫,只有请天公恩赐。
+西岩路断,牛郎空想,怎得织姑相会?
+两岸大桥通,从此饮醇醪自醉。
+
+(按:作于1994年)
+
+(四)
+
+李达以耄耋之年仍然十分关心他的祖国,他在家信中写道:
+“邓副总理在美备受欢迎,收获颇大……要建社会主义的国家,先是破坏旧社会,再用科技建设新社会。科技是知识,知识在现代国家中,非常要紧。中国得迎头赶上,改善生活。空着肚子,是没法工作的。现在单叫口号倒甲批乙的时期,已经过去。大家得努力工作,共求进步。”(1979年2月14日)
+“美国物价依然上涨,美苏军备竞争,资本家坐收其利,将来必定两败俱伤。仔细看来,邓小平的办法倒是对的。”(1981年)
+“在美国住的中国人,多数是赞成中国大一统的,尤其是科工人(按:指科技教育工作者)如此。只要香港问题和平解决,主权归给中国,台湾的疙瘩便可迎刃而解了。”(1983年3月30日)
+关于小孩的教育问题,他有这样一段话:
+“孩子们读书,一是天性,一是习惯。天分差,难改。习惯懒,可善劝不可打骂,顶好和颜悦色做一个笑脸的听话人,去打听对方的意见,然后去规劝他。同时,小孩的学业和教师的教法有关。我当教授多年,常问自己:‘为什么学生在别人的班上听不懂,在我的
+
+班恍然大悟？'教孩子要和颜悦色把眼睛望着他，千万不要将他看做罪犯去审。”(1983年9月6日)
+
+李达主要论著目录
+[ 1 ] Neue Beweise zu den Carmichalschen Sactzen, Journal fuer die reine und angewandte Mathematik, Berlin, Vol. 164, 1931.
+[ 2 ] Die Ordnungszahlen Linearer Differenzenglei chungssysteme, Acta Mathematica, Stockholm, Vol. 61, 1933.
+[ 3 ] Die Stabilitaetsfrage bei Differenzengleichungen, Acta Mathematica, Stockholm, Vol. 63, 1934.
+[ 4 ] Beitraege zur Eigenwerttheorie, Tsinghua Science Report, Peking, 1936.
+[ 5 ] Some Theorems on Uniform Convergence, Tung-Chi Jubilee Presentatation, Shanghai, 1938.
+[ 6 ] Ueber die Allgemeine Differentialgleichung, Commentarii Mathematici Helvetici, Zuerich, Vol. 12, 1940.
+[ 7 ] Aerodynamic Influence Coefficients for an Oscillating Finite Thin Wing, Report NO. 9513, Chance Vought Aircraft, 1954.
+[ 8 ] Tip Effect on an Oscillating Thin Wing in Supersonic Flow, Report 9518, Chance Vought Aircraft, 1955.
+[ 9 ] Vibration and Flutter of Thin Pressurized Shells in Supersonic Flow, Math-Preprint No.6, Convair-Astronautics, 1955.
+[10] Aerodynamic Influence Coefficients for an Oscillating Finite Thin Wing in Supersonic Flow, IAS Journal, Vol. 23, No. 7, 1956.
+[11] Influence of Internal Pressure and supersonic Potential Flow on the Frequencies of thin, Finite, Cylindrical Shells, Proceedings of the Ninth International Congress of Applied Mechanics held in Brussels, September, 1956.
+[12] A Method for the Solution of an Eigenvalue Problem with a Complex Matrix, Reader's Forum, IAS Journal, Vol. 23, No. 7, 1956.
+[13] Fundamental Equations Governing Potential Flow Past Bodies of Revolution at an Angle of Attack, Math-Preprint No. 10, Convair Astronautics, 1957.
+
+[14] Cumulative Distribution Function of a Sum of Independent Random Variables, Report ZU - 7 - 119 - TN, Convair-Astronautics, 1956.
+[15] Spherically Symmetrical Universe of Constant Curvature and its Application to the General Theory of Relativity, 1958, Unpublished.
+[16] Coupled Potential Flow Past Inclined Bodies of Revolution at High Speeds, Report No. AZR - 005, Convair-Astronautics, 1959.
+[17] A New Class of Integral Transforms, Mathematical Preprint Series No. 15, Convair-Astronautics, 1959.
+[18] Are-Tangent Fits for Pressure and Pressure-Drag Coefficients of Axisymmetric Blunt Bodies at All Speeds, Reader's Forum, IAS Journal, Vol. 27, No. 4, 1960.
+[19] A New Class of Integral Transforms, Proc. Am. Math. Soc., Vol. 11, 1960, pp. 290—298.
+[20] Some Integral Equations in Fluid Dynamics, Applied Math Series, No. 19, Convair-Astronautics, 1960.
+[21] Ueber die Partiellen Ableitungen der Von Karman-Tsienschen Potentiale, Zeitschrift f. Angenvandte u. Mechanik, Bd. 40, Heft 7/8 1960.
+[22] Liquid Behavior in a Zero-g Field, Report AE60 - 0682, Convair-Astronautics Revised September 1960.
+[23] A Note on Integral Transforms, Proc. Am. Meth. Soc., Vol. 12, 1961, pp. 556.
+[24] Liquid Behavior in a Zero-g Field Including Volume Ratio Effect$, Paper presented to the 29th IAS Annual Meeting, IAS Paper No. 61—20, January 1961.
+[25] Preliminary Studies of Liquid Behavior in a Low-g Field, Report ERR—AN—036, Convair-Astronautics, 1961.
+[26] Cryogenic Liquids in an Absence of Gravity, Invited Paper presented at the Cryogenic Engineering Conference, University of Michigan, August 15, 1961, "Advances in Cryogenic Engineering," Vol. 7, 1962.
+[27] Hydrostatics in Various Gravitational Fields, Journal of Chemical Physics, Vol. 36, 1962.
+
+[28] Integration of the Two-Dimensional Equations of Motion for a Viscous, Incompressible, Unsteady Flow, SID 62—986, North American Aviation, Inc. 1962.
+[29] Service Propulsion System Ullage Requirements, A Zero-g Cookbook, NAA Report SID 62-1 445-Reissued 1 March 1963.
+[30] Proposal for Research on Nonlinear Acoustics, NAA Report SID 63—247, 12 March 1963.
+[31] Proposal for an Analytical and Experimental Study of Propellant Line Dynamics, NAA Report SID 63—990, 30 August 1963.
+[32] Proposal for a Study of Libration Induced in Thin-Walled Pipes by Fluid Flow, NAA Report SID 64—613, 17 March 1964.
+[33] Vibration of a Propellant Line Containing Flowing Fluid, (co-author). AIAA Fifth Annal Structures and Materials Conference, Palm Springs, (April 1964). AIAA Publication CP-8, pp. 194—199.
+[34] Proposal for an Analytic Study of Interface Dynamics, NAA Report SID 64 - 664 - 1, 9 April 1964.
+[35] Proposal for an Analytical Study of the Unsteady Airloads Behind a Launch Vehicle, NAA Report SID 64—46, 25 May 1964.
+[36] Proposal for an Investigation to Define the Propagation Characteristics of a Finite Amplitude Acoustic Pressure Wave, NAA Report SID 64—1 220, 11 June 1964.
+[37] Unsteady Aerodynamics for Advanced Configurations Part IV Potential Flow Ground a Paraboloid-Air Force Report FDL-TDR-64-152 Part IV dated October, 1964.
+[38] Propellant Oscillation in an Elongated Tank Under Low-Gravity Conditions NAA Report 66—1 300.
+[39] Hydrodynamic Analysis of Apollo Water Impact (NAS9-4 552)-NAA Report SID 67—498 dated May, 1967.
+[40] Thermodynamic Considerations of Droplets and Bubbles (co-authored with S. S. Penner)-AIAA Vol. 5 - No. 8 dated August, 1967.
+[41] Heat Transfer in Condensing Boundary Layer Around Saturn Vehicle-NAA
+
+Report SID 67—582.
+[42] Condensing Boundary Layer Heat Transfer in the Forward Bulkhead-Skirt Region of the Saturn S-II Vehicle, NAA Report SD 67—1 133 dated October, 1967.
+[43] Flow Analysis of a Bubble Shell Around Ships and Torpedoes-NR Report SD 68—46.
+[44] Three Dimensional Unsteady Flow Around a Body of Arbitrary Shape, Briefing to Aero Astrodynamics Lab. MSFC-NASA Huntsville dated April 23, 1968.
+[45] Subsonic Flow Around Parafoil with Flow Separation, Briefing to the Office of the Director of Engineering and Development MSC NASA Houston dated April 25, 1968.
+注：以上为李达本人的“论文择举”。
+
+作者简介 许康 湖南省长沙市人，生于 1940 年 2 月。湖南大学数学力学系毕业，现为湖南大学数学教授，科技哲学与科技史硕士生导师，管理科学与工程博士生导师。与李达是长沙市妙高峰中学校友。苏衡彦 江苏省盐城市人，生于 1950 年 1 月，湖南大学应用数学系毕业，并攻读系统工程和经济学硕士课程，现为湖南大学数学副教授，科技哲学与科技史硕士生导师。
+
+鸣谢：本文先得戴世虎教授、方罗山总工（已故）提供线索，后承周肇锡、孙家永教授介绍，由李达之侄李葛民工程师提供信函及《李氏族谱》1995 年版，获益良多。关于李达与庚款基金的关系，参考了张奠宙教授及李旭辉同志的论著，一并致谢。
+
+(2000 年 9 月初稿。2001 年 6 月修订稿。有删节)
+
+94

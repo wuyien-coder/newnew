@@ -1,0 +1,162 @@
+人物：侯振挺
+生年：1936年3月1日
+逝世：1986年
+研究方向：概率论
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第三分册_p428
+页码：368-378
+============================================================
+
+侯振挺
+
+侯振挺 (1936~)，河南新密人。概率论学家。国家级有突出贡献的科技专家，全国劳动模范。现任中南大学教授、博士生导师，中南大学铁道科技研究院副院长、数学学院名誉院长、概率统计研究所所长。1979~1986 年担任 Probability Theory and Related Fields 编委，1986~1999 年担任《数理统计与应用概率》主编，现兼任湖南省科协名誉主席、湖南省数学会名誉理事长、全国工程概率统计学会名誉理事长。侯振挺早年研究排队论；20 世纪 60 年代至今一直研究 Markov 过程，在齐次可列 Markov 过程许多方面做出了一系列创造性的工作。侯振挺首创了“最小非负解理论”，发展了王梓坤的“极限过渡法”。特别是 1974 年发表在《中国科学》上的论文《Q 过程唯一性准则》，成功地解决了概率界数十年悬而未决的 Q 过程的唯一性问题，此成果被国际同行称为“侯氏定理”，侯振挺因此获得 1978 年度国际戴维逊奖。1997 年他和他的学生们提出了马氏骨架过程新概念并加以研究，在排队论、可靠性理论、随机网络等学科得到成功地应用。1960 年至今，在国内外重要刊物上发表论文 80 多篇，出版专著 11 本。
+
+侯振挺于 1936 年 3 月 1 日出生在河南省密县 (现新密市) 大隗镇纸坊村的一个普通农家。1955 年秋，侯振挺考入唐山铁道学院 (现西南交通大学) 铁道工程系。由于经济困难，1956 年秋至 1957 年秋侯振挺曾休学一年，在铁道部速成中学做数学教员。这一年，他不仅通过教学实践进一步熟练了初等数学的内容、方法和技巧，同时还自学了数学分析、线性代数、抽象代数等现代数学的基础课程。1958 年他转入学院新成立的数学力学系应用数学专业，师从黄克欧、郭可詹和苗邦均等。从此义无反顾地走上了数学学习和研究的道路，实现了多年的夙愿。
+
+1960 年大学毕业后，他被分配到长沙铁道学院任教。1962 年又回唐山铁道学院进修概率论，期间深入地学习了王梓坤的《随机过程论》油印讲义 (当时尚未出版) 和钟开莱的专著 Markov Chains with Stationary Transition Probabilities。1963 年夏至 1964 年夏他在唐山铁道学院进修，协助他的老师苗邦均主持概率专门化课程的教学，主要讲授概率论的极限理论。在此期间他还经常赴中国科学院运筹室和韩继业、徐光煇、董泽清、方开泰等师从越民义研习排队论，打下了研究概率论的坚实基础。
+
+1964 年回到长沙铁道学院后，侯振挺潜心于 Markov 过程的研究，解决了齐次可列 Markov 过程中的一系列重要理论问题，形成了自己的研究方法和风格，特别是成功地解决了 Markov 过程构造论中的唯一性问题，建立了 Q 过程的唯一性准则。这项工作在国
+
+内外产生了相当的影响，他因此而获得 1978 年度国际戴维逊奖。1978 年英国皇家学会会员、戴维逊基金会主席惠特尔写给中国科学院院长的信中对侯振挺的成就给予很高的评价。全国 30 多家大报几乎同一天报道了侯振挺的优秀事迹和成就。
+
+1978 年全国科学大会在北京召开，侯振挺光荣地出席了这次盛会，并获得全国科学大会成果奖和个人奖。鉴于他在学术上的成就和影响，湖南省人民政府破格将他从助教直接提升为教授。他从这一年开始招收和培养研究生。1982 年他所领导的研究室成为国务院首批公布的博士点，迄今已为国家培养了大批人才。其中，与严士健联合培养的博士毕业生陈木法已成为当今国际概率统计界知名的数学家，博士生陈安岳已受聘为英国利物浦大学讲座教授，博士生邹捷中的博士学位论文获得 1987 年度国际戴维逊奖，成为继侯振挺以后我国第二次获得此奖的数学工作者。
+
+20 世纪 80 年代中期开始，侯振挺和他的学生们对既含稳定态又含瞬时态的一般情形的 $Q$ 矩阵问题进行长达十年的研究，取得一系列的成果，并写成《Markov 过程的 $Q$ 矩阵问题》一书出版。
+
+1988 年，他的专著《齐次可列 Markov 过程》的英文版在德国施普林格出版公司出版。
+
+20 世纪 90 年代中期，侯振挺开始研究 Markov 决策过程，与博士生郭先平解决了此领域的一系列问题。这些成果均包括在他们的专著《Markov 决策过程》中。
+
+1997 年，侯振挺及其学生刘再明、邹捷中又提出了一类新的随机过程——Markov 骨架过程，并奠定了这类过程的理论基础，大大地拓广了 Markov 过程的研究和应用领域。
+
+侯振挺十分重视数学的应用研究，早在 20 世纪 70 年代就发表过关于铁路客流组织和煤炭调运的数学方法的论文，这些论文在铁路运输中有着实际的意义。他还十分关注湖南省的经济建设，先后主持完成了“湖南省能源模型”、“湖南省长、株、潭一体化”、“生产、经营、管理专家支持决策软件开发”、“消费趋势分析与需求预测”、“市场预测与风险管理”、“铁路行车安全评估体系”、“防洪减灾系统工程”、“航天育种”等多个省、部级项目，取得了丰硕的理论成果和实际的社会经济效益。
+
+侯振挺十分注重国际交流，应邀出国、出境访问讲学 20 多次。在他的倡导和组织下，1999 年 8 月与澳大利亚南澳大学联合在长沙举办了“马氏过程与受控马氏链”国际会议，2006 年 8 月与北京师范大学联合在长沙举办了“马氏过程及相关论题”国际会议。美国科学院院士、康奈尔大学 E. Dynkin，日本京都大学 Watanabe，墨西哥 O. Hernandez-Lerma，瑞士 A. Harrie，加拿大科学院院士 S. Sethi 及国内外该领域的绝大部分专家等都参加了这些学术会议。
+
+侯振挺思维活跃，学风严谨，品德优良，待人宽厚，为他的同事和学生所称道。
+
+侯振挺现任中南大学教授、博士生导师、湖南省科协名誉主席、湖南省数学会名誉理事长、中国工程概率统计学会名誉理事长。1984～2000 年担任长沙铁道学院副院长、科研所所长，期间曾担任湖南国际经济学院院长（后并入湖南财经学院）。他先后担任过
+
+中国数学会理事、中国科协委员、湖南省科协主席、中国工程概率学会理事长，《数学年刊》、《应用概率统计》等杂志编委、德国《概率论及其相关领域》编委、美国《数学评论》评论员。
+侯振挺曾先后获得 1978 年国际戴维逊奖、1978 年全国科学大会奖、1982 年国家自然科学三等奖等 20 余次省部级以上奖励。被评为湖南省劳动模范、全国铁路模范、全国劳动模范、国家级有突出贡献的科技专家（全国首批）、湖南省优秀科技工作者称号。
+侯振挺的主要数学工作如下所述。
+
+一、马氏过程
+
+侯振挺解决了齐次可列 Markov 过程中许多重大问题，取得了第一流的成果，如首创了“最小非负解理论”，发展了王梓坤的“极限过渡法”，在马氏链研究中首次引入场论工具，使一般情形下的 Q 矩阵问题有了突破性的进展，特别是论文《Q 过程唯一性准则》解决了数十年悬而未决的 Q 过程唯一性问题。
+
+Q 过程唯一性准则：
+
+设 X(t) 是一个状态空间为 E = (0, 1, 2, ⋯) 的稳定的齐次可列 Markov 过程。令 P_{ij}(t) = P(X(t) = j | X(0) = i)，周知 P'_{ij}(0) = q_{ij} (i, j ∈ E) 满足如下条件：
+0 ≤ q_{ij} < +∞ (i ≠ j), 0 ≤ q_i ≤ q_{ii} < +∞, ∑_{j∈E} q_{ij} ≤ 0 (i ∈ E)
+
+满足上述条件的矩阵 Q = (q_{ij}) 叫做 Q 矩阵，满足条件 P'_{ij}(0) = q_{ij} 的一切马氏过程都叫做 Q 过程。反过来，任给一个 Q 矩阵，问 Q 过程是否存在？Q 过程是否唯一？第一个问题在 1944 年由 Feller 解决，他证明了 Q 过程总存在。侯振挺于 1974 年给出了第二个问题的解答，结果如下：
+设任给一个 Q 矩阵，则存在唯一 Q 过程的充要条件是下列两个条件同时成立：
+(1)
+inf_{i∈E} λ ∑_{j∈E} p_{ij}^{min}(λ) = η_λ > 0, 0 < λ < +∞,
+其中 P_λ^{min} = (p_{ij}^{min}(λ), i, j ∈ E) 是最小 Q 过程，即
+p_{ij}^{min}(λ) = ∫_0^∞ e^{-λt} f_{ij}(t)dt (i, j ∈ E, 0 < λ < +∞),
+而
+f_{ij}(t) = ∑_{n=0}^∞ f_{ij}^{(n)}(t) (i, j ∈ E),
+
+· 360 ·
+20 世纪中国知名科学家学术成就概览 • 数学卷 • 第三分册
+
+$$
+\left\{
+\begin{array}{l}
+f_{i j}^{(0)}(t)=\delta_{i j} \mathrm{e}^{-q_{i} t} \\
+f_{i j}^{(n+1)}(t)=\sum_{k \neq i} \int_{0}^{t} \mathrm{e}^{-q_{i}(t-s)} q_{i k} f_{k j}^{(n)}(s) \mathrm{d} s
+\end{array} \quad(i, j \in E),\right.
+$$
+
+$$
+(n \geqslant 0, i, j \in E) .
+$$
+
+$$
+\left\{\begin{array}{l}
+\lambda n-n Q=0_{-}, \quad \lambda>0, \\
+0_{-} \leqslant n, \quad \sum_{i \in E} n(i)<+\infty
+\end{array}\right.
+$$
+
+只有零解，其中 $\boldsymbol{n}=(n(1), n(2), \cdots), \mathbf{0}_{-}=(0,0, \cdots)$ 。
+
+$Q$ 过程的唯一性准则得到国际学术界的广泛关注与引用，在国内外产生了广泛影响。
+
+(1) 1976 年，剑桥大学 Reuter 撰文简化了“$Q$ 过程唯一性准则”的证明，并将其命为“侯氏定理”。
+
+(2) 该成果获 1978 年度戴维逊奖。戴维逊基金会主席在给中国科学院院长的信（得奖通知）中写道：“四十多年来数学家们非常关心这个问题，他们多次作了特别的努力以寻求唯一性问题的答案。但是，直到这位有天赋的年轻人发表他的论文以前，所有的努力都失败了。他的杰出论文引起了广泛的注意，这是因为他的答案具有完整性和最终性。我们高度评价侯振挺的工作。”
+
+(3) 1990 年，Jacobsen 在 Mathematical Reviews 上评论侯振挺的专著写道“使中国概率论研究群体在 Markov 链方面的工作首次在国际上引起广泛的关注”。“在稳定态 $Q$ 过程理论的研究方面，本书处当前最先进水平”。
+
+对于在马氏过程构造论方面的工作，著名概率专家 K. B. Athreya 指出：“1950 年以前 Kolmogorov, Feller 和 Doob 进行了奠基性的工作，此后，这方面的研究得到西方学者的一些关注，主要有 Kendall, Reuter, Williams 和 K. L. Chung。在中华人民共和国也有一群研究该问题的数学家，他们满怀激情，并且就我们所知，取得了很大的成功，他们的领导者是侯振挺。”
+
+二、Markov 骨架过程
+
+1997 年，侯振挺、刘再明、邹捷中等提出了一类新的随机过程的概念——Markov 骨架过程，拓广了 Markov 过程的研究和应用领域，并针对 Markov 骨架过程的理论及其应用进行了一系列的研究。该理论主要有两个结果：
+
+一是用以计算 Markov 骨架过程的概率分布的向后方程。设 $X(t)$ 是一个随机过程，状态空间为 $E, \tau_{0} \equiv 0,\left(\tau_{n}\right)_{(n \geqslant 1)}$ 是一系列停时，且 $\tau_{n} \uparrow(n \rightarrow \infty)+\infty$ 。若 $X(t)$ 在 $\left(\tau_{n}\right)_{n \geqslant 1}$ 上有 Markov 性，则称 $X(t)$ 为一 Markov 骨架。若令
+
+$$
+\begin{aligned}
+& h(x, t, A)=P(X(t) \in A, t<\tau_{1} \mid X(0)=x), \\
+& q(x, t, A)=P\left(X\left(\tau_{1}\right) \in A, \tau_{1} \leqslant t \mid X(0)=x\right),
+\end{aligned}
+$$
+
+即
+$q(x, \mathrm{d}s, \mathrm{d}y) = P(X(\tau_1) \in \mathrm{d}y, \tau_1 \in \mathrm{d}s | X(0) = x),$
+$P(x, t, A) = P(X(t) \in A | X(0) = x),$
+则 $\{P(x, t, A)\}$ 是下列非负线性方程的最小非负解：
+$P(x, t, A) = h(x, t, A) + \int_E \int_0^t q(x, \mathrm{d}s, \mathrm{d}y) P(y, t-s, A).$
+上述方程叫做 $X(t)$ 的向后方程，囊括了很多的经典结果并在排队论、存储论、可靠性等领域中已获成功应用。
+二是一类特殊的 Markov 骨架过程 Doob 骨架过程的极限理论，如可列 Markov 过程、半 Markov 过程、GI/G/n 排队系统及带 Possion 输入的排队网络等都是 Doob 骨架过程。用这一结果成功地处理了上述诸例的极限问题。
+2000 年出版的专著《马尔可夫骨架过程》得到了国内外同行的高度评价，其英文版已列入丘成桐和王元主编的科学出版社和美国 International Press 联合出版的《现代数学丛书》出版计划，于 2005 年 10 月正式出版。英国皇家学会会员、原剑桥大学统计实验室主任 David Williams、加拿大皇家学会会员 Don Dawson 等概率论专家为之作序，并给予高度评价，认为 Markov 骨架过程理论是“原创性工作、为许多重要的随机过程的研究提供了系统的基础”，“在很多领域中有很大的应用潜力”，“必将对这些领域产生深远的影响”。
+Markov 骨架过程是新开辟的研究领域，是中国人自己提出的新随机过程概念，目前已引起国际同行的高度关注并开始研究。如 U. Rieder 在 2006 年冬季学期组织了 MSP 专题讨论班。
+三、排 队 论
+早在大学学习期间，侯振挺解决了著名学者 Palm 和 Khinchin 分别于 1943 年和 1955 年提出的一个公开问题，论文《排队论中巴尔姆断言的证明》于 1961 年在《数学学报》发表（后转载 1963 年《中国科学》）。苏步青在《新中国数学工作的回顾》一文中将此成果列为排队论三项主要成果之一。
+近年来，侯振挺又从事排队论研究，得到了系统而深入的成果。其一，利用补充变量技巧把任一排队过程化为既是 Markov 过程又是 Markov 骨架过程进行研究，从而用 Markov 骨架过程的向后方程理论给出了任一排队过程的瞬时分布，特别是解决了几十年来悬而未决的 GI/G/n 排队队长的瞬时分布难题。例如，对 GI/G/1 排队系统所得结果如下：
+以 $A(t)$ 和 $B(t)$ 分别表示 GI/G/1 排队系统的相邻顾客到达时间间隔和服务时间的
+
+分布函数，对 $\theta_1 \geqslant 0, \theta_2 \geqslant 0$, 令
+$A_{\theta_1}(t) = \frac{A(t+\theta_1) - A(\theta_1)}{1 - A(\theta_1)}, \quad B_{\theta_2}(t) = \frac{B(t+\theta_2) - B(\theta_2)}{1 - B(t+\theta_2)}$
+以 $L(t)$ 表示时间的队长。令 $\tau_0 \equiv 0, \tau_n$ 是 $(L(t), \theta_1(t), \theta_2(t))$ 的第 $\tau_n$ 断点，则 $(L(t), \theta_1(t), \theta_2(t))$ 既是 Markov 过程也是以 $(\tau_n)_{n \geqslant 0}$ 为骨架时序列的 Markov 骨架过程。令
+$P(i, \theta_1, \theta_2, j, t) = P(L(t)=j | L(0)=i, \theta_1(0)=\theta_1, \theta_2(0)=\theta_2).$
+由 Markov 骨架过程的向后方程可得，$\{P(i, \theta_1, \theta_2, j, t)\}$ 是下列非负线性积分方程的最小非负解：
+$P(i, \theta_1, \theta_2, j, t) = h(i, \theta_1, \theta_2, j, t) + I_{\{0\}}(i) \int_0^t \mathrm{d}A_{\theta_1}(s)P(i+1, 0, \theta_2+s, j, t-s)$
+$+ I_{\{1, 2, \cdots\}} \left[ \int_0^t (1-A_{\theta_1}(s))\mathrm{d}B_{\theta_2}(s)P(i-1, \theta_1+s, 0, j, t-s)$
+$+ \sum_{s \leqslant t} (A_{\theta_1}(s) - A_{\theta_1}(s-))(B_{\theta_1}(s) - B_{\theta_2}(s-))P(i, 0, 0, j, t-s)$
+$+ \int_0^t (1-B_{\theta_2}(s))\mathrm{d}A_{\theta_1}(s)P(i+1, 0, s_2+s, j, t-s) \right],$
+其中
+$h(i, \theta_1, \theta_2, j, t) = \begin{cases} 0, & j \neq i; \\ 1, & j=i=0; \\ (1-A_{\theta_1})(1-B_{\theta_2}(t)), & j=i>0. \end{cases}$
+Marcel F. Neuts, David Williams 等认为侯振挺最近的成果是杰出的，是排队论的新进展。其次，用 Doob 骨架过程的极限理论给出了许多排队过程的极限分布；最后，利用 Markov 骨架过程和 Markov 过程中最近发展起来的各种遍历性理论给出了诸多排队过程的各种遍历性条件。
+
+四、侯振挺主要论著
+
+侯振挺, 郭青峰. 1960. 怎样使时间和运费最省 —— 物资调运中的图上作业法. 科学大众, 12: 482-483.
+侯振挺. 1961. 排队论中的巴尔姆断言的证明. 数学学报, 2: 188-191.
+Hou Z T. 1963. On a problem of Palm in the theory of queueing processes. Scientia Sinica, XII(8): 1105-1109.
+Hou Z T. 1974. The criterion for uniqueness of a Q-process. Scientia Sinica, XVII(2): 141-159.
+侯振挺, 郭青峰. 1978. 齐次可列 Markov 过程. 北京: 科学出版社.
+Hou Z T, Chen M F. 1980. Markov processes and field theory. Chinese Science Bulletin, 25(10): 807-811.
+Hou Z T. 1985. On a conjecture of Kendall D.G. Stochastic Processes and their Applications, 21(1): 67-68.
+Hou Z T, Guo Q F. 1988. Homogeneous Denumerable Markov Processes. Berlin: Springer-Verlag & Beijing: Science Press.
+
+Hou Z T. 1991. Q-matrix problem. Probability and its Application in China. Contemporary Mathematics, 118. Providence: American Mathematical Society: 127-148.
+侯振挺, 邹捷中, 张汉君, 等. 1994. Markov 过程的 Q 矩阵问题. 长沙: 湖南科学技术出版社.
+Hou Z T, Liu Z M, Zou J Z. 1998. Markov skeleton processes. Chinese Science Bulletin, 43(11): 881-889.
+侯振挺, 刘万荣, 刘再明, 等. 2000. Markov 骨架过程——混杂系统模型. 长沙: 湖南科学技术出版社.
+Hou Z T. 2002. Markov skeleton processes and application to queueing systems. Acta Mathematicae Applicatae Sinica (English Series), 18(40): 537-552.
+Hou Z T, et al. 2003. Transient distribution of the length of GI/G/N queueing systems. Stochastic Analysis and Applications, 21(3): 567-592.
+Hou Z T, Liu Y Y. 2004. Explicit criteria for several types of ergodicity of the embedded M/G/1 and GI/M/n queues. J Appl Probab, 41(3): 778-790.
+Hou Z T, Liu G X. 2005. Markov Skeleton Processes and Their Applications. Beijing: Science Press & Boston: International Press.
+Hou Z T, Luo J W, Shi P. 2005. Stochastic stability of linear systems with semi-Markovian jump parameters. ANZIAM J, 46: 331-340.
+Hou Z T, Yu Z, Shi P. 2005. Study on a class of nonlinear time series models and ergodicity in random environment domain. Mathematical Methods of Operations Research, 61(2): 299-310.
+Hou Z T, Li X H. 2005. Ergodicity of quasi-birth and death processes (II). Chinese Journal of Contemporary Mathematics, 26(2): 145-156.
+Hou Z T, Luo J W, Shi P, et al. 2006. Stochastic stability of Ito differential equations with semi-Markovian jump parameters. IEEE Trans Autom Control, 51(8): 1383-1387.
+Hou Z T, Li X H. 2007. Ergodicity of quasi-birth and death processes (I). Acta Mathematica Sinica (English Series), 23(2): 21-208.
+Liu Y Y, Hou Z T. 2007. Explicit convergence rates of the embedded M/G/1 queue. Acta Mathematica Sinica, 23(7): 1289-1296.
+撰写者
+李俊平, 1962 年 11 月 26 日出生, 中南大学数学科学与计算技术学院教授, 主要从事概率论与数理统计的研究工作。师从侯振挺教授。在 AAP, JAP, 《中国科学》等国内外著名学术刊物上发表论文 50 多篇, 合著专著 2 部。
+王洪, 1977 年 8 月 22 日出生, 中南大学数学科学与计算技术学院助理研究员, 主要从事网络信息安全、办公自动化研究。2000 年至今一直在侯振挺办公室工作。

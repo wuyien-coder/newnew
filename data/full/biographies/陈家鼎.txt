@@ -1,0 +1,149 @@
+人物：陈家鼎
+生年：1937年1月27日
+逝世：1995年
+研究方向：数理统计、可靠性理论
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：28-38
+============================================================
+
+陈家鼎
+陈家鼎 (1937~), 湖北浠水人。统计学家。北京大学数学科学学院教授, 曾任北京大学概率统计系系主任 (1985~1995)、北京大学数学科学学院副院长 (1995~1998) 和中国概率统计学会理事长 (1998~2002), 他的主要研究领域是数理统计与可靠性理论。主要学术成果是: 发展了不完全数据情形下的最大似然估计理论; 对于一类独立增量过程的简单假设, 论证了序贯概率比检验是唯一最优的检验; 对于两类复杂假设均提出了渐近最优的序贯检验; 对于未知方差时正态分布均值的单边假设, 给出了渐近最优的功效是1的检验; 提出了寻求参数置信限的一般理论和方法, 并成功地给出了无失效情形下可靠性参数的最优置信下限的计算公式等。陈家鼎坚持理论研究与应用研究并重, 主持了多项应用课题的研究工作, 他主持的“导弹武器系统可靠性增长试验的设计与统计分析”获中国航天科技总公司科技进步二等奖 (1996), 他与郑忠国等人合作的项目“可靠性评定的数学理论及其应用”获北京市科技进步二等奖 (2002)。
+一、简 历
+陈家鼎, 湖北人, 1937年1月27日出生于湖北省浠水县, 1954~1959年在北京大学数学力学系数学专业学习。毕业后一直在北京大学任教。长期从事数理统计的理论与应用研究, 历任助教、讲师、副教授和教授。曾于1982年9月至1983年9月在美国哥伦比亚大学统计学系访问进修一年。曾任北京大学概率统计系系主任 (1985~1995), 北京大学数学科学学院副院长 (1995~1998), 中国概率统计学会理事长 (1998~2002), 中国统计学会副会长 (2001~2004), 全军装备可靠性标准化技术委员会委员 (1986~1994) 及《数理统计与管理》刊物的主编 (2005~2008)。妻子潘文杰是北京大学数学科学学院的教授, 从事函数论的教学与科研工作。育有一子一女。
+二、主要研究领域和成就
+陈家鼎的学术工作主要在数理统计和可靠性分析领域, 围绕不完全数据情形下的统计推断及统计假设的序贯检验开展理论与应用研究, 特别注意统计方法在可靠性工程中的应用。主要在下列三个方面。
+1. 研究不完全数据情形下的最大似然估计
+在工业产品的寿命试验和生存分析研究中常遇到不完全数据。有两类不完全数据最
+
+为常见，一类是定时定数混合截尾试验中的数据，另一类是随机截尾下的数据，(陈家鼎，1980) 对前者进行了研究，(Wang J, Chen J D, 1997a) 对后者进行了研究。
+设随机变量 X 取值于 $(\lambda, \infty)$ $(-\infty \leqslant \lambda < \infty)$，分布函数是 $F(x, \theta)$，密度函数是 $f(x, \theta)$ (关于 Lebesgue 测度)，其中 $\theta$ 是未知参数，$\theta \in \Theta$，$\Theta$ 是 $m$ 维欧氏空间的非空开集。给定两个正整数 $n, r$ ($r \leqslant n$) 及数 $T$ ($\lambda < T \leqslant \infty$)。从分布函数是 $F(x, \theta)$ 的总体中随机抽取 $n$ 个个体同时进行寿命试验 (或观测)，如果在时刻 $T$ 之前观察到 $r$ 个寿终，则试验 (或观测，下同) 就在第 $r$ 个寿终的时刻停止，否则试验进行到时刻 $T$ 或所有个体都寿终为止。这就是所谓 $(n, r, T)$ 型试验方案 (定时定数混合型方案)。当 $T < \infty$ 时，$(n, n, T)$ 方案是定时截尾方案，当 $T = \infty$ 时，$(n, r, T)$ 方案是定数截尾方案，$(n, n, \infty)$ 方案是完全寿命试验方案。设 $n$ 个个体的寿命分别是 $x_1, \cdots, x_n$，它们是概率空间 $(\Omega, \mathcal{F}, P_\theta)$ ($\theta \in \Theta$) 上独立同分布的随机变量，共同分布函数是 $F(x, \theta)$，设 $x_1^{(n)} \leqslant \cdots \leqslant x_n^{(n)}$ 是 $x_1, \cdots, x_n$ 的次序统计量。令
+$\tau = \begin{cases} \max \{i : x_i^{(n)} \leqslant T \text{且} i \leqslant r\}, & \text{当} x_1^{(n)} \leqslant T, \\ 0, & \text{当} x_1^{(n)} > T, \end{cases}$
+则 $(n, r, T)$ 型方案下试验的停止时间是 $\zeta = \min(x_r^{(n)}, T)$，获得的寿终数据是 $x_1^{(n)}, \cdots, x_r^{(n)}$ (也可能一个没有)。陈家鼎在 (陈家鼎，1980) 中首先指出，随机向量 $(x_1^{(n)}, \cdots, x_r^{(n)})$ 关于某个与 $\theta$ 无关的测度的分布密度为
+$L_n(\theta) = \frac{n!}{(n-\tau)!} \prod_{i=1}^{\tau} f(x_i^{(n)}, \theta) [1 - F(\zeta, \theta)]^{n-\tau},$
+这个函数的最大值点 $\hat{\theta}$ 便是 $\theta$ 的最大似然估计。(陈家鼎，1980) 中对密度函数 $f(x, \theta)$ 提出了一组限制条件 (通常的寿命分布如指数分布、Weibull 分布、对数正态分布等均能满足)，使得最大似然估计 $\hat{\theta}$ 存在，并在补充条件 $\lim_{n \to \infty} \frac{r_n}{n} = p > 0$ 下证明了 $(n, r_n, T)$ 型方案下的最大似然估计 $\hat{\theta}$ 具有强相合性，即
+$P_\theta(\lim_{n \to \infty} \hat{\theta} = \theta) = 1 \quad (\text{对一切} \theta \in \Theta),$
+还在一些补充条件下证明了 $\hat{\theta}$ 的渐近正态性和渐近有效性。这些是对 (Halperin M, 1952) 中结果的显著改进。(Halperin M, 1952) 中只考虑定数截尾情形 (即 $T = \infty$ 情形)，而且在比 (陈家鼎，1980) 中条件更强的条件下只证明了 $\hat{\theta}$ 的弱相合性，即 $n \to \infty$ 时 $\hat{\theta}$ 依概率收敛于真值 $\theta$。
+论文 (Wang J, Chen J D, 1997a) 研究随机截尾情形下的最大似然估计。设 $x_1, \cdots, x_n, y_1, \cdots, y_n$ 是相互独立的随机变量列，$x_1, \cdots, x_n$ 有相同的分布函数 $F(x, \theta)$ 和密度函数 $f(x, \theta)$ (关于某个测度)，其中 $\theta$ 未知，$\theta \in \Theta$，$\Theta$ 是 $m$ 维欧氏空间中的非空开集，$y_1, \cdots, y_n$ 有相同的分布函数 $G(x)$ ($y_i$ 可取 $\infty$ 值)，但 $G(x)$ 未知。随机截尾情形的数据是
+$Z = (t_1, \delta_1, \cdots, t_n, \delta_n),$
+
+陈家鼎 · 19 ·
+其中 $t_i = \min(x_i, y_i)$, $\delta_i = I(x_i \leqslant y_i)$, $i = 1, \cdots, n$, $\delta_i$ 是示性函数, $x_i \leqslant y_i$ 时 $\delta_i = 1$, $x_i > y_i$ 时 $\delta_i = 0$。
+(Wang J, Chen J D, 1997a) 中指出随机向量 $Z$ 关于某个与 $\theta$ 无关的测度的密度为
+$L_n(\theta) = \prod_{i=1}^n (f(t_i, \theta))^{\delta_i} (1 - F(t_i, \theta))^{1-\delta_i},$
+这个函数 $L_n(\theta)$ 的最大值点 $\hat{\theta}$ 便是 $\theta$ 的最大似然估计。(Wang J, Chen J D, 1997a) 在对 $f(x, \theta)$, $F(x, \theta)$ 及 $G(x)$ 提出了一组限制条件之后证明了最大似然估计 $\hat{\theta}$ 存在而且是 $\theta$ 的强相合估计, 常见的寿命分布及常见的截尾限制均满足所提出的条件。
+2. 研究统计假设的序贯检验
+对于假设检验来说, 在犯两类错误概率被指定的条件下, 寻找样本量尽量小 (或观测时间尽量短) 的检验法是统计学的重要目标。陈家鼎的论文 (Chen J D, 1985, 1986, 1987, 1991, 1994) 都是关于这个目标的。
+(1) 对一类随机过程的简单假设论证了序贯概率比检验是唯一最优的检验
+设 $(x_t, t \geqslant 0)$ 是概率空间 $(\Omega, \mathcal{F}, P)$ 上的右连续随机过程, 其中 $P$ 是 $\sigma$ 代数 $\mathcal{F}$ 上的概率测度 $P_0$ 或 $P_1$, 但不知是哪一个。要根据该过程的一段观测值回答检验问题:
+$H_0: P = P_0 \longleftrightarrow H_1: P = P_1,$
+这里 $H_0$ 是零假设 (即 $P_0$ 是真正的概率测度), $H_1$ 是备择假设。令 $\mathcal{F}_t = \sigma(x_u, 0 \leqslant u \leqslant t)$ (使所有 $x_u (u \leqslant t)$ 都可测的最小 $\sigma$ 代数)。称 $\Delta = (\tau, d)$ 是一个检验法, 若 $\tau$ 是 $\sigma$ 代数流 $\mathcal{F}_t$ 的停止时间 ($0 \leqslant \tau \leqslant \infty$), $d$ 是在 $\{\tau < \infty\}$ 上有定义的取值于 $\{0, 1\}$ 的 $\mathcal{F}_\tau$ 可测函数 ($\mathcal{F}_\tau$ 是 $\tau$ 前 $\sigma$ 代数)。$\Delta$ 的直观意义是, $\tau$ 指示观测过程何时停止, $d$ 指示我们观测停止后是否接受 $H_0$, $d=0$ 表示接受 $H_0$, $d=1$ 表示拒绝 $H_0$。设 $P_1$ 与 $P_0$ 在 $\mathcal{F}_t$ 上相互绝对连续, $L(t)$ 是 $\mathcal{F}_t$ 上 $P_1$ 对 $P_0$ 的 Radon-Nikodym 导数, 给定 $0 < A < 1 < B < \infty$, 令:
+$\tau^* = \inf \{t : t \geqslant 0, L(t) \bar{\in} (A, B)\},$
+$d^* = \begin{cases} 0, & \text{当 } \tau^* < \infty \text{ 且 } L(\tau^*) \leqslant A, \\ 1, & \text{当 } \tau^* < \infty \text{ 且 } L(\tau^*) \geqslant B. \end{cases}$
+$\Delta^* = (\tau^*, d^*)$ 便是著名的序贯概率比检验法。Dvoretzky 等人 (1953) 首先提出这个 $\Delta^*$ 并猜测: 当对数似然比过程 ($\ln L(t), t \geqslant 0$) 是时齐独立增量过程时, $\Delta^*$ 有如下的最优性: 设 $\Delta = (\tau, d)$ 是任一检验法, 满足 $P_0(d=1) \leqslant P_0(d^*=1)$ 和 $P_1(d=0) \leqslant P_1(d^*=0)$, 则一定成立: $E_i \tau \geqslant E_i \tau^*$ ($i=0, 1$), 这里 $E_i$ 是相对 $P_i$ 的数学期望符号。Irle 和 Schmitz(1984)(Irle A, Schmitz N, 1984) 严格证明了这个猜测是正确的。陈家鼎在 (陈家鼎, 1987) 中利用最优停止理论进一步证明了 $\Delta^*$ 是唯一最优的检验法。具体结果如下。
+
+若对数似然比过程 $(z_t, t \geqslant 0)$ 是右连续时齐独立增量过程 $(z_t \stackrel{\triangle}{=} \ln L(t))$, $P_i(z_0 = 0) = 1$, $E_i|z_1| < \infty$ 且对一切 $t > s \geqslant 0$, $x \in (-\infty, \infty)$ 有
+$$P_i(z_t \leqslant x|\mathcal{F}_s) = P_i(z_t \leqslant x|\mathcal{C}_s) \ (i = 0, 1).$$
+这里 $\mathcal{C}_s = \sigma(z_u, 0 \leqslant u \leqslant s)$。则对任何检验法 $\Delta = (\tau, d)$，只要满足 $P_0(d = 1) \leqslant P_0(d^* = 1)$ 和 $P_1(d = 0) \leqslant P_1(d^* = 0)$ 且 $E_i\tau \leqslant E_i\tau^* \ (i = 0, 1)$，则一定成立 $P_i(\tau = \tau^*, d = d^*) = 1 \ (i = 0, 1)$。
+(陈家鼎, 1987) 中指出，当 $(x_t, t \geqslant 0)$ 是所谓指数型过程时上面提出的条件是满足的，而 Poisson 过程和 Wiener 过程都是指数型过程。
+(陈家鼎, 1987) 中还指出，用同样的方法可以证明离散时间情形的 Wald 序贯概率比检验是唯一最优的检验。
+(2) 对两类复杂假设提出了渐近最优的检验
+设 $x_1, x_2, \cdots$ 是概率空间 $(\Omega, \mathcal{F}, P_\theta)$ 上独立同分布的随机变量列，$x_1$ 关于某 $\sigma$ 有限测度有分布密度
+$$f(x, \theta) = \exp \{\theta x - \psi(\theta)\},$$
+这里 $\theta \in (\underline{\theta}, \overline{\theta})$, $-\infty \leqslant \underline{\theta} < \overline{\theta} \leqslant \infty$, $\theta$ 是未知的。考虑检验问题：
+$$H_0: \theta \leqslant \theta_0 \longleftrightarrow H_1: \theta \geqslant \theta_1,$$
+这里 $\theta_0 < \theta_1$ 均是 $(\underline{\theta}, \overline{\theta})$ 中的已知数。称 $\Delta = (\tau, d)$ 是检验法，若 $\tau$ 是 $\{x_n, n \geqslant 1\}$ 的停止时间 $(1 \leqslant \tau \leqslant \infty)$, $d$ 是 $\{\tau < \infty\}$ 上有定义、取值于 $\{0, 1\}$ 的 $\mathcal{F}_\tau$ 可测函数，$\mathcal{F}_\tau$ 是 $\tau$ 前 $\sigma$ 代数。$d = 0$ 表示接受 $H_0$, $d = 1$ 表示拒绝 $H_0$。给定 $\alpha > 0$, $\beta > 0 \ (\alpha + \beta < 1)$。令
+$$\mathcal{F}(\alpha, \beta) = \left\{ \Delta = (\tau, d) : \sup_{\theta \leqslant \theta_0} P_\theta(d = 1) \leqslant \alpha \text{且} \sup_{\theta \geqslant \theta_1} P_\theta(d = 0) \leqslant \beta \right\}.$$
+一个引人关注的问题是，如何在 $\mathcal{F}(\alpha, \beta)$ 中找出平均样本量 $E_\theta\tau$ 尽量小的检验法？这里 $E_\theta\tau$ 是 $\tau$ 在测度 $P_\theta$ 下的均值。利用 Hoeffing (Hoeffing W, 1960) 的结果可以证明，对任何 $(\tau, d) \in \mathcal{F}(\alpha, \beta)$，有
+$$\liminf_{\alpha+\beta \to 0} \frac{E_\theta\tau}{-\ln(\alpha+\beta)} \geqslant \frac{1}{J(\theta)} \quad (\text{一切}\theta),$$
+其中 $J(\theta) = \max(K(\theta, \theta_0), K(\theta, \theta_1))$, $K(\theta, \varphi) \stackrel{\triangle}{=} (\theta - \varphi)\psi'(\theta) - (\psi(\theta) - \psi(\varphi))$。
+陈家鼎在 (Chen J D, Hichernell F J, 1994) 中提出了一类检验法 $(\tilde{\tau}, \tilde{d}) \in \mathcal{F}(\alpha, \beta)$, $\tilde{\tau}$ 是有上界的且
+$$\lim_{\substack{\alpha+\beta \to 0 \\ \ln \alpha \sim \ln \beta}} \frac{E_\theta\tilde{\tau}}{-\ln(\alpha+\beta)} = \frac{1}{J(\theta)} \quad (\text{一切}\theta).$$
+换句话说，$(\tilde{\tau}, \tilde{d})$ 是渐近最优的。$\ln \alpha \sim \ln \beta$ 的含义是 $\lim_{\alpha+\beta \to 0} \frac{\ln \alpha}{\ln \beta} = 1$。
+
+(Chen J D, Hichernell F J, 1994) 中还将上述结果推广到指数型随机过程上去，也得到了渐近最优的检验法。对于指数型的过程，陈家鼎在 (Chen J D, 1991) 中对零假设是 $H_0: \theta \leqslant \theta_0$，备择假设是 $H_1: \theta > \theta_0$ 的检验问题，也提出了一类渐近最优的检验法。
+(3) 研究正态分析均值的功效是 1 的检验
+设 $x_1, x_2, \cdots$ 是概率空间 $(\Omega, \mathcal{F}, P_{\theta\sigma})$ 上独立同分布随机变量列，$x_1$ 服从正态分布 $N(\theta, \sigma^2)$，$\theta$ 和 $\sigma^2$ 均未知，给定 $\theta_0$ 及 $\alpha \in (0, 1)$。考虑检验问题：
+$H_0: \theta \leqslant \theta_0 \longleftrightarrow H_1: \theta > \theta_0,$
+检验水平是 $\alpha$ 功效是 1 的检验法由序列 $(x_n, n \geqslant 1)$ 的停止时间 $T$ ($1 \leqslant T \leqslant \infty$) 所确定：当且仅当 $T < \infty$ 时拒绝 $H_0$ (即观测一旦停止就拒绝 $H_0$，未停止就不拒绝 $H_0$)，而且 T 满足
+$P_{\theta\sigma}(T < \infty) \leqslant \alpha \quad (\text{一切} \theta \leqslant \theta_0, \sigma > 0), \quad (1)$
+$P_{\theta\sigma}(T < \infty) = 1 \quad (\text{一切} \theta > \theta_0, \sigma > 0). \quad (2)$
+对于这样的 $T$，Robbins 和 Siegmund (Robbins H, Siegmund D, 1974) 证明了不等式：
+$\limsup_{\theta \downarrow \theta_0} (\theta - \theta_0)^2 \left( \ln \ln \frac{1}{\theta - \theta_0} \right)^{-1} E_{\theta\sigma} T \geqslant 2\sigma^2 P_{\theta_0\sigma} (T = \infty), \quad (3)$
+这里 $E_{\theta\sigma}T$ 是 $T$ 在测度 $P_{\theta\sigma}$ 下的均值。对给定的 $\sigma$，(Robbins H, Siegmund D, 1974) 中还找到了这样的 $T$(依赖于 $\sigma$)：满足 (1) 和 (2) 且使 (3) 式中等号成立。对于未知的 $\sigma$，陈家鼎在 (Chen J D, 1985) 中证明了，存在停止时间 $T_1$，使得 (1) 和 (2) 成立且使 (3) 中等号成立。换句话说，方差未知时，对于均值的单边假设存在渐近最优的功效是 1 的检验法。但对给定的 $\alpha$，这个 $T_1$ 不易具体确定，(Chen J D, 1986) 中提出了甚易确定的停止时间 $T_2$，它满足 (1) 和 (2) 且使 (3) 式中 (用 $T_2$ 代替 $T$ 后) 等号成立。
+3. 用样本空间排序法寻找各种情形下参数的置信限
+设 $Z = Z(\omega)$ 是概率空间 $(\Omega, \mathcal{F}, P_\theta)$ 到可测空间 $(E, \mathcal{B})$ 的可测映射，这里 $\theta \in \Theta$，$\Theta$ 是任意非空集合。设 $g(\theta)$ 是 $\Theta$ 上有定义的广义实值函数。根据 $Z$ 的观测值，如何找出 $g(\theta)$ 的置信下限和置信上限？这是统计学和可靠性评定中的重要问题。为了解决这个问题，陈家鼎在 (陈家鼎, 1993) 中提出了最一般情形下的样本空间排序法，特别适用于不完全数据情形。它是 Buehler (Buchler R J, 1957) 的方法的推广，Buehler 曾对离散随机变量用排序法寻求参数的置信限。样本空间排序法把寻求置信限问题转化为最优化计算问题，且所得到的置信限有某种优良性。用这个方法解决了很多实际工作中提出的问题。
+(1) 可找出时间序贯情形下指数分布均值的置信限
+设某批产品的寿命 $X$ 服从指数分布，即 $P_\theta(X \leqslant x) = 1 - \exp(-x/\theta)$ ($x \geqslant 0$)，其中 $\theta$ 是未知的正数。在寿命检验中要处理检验问题：
+$H_0: \theta \geqslant \theta_0 \longleftrightarrow H_1: \theta \leqslant \theta_1,$
+
+这里 $\theta_0 > \theta_1 > 0$, $H_0$ 是零假设, $H_1$ 是备择假设。在该批产品中随机抽取 $n$ 件同时进行寿命试验, 假设这 $n$ 件的寿命分别是 $x_1, \cdots, x_n$, 在时刻 $t$ 得到的观测值是
+
+$Z(t) = (y_1(t), \delta_1(t), \cdots, y_n(t), \delta_n(t)),$
+
+其中 $y_i(t) = \min(x_i, t)$, $\delta_i(t) = I(x_i \leqslant t)$, $i = 1, \cdots, n$, $\delta_i(t)$ 是示性函数, $x_i \leqslant t$ 时 $\delta_i(t) = 1$, $x_i > t$ 时 $\delta_i(t) = 0$。
+
+令 $\mathcal{F}_t = \sigma(Z(s), 0 \leqslant s \leqslant t)$ (使所有 $Z(s)$ ($0 \leqslant s \leqslant t$) 都可测的最小 $\sigma$ 代数)。在 $\mathcal{F}_t$ 上 $P_{\theta_1}$ 对 $P_{\theta_0}$ 的 Radon-Nikodym 导数是
+
+$L(t) = d^{r(t)} \exp[-cv(t)],$
+
+其中 $d = \theta_0/\theta_1$, $c = 1/\theta_1 - 1/\theta_0$, $r(t) = \sum_{i=1}^n \delta_i(t)$, $v(t) = \sum_{i=1}^n y_i(t)$。
+
+设 $a(u)$ 是 $u$ 的右连续增函数, $b(u)$ 是 $u$ 的增函数且 $a(u) < b(u)$, $a(0) < 0 < b(0)$, 又 $r_0$ 是任何正数。令
+
+$\tau^* = \inf \{t : t \geqslant 0, r(t) \leqslant a(r(t)) \text{或者} r(t) \geqslant b(v(t)) \text{或者} v(t) = v_0\}.$
+
+$\tau^*$ 是观测的停止时间。(陈家鼎, 戴中维, 1996) 中对数据 $Z \stackrel{\Delta}{=} (v(\tau^*), r(\tau^*))$, 用样本空间排序法找到了 $\theta$ 的置信下限和置信上限, 而且就国家军用标准 GJB899-90 中所有“允许提前评定”的各个试验方案给出了置信限的计算公式 (计算结果已被主管部门以该军用标准的修改单形式向全国颁布 (1998))。
+
+设 $\tau$ 是 $\{\mathcal{F}_t\}$ 的任一有限停止时间 (不必是上述 $\tau^*$), (Chen J D, Fang X H, 2005a) 中对数据 $Z = (v(\tau), r(\tau))$ 也给出了 $\theta$ 的置信限的计算方法。
+
+(2) 可找出“成功率”的置信限
+
+设随机变量 $X$ 取值 0 或 1, 0 表示成功, 1 表示失败, $q = P(X=0)$ 是成功率。考虑检验问题:
+
+$H_0: q \geqslant q_0 \longleftrightarrow H_1: q \leqslant q_1,$
+
+这里 $1 > q_0 > q_1 > 0$, $q_0$ 和 $q_1$ 是已知数, $H_0$ 是零假设, $H_1$ 是备择假设。
+
+设 $x_1, x_2, \cdots$ 是独立同分布随机变量列, 且 $P(x_1 = 0) = q = 1 - P(x_1 = 1)$。常用的检验法是这种类型的: 设 $f(n)$ 和 $g(n)$ 是两个增函数, $n = 1, \cdots, n_0 - 1$ 时 $f(n) > g(n)$, $f(n_0) = g(n_0)$ 且 $f(0) > 0 > g(0)$ ($n_0 \geqslant 2$), $D(n) = \sum_{i=1}^n x_i$ ($n \geqslant 1$)。观测的停止时间是
+
+$\tau^* = \min \{n : n \geqslant 1, D(n) \leqslant g(n) \text{或} D(n) \geqslant f(n)\},$
+
+当且仅当 $D(\tau^*) \geqslant f(\tau^*)$ 时拒绝 $H_0$。著名的国际标准 IEC61123(1991) 和我国标准 GB8051(1987) 中的检验法都是这样子的检验法。陈家鼎等人在 (陈家鼎等, 1997b) 中针对数据 $Z = (\tau^*, D(\tau^*))$ 给出了 $q$ 的置信下限和置信上限的计算方法。
+
+在 (Chen J D, 2001a) 中对 $\{x_n, n \geqslant 1\}$ 的任何有限停止时间 $\tau$ (不必是上述 $\tau^*$) 也提出了根据 $(\tau, D(\tau))$ 的值计算 $q$ 的置信限的方法。
+(3) 研究了定时截尾情形下参数的置信限
+设 $x_1, x_2, \cdots, x_n$ 是独立同分布的随机变量，共同分布函数是 $F(x, \theta)$，$\theta$ 是未知参数，$\theta \in \Theta$，$\Theta$ 是非空集合。给定 $n$ 个常数 $t_1, \cdots, t_n$，令
+$Z = (y_1, \delta_1, \cdots, y_n, \delta_n)$，(4)
+其中 $y_i = \min(x_i, t_i)$，$\delta_i = I(x_i \leqslant t_i)$，$i = 1, \cdots, n$，$\delta_i$ 是示性函数。如何根据 $Z$ 的观测值找出可靠度 $R(t) \stackrel{\triangle}{=} P(x_1 > t) = 1 - F(t, \theta)$ 或其他函数 $g(\theta)$ 的置信下限，是可靠性工程中引人关注的问题。当 $Z = Z^0 = (t_1, 0, \cdots, t_n, 0)$ (即零失效情形，这在高可靠性研究中常见) 时，(陈家鼎等，1995) 中给出了 $R(t)$ 的最优置信下限的计算方法，并就常见的寿命分布给出了具体的计算公式。当 $F(x, \theta)$ 是两参数的 Weibull 分布且 $t_i \equiv t_0 > 0$ 时，(Chen J D, Fang X H, 1998) 和 (陈家鼎，2005) 对一般的数据 $Z$ (见 (4) 式) 给出了可靠度 $R(t)$ 的置信下限的有效计算方法。
+此外，对于可靠性增长模型 (如软件可靠性的 JM 模型)，陈家鼎在 (陈家鼎等，2001b) 和 (陈家鼎，2005) 中给出了可靠度的置信限的计算方法。
+三、教学与科研
+陈家鼎长期处在教学第一线，教学认真负责，效果良好，受到学生们的欢迎，曾被评为“全国优秀教师”(1993) 并获得国家统计局颁发的“优秀统计教师奖”(2002)。他重视教材建设，认真编写教材。他和刘婉如、汪仁官合编的《概率统计讲义》(1980年第1版，1982年第2版，2005第3版) 曾获北京大学优秀教材奖(1988)，并在全国广泛发行(到2001年累计印数134.5万册)。他主编的《数理统计学讲义》(1993)在1995年获国家教委优秀教材一等奖。他编著的《序贯分析》(1995)是第一部关于序贯统计的中文书。
+陈家鼎学风踏实，很注意数学结论的严格证明。这与许宝騄的教导分不开。许宝騄对他说，在数学上要分辨是非，有些人不注意，常常在文章发表后被别人发现错。在许宝騄的指导下，他举出了反例表明苏联数学家 Dynkin 在 1959 年的书《马尔可夫过程理论基础 (俄文)》上关于 Kolmogorov 的相容性定理的推广是不正确的 (陈家鼎:《关于 Kolmogorov 定理之推广》，数学进展，9(1966), No.1, 94-96)。
+陈家鼎重视理论联系实际，参加了多项实际应用课题的研究，他参与制定国家军用标准 GJB899-90(可靠性鉴定和验收试验)，是编制组成员，对有关的统计方法进行了系统研究；他主持的项目“导弹武器系统可靠性增长试验的设计与统计分析”获中国航天总公司科技进步二等奖(1996)；他和郑忠国等人合作的项目“可靠性评定的数学理论及其应用”获北京市科技进步二等奖(2002)。
+
+四、陈家鼎主要论著
+陈家鼎. 1980. 关于截尾样本情形下的最大似然估计. 应用数学学报, 3(4): 306–321.
+Chen J D. 1985. Asymptotic optimality of some power-one tests for normal mean with unknown variance. Sci Sin, A28(9): 938–949.
+Chen J D. 1986. On the expected sample sizes of some power-one tests for normal mean with unknown variance. Chin Ann of Math, 7(4): 471–482.
+陈家鼎. 1987. 一类随机过程的最优序贯检验的唯一性. 数学季刊, 2(3): 46–53.
+Chen J D. 1991. Asymptotic optimality for one class of truncated sequential tests. Sci China, A34(1): 30–41.
+陈家鼎. 1993. 样本空间中的序与参数的置信限. 数学进展, 22(6): 542–552.
+Chen J D, Hickernell F J. 1994. A class of asymptotically optimal sequential tests, for composite hypotheses. Sci China, A37(11): 1314–1324.
+陈家鼎, 孙万龙, 李补喜. 1995. 关于无失效数据情形下的置信限. 应用数学学报, 8(1): 90–100.
+陈家鼎. 1995. 序贯分析. 北京: 北京大学出版社.
+陈家鼎, 戴中维. 1996. 在时间序贯检验下指数分布均值的置信限. 数理统计与应用概率, 11(2): 89–99.
+Wang J, Chen J D. 1997. On the strong consistency of the maximum likelihood estimators from randomly censored samples. International Journal of Reliability, Quality and Safety Engineering, 4(35): 35–53.
+陈家鼎等. 1997. 成功率的序贯检验与检验后成功率的置信限. 应用概率统计, 13(4): 367–374.
+Chen J D, Fang X Z. 1998. On the exact lower confidence limits for the reliability in the case of Weibull distribution. Beijing: Proceedings of Joint Statistical Conference: 1–4.
+Chen J D. 2001. On the confidence limits of Bernoulli parameter in any sequential case. Chin Quar J Math, 16(1): 1–8.
+陈家鼎, 张韧, 吕波. 2001. JM 模型的统计推断. 应用概率统计, 17(4): 403–409.
+Chen J D, Fang X Z. 2005. Confidence limits for the mean of exponential distribution in any time-sequential samples. Sci China, A48(9): 1182–1193.
+陈家鼎. 2005. 生存分析与可靠性. 北京: 北京大学出版社.
+主要参考文献
+Halperin M. 1952. Maximum likelihood estimation in truncated samples. Ann Math Statist, 23: 226–236.
+Buehler R J. 1957. Confidence intervals for the product of two Binomial parameters. JASA, 52: 482–493.
+Hoeffding W. 1960. Lower bounds for the expected sample size and average risk of a sequential procedure. Ann Math Stat, 31: 352–368.
+Robbins H, Sigmund D. 1974. The expected sample sizes of some tests of power one. Ann of Statistics, 2: 415–436.
+Irle A, Schmitz N. 1984. On the optimality of the SPRT for processes with continuous time parameter. Math Opera N U Stat Ser Stat, 15: 91–104.
+撰写者
+陈家鼎

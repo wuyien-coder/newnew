@@ -1,0 +1,128 @@
+人物：程毓淮
+生年：1910年4月1日
+逝世：1995年2月6日
+研究方向：常偏微分方程
+来源：11599173_中国现代数学家传第4卷_
+页码：148-160
+============================================================
+
+程 毓 淮
+
+王柔怀 江泽坚 严子谦
+
+程毓淮 1910 年 4 月 1 日诞生，祖籍安徽。
+1995 年 2 月 6 日在美国病逝。曾任北京大学、
+西南联大、美国麻省州立大学等校教授，“中央”
+研究院(南港)院士。常偏微分方程。
+
+程毓淮，祖籍安徽歙县，寄籍江苏南通。1910 年 4 月 1 日出生，1928 年同济高中毕业后以安徽省政府奖学金留学德国，1934 年获哥廷根(Göttingen)大学博士学位。在其后的两年中，先后在苏黎世(Zurich)、汉堡(Hamburg)和哥本哈根(Kopenhagen)大学从事博士后研究或任教。1936 年 2 月回国任北京大学数学系教授。抗日战争期间继续执教于西南联合大学，随学校辗转于长沙、昆明等地。抗战胜利后，他应邀赴美国工作，先在纽约大学柯朗(Courant)研究所和普林斯顿(Princeton)高等研究所从事数学研究，而后在俄克拉何马(Oklahoma)大学，怀因(Wayne)大学和麻省(Massachusetts)州立大学
+
+* 程毓淮像 1945 年摄于美国纽约。——编者
+104
+
+等校数学系任教授。1962 年他被选为台北中央研究院院士。1995 年 2 月 6 日病逝于美国,享年 85 岁。
+
+(一)
+
+程毓准留学德国期间,处于鼎盛时期的哥廷根学派仍在陶醉于科学上的两大创造,一是量子力学,一是流体力学的附面层理论。数学方面的研究亦受此潮流的推动。正是在这样的氛围下,程毓准的博士论文即以附面层理论为背景,讨论常微分方程的小参数奇摄动问题。该文发表于 Compositio . Math . , 2 (1935) , 378 ~ 401 ,甚受相关学者的注意。直到 40 年代末,以前苏联著名数学家吉洪诺夫(A. Tychonoff)为首的奇摄动学派,仍推许该文为前驱工作(参见 A. Тихонов,Мат.Сб.,22(64)(1948),193 ~ 204,和 И.С.Градштейн,Мат.Сб.,27(69)(1950),47 ~ 68)。
+
+(二)
+
+程毓准旅美工作后,从事偏微分方程理论方面的研究,其风格与二战后哥廷根学派在美国的继承者——柯朗学派相近,讲究物理或几何背景。他先后在极小曲面论和与机翼绕流问题有关的双曲型和混合型方程等方面,发表过多篇有影响的论文。
+
+我们首先从程在 1982 年第三届国际“双微”(微分几何与微分方程)长春讨论会上的口头特邀报告谈起。这个报告的题目是“关于拉当(Radon)变换的若干新老应用”(Some old and new applications of Radon transformations),所涉及的是他 60 至 70 年代末的一组精心之作:论文[16] ~ [22]。论题是,R^{n+1}(n \geqslant 3)中数据给在光锥之上时波动方程的解。当 n = 1 ,这就是经典的古沙(Goursat)问题。但是,对 n > 1 ,问题要比 n = 1 时困难得多;而程毓准是对之做了
+
+深入研究,并成为基本彻底解决了该问题的第一人(特别在 n 为
+奇数时)。程在文中所作的注记特别提到,在他思考与写作过程
+中,曾与在哥廷根求学时代结识的老友,后来鼎鼎大名的汉斯·列
+维(H. Lewy)和弗里茨·约翰(F. John)多所讨论。于此可见,他对
+此项研究是浇注了充分的心血的,对所取得的成果是颇为满意的。
+当人们仔细认真地阅读他这一组论文时,更能体验作者匠心独具。
+在这组文章中,他创造性地提出了用来表达所论问题之解的双曲
+面均值(hyperboloidal means)。这是经典的球面均值与多重球面均
+值(iterated spherical means)的类似物。其作法是,在经过光锥外任
+意一点的特征和光锥的交集上引入一种所谓洛伦茨(Lorentz)不变
+测度,然后关于这种测度构造出一种更深奥的积分平均。欲使这
+种积分平均确实表达所论问题的解,给在光锥上的数据,必须通过
+拉当变换及其他分数阶微分算子(实即一种傅立叶(Fourier)乘子
+型的第一代拟微分算子),与积分号下的被积式和(或)积分后的结
+果,发生特定的联系。为此,程在文[22]中特意建立了拉当变换在
+$L_2^1(R^n)$空间(即 $C_0^\infty(R^n)$在其狄利克雷(Dirichlet)积分模下的完备
+化)中几种形式的“普兰瑟勒(Plancerel)定理”,作为准备工具,并在
+该文开头的提要中予以强调指出。
+
+(三)
+
+1982年9月,国际“双微”长春讨论会后,程毓准在与吉林大
+学微分方程方向的教师座谈时,曾特别提到他在40至50年代有
+关极小曲面问题的研究,言谈中流露出对自己当时在这方面所取
+得的成果珍爱有加,又惜以未能继续深入,失去许多机遇,而常引
+为憾。他还谆谆告诫后学,在学术研究活动中,要特别注意与青年
+同行合作,因为这往往关系到是否能把握住机遇。极小曲面问题,
+是一个古老,充满挑战意味,而又富有永恒生命力的数学课题。它
+
+是 18 世纪中期由拉格朗日 (Lagrange) 所提出,历来吸引着众多国际知名数学家的研究兴趣。1975 年首版,1989 年发行修订与扩充版的关于极小曲面问题的百科全书式的著作: J. C. C. Nitsche, Lectures on Minimal Surfaces, Vol. 1, 对此有详细的论述,并在其中多处评介和引用了程的工作 [6]、[7] 和 [12]。关于文 [6],该书在 §§ 363,364,369 三节详细引用了其中关于极小曲面在其一分支点邻近的性态等结果。其实,文 [6] 的核心部分,乃是在一允许有限个支点与极点的(所谓广义)极小曲面上,建立这两种点的数目,与其高斯(Gauss)映射的指标,以及作为其定义域的黎曼(Riemann)曲面(假定为紧)的亏格(genus)之间的关系式。此已超出尼切(Nitsche)那部书第 1 卷的讲述范围,估计在第 2 卷中才会叙及。程在文 [6] 中,是通过一套精巧的构作,将讨论对象引向可以应用紧黎曼曲面上 Riemann - Roch 定理的框架之中,才获得问题的完满解决的。此项成果实乃该文发表后二三十年才被更广泛重视的大范围分析中之一良好范例。关于程的遗文 [7] 和 [12],在尼切的书第 1 卷 § 10 中,亦曾叙及其来历与意义,以及其他知名数学家在同一或相近问题上的研究结果。在文 [12] 的引言中,作者自谓,他在存在性证明中所采用的方法,乃是由他哥廷根时期的老师柯朗与韦尔(H. Weyl)所开发的变分原理同复分析的结合,借此绕过了诸多艰难的先验估计。为了充分利用叶繁枝茂的复分析,程采取了下述迂回策略:先将原来关于非参数形式的问题,即作为“近似”亚音速机翼绕流问题的自然形式,设法换成参数形式的“广义”问题,并用变分方法作存在性的证明,然后通过高斯映射引入速度图变量 $\zeta(w)$,从而便可借助于复分析,对速度图进行细致的考察,最后回到非参数形式。此种手法之高妙,实在令人叹服。但在这里应该说明,由于 50 年代中期以后,二自变量椭圆型偏微分方程解的先验估计理论与技术,有了飞跃性的进展,同时还出现了拟解析函数论,“真正”的物理亚音速绕流问题获得了解决,因而程先
+
+生上述工作的影响才不那么大了。
+
+（四）
+
+程毓淮在40至50年代还曾致力于柱对称喷管中的超音速流的研究。在这方面的成果主要有论文[9]、[10]、[13]和[8]，以及1948年发表于北京大学建校五十周年论文集数学、物理、生物卷上的文[5]。据[9]中作者自述,此项研究乃是他哥廷根时期的半师半友弗里德里希(K. O. Friedrichs)所建议,继其两份技术报告中触及的问题,进行深入的理论探讨和严格的数学论证。[9]中强调指出了对此问题进行认真严谨的数学分析的必要性。程为此援引了流体力学与应用数学家戈德斯泰因(S. Goldstein)在1950年国际数学家大会上所作的“气体动力学问题选讲”。该选讲提出,处理这类问题的常规线性化方法甚为可疑,需要在数学上严格地予以澄清(参见 Proceedings of the International Congress of Mathematics, Vol. II, 1950, pp. 280 ~ 291)。实际上,由于流动是柱对称的,所以在中轴上径向速度分量自然为零,从而有望取一次近似的线性化方法,能够在中轴邻近提供不会太失真的近似。但另一方面,正是由于轴对称性,有关方程在中轴上是有奇性的。因此,人们在这里所面对的,是有奇性的非线性双曲型偏微分方程的某种特征初边值问题,其精确解存在与否(包括精确解如何理解),如何正确地取其近似,解的渐近性态等等,都是相当困难的问题。论文[9]和[10]凭借高难的技巧,对这些问题进行了深入详尽的讨论。[13]的前半部分是程1955年在偏微分方程伯克莱(Berkely)讨论会上对文[9]、[10]中基本要点的诠释。程先生的此一力作,在1960年由斯普林格-维纳格(Springer - Verlag)出版社出版的物理百科全书第九卷流体动力学第三部分(Encyclopedia of Physics, Vol. IX, Fluid Dynamics III, pp. 245 ~ 282)梅耶(R. E. Meyer)所作
+
+的关于空气动力学的特征线方法的综述之中,有较为全面而肯定的反映。例如,在该综述的§31中,梅耶强调指出,有关方程在中轴上的奇性,仅仅在程毓准对之做了透彻的研究(searching investigation)之后方才得以澄清;在§32中叙述合理的“一致”一阶近似理论时,他又屡次引用了程的工作。
+
+(五)
+
+由于程毓淮出国工作年代已久,国内数学界了解他的人现已不多。但我们对他在西南联大任教期间在数学教育方面的功绩是应该永志不忘的。
+
+怀尔(A. Weil)在介绍布尔巴基(Bourbaki)学派时曾经说过,他们就是从学习范德瓦尔登(Van der Waerden)的《近世代数学》开始的。而程在30年代末就在西南联大讲授了刚出版不久的范德瓦尔登的这本书。40年代初,他还面向包括唐敦庆、黄昆、杨振宁等在内的理科青年教师和研究生,讲授了韦尔的《群论与量子力学》。于此可见程的远见卓识,以及他引导青年学子奔向当时蓬勃发展的数学科学主流的不懈努力。
+
+程一贯重视教学。他是长期处在教学第一线的少数几个青年教授之一。从选教材,写讲稿,到课堂讲授,他都极其认真。他不只讲授专业课,也讲遍了初等微积分和“三高”等基础课。西南联大的高等代数课长期使用 Schreier 与 Spermer 的《解析几何与代数》,就是由于他的倡导。50年后,廖山涛回忆起来,还深有感触地说:“高等代数课给我的印象很深,使我获益匪浅。正是它,使我第一次获得最高数学美感的享受。归根结底,这完全是由于毓淮老师所选教材和讲授方法所致。多年来我在自己的学习和工作中经常有意仿效,可见该课对我的影响之深。”
+
+聂灵沼在1995年9月和1996年3月给江泽坚的信中,回忆他
+
+在西南联大受业于程的往事，他动情地写道：“在联大学习期间，程先生对我的影响是最大的，我从中获益也最多。”聂在联大（四川）叙永分校念一年级时听过程讲初等微积分，用的教材是奥斯戈德（Osgood）的书。“他既照顾听课学生的接受能力，又力图讲得严格一些，所以并不拘泥于该书。”三年级时聂听过程讲范德瓦尔登《近世代数学》一书的前几章。他说：“程先生讲课，不讲求板书整齐，中英文一齐上，还不时夹有德文，但思路清晰，条理分明，听下来有一个完整的印象。”以后，聂又和唐敖庆、黄昆、杨振宁等一起听过程讲的选修课，讲韦尔的《群论与量子力学》。“记得程先生讲起课来语言生动，思路明确，逻辑严谨。”“如果把他讲的话都记下来，花力量加以整理，即可成为一份完整的笔记。”聂灵沼还曾亲眼见过程写得非常工整的群论讲稿。最使聂灵沼难忘的，是程给邓汉英和他读过一篇文章，对他后来的工作影响甚大。那篇文章是哈斯（Hasse）关于离散赋值域的结构的决定，又长又难念。据聂说当时他没有完全听懂，但后来却引起了他的兴趣，促成他在 1946 年确定了以代数数论为研究方向。
+
+程那种全身心投入地传播知识火种的启蒙之举，与他平易近人，朴实诚恳的风范相结合，使他的老学生，如廖山涛、冷生明、邓汉英、王曾贻、聂灵沼、江泽坚等，在半个多世纪之后，仍感念不已。正如他们之中有的人所说：“程先生不只传授给我们知识，也在人格、精神上给了我们深深的教育和感染。”影响所及，他的学生中不少人不只注意科学研究，也非常重视教学。后来，王湘浩正是把这种精神带到了他创办并主持多年的吉林大学数学系，为这个系日后的发展奠定了良好的基础。
+
+（六）
+
+程长期旅居海外，但仍十分关注自己的“根”。他经常与人谈
+
+起中国，谈到他的过去、现在和将来。他教育和鼓励晚辈更多地了解中国。他积极从事中美数学界的学术交流。当我国实行改革开放政策以后，他以亲人般的关怀与热情，接待了来自祖国的学子。他对祖国数学教育和发展甚为关心。他向吉林大学数学系赠送了他珍藏多年的一大批数学书籍，并应聘为吉林大学名誉教授。
+
+歉意与遗憾：关于程毓淮先生的身世与家庭情况，我们虽曾多方了解，但仍几无所获。但愿以后能由我们或他人来弥补这一重大缺欠。
+
+程毓淮主要论著目录
+[ 1 ] Grenzübergang der Wellengleichung in die Warmesleitunge - gleichung. Göttingen Nachrichten , Bd. 46(1933), 365 ~ 370.
+[ 2 ] Das verhalten einer folge von (gewöhnlichen) differential gleichungen welche ein Limes ausarten. Compositio. Math. , 2(1935),387 ~ 401.
+[ 3 ] Das verhalten einer folge von partiellen differential gleichungen welche ein Limes ausarter. Göttingen dissertation (1934), published by the University of Göttingen.
+[ 4 ] Algebraisation of plane absolute geometry. Amer. J. Math. , 67 (1945), 363 ~ 388.
+[ 5 ] The characteristic initial value problem for a hyperbolic differential equation with a singularity. National Peking University Semi - Centennial Volume, Mathematical, Physical and Biological Series, 1948, 18 ~ 25.
+[ 6 ] Branch points, poles & planar points of minimal surfaces. Ann. Math. , 49 (1948), 790 ~ 806.
+[ 7 ] Existence of minimal surfaces with a simple pole at infinity and condition transversality on the surface of a cylinder. Trans. Amer. Math. Soc. , 65 (1949), 331 ~ 347.
+[ 8 ] On a quasi - linear system of hyperbolic differential equations with a parameter and a singularity. Proceedings of the International Congress of Mathematicians,
+111
+
+Cambridge, 1(1950), 667 ~ 668.
+[ 9 ] Supersonic flow through nozzles with rotational symmetry. Comm. Pure Appl. Math., 5(1952), 57 ~ 86.
+[ 10 ] Flows through nozzles & related problems of cylindrical and spherical waves. Comm. Pure Appl. Math., 6(1953), 179 ~ 229.
+[ 11 ] Degenerate solutions of partial differential equations. Proc. Amer. Math. Soc., 6(1955), 855 ~ 861.
+[ 12 ] Discontinuity and representations of minimal surface solutions. Proceedings of Conference on Differential Equations (dedicated to A. Weinstein), University of Maryland, 1956, 115 ~ 138.
+[ 13 ] Discontinuity of solutions of quasi - linear differential equations in two variables. Comm. Pure Appl. Math., 9(1956), 373 ~ 381.
+[ 14 ] Hölder continuity and initial value problems of mixed type differential equations. Comment. Math. Helv., 33(1959), 296 ~ 321.
+[ 15 ] Entire solutions of a class of differential equations of mixed type. Comm. Pure Appl. Math., 14(1961), 229 ~ 256.
+[ 16 ] On the solutions of the wave equation in the quadrant of R$^4$. Bull. Amer. Math. Soc., 70(1964), 172 ~ 177.
+[ 17 ] On the solutions of the wave equation in the exterior of the characteristic cones. J. Math. Mech., 16(1967), 655 ~ 674.
+[ 18 ] The three dimensional wave equation in a characteristic quarterspace. (with R. Hersh) J. Math. Mech., 17(1967), 449 ~ 460.
+[ 19 ] A remark on the John - Asgeirsson Formula for iterated spherical means. Math. Research Center, Taiwan (1976), 7 ~ 10.
+[ 20 ] Solutions of n - dimensional wave equation in the exterior of the characteristic cones ( I ), ( II ), n odd. Indiana Univ. Math. J., 20(1970), 33 ~ 55; 24(1975), 757 ~ 766.
+[ 21 ] On the hyperboloical means and the wave equation. Indiana Univ. Math. J., 21(1971), 437 ~ 445.
+[ 22 ] Solutions of the wave equation in R$^{n+1}$ with data on a characteristic cone. J. Math. Anal. Appl., 64(1978), 223 ~ 249.
+112
+
+作者简介 王柔怀 男,汉族,四川自贡市人。1924年10月出生,1945年毕业于武汉大学。现为吉林大学数学系教授。江泽坚 男,汉族,安徽旌德人。1921年10月出生,1942年7月毕业于西南联合大学。现为吉林大学数学系教授,是程毓淮的学生。江泽坚传,详见本书本卷。严子谦 男,汉族,湖南华容人。1933年9月出生,1962年8月毕业于吉林大学。现为吉林大学数学系教授。
+
+(1998年10月初稿,1999年2月修改稿)
+
+113

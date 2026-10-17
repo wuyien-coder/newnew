@@ -1,0 +1,125 @@
+人物：庄圻泰
+生年：1909年3月13日
+逝世：1998年
+研究方向：函数论、数学教育
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第一分册_p428
+页码：171-179
+============================================================
+
+庄圻泰
+
+庄圻泰 (1909~1998), 山东莒县人。函数论学家。1927 年考入清华大学, 大学毕业后进该校理科研究所做研究生, 师从熊庆来, 主修亚纯函数的值分布理论。1936 年被派往巴黎大学公费留学, 随 G. Valiron 继续研究亚纯函数的值分布理论, 1938 年获博士学位。1939 年回国, 任教于云南大学数学系。抗日战争胜利后回到北京, 一直在北京大学数学系任教授。在此期间, 他先后出版了《亚纯函数的奇异方向》、《复变函数》、《亚纯函数的不动点与分解论》、《单复变函数中的几个论题》与《亚纯函数的正规族》等著作。
+
+一、简 历
+
+庄圻泰出生在一个书香之家, 祖父是清代科举中的拔贡, 父亲庄英是一位秀才。这样的家庭环境对培养他的勤奋好学有着重要的影响。
+
+庄圻泰在接受了私塾、小学和中学的教育以后, 1927 年考入清华大学, 先在工程系学习, 一年后转到数学系。因为他善于自学和深入思考, 所以学习成绩一直很好。1932 年毕业前, 他选定毕业论文题目《隐函数的极大和极小》, 并且没有和老师们商量就写成了论文, 这篇论文内容不深, 但颇为精彩, 受到数学系主任熊庆来的称赞, 并被推荐发表在清华大学的学术刊物上。
+
+大学毕业后, 庄圻泰留校担任助教。不久便在家乡与于希民女士结婚。
+
+1934 年, 庄圻泰被允许进入清华大学理科研究所算学部, 作为熊庆来的研究生, 学习和研究亚纯函数的值分布理论。在做研究生两年时间里, 他完成了三篇论文, 前两篇的题目是自选的, 即《蒙泰尔的一个定理的推广》(A generalization of a theorem of Montal) 和《关于某些函数序列的一致收敛性》(On the uniform convergence of certain sequences of functions), 这两篇论文都发表在清华大学的学术刊物上。第三篇所研究的问题是熊庆来提出的, 题目是《关于无穷级的亚纯函数的值分布》(On the distribution of the values of meromorphic functions of infinite order), 这篇论文发表在《中国数学会会刊》上。1935 年, 熊庆来聘请法国数学家 J. Hadamard 和美国数学家 N. Wiener 来清华大学讲学, Hadamard 开设了两门课, 其中一门是偏微分方程, 庄圻泰参加了这门课的考试, 圆满解答了 Hadamard 出的题目, 得到了很高的评价。
+
+当时清华大学的研究生毕业后, 按规定择优派往国外公费留学。1936 年, 庄圻泰毕业后即被派往法国巴黎大学留学, 随 G. Valiron 做研究工作, 同时在巴黎大学听课, 还参
+
+加 Hadamard 在法兰西学院主持的一个讨论班。Valiron 为他指定的研究方向是关于亚纯函数的正规族问题，他深入研究了有关参考文献，不久便得到这方面的一个结果。随后，庄圻泰自选一个亚纯函数和它的导数的公共 Borel 方向的问题，并写出论文。Valiron 看了这两篇论文后，认为很好，并让他写出论文摘要发表在法国刊物《科学报告》(Comptes Rendus) 上。从此，Valiron 对他有了好的印象。当时，庄圻泰住在巴黎大学城的宿舍里，离 Valiron 的家不远。有一次，他为了思索一个问题，躺在床上彻夜未眠，终于想出了解决问题的方法。次日清晨便急忙到 Valiron 家告知此事，Valiron 非常满意。庄圻泰就是这样刻苦钻研、勤奋工作的，1938 年便完成了学位论文，并在当年 11 月通过答辩，获得博士学位，答辩委员会主席是 E. Borel。他的博士论文题目是《关于亚纯函数的正规族及拟正规族的研究》(Étude sur les familles normales et les familles quasi-normales de fonctions méromorphes)，发表在意大利刊物《巴勒莫数学社团的报告》上，并在 Hadamard 的讨论班上对此论文作了扼要介绍。
+
+庄圻泰得到博士学位后，计划在巴黎继续研究一年，但由于 1938 年第二次世界大战的爆发，只好提前离开巴黎，于当年 11 月回到昆明。当时熊庆来任云南大学校长，庄圻泰便在该校任教，历任副教授、教授等职。他在云南期间，正值抗日战争。他在后方艰苦的环境中坚持教学工作，经常担任两门课：微积分和一门较深的课，例如微分方程式论。在云南大学的 7 年中，庄圻泰除教学工作外，研究工作并没有完全停止下来，有时仍思考一些问题；后来在法国的刊物《师范学校年刊》上发表的论文《关于连续单调函数》(Sur les fonctions continues monotones)，实际上就是在云南大学期间作出来的。
+
+1946 年，庄圻泰来到北京大学，一直在该校担任教授。他先后讲授过微积分、数学分析、复变函数，以及为化学系开设的微分方程；还曾在清华大学兼课，讲复变函数。听讲数学分析的人中，除去数学系的学生外，还有物理系学生，其中有些人后来成为知名数学家和物理学家，有几位是中国科学院学部委员。在科研方面，他又写出论文《关于一个亚纯函数与其导数和增长性比较》(Sur la comparaison de la croissance d'une fonction méromorphe et de celle de sa dérivée)，发表在法国的刊物《数学科学报告》上。
+
+1952 年，经过院系调整，庄圻泰仍被分配到北京大学，也主要讲授函数论方面的一些必修课，如复变函数、实变函数；还有选修课，如保角变换、拟保角变换、整函数与亚纯函数等。在教学中，他总是力求条理清楚，使得学生容易理解，教学效果一直是比较好的。除了讲课外，庄圻泰还指导过一些专门化的毕业论文和几位研究生，他时常让他的学生一而再、再而三地审阅和修改论文，以防出现错误，力争做到精益求精。庄圻泰勤奋的工作态度、严谨的治学方法及很强的推理能力都给学生们留下了深刻的影响，不少学生把他的优良学风作为自己学习的榜样。1957~1964 年，庄圻泰在国内刊物上发表了四篇论文，第五篇论文也已写出，但由于不久“文化大革命”开始，直到 1979 年才在《中国科学》上发表。
+
+庄圻泰的科学研究工作，主要是数学的基础理论。但在 1973 年前后的一段时间内，他曾参加一些密切联系实际应用的研究工作，那时搞开门办学，提倡理论联系实际，他被
+
+安插在数学系 73 级的一个组里。所研究的问题来自工厂、科学院仪器厂，以及第七机械工业部等，有的问题只需要微积分就够了，但有的问题需要保角变换或椭圆函数的知识，如七机部提出计算一种耦合器的尺寸，他就利用雅可比椭圆函数，找到一种很有效的计算方法。
+1977 年，“文化大革命”结束后，庄圻泰又回到基础理论的研究。1979 年以来，他已发表数十篇论文，并编著了《亚纯函数的奇异方向》等书。从 1978 年开始，他组织了复变函数讨论班，还指导一些研究生，至今已有 5 名研究生获得硕士学位，一名获得博士学位。
+庄圻泰从少年到现在，绝大部分时间是在学校度过的，在整函数、亚纯函数、拟保角变换等方向培养了不少学生，数学界的后起之秀杨乐、张广厚的研究工作就曾得到他不少关心和指导。近十年来，他不仅指导青年教师与研究生的科学研究，而且还一直组织和主持召开全国单复变函数的学术会议，他是我国这个数学分支的学术带头人，为推进我国复变函数理论的发展与应用发挥了重要作用。
+庄圻泰不仅致力于数学的教学与研究，还关心国家政治。他于 1951 年加入九三学社，曾任九三学社中央参议委员会委员。1983~1987 年曾任中国人民政治协商会议北京市委员会常务委员。
+二、学 术 成 就
+庄圻泰长期从事亚纯函数的值分布与正规族理论的研究，得到了一些重要的研究成果，受到国内外同行的高度评价，其中关于《奈望林纳 (Nevanlinna) 的一个不等式的推广》一文获得 1979 年全国科学大会奖，《亚纯函数的值分布与正规族理论》获得 1985 年国家教委优秀成果奖。他的主要贡献如下。
+1. 一个亚纯函数的增长性与其导数的增长性的比较
+在 R. Nevanlinna 的亚纯函数理论中，对于在开复平面上的亚纯函数 $f(z)$ 引进了一个相应的特征函数
+$T(r, f) = m(r, f) + N(r, f),$
+其中
+$m(r, f) = \frac{1}{2\pi} \int_{0}^{2\pi} \log^+ |f(re^{i\phi})| d\phi,$
+$N(r, f) = \int_{0}^{r} \frac{n(t, f) - n(0, f)}{t} dt + n(0, f) \log r,$
+这里 $n(t, f)$ 表示 $f(z)$ 在圆 $|z| \leqslant t$ 的极点的个数（按重级计算）。$T(r, f)$ 的增长性与 $f(z)$ 的值分布有密切的联系，在这方面的两个重要概念是 $f(z)$ 的级和下级，分别由
+$\varlimsup_{r \to +\infty} \frac{\log T(r, f)}{\log r}, \varliminf_{r \to +\infty} \frac{\log T(r, f)}{\log r}$
+
+定义。在文献 (Chuang C T, 1951) 中，庄圻泰证明了若 $f(z)$ 为在开复平面的超越亚纯函数，则存在一正数 $r_0$，使对于 $\lambda > 1$ 及 $r > r_0$，有
+$T(r, f') < A \frac{\lambda}{\lambda - 1} T(\lambda r, f),$
+及
+$T(r, f) < B \frac{\lambda}{\lambda - 1} \log \frac{e\lambda}{\lambda - 1} T(\lambda r, f'),$
+其中 $A$ 及 $B$ 为正常数，并且 $f'$ 表示 $f(z)$ 的导数 $f'(z)$，从以上两个不等式可以得出一些推论，其中包括：一个超越亚纯函数 $f(z)$ 和它的导数 $f'(z)$ 有相同的级和相同的下级。这个结果后来常被别人引用。另一方面，文献 (Chuang C T, 1951) 引起后来一些数学家的研究工作，其中有著名数学家 W. K. Hayman 所写的两篇论文 [《数学学报》(Acta Math.)，第 112 卷，1964，第 181-124 页；《英国数学会记录汇编》(Proc. London Math. Soc.)，第 14A 卷，1965，第 93-128 页]。此外，H. Wittich 将文献 (Chuang C T, 1951) 中内容写入他所著的书《关于单值解析函数的新研究》(Neuere Untersuchungen über eindeutige analytische Funktionen, Springer-Verlag, 1955) 中。
+
+2. 将 Nevanlinna 的亚纯函数理论和第二基本定理推广到小函数的情形
+
+Nevanlinna 在他在亚纯函数理论中建立两个重要定理，分别称为第一基本定理和第二基本定理。第二基本定理可以扼要地由以下不等式表示:
+$(q-2)T(r, f) < \sum_{j=1}^{q} N(r, a_j) - N_1(r) + S(r),$
+其中
+$N(r, a_j) = \begin{cases} N\left(r, \frac{1}{f-a_j}\right), & a_j \neq \infty, \\ N(r, f), & a_j = \infty, \end{cases}$
+$N_1(r) = N\left(r, \frac{1}{f'}\right) + 2N(r, f) - N(r, f),$
+在某种意义下，$S(r)$ 的增长性慢于 $T(r, f)$ 的增长性。1929 年，Nevanlinna 提出：将定理中的常数 $a_j (j=1, \cdots, q)$ 换为满条件
+$T(r, \phi_j) = o\{T(r, f)\} (j=1, \cdots, q)$
+的亚纯函数 $\phi_j(z) (j=1, \cdots, q)$，以推广第二基本定理。Nevanlinna 提出此问题后，很长时间没有大的进展；一直到 1964 年，庄圻泰在文献 (Chuang C T, 1964) 中把该问题的研究向前推进了一大步，其中主要使用隆斯基行列式。1986 年，N. Steinmetz 将 Nevanlinna 提出的问题全部解决，在证明中也采用了隆斯基行列式，它是上述文献中所用的隆斯基行列式的推广。
+
+3. 亚纯函数的正规族
+
+在 P. Montal 的正规族理论中，给出了全纯函数的正规族的定义：在一个区域 D 的一个全纯函数族称为在 D 是正规的，如果从这个族的每一个函数序列 $f_n(z)(n=1, 2, \cdots)$ 中，都可以选出一个子序列 $f_{n_k}(z)(k=1, 2, \cdots)$ 在 D 的内部一致收敛到一个全纯函数或 $\infty$。这里，族的意思就是集合；在 D 的内部一致收敛是指“在每一个连同边界都属于 D 的有界区域内都一致收敛”。Montal 引进正规族的概念之后，又进一步引进了拟正规族的概念。全纯函数拟正规族的定义和全纯函数正规族定义的差别是：不要求子序列 $f_{n_k}(z)(k=1, 2, \cdots)$ 在 D 的内部一致收敛，而只要求除去 D 内有穷个点（或无穷个点，但在 D 内没有凝聚点）后，在所余的区域内部一致收敛。类似地，也可以引进较广的亚纯函数的正规族和拟正规族概念，其中一致收敛性用球面距离来定义。亚纯函数正规族和拟正规族理论有许多应用。庄圻泰一方面在文献 (Chuang C T, 1938, 1957) 中，对有关全纯函数正规族的一个问题做了深入和广泛的研究；另一方面，又在文献 (Chuang C T, 1983) 中建立亚纯函数的 $Q_m$ 正规族理论。亚纯函数 $Q_m$ 正规族包含亚纯函数正规族和拟正规族，当 $m=0$ 及 $m=1$ 时，即分别为 Montal 引进的亚纯函数正规族及拟正规族，也见文献 (Chuang C T, 1993)。亚纯函数 $Q_m$ 正规族的理论也有许多应用。
+
+4. 函数的增长性
+
+Borel 在研究整函数的零点的过程中得到以下结果：
+设 $f(x)(x \geqslant 0)$ 为一无界连续非减函数，并设 $\alpha, \beta$ 为正二数，则有不等式
+$f(X) < [f(x)]^{1+\beta}, X = x + \frac{1}{\{\log f(x)\}^\alpha}$，
+最多除去一些 $x$ 的值，它们可限制在一个总长度为有穷的区间序列之内。
+这个定理对于整函数和亚纯函数理论的发展有很大影响。例如，Nevanlinna 就应用这个定理来估计第二基本定理中的项 $S(r)$。庄圻泰在文献 (Chuang C T, 1947) 中将这个定理改进到下列完美的形式：
+设 $f(x), \gamma(t)$ 及 $\delta(x)$ 为三个函数，满足条件：$f(x)(x \geqslant 0)$ 为连续、非减，并且 $f(x) \geqslant 0; \gamma(t)(t \geqslant 0)$ 为正、连续、非减，并且 $\int_0^\infty \gamma(t)dt$ 收敛；$\delta(x)(x \geqslant 0)$ 为正、连续、非增，并且 $\int_0^\infty \delta(x)dx$ 发散；则有不等式
+$f(x + \gamma\{f(x)\}) - f(x) < \delta(x)$
+最多除去一个区间序列，其中 $\int_0^\infty \delta(x)dx$ 的总量不超过 $\delta(0)\gamma(0) + \int_0^\infty \gamma(t)dt$。
+另外，在以上 Borel 定理的基础上，Blumenthal 引进了型函数的概念。一般来说，型函数是在变化具有规律性的非减函数。型函数在整函数和亚纯函数的理论中起着重要作用，在文献 (Chuang C T, 1947) 中，庄圻泰证明了一个与上述定理相当的关于型函数的定理。此外，在文献 (Chuang C T, 1961) 中，大大简化了型函数的构造。
+
+5. 亚纯函数的奇异方向
+
+设 $f(z)$ 是一个亚纯函数，$\rho(r)$ 是 $f(z)$ 的级，对于每一个值 $w$，不论正数 $\eta$ ($0 < \eta < \pi/2$) 如何小，除了至多两例外值 $w$，都有
+$$ \lim_{r \to +\infty} \frac{\log^+ n(r, \theta_0, \eta, f=w)}{\rho(r) \log r} = 1, $$
+那么这个方向 $\arg z = \theta_0$ 叫作级为 $\rho(r)$ 的一个 Borel 方向，其中 $n(r, \theta_0, \eta, f=w)$ 表示方程 $f(z)=w$ 在扇形 $|\arg z - \theta_0| < \eta, 0 < |z| < r$ 内根的数目。庄圻泰给出了上述亚纯函数的级 $\rho(r)$ 存在性的简单证明以及上述 Borel 方向存在性的一种证法，此外还获得了无穷级亚纯函数方向的充要条件等不少研究成果 (Chuang C T, 1999)。
+
+6. 亚纯函数的微分多项式
+
+一般来说，一个亚纯函数 $f(z)$ 的微分多项式是指 $f$ 及其导函数 $f^{(j)} (j=1, \cdots, q)$ 的多项式：
+$$ P(z) = P_k(f, f', \cdots, f^{(q)}) = \sum_{k=1}^n P_k(f, f', \cdots, f^{(q)}), $$
+其中 $P_k(f, f', f^{(q)})$ 是形为 $a f^{s_0} (f^1)^{s_1}, (f^{(q)})^{s_q}$ 的微分多项式，这里 $a(z)$ 都是 $f$ 的小函数。在著作 (Chuang C T, 1999) 中，作者考虑了微分多项式组的逆，并得到了许多新的研究成果以及一些有兴趣的应用。例如，给出其中亚纯函数方程组的逆公式，还改进了 Frank-Weissenborn 和 Hayman-Miles 的相关定理以及给出了 Wiman-Valiron 理论中一个主要定理的新证明。
+
+庄圻泰在 1992 年退休后仍坚持进行科学研究，按照他长期的习惯，每天晚上 8~12 时都要搞研究和书写论文。1996 年在他 87 岁高龄时，还到香港参加国际复分析学术会议，在这次会议中，他作了一个重要的学术报告，还提出了一些值得进一步研究的问题。1998 年在他患病住院时，仍十分关心他的最后一本专著《亚纯函数的微分多项式》的出版，还在医院带病坚持进行这本著作的撰写工作，然而未完成这本书的编写任务，他就离开了人世。遵照他在生前留下的编写计划，他的博士生华歆厚和我继续完成了他的遗愿，并于 1999 年由北京师范大学出版社出版了他的这本遗著。同时，为了纪念庄圻泰诞辰 90 周年，我们在 1999 年召开了一次国际学术会议，并由新加坡世界科学出版公司出版了这次国际学术会议的论文集。此外在国际《复变理论与应用》杂志上还出版了一期纪念庄圻泰的专刊，其中由我和华歆厚写了一篇《关于庄圻泰教授的科学贡献》(Academic contribution of Professor Chi Tai Chuang) 的介绍性论文。
+
+庄圻泰共发表论文约为 60 篇，出版了 6 本专门著作，主编论文集 3 本，其中《亚纯函数的奇异方向》一书系统地论述了亚纯函数的充满圆及 Borel 方向，而《亚纯函数的正规族》与《亚纯函数的微分多项式》详细地介绍了国内外有关这两方面的研究成果。
+
+三、庄圻泰主要论著
+
+Chuang C T. 1938. Étude sur les familles normales et les familles quasi-normales de fonctions méromorphes. Rendiconti del Circolo Matematico di Palermo, 62: 7-86.
+Chuang C T. 1947. Sur les fonctions continues monotones. Ann école Norm, 64: 179-196.
+Chuang C T. 1951. Sur la comparaison de la croissance d'une fonction méromorphe et de celle de sa dérivée. Bull Sci Math, 75: 1-20.
+Chuang C T. 1957. Un théorème général sur les fonctions holomorphes dans le cercele unité et ses applications (I), (II). Scientia Sinica, 6: 567-621, 757-831.
+Chuang C T. 1961. Sur les fonctions-types. Scientia Sinica, 10: 171-181.
+Chuang C T. 1964. Une généralisation d'une inégalité de Nevanlinna. Scientia Sinica, 13: 887-895.
+庄圻泰. 1982. 亚纯函数的奇异方向. 北京: 科学出版社.
+Chuang C T. 1983. Generalizations of the notion of normal families of meromorphic functions. AMS, Contemporary Mathematics, 25: 1-18.
+庄圻泰, 张南岳. 1984. 复变函数. 北京: 北京大学出版社.
+Chuang C T. 1987. On differential polynomials. Analysis of One Complex Variable. Singapore: World Scientific Publishing Co: 12-32.
+Chuang C T. 1987. Generalizations of second fundamental theorem to the case of q small functions. Analysis of One Complex Variable. Singapore: World Scientific Publishing Co: 33-58.
+Chuang C T. 1988. On the growth of a meromorphic function and its differential polynomials. Lectures on Complex Analysis. Singapore: World Scientific Publishing Co: 41-66.
+庄圻泰, 杨重骏. 1988. 亚纯函数的不动点与分解论. 北京: 北京大学出版社.
+Chuang C T, Hua X H. 1990. On the growth of meromorphic functions. Scientia Sinica, 33: 1025-1033.
+庄圻泰, 杨重骏, 何育赞, 闻国椿. 1995. 单复变函数中的几个论题. 北京: 科学出版社.
+Chuang C T. 1993. Normal Families of Meromorphic Functions. Singapore: World Scientific Publishing Co.
+Chuang C T. 1999. Differential Polynomials of Meromorphic Functions. Beijing: Beijing Normal University Press.
+
+主要参考文献
+Valiron G. 1923. Lectures on the General Theory of Integral Functions. Toulouse: Edouard Privat.
+Montel P. 1927. Le Ons sur les Familles Normales de Fonctions Analytiques et Leurs Applications. Paris: Gauthier-Villars.
+Nevanlinna R. 1929. Le Théorème de Picard-Borel et la Théorie des Fonctions Méromorphes. Paris: Gauthier-Villars.
+
+撰写者
+闻国椿, 1930 年 9 月 29 日生于浙江杭州。1951 年进北京大学数学系学习, 1955 年毕业后, 作为庄圻泰教授的研究生在北大继续学习和研究, 1959 年研究生毕业后留校工作至今, 现为北京大学数学科学学院教授。研究方向为复分析与偏微分方程。

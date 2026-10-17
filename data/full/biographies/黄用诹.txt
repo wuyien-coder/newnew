@@ -1,0 +1,259 @@
+人物：黄用诹
+生年：1913年6月2日
+研究方向：微分几何
+来源：11680973_中国现代数学家传第5卷_
+页码：217-242
+============================================================
+
+黄用
+
+莫锦屏
+
+黄用诹 1913年6月2日出生于广州。香港大学教授。微分几何。
+
+(一)
+
+1948年，黄用诹教授应邀成为香港大学在抗战胜利后聘请的第一位数学教授，他在这个职位上一直工作到1976年退休。在这28年里，他担任了多年的数学系主任，此外还担任过工程学院的院长和学校的代副校长，为香港的高等教育起到了积极作用。黄教授作为东南亚数学会的创始会长（Founding President of the Southeast Asian Mathematical Society），对学会的活动
+
+· 本文由香港大学萧文强(SIU Man Keung)教授于2001年3月提供。原载 Southeast Asian Mathematical Bulletin, vol.3, No.2(1979), pp.61—80。题为 PROFESSOR YUNG-CHOW WONG AND HIS MATHEMATICAL WORK: Dedicated to Professor Yung-Chow Wong on his 65th birthday。作者莫锦屏(Kam-Ping Mok)博士，现已移居澳大利亚多年。王辉翻译并作了部分删节与改写。在筹组本稿过程中，萧文强教授出力甚多，在此深表感谢。——编者、译者
+
+160
+
+保持着高度的兴趣,为推进东南亚数学家们的密切合作而从事了大量辛勤工作。为了表彰他多年来的杰出贡献,在1963年,他被授予大英帝国勋章(荣誉)。香港大学在1968年授予他荣誉科学博士,并在他退休之际授予他名誉退休教授的头衔。
+
+(二)
+
+黄用诹对于数学的兴趣最初产生于他在中学二年级学习平面几何之时。考入中山大学之后,他常常思考一些三角几何的巧妙定理,并在这一方面自学自问。我们先来看看他后来在这方面所做的部分工作。
+
+基于平面上的三角形△A₁A₂A₃,在其边线上向外作三角形△B₁A₂A₃等。以下定理早已为人所知:若三角形△B₁A₂A₃等均与顶角为120°的等腰三角形相似,则△B₁B₂B₃是等边三角形。然而,迟至20世纪30年代,该定理及其类似定理的逆命题一直得不到人们的考虑。这可能是由于此类问题很少能够通过传统方法得以解决。1941年,黄用诹利用复坐标方法解决了这一难题[8]。
+
+平面上的点P可以用一个复数p来表示,这就是点的复坐标。给定两个点A₂和A₃,第三点B₁可以通过等式b₁=(1-r₁)a₂+r₁a₃确定,其中r₁是一个复参变量。显然,参数r₁决定了△A₁A₂A₃的形状,反之亦然。这样,上述定理中的几何条件便可以转化为代数方程式f(a₁,a₂,a₃;r₁,r₂,r₃)=0。借助坐标几何,整个问题就可以利用代数方法进行处理。问题的答案最初出现在下述定理之中:
+
+基于任意三角形△A₁A₂A₃的边,构造具有固定形状的三角形△B₁A₂A₃等,则三角形△B₁B₂B₃与给定三角形△C₁C₂C₃相似的充分必要条件是,存在点D使得三角形△B₁A₂A₃等与三角形△DC₃C₂等对应相似。
+
+在特殊情况下,当三角形△C₁C₂C₃退化为一条线段时,该定
+
+理给出了$B_1, B_2, B_3$三点共线的条件。此外，若$D$位于$C_1, C_2, C_3$三点所确定的直线上，我们就可以得到著名的梅内劳斯(Menelaus)定理。黄用诹在其论文[8]中还获得了另一个定理，塞瓦(Ceva)定理作为一种特例被包含在其中。
+在论文[39]中，黄用诹将此类结果推广到了任意多边形，并研究了它们的逆命题。
+(三)
+多数初等微分几何课本都以曲线理论开章。所以，黄用诹从曲线理论着手研究微分几何并不为奇。事实上，他在已故著名英国微分几何学家戴维斯(E.T.Davies)教授指导下于1940年完成的博士论文，便定名为“黎曼空间的广义螺旋线”。
+设$\Gamma$是$n$维实欧氏空间$R^n$中的一条曲线。$R^n$中一个确定的$m(1 \leqslant m < n)$维面被称作曲线$\Gamma$的$m$维轴，如果它与曲线$\Gamma$的切线及$n-1$条主法线交成常角，$R^n$中的螺旋线即是一条容许1维轴的曲线，而$R^n$中的广义螺旋线则是一条容许$m(m > 1)$维轴的曲线。黎曼空间中的螺旋线与广义螺旋线以相似的方式被定义。通过推广塞普塔克(M.Syptak, 1932, 1934)的有关结论，黄用诹在其论文[6,7]中，分类描述了所有容许2维轴的曲线。
+螺旋线是黄用诹早期所研究的主要课题之一，在后来的岁月里，他一次又一次将自己的兴趣转移到曲线理论方面来。他的部分成果尽管只是一些初步结论，但它们却相当重要，并引起了人们广泛的注意。
+设$R^3$中的曲线$\Gamma: x = x(s)$以其弧长$s$为参数，$k_1 = k_1(s)$与$k_2 = k_2(s)$分别表示其曲率与挠率。在微分几何中常常需要找到$k_1, k_2$或$x$的导数满足什么样的充分必要条件，以使曲线具有某种特定的性质。例如寻找曲线位于球面上的充分必要条件。这在
+
+通常情况下会牵涉到与微分方程式 $(k_2^{-1}(k_1^{-1})')' + k_2k_1^{-1} = 0$ 有关的一些问题。遗憾的是，这种充分必要条件并不像它的精确形式所表现的那样简单。各种初等课本中的相关陈述要么不完整，要么不正确。困难在于以下事实，即$k_1$与$k_2$有可能在曲线的某些点，但并非所有点，消失为零。1963年，黄用诹的论文[31]给出了一个正确的阐释，解决了这一难题。
+1972年，黄用诹在其论文[45]中，利用他对上述难题的解，并参考他人的研究成果，成功地获得了$R^3$中的曲线$\Gamma$: $x = x(s)$为球面曲线的另一个充分必要条件。
+有关球面曲线的主题于1975年再次得到贝舍普(R. L. Bishop)的关注，他对黄用诹的结论进行了进一步的几何学探究。另外，克瑞斯齐格(E. Kreyszig)与培杜(A. Pendl)研究了仿射微分几何学中球面曲线的类比。
+黄用诹在对平面弧(plane arc)与螺旋弧(helical arc)的研究方面，也取得了重要进展。他在缺少附加条件$x'' \neq 0$的情况下，讨论了$R^3$中的曲线$\Gamma$: $x = x(s)$为平面弧或螺旋弧的充分必要条件。有关结论见载于他与赖鸿飞(Hon-Fei Lai)合写的论文[34]。
+(四)
+对曲线的专注自然引起他对子空间的兴趣。1938—1940年，在英国学习期间，黄用诹便开始研究黎曼空间的子空间。他那篇讨论法内特公式(Frenet formulas)的论文[2]即是他在这方面所作的第一篇论文。1940年至1947年，他在美国沿着这一方向继续从事研究，并发表了一系列论文，涉及到补子空间(complementary subspaces)[9]，爱因斯坦空间(Einstein spaces)中的完全脐超曲面(totally umbilical hypersurfaces)[10]，保形欧氏空间的标度超曲面(scale hypersurfaces for conformal-Euclidean spaces)[14]，线汇(congruence)的拟正交标形(quasi-
+163
+
+orthogonal ennuples) 等。他这一时期的研究对于黎曼几何学做出了重大贡献。我们在此仅提及其中的两个方面。
+首先，让我们着眼于将黎曼空间作为超曲面嵌入爱因斯坦空间的问题。设 $V_n$ 是具有确定或不定基本张量 $g_{ij}$ 的 $n$ 维黎曼空间；$R$, $R_{ij}$ 和 $R_{gk}^h$ 分别是 $g_{ij}$ 的纯量曲率 (scalar curvature)，黎森张量 (Ricci tensor) 和曲率张量 (curvature tensor)。
+黄用诹的论文 [10] 中有一条代表性定理，给出了具有基本张量 $g_{ij}$ 的黎曼空间 $V_n$，作为完全脐的但非全测地的超曲面之单变量族 (one-parameter family) 中的一员，可嵌入爱因斯坦空间 $E_{n+1}$ 的充分必要条件。利用该定理，黄用诹证明了所有保形欧氏空间作为完全脐超曲面单变量族之一员，可嵌入 $n+1$ 维爱因斯坦空间。这需要对方形欧氏空间的微分方程式体系做深入细致的研究。黄用诹做到了这一点，并且最终获得了此类保形欧氏空间的基本张量之标准型 (canonical forms)。
+现在，我们转向线汇的拟正交标形这一问题。考虑黎曼空间 $V_n$，它具有未必正定的基本张量 $g_{ij}$。$V_n$ 中线汇的经典概念等价于一个向量场。标形 [即标场 (frame field)] 是具有 $n$ 个线性无关线汇的一个系统。若 $g_{ij}$ 是正定的，则不存在零线汇 (null congruences)，众所周知，此时存在大量标形，其 $n$ 个线汇相互正交。对这种标形，旋转的黎森系数的最佳不变量方法 (the elegant invariant method of Ricci's coefficient of rotation) 非常有用，所以，通过使用适当的正交标形，可以极大地简化对 $V_n$ 中几何问题的研究。然而，对于具有不定 $g_{ij}$ 的黎曼空间 $V_n$，情况却截然不同。在这种情况下，如果一个具有 $n$ 个线汇的系统包含一些零线汇，那么，这 $n$ 个线汇便不可能相互正交且同时线性无关。具有零线汇的正交标形的不存在性，极大阻碍了对具有不定 $g_{ij}$ 的 $V_n$ 中的许多几何问题的研究。
+尽管在一些特殊问题的研究中，有些数学家 [E. Vessiot(1905), J. Lense(1932) and E. Cartan(1937)] 已经使用了由零线汇和非零线汇
+164
+
+形成的标形,但对黎曼空间中这一课题的首次系统研究,还应归功于黄用诹。他证明了任意给定的线性无关且相互正交的线汇的集,其一些线汇是非零的,一些是零线汇,如何能够被正规化,完备化为“拟正交标形”(这是一种特殊的标形,其线汇并非全部相互正交)。基于这种标形形成了一种不变量理论,该理论相当有用,尤其在处理带有对称张量的问题时。作为一个例证,黄用诹仔细研究了$V_3$中的拟正交标形,并利用自己的结论,给出利瓦伊-西维塔问题(Levi-Civitae, 1869)一个完全解。后来,在1949年,黄用诹的拟正交标形理论被罗兹(H.S.Ruse)用来研究$V_n$中的平行平面(parallel planes)问题。
+
+(五)
+
+黎曼空间$V_n$被称作对称的(symmetric),如果$R^h_{ijk}, l=0$。在20世纪40年代,英国微分几何学派(the British school of differential geometers)忙于探寻非对称的“调和空间”。这种探索导致了$V_n$的一个新类被发现,即$K_n^*$空间,它是其曲率张量满足某些特定条件的黎曼空间。$K_n^*$的度量的标准型由罗兹和沃克尔(A.C.Walker)分别于1950年和1951年先后得到,从而使得为期十年的关于$K_n^*$的研究渐近尾声。
+
+为了深化对$K_n^*$空间的研究,黄用诹注意到,$K_n^*$所满足的那些条件对于仿射连通空间同样有意义。他将满足类似条件的,具有零挠率的仿射连通空间称为$AK_n^*$空间。如此一来,$K_n^*$便成了$AK_n^*$的一个特殊类。
+
+1935年,黄用诹在其论文[20]中,详细考查了罗兹与沃克尔的标准型。他发现,除一种简单类型外的几乎所有$K_n^*$,它们的黎曼联络在特许坐标系(the previleged coordinate system)中的分量具有
+
+一种重要性质。这一发现促使他开始研究 $AK_n^*$ 的一个特殊类 $SAK_n^*$ ,其仿射联络的分量具有类似的性质。他通过确定仿射联络的标准型,找到了所有的 $SAK_n^*$ ,这使他不仅重新获得了近乎所有的 $K_n^*$ ,而且得到许多非黎曼空间 $AK_n^*$ 。
+非黎曼空间的存在性被确定之后,下一个问题就是研究它们的特性。但令人遗憾的是,用以研究 $K_n^*$ 的传统的张量分析法并不适用于 $AK_n^*$ 。这是因为证明 $K_n^*$ 上那些已知的结论需极大地依赖于曲率张量的标准型 $R_{hijk}$ ,而这是非黎曼空间 $AK_n^*$ 所不具备的。突破性进展在 60 年代初发生于黄用诹提出的微分流形上递归张量 (recurrent tensor) 的整体理论[27]。
+1961 年,黄用诹证明了两个定理,标志着递归张量整体理论的一个重大进展。记与 $n$ 维流形 $M$ 相伴的 $(n + n^2)$ 维流形为 $FM$,这是一个线性标架丛。黄用诹的第一个定理称,线性联络连通流形 $M$ 上的张量 $S$ 是递归张量,当且仅当,其对应于 $FM$ 上的函数集,受限于任何完整丛,无公共零点且与一个常量集成比例。利用该定理,S.Kobayashi 和 K.Nomizu(1963)证明,具有递归曲率张量的黎曼流形 $M$,其限制线性完整群是不可约群,若其维数不小于 3,则曲率张量必然平行。
+黄用诹的第二个定理给出 $M$ 上的线性联络具有递归曲率或挠率张量的充分必要条件。结合该定理与 W.Ambrose 和 I.M.Singer 的有关定理,黄用诹后来证明,具有递归曲率的线性联络的完整代数,其维数至多为 $n(n - 1)/2$。
+继此,黄用诹在其论文[30,32]中开始研究零挠率和递归曲率的线性联络。这或许可以看做是对递归 $AK_n^*$ 空间的整体阐释。我们现在就来介绍他在这方面的一些主要结论。
+首先,他证明了对于零挠率和递归曲率的线性联络,完整代数的维数 $r$ 满足不等式 $1 \leqslant r \leqslant n - 1$ ;此外,对于每个这样的 $r$,存
+166
+
+在完整群之维数为 r 的线性联络。其次,黄用诹找到了曲率张量的不同局部和整体分解。利用这些分解,他得到了如下结论:对于 M 上的零挠率和递归曲率的线性联络,黎森张量具有不超过 2 的常数秩。这为此类线性联络给黎森张量加上了一个强的代数条件。
+1962 年,黄用诹提出了有名的“黄用诹猜想”[30]:对于具有零挠率,递归曲率和非零递归余向量(nonzero recurrence covector) Wi 的线性联络,张量 Wij是(处处)对称的,当且仅当,黎森张量 Rij(处处)对称。
+与此相联系,黄用诹在论文[33]中还研究了当给定张量为平行张量或递归张量时,线性联络在流形上的存在性。
+
+(六)
+
+欧氏空间 Rn 中的两个 n 维平面被称做相互等斜的(isoclinic),如果一个平面中任何直线间的夹角与其在另一个平面上的投影直线间的夹角总保持相等。R4 中的 2 维等斜平面已深为人知。1902年,S.Kwietniewski 证明了如下定理:R4 中 2 维曲面的所有 2 维切平面均是等斜的,当且仅当,该曲面是 R-曲面。该定理后来成了黄用诹一系列重要研究的起点:R4 中的曲面,R2n 中的 n 维等斜平面,赫威兹矩阵方程(the Hurwitz matrix equation),椭圆(2n-1)维空间(Elliptic (2n-1)-spaces)中的克林福特平行面(Clifford parallel),欧氏空间与伪欧氏空间中 n 维平面几何,以及格拉斯曼流形(Grassmann manifold)与嘉当整环(Cartan domain)的微分几何。以下将重点介绍这些主题中的重要结论。
+在R4中与曲面V2的每个点相关联的是一个曲率椭圆。1905年,K.Kommerell 证明了R-曲面V2中点 p 处的曲率椭圆是以 p 为心的圆。1912 年,L.P.Eisenhart 证明了其逆命题同样成立。从而该
+
+条件可以完全刻画一个 R- 曲面,进而得知 R- 曲面是极小曲面 (minimal surface)。类似的,我们可以通过曲率椭圆条件来定义常曲率(constant curvature) 的 4 维空间 S4 中的 R- 曲面。在他的论文 [15]和[19]中,黄用诹对 R4和S4中的曲面进行了广泛研究,关于 S4 中 R-曲面获得了大量精巧的结论。
+
+虽然 R4 中 R-曲面的存在性有 Kwietniewski 的定理作保证,但我们还可以从另外的视角来处理该问题。事实上,使 R4中曲面的相邻切平面(neighbouring tangent plane)为等斜平面的条件可以通过一个偏微分方程组来表达,而 R- 曲面不过是该方程组的解。在相应的柯西问题(Cauchy problem)中,初始条件是 R4中具有 2 维相互等斜平面场的一条曲线。因此,了解这种具有平面场的曲线是否存在显得尤为重要。黄用诹在其论文[18]中给出了肯定的答案。
+
+探索向高维情形推广 Kwietniewski 定理,将黄用诹引向了以下问题:探寻 R2n中 n 维等斜平面的存在性;研究 R2n中是否存在 n 维子流形,其 n 维切平面均相互等斜;发掘这种子流形与多复变量函数之间可能存在的关系。
+
+虽然欧氏空间中 n 维平面几何早在 1875 年就得到了约当(Jordan)和其他数学家们的研究,但第一个问题直到 1961 年才被黄用诹通过构造性方法彻底解决。根据他的构造性定理,对于每个 n,黄用诹能够准确求出R2n存在多少 n 维相互等斜平面的非叠合 p 维极大集。
+
+第一个问题的答案具有许多有趣的结果。其一可得后两个问题的答案: R2n(n > 2) 中具有等斜 n 维切平面的惟一 n 维子流形是 n 维平面。这一结论尽管令人失望,但却一劳永逸地解决了后两个问题。此外,还可以推得一些结论,关系到 R2n中 n 维相互等斜平面的 p 维极大集。具体细节,读者可以参看黄用诹的美国数学会论文集[28]。至于 R4 中 2 维等斜平面及其与 3 维椭圆空间 EL3
+
+中克林福特平行面之间的关系,有关理论的初步说明可以参看他新近出版的专著[49]。
+
+(七)
+
+黄用诹于1961年出版的论文集[28],引起了三方面的进展。首先,J.A.Wolf(1963)将该论文集中的主要结论从实数域推广到了复数域和四元数域,在所有情况下,对常椭圆度量投影空间中的克林福特平行子空间集进行了彻底分析。其次,J.A.Tyrrell 和 J.G.Semple(1971)各自先后基于复投影几何在广义克林福特平行性方面取得进展,深刻揭示了克林福特平行子空间集的构造与特性。此外,D.B.Shapiro 在他的论文“相似性与等斜平面”(Similarities and Isoclinic Planes)中,借助二次型的方式和相似性子空间的结论,研究了特征数非2的任意域(arbitrary fields of characteristic not 2)上的等斜平面。另一方面,黄用诹自己在其论文[35,38,40-43]中,创立了一套处理欧氏和伪欧氏空间几何,格拉斯曼流形和嘉当整环微分几何的统一方法。
+
+令F表示实数域R,复数域C,或实四元数域H。欧氏空间$F^{n+m}$指F上的具有正定埃尔米特(Hermitian)内积的$(n+m)$维(左)向量空间。在$F^{n+m}$上界定的$n$维平面的格拉斯曼流形为$G_n(F^{n+m})$。
+
+嘉当(E.Cartan)已经知道,当F为R或C时,每一个$G_n(F^{n+m})$都具有不变格拉斯曼度量(invariant Riemannian metric),除了F为R,且$n=m=2$的情形,该度量在本质上是惟一的。这一点被K.Leichtweiss于1961年明确证明。黄用诹则从另一方面,对于F为R,C或H的情形,给出了不变格拉斯曼度量一个更加几何化的推导[35],把$G_n(F^{n+m})$几何研究推向了前所未有的深度。
+
+黄用诹计算$G_n(F^{n+m})$上不变格拉斯曼度量所得的公式,极
+
+169
+
+大简化了对 G_n(F^{n+m}) 微分几何的研究。例如通过计算弧长的初级变分，可以真正获得测地线 z = z(s) 的有限微分方程，进一步得到 G_n(F^{n+m}) 中曲线是测地线的充分必要条件。继此之后，关于连接两点的测地线段，闭测地线，非闭测地线的闭包，共轭轨迹等，还可以获取大量有趣的结论[38]。黄用诹为 G_n(F^{n+m}) 上不变格拉斯曼度量的曲率张量找到一个精确表述，这使得他能够在论文[40]中求出 G_n(F^{n+m}) 的截面曲率的界（bounds of the sectional curvature）。详细情况由于太过专业，在此不作讨论。有关工作可以参看他的论著“欧氏和伪欧氏空间几何与格拉斯曼流形及嘉当整环微分几何”。
+
+(八)
+
+最后，我们简单介绍一下黄用诹新近关于 n 维微分流形 M 之切丛 TM 的工作[47,48]，这是他与 E. M. Patterson 和莫锦屏共同工作的结果。1958 年，S. Sasaki 根据 M 上的黎曼度量在 TM 上构造了一种黎曼度量。自此，其他黎曼度量在 TM 上先后被构造出来，但始终缺少一般构造方法。
+
+1976 年，黄用诹在 TM 上引入 M-张量和 M-联络概念，并藉以研究 TM 上的 (0,2) 型和 (1,1) 型对称张量的构造。他的工作向我们提供了在 TM 上构造度量的一般方法，据此，TM 上原本已被认识到的所有度量都可以被重新得到。此外，借助 M-张量和 M-联络概念，以及矩阵符号表示法（the matrix notation），我们可以像论文 [47] 所做的那样，来阐释和推广 TM 上微分几何中的许多概念和结论，并以更加简洁的形式来表示它们。
+
+黄用诹主要论著目录
+[ 1 ] Vector algebra and line geometry, (in Chinese), Sci.J., Sun Yat-Sen Univ.
+
+(1935).
+[ 2 ] On the Frenet formulae for a Vm in a Vn, Quart. J. Math., Oxford Ser. 11 (1940), 146—160. MR(Struik) 2—20.
+[ 3 ] On a certain matrix occurring in the theory of helices, J. London Math. Soc. 15 (1940), 168—172. MR(Struik) 2—164.
+[ 4 ] On the principal directions of a tensor, J. London Math. Soc. 15 (1940), 175—182. MR(Struik) 2—164.
+[ 5 ] On two linear vector spaces associated with a vector in an Ln, Proc. Edinburgh Math. Soc. (2) 6 (1940), 172—175. MR(Struik) 2—166.
+[ 6 ] Generalized helices in an ordinary Vn, Proc. Cambridge Philos. Soc. 37 (1941), 14—28. MR(Struik) 2—302.
+[ 7 ] On the generalized helices of Hayden and Syptak in an n-space, Proc. Cambridge Philos. Soc. 37(1941), 229—243. MR(Grove) 3—18.
+[ 8 ] Some properties of the triangle, Amer. Math. Monthly, 48 (1941), 530—535. MR 3—85 (Reference listed but no review of paper).
+[ 9 ] A note on complementary subspaces in a Riemannian space, Bull. Amer. Math. Soc. 49(1943), 120—125. MR(Struik) 4—258.
+[10] Family of totally umbilical hypersurfaces in an Einstein space, Ann. of Math. 44(1943), 271—297. MR(Struik) 4—258.
+[11] Some Einstein spaces with conformally separable fundamental tensors, Trans. Amer. Math. Soc. 53(1943), 157—194. MR(Struik) 4—258.
+[12] Quasi-orthogonal enuple of congruences in a Riemannian space, Ann. of Math. 46(1945), 158—173. MR(Grove) 6—188.
+[13] A note on the first normal space of a Vm in an Rn, Bull. Amer. Math. Soc. 51(1945), 997—1 000. MR(Struik) 7—482.
+[14] Scale hypersurfaces for conformal-Euclidean space, Amer. J. Math. 68 (1946) 263—272. MR(De Cicco) 7—482.
+[15] Contributions to the theory of surfaces in a 4-space of constant curvature, Trans. Amer. Math. Soc. 59 (1946), 467—507. MR (Lichnerowicz) 7—529.
+[16] Some theorem on an Einstein 4-space, Duke Math. J. 13(1946), 601—610.
+
+MR (Fialkow) 8-351.
+[17] On a generalized equiangular spiral, Sci. J. (new series), Sun Yat-Sen Univ. 1(1948), 1—7.
+[18] Fields of isocline tangent planes along a curve in a Euclidean 4-space, T ō- hoku Math. J. 2nd series, 3(1951), 322, 239. MR(Lichnerowicz) 14—85.
+[19] A new curvature theory for surfaces in a Euclidean 4-space, Comment. Math. Helv. 26(1952), 152—170. MR(Allendoerfer) 14—583.
+[20] A class of non-Riemannian K*-spaces, Proc. London Math. Soc. (3) 3 (1953), 118—128. MR(A.G.Walker) 15—254.
+[21] Fields of parallel planes in affinely connected spaces, Quart. J. Math. Oxford (2), 4(1953), 241—253. MR(A.G.Walker) 15—899.
+[22] A note on Levine's papers: 'Fields of parallel vectors in projectively flat spaces', Duke Math. J.20 (1953), 119—126. MR(Hlavaty) 14—688.
+[23] Subflat affinely connected spaces, Proc. International Mathematical Congress, Amsterdam, Sept., 1954, Vol. 2, 266—267.
+[24] A theorem in plane geometry, Spectrum, University of Hong Kong(1957), (in Chinese).
+[25] Clifford parallels in elliptic (2n - 1)-space and isoclinic n-planes in Euclidean 2n-space, Bull. Amer. Math. Soc.66 (1960), 289—293. MR 22 # 8430.
+[26] Projectively flat spaces with recurrent curvature (With K. Yano), Comment. Math. Helv. 35(1961), 223—232. MR 23, # A2162.
+[27] Recurrent tensors on a linearly connected differentiable manifold, Trans. Math. Soc. 99(1961), 325—341. MR 22, # 12485.
+[28] Isoclinic n-planes in Euclidean 2n-space, Clifford parallels in elliptic (2n - 1)-space, and the Hurwitz matrix equations, Amer. Math. Soc. Memoir No. 41, 112 pages(1961), 2nd printing with corrections and minor changes, 118 pages(1971) US $ 3.40. MR 26, # 2968, MR 52, # 4192.
+[29] Linear connections and quasi-connections on a differentiable manifold, Tōhoku Math. J. 2nd series 14(1962), 48—63. MR 25, # 2547.
+[30] Linear connexions with zero torsion and recurrent curvature, Trans. Amer. Math. Soc. 102(1962), 471—506. MR 24, # A3601.
+
+[31] A global formulation of the condition for a curve to lie in a sphere, Monatsh Math. 67 (1963), 363—365. MR 27, # 5173.
+[32] Two dimensional linear connexions with zero torsion and recurrent curvature, Monatsh Math. 68 (1964), 176—184. MR 30, # 4221(Yano).
+[33] Existence of linear connections with respect to which given tensor fields are parallel or recurrent, Nagoya Math. J. 24 (1964), 67—108. MR 30, # 4222. (A. Geotz. Wroclaw).
+[34] A critical examination of the theory of curves in three dimensional differential geometry (With Hon-Fei Lai), Tôhoku Math. J. 2nd Ser. 19 (1967), 1—31. MR 35, # 4825 (D. Laugwitz (Darmstadt)).
+[35] Differential geometry of Grassmann manifolds, Proc. Nat. Acad. Sci. U.S.A. 57 (1967), 589—594. MR 35, # 7266 (K. Nomizu (Providence, R.I.)).
+[36] An elementary and simple proof of the connectedness of the classical groups (With Yik-Hoi Au-Yeung), Amer. Math. Monthly, 74(1967), 964—966. MR 36, # 5261 (J.G. Horne (Athens, Ga.)).
+[37] On H. S. Ruse's theorems concerning parallel fields of planes on a Riemannian space with indefinite metric, Proc. Amer. Math. Soc. 18 (1967), 892—897. MR 35, # 6099 (A.G. Walker (Liverpool)).
+[38] Conjugate loci in Grassmann manifolds, Bull. Amer. Math. Soc. 74 (1968), 240—245. MR 36, # 3285 (K. Nomizu (Providence, R.I.)).
+[39] Some extensions of the Douglas-Neumann theorem for concentric polygons, Amer. Math. Monthly, 75 (1968), 470—482. M37 # 5766 (H. Busemann (Los Angeles, Calif.)).
+[40] Sectional curvatures of Grassmann manifolds, Proc. Nat. Acad. Sci. U.S.A. 60 (1968), 75—79. MR 37 # 4747 (R.L. Bishop (Urbana, Ill.)).
+[41] Euclidean n-planes in pseudo-Euclidean spaces and differential geometry of Cartan domains, Bull. Amer. Math. Soc. 75 (1969), 409—414. MR 40, # 4882 (S. Murakami (Osaka)).
+[42] On a class of Schubert varieties, J. of Differential Geometry (1) 4 (1970), 37—51. MR 41, # 9297 (R.L. Bishop (Urbana, Ill.)).
+
+[43] On the lengths and the numbers of congruence classes of closed geodesics in Grassmann manifolds (With S.H. Young), Tôhoku Math. J., (4) 22 (Dec. 1970), 604—612. MR 43, # 6944 (R.L. Bishop (Urbana, Ill.)).
+[44] Frenet formulas for curves in real, complex and quaternionic euclidean spaces, Differential Geometry-In Honour of Kentaro Yano, Kinokuniya Co., Tokyo (1972), 525—541. MR 50, # 14529, ZB 245, # 53002 (author) (from author) 236, # 53004, ZB 258, # 53004.
+[45] On an Explicit Characterization of Spherical Curves, Proc. of the Amer. Math. Soc., 34 (1972), 239—242. MR 45, # 4292, M 47, # 964 (Erratum).
+[46] A theorem on affinely connected spaces admitting parallel vector field and parallel l-forms, Tensor 26 (1972), 373—389. (Commemoration Vol. III for Professor Akitsugu Kawaguchi). MR 49, # 1359, ZB 267, # 53006 (K.L. Duggal).
+[47] Connections and M-tensors on the tangent bundle TM (With K.P. Mok) Topics in Differential Geometry, pp. 157—172, edited by H. Rund and W.F. Forbes, Academic Press (1976). MR 53, # 11532 (F. Brickell), ZB 335, # 53020 (E. Hell).
+[48] Structures of symmetric tensors of type (0,2) and tensors of type (1,1) on the tangent bundle (With K.P. Mok and E.M. Patterson), Transactions of the American Mathematical Society, 234 (1977), 253—278. ZB 334, # 53039 (The Authors).
+[49] Linear Geometry in Euclidean 4-space, Southeast Asian Mathematical Society Monograph No.1 (1977), 217.
+[50] Geometry of n-Planes in Euclidean and Pseudo-Euclidean Spaces and Differential Geometry of Grassmann Manifolds and Cartan Domain (a monograph with an Appendix by Joseph A. Wolf), to be published.
+[51] Some views on geometry courses in school and university, Proceedings of the First Southeast Asian Conference on Mathematical Education, May 29-June 2, 1978—Mathematics in the Philippines, No.3 (1979), 156—162.
+[52] A strong converse of Morley's trisector theorem (with K.M. Tsang),
+174
+
+American Mathematical Monthly, 89(1982), 642—653.
+[53] Isoclinic n-planes in R$^{2n}$ and the Hopf-Steenrod sphere bundles S$^{2n-1}\to$S$^n$, n=2,4,8 (with K. P. Mok), L'Enseignement Mathématique, 34(1988), 167—204.
+[54] Normally related n-planes and isoclinic n-planes in R$^{2n}$ and strongly independent matrices of order n (with K. P. Mok), Linear Algebra and its Applications, 139(1990), 31—52.
+[55] My Early Life, 1913—1948, Five Decades as a Mathematician and Educator, pp.1—12, edited by Kai-Yuen Chan and Ming-Chit Liu, and published by World Scientific, Singapore, New Jersey, London, Hong Kong, 1995.
+注:[51—55]由萧文强教授提供,系黄用诹近作。其中文[55]由王辉翻译,附于后。
+
+我的早期生活,1913—1948
+
+我于1913年6月2日出生于中国广州。我的父亲(已故)黄式渔,字樵仲,那时是广东高等师范大学*的文学与历史学教授。我7岁时,开始在坐落于校园内部的师范附小上学。我的父亲57岁时去世,那时,我正读小学三年级。仅仅只是通过他去世后留下来的书籍和论文,我才了解到,他是一位杰出的学者和多才多艺的人。
+
+我继续着自己的学习,并顺利地升学到六年级。1925年,我小学毕业。在那些岁月里,有一件事令我终生难忘。即一次算术测验过后两天,老师把我叫到了他的办公室,问我解决其中一道试题的方法是怎样想出来的,因为这种方法很不寻常。我自然为此感到特别高兴,并为有这样一位老师而颇感幸运。
+
+* 这所大学始建于1924年,其创建者孙文(字逸仙,号中山)先生也是中国革命运动的创始人。为了纪念他,该校在1926年被更名为中山大学。
+
+175
+
+小学毕业以后,我进入中学继续学习。直到三年级,什么有趣的事情也没有发生。那时在校的人们都传言,几何老师区维筱(字利鬯)既慈祥又严厉,他讲课时,班上的学生们表现得特别好,甚至不敢弄出一点声响。当我读到三年级,并听讲他的平面几何课时,才的的确确地感到此言不假。此外,他还可以徒手在黑板上画出完美的几何图形,如平行四边形、三角形的内切圆与外接圆等。这给我留下了深刻的印象。在当时的第一次测验中,我在班上取得了最好成绩。受此鼓舞,我变得对几何很感兴趣。那个学期末,我请区先生推荐一些几何方面的高等读本给我看。
+初中三年级结束后,我通过入学考试跳过一级,到两年制大学预科学习。我那时已下定决心上大学后专攻数学,所以,我开始自修大学预科的数学课程。这使得我在预科的第一年里无须再学数学。但因必须听讲所有的课程,我常常在老师不注意的时候溜出教室,去附近的一所娱乐室打乒乓球。尽管老师一定有所发现,但我从未因此而受到责罚,原因在于,我总能按时上交作业,并在所有的测验中取得高分。
+1931年,我考入中山大学,在数学天文系学习数学。我们班只有四名学生,而且只有我和另一名学生选择了数学专业。另一方面,系上有四位数学教授:何衍璿、刘俊贤、袁武烈、胡金昌。他们都是非常优秀的老师。其中前三位在法国取得了高等学位,后一位在美国加州大学获得博士学位,其专业是射影微分几何。除了所有的必修课,我还选择了两门选修课,即由胡教授讲授的线几何(line geometry)与非欧几何(non-Euclidean geometry)。
+1934年夏,中山大学数学系为广州的高中数学老师组织了一个进修班。在刘教授讲授的一次课上,一名学生提出一个平面几何方面的问题,而刘教授并不知道其答案。由于他知道我擅长于此,便请我帮忙。我替他解决了这个问题。稍后,他对我说:“我下次上课时,你随我来,将你的解法亲自讲给学生们听。”于是,我就
+
+照他的要求做了。当我那天走进教室时，学生们都因我的年轻而感到惊奇。后来，刘教授给了我 18 块银元，并说那是他讲一小时课所能得到的报酬。
+有些英文数学书有中文译本。在读大学一年级时，我选择了两三本英文数学书，并将它们的中文译本与其并排摆放，对照着自学如何阅读英文数学书。同样，由于有些参考书是用法文或德文写成的，所以我在二、三和四年级时选修了一些法语和德语课，这使得我也能够阅读法文版和德文版的数学书。
+对我而言，数学学习是一种享受，而非艰苦之事，因为，在难题被成功解决时，我感到特别兴奋和快乐。由于这一原因，我不畏艰难，刻苦学习，在所有考试中取得了很好的成绩。因此，我无须交纳学费，而且，当我 1935 年毕业之时，还被授予优学奖和论文奖。我的论文题为“向量线位标及相配一次线丛”（Vector Line Coordinates and Conjugate Line Congruences），后来发表于中山大学的《自然科学》（Journal of Natural Science）。
+1935 年 6 月的毕业典礼之后，我很快就成了数学系的一名助教。我的任务是为袁武烈教授所开微分方程课批改学生们的作业，同时讲授高中三年级的解析几何课。另外，受袁教授推荐，在 1935 年 9 月到 1937 年 6 月的两年间，我也在广东省陆地测量学校讲课。学校里的学生们来自广东省的各个城市，他们的素质大都比较髙。我在那里讲授的课程是球面三角（Spherical Trigonometry）和最小二乘法（Method of Least Squares）。我自己以前并未学习过这两门课程，袁教授对此深有了解。但这显示了他对我的信任与期望，而我也没有令他失望。两个月后，学生们开始称我为“小博士”，因为他们觉得我很年轻，但知识却很丰富。
+1938 年 6 月，我到香港参加一个为期 3 天的考试，力争获取中英庚款留英公费奖学金。那一年，关于该奖学金的竞争在中国的五个城市同时展开。由于我所居住的广州几乎每天都要受到日本
+
+战机的轰炸,原设于此的赛场后来被改设于香港的香港大学。来到香港的 54 位考生被安置在大学里的三个学生公寓住宿:Lugard, Eliot,和 May。考试在原 Eu Tong Sen(余东璇)体育馆(现已被拆毁)举行,那里现在矗立的是主图书馆(the Main Library)大楼。考生们必须连续 3 天完成 6 个长达 3 小时的考试。数学试卷考查代数、几何、分析和理论力学,此外就是英语和汉语。监考官是(已故)著名学者和外交家叶恭绰先生,他也是庚款基金管理委员会的委员。
+
+这是我第一次涉足香港大学的校园,我那时并没有想到,十年后,我还会重回此地,成为这所大学在战后的第一位数学教授。
+
+我在考试结束后随即返回了广州。1938 年 9 月 5 日,考试结果被中国的几大报刊所公布,我极其高兴地获知,我已赢得惟一的数学奖学金。与此同时,我收到一封来自重庆(战时中国的临时首都)的电报,指令我应尽快赶往香港,为英国之行做好准备。
+
+这样,各学科的 21 位奖学金获得者都集合到了香港。逗留香港期间,我们忙于制作西式服装(一件夏装和一件冬装)与外套大衣,这都是我以前不曾穿过的。同时,我们被邀请参加一些会议,讲话的人告诉我们到英国时该做什么和不该做什么。随后,我们受邀与香港大学的副校长 Duncan J.Sloss 博士一起品茶,并应学生会之请共进晚餐。我仍然清楚地记得晚餐后拍照时镁光灯所喷出的浓浓白烟。
+
+与此同时,旅行及其他文件从重庆送到了我们手里。最终,在 1938 年 9 月 17 日,我们登上一艘 P&O 航船 CHITRAL 号,开始了通往英国的航程。航船沿途停泊过一些地方,包括仰光(Rangoon)、新加坡(Singapore)、锡兰(Ceylon)、孟买(Bombay),然后通过地中海到达法国的马赛(Marseilles)。从那里,我们乘火车到达巴黎(Paris),随之搭乘配合船班次载运船客的火车到达英国的多佛(Dover),最后乘火车从多佛到伦敦(London)。
+
+我们到达伦敦时,大约已是10月中旬。有生第一次,我看见白雪从天上飘下。大约一周之后,我从无线广播中获知,广州已经落入日军之手。此后,我与家人失去联系近乎达两年之久。
+
+在伦敦,对庚款留学生的管理归属于伦敦的大学中国委员会(the Universities China Committee in London),它位于W.C.1伦敦Gower St.的中国研究所(the China Institute in Gower St., London, W.C.1)。管理委员会(the Board of Trustees)建议我去剑桥大学(Cambridge University)学习数学,所以我前往剑桥造访(爵士)William V.D. Hodge教授,并讨论在其指导下攻读博士学位的可能性。得知我很想专门研究张量分析(Tensor Analysis)和微分几何学(Differential Geometry)后,他建议我返回伦敦,与伦敦大学国王学院(King's College, University of London)的E.T. Davies博士商讨此事(Davies博士那时是国王学院的一名讲师,他曾与Levi-Civita一起在意大利研究过Ricci微积分)。
+
+见到Davies博士之后,我给他看了我在中山大学的论文副本,并把我的想法告诉了他。他很快就将我接收为研究生,并让我研读H.A. Hayden所写的一些有关广义螺旋线(generalized helices)的论文,L.P.Eisenbart所写的名为Riemannian Geometry的专著,以及J.A. Schouten和D.J. Struik所写的两卷本Einführung in die neuren Methoden der differential Geometrie,其中第一卷出版于1935年,第二卷出版于1938年,即我来伦敦前不久。除了研读这些论文与专著之外,我在国王学院还参加了代数、分析及相对论方面的课程学习。
+
+那时,第二次世界大战即将爆发。1939年9月3日,法国与英国向(纳粹)德国宣战。不久,德国战机开始飞越英吉利海峡(the English Channel),轰炸伦敦和考文垂(Coventry)。如同预料的那样,战争不可能很快结束。伦敦大学的权力部门决定将(伦敦大学的)国王学院迁往英国西部(布里斯托尔)的布里斯托尔大学(the
+
+University of Bristol) 校内。我随国王学院一起迁到布里斯托尔，Davies 博士则返回了他在威尔士 (wales) 的家乡，距离布里斯托尔不算很远。但他每月会到布里斯托尔大学来一次，了解我的研究进展情况。通过那时的独立工作，我很快在广义螺旋线研究方面得出一些重要结论。
+Davies 给了我很大帮助。他教我如何撰写好一篇论文，如何向不同期刊杂志投稿，以期获准发表。由于我还得为自己的博士学位完成一篇论文，而且找人替我打印论文将是一件十分昂贵且困难的事，所以，我买了一台很小的便携式打字机，并学着自己打字。在 1940 年，我有 4 篇论文被以下杂志接收发表：Journal of the London Mathematics Society、Quarterly Journal of Mathematics ( Oxford series) 和 Proceedings of the Edinburgh Mathematical Society。
+我的博士学位论文题为“黎曼空间的广义螺旋线”(Generalized helices in Riemannian space)，是与写的另一篇论文一起被提交的。大学里的权力部门免除了我的口头答辩，因为在那时，请两位校外主审 [利物浦 (Liverpool) 的 A.G.Walker 教授和里兹 (Leeds) 的 H.S.Ruse 教授] 来到布里斯托尔并非易事，况且，他们对我的工作已经熟悉。此后不久，我被通知已经满足了申请博士学位的所有必要条件，所以我可以在任何时候离开英国。按照惯例，申请博士学位者必须能够读懂德文和法文的数学书籍与论文。幸运的是，我在到英国之前已经做到了这一点。这是 1940 年 6 月的事，这样，我仅花费了一年零九个月便在伦敦大学取得了博士学位。
+由于我的康款奖学金为期 3 年，而我用了不到两年时间便完成了攻读博士学位的工作，所以，我获得特许去美国度过第三年。1940 年 9 月，我从利物浦搭乘商业航船离开英国，前往美国。后来得知，这是战争结束前横渡大西洋的最后一艘商业航船。在那时，德国的潜水艇，通常也被人们称为 U-boat，正出没并横行于大西洋中。我所乘坐的航船不得不接受护卫驱逐舰的护送。在整个
+180
+
+航程中,旅客们只得全天 24 小时地穿着救生衣。告诉人们德国潜水艇就在附近的假警报偶尔响起,航船只好做“之”字形急转,以求躲避。大约四周之后,我们终于安全抵达纽约。
+数日之后,我去新泽西州普林斯顿(Princeton, New Jersey)的普林斯顿大学(Princeton University)拜会 L.P.Eisénhart 教授,我曾研读过他的专著 Riemannian Geometry。我作为访问学者在普林斯顿逗留了半年。在此期间,我继续从事自己的研究,并定期参加他们每周的研讨会。
+那时,我得知 D.J.Struik 教授正在麻省理工学院(Massachusetts Institute of Technology),便写信告诉他,我愿意去麻省理工学院做研究。他回信说,他将十分高兴请我去学院作客。稍后,当我见到他时,他告诉我,他刚刚向《数学评论》(Mathematical Rviews)介绍过我的一些论文。
+然后,他说:“我必须带你去见 Norbert Wiener 教授,否则,他永远都不会原谅我。”于是,他把我带到了 Wiener 教授的办公室。Wiener 一见到我,便用中国话说:“欢迎你。我的汉语不是很好,因为我不知道你要来,所以最近不曾练习我的汉语。”原来,在不久以前,他应自己以前的学生之邀,曾在北京的燕京大学(Yenching University)生活过半年。在那里,他学会讲一些中国话,并为此感到十分自豪。
+我在麻省理工学院与 Struik 教授一起工作了 2 年半(1941—1943),获益匪浅,他给了我许多帮助与建议。到 1941 年 9 月,我的为时 3 年的庚款奖学金已经到了截止日期,我应该回中国去。但我不能这样做,因为太平洋战争已经爆发,中国正经受着日军的蹂躏。更糟糕的是,我很快发觉自己无法找到任何付酬工作,因为我只有一份学生签证,而缺少工作许可证。[1941 年 12 月 7 日,星期天,我在麻省理工学院。日本战机一路飞越太平洋,偷袭夏威夷岛的珍珠港,炸毁了美国太平洋舰队。第二天,美国总统罗斯福
+
+(Franklin D. Roosevelt)宣称12月7日为国耻日(a date which will live in infamy)，美国国会向日本宣战。12月11日，德意日同盟国向美国宣战，美国国会对此做出了回应。]
+根据 Struik 教授的建议，我四处寻找某种博士后奖学金。我发现只有两所大学提供这种奖学金：一所是俄亥俄州立大学(Ohio State University)，另一所是位于费城(Philadelphia, Pa.)的宾夕法尼亚大学(University of Pennsylvania)。我向两所大学都递交了申请，但未能获得俄亥俄州立大学的资助。他们客气地答复说，我是他们筛定的两位候选人之一，但要做出最后的决定还需要时间。
+幸运的是，我收到一份令人欢喜的来自宾夕法尼亚大学的回函，向我提供一份哈利生研究基金(Harrison Fellowship)。尽管宾夕法尼亚大学在数学方面只有一个相当小的研究队伍，但却包括几位非常杰出的人物，如 John R. Kline, Hans Rademacher, 和 A. Zygmund。
+1941年，当我到达宾夕法尼亚大学时，我发现著名的匈牙利数学家 Paul Erdös也是一位哈利生基金研究成员(Harrison Research Fellow)。他正在作第二年研究，而我只是第一年。我们经常见面，有时还在大学附近的一家意大利餐馆共进午餐。进餐中间，Erdös常会一言不发地站起来，搓着手在走廊上来回走动，时而还跳一两步。见过他的女招待和其他顾客都很想知道他在做什么，但出于礼貌不便寻问。事实上，他正在思考许多有趣的数学问题。
+在宾夕法尼亚大学数学系，有一个由 H. Rademacher 主持的研讨班(pro-seminar)，其中有大部分研究生和部分教员参加。在这些讨论班上，参与者被指定研读一些原始论文，然后向全班作汇报。Rademacher 和其他参与者将对其进行评述和补充。我发现这种讨论班对于研究生们阅读原始论文并写出自己的论文非常有益。(到香港大学后，我曾在数学系组织过一个水平些微偏低的讨论班。)
+182
+
+正是在宾夕法尼亚大学的日子里,我才第一次遇见了陈省身教授,他当时作了一个关于“广义高斯-邦尼公式”(Generalized Gauss-Bonnet formula)的学术报告。尽管我们早已熟知对方的姓名,但到那时我们才首次相识。此后,我们成了非常要好的朋友,他在数学及其他方面都给了我许多帮助。事实上,主要是通过他,我才能够在普林斯顿高等研究院(1958)、芝加哥大学(1959)和加州大学洛杉矶分校与伯克利分校(1966—1967),分别度过我在香港大学的一些长假。
+我拿了两年的哈利生奖学金,1943—1945。之后,数学系主任John R. Kline 教授请我讲授部分基础课程。但在我开始工作之前,他对我说:“Perry A. Caris 教授是一位非常出色的老师,我建议你在他的班上先做些观察。”感谢他使我懂得,学习如何讲课的最好的方法之一就是去观察工作中的大师们。
+1945年8月6日,美国飞机在日本广岛投下一颗原子弹。三天之后,第二枚原子弹落在日本长崎。超过150 000人被杀或受到致命的伤害。8月14日,日本政府同意无条件投降。这样,在经过了近四年残酷杀戮和广泛毁坏之后,太平洋战争终告结束。
+1945年9月,宾夕法尼亚大学突然出现了比通常多出许多的学生。这是因为第二次世界大战刚刚结束,根据“G.I. Bill of Rights”,归来的大量美国士兵有权接受免费的大学教育。由于上课的学生数量很大,每门课程不得不分成几个班进行讲授,每班约有四十名学生。我承担了两个班的教学任务。显然,学生们很喜欢我的教学方式,因为很多人都想来我的班上听课。
+1945年11月30日,我与陈桑莲(Shong-Lin Bow)结成夫妻,她是出生在美国的一位华人,曾在伯利亚学院(Berea College)就读研究生。我们结婚时,她是宾夕法尼亚州的宾夕法尼亚医院研究所(Institute of the Pennsylvania Hospital)的职业临床医学家(occupational therapist)。能娶她为妻,是我极大的幸运,因为她一直以来,都是我
+
+的好帮手。
+1947年,在经过两年教学工作之后,我非常想回中国,因为我于1938年首次离开中国后,已有九年没有看见母亲和家人了。
+我打算回国的消息一传出,便收到了天津的南开大学、北京的清华大学和昆明的云南大学,同时也包括我的母校广州的中山大学所提供的教授职位。经过仔细考虑,我决定接受中山大学的邀请,因为那里还有我以前的一些老师,而且我还可以同家人团聚。
+了解到中山大学图书馆的图书与期刊杂志在数学方面馆藏不多,我从普林斯顿大学定购了100多套数学方面的缩微胶片副本,从美国数学会定购了一部缩微胶片阅读仪,寄往广州。
+经过近两个月的准备工作,我们已准备好在1947年9月动身回国。我们那时可以搭乘的惟一航船是一艘经过改装的运兵船,被称为“S.S. Marine Lynx.”。我们先是在纽约登上航船,从大西洋经巴拿马运河航行至太平洋,抵达美国西海岸的洛杉矶,随后穿越太平洋,到达中国的上海。我们在上海停留了一天。此间,陈省身教授邀请我们吃午餐。那是我们第一次吃川菜,比我们在船上所吃的食品味道好多了。整个航程花费了一个多月时间。我们很多人在路上都有点晕船。
+到达广州不久,我接到一条好消息,我已经被伦敦大学授予科学博士学位。
+我们在广州生活了近一年。发觉那里的条件非常艰苦,而且看不到未来有多大希望,我们开始考虑重返美国。1948年6月,我们在香港的报纸《南方早报》(South China Morning Post)上看到,香港大学正在招聘战后第一位数学教授。
+我写了申请。经过约两个月的等待,和在香港由 Duncan J. Sloss 博士主持的一次面试,我被任命为数学教授。Duncan J. Sloss 博士在1937—1949年间任香港大学的副校长。1938年,在动身去英国前,我曾与他有过短暂的会面。
+184
+
+很高兴能来到香港大学,因为超过90%的学生都是中国人,而且我还能够为香港和中国多做一些事情。回首往事,我倍感幸运,在从事自己最热爱的工作中,我基本上算是成功的。

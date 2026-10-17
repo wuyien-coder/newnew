@@ -1,0 +1,104 @@
+人物：庄圻泰
+生年：1909年3月13日
+逝世：1987年
+研究方向：函数论、数学教育
+来源：11134319_中国现代数学家传第2卷_fenleiID_0K8120_
+页码：168-177
+============================================================
+
+庄圻泰
+
+闻国椿
+
+庄圻泰 1909年3月13日诞生于山东省莒县。北京大学教授。函数论，数学教育。
+
+庄圻泰，我国数学家。1927年入清华大学学习，毕业后任数学系助教。1934年进清华大学理科研究所当研究生，从熊庆来教授学习和研究亚纯函数的值分布理论。1936年派往法国巴黎大学，从瓦利隆(G.Valiron)教授，研究亚纯函数的正规族问题。1938年获数学博士学位。1939年回国后，在昆明云南大学数学系任副教授、教授等职。1946年起，在北京大学数学系任教授至今。1951年加入“九三学社”，现任“九三学社”中央参议委员会委员；1983—1987年担任中国人民政治协商会议北京市委员会常务委员。庄圻泰长期从事亚纯函数的值分布与正规族理论的研究，得到了一些重要的研究成果，受到国内外同行的高度评价，1985年获得国家教委优秀科技成果奖。
+
+• 庄圻泰像 1991年3月摄于北京。——编者
+
+141
+
+一 成长过程
+
+庄圻泰于 1909 年 3 月 13 日出生在山东省莒县的一个书香之家，祖父是清代科举中的拔贡，父亲是秀才。这样的家庭环境对培养他的勤奋好学有着重要的影响。
+
+庄圻泰受了私塾、小学和中学各阶段的教育以后，1927 年考入清华大学，先在工程系学习一年。当时选学工程的动机是来自毕业后就业的考虑。但这个学习方向对他并不合适。经过多次和其他人交谈，他逐渐对天文和相对论产生了兴趣。他曾用量子物理系的一个望远镜在傍晚时看过金星，还在图书馆翻阅了相对论方面的书，一直到现在他对于天文方面的新发现还很感兴趣，于是就有了改学天文的念头。由于当时清华大学没有天文系，所以想转到物理系，但物理系对转系的要求很严，没有成功；最后就转到与物理系比较接近的数学系。
+
+转入数学系后，庄圻泰的学习成绩一直很好。这一方面是由于老师们认真的讲授，另一方面是因为他习惯于自学和深入思考。1932 年毕业前，按学校规定需作大学毕业论文；他自己选定一个题目“隐函数的极大和极小”，并且没有和老师们商量就写成了论文。这篇论文虽然内容不深，但颇为精采，受到数学系主任熊庆来教授称赞，并被推荐发表在清华大学的一个学术刊物上。
+
+正是由于这些好的表现，1934 年庄圻泰被允许进入该校理科研究所算学部，做为熊庆来教授的研究生。在做研究生的两年时间里，他完成了三篇论文，前两篇论文的题目是自选的，即“A generalization of a theorem of Montel”和“On the uniform convergence of certain sequences of functions”，这两篇论文都发表在清华大学的学术刊物上。第三篇所研究的问题是熊庆来提出的题目：“On the distribution of the values of meromorphic functions of infinite
+
+142
+
+order”,这篇论文发表在中国数学会会刊上。1935年熊先生聘请法国数学家阿达玛(J. Hadamard)和美国数学家维纳(N. Wiener)来清华大学讲学。阿达玛开设了两门课,其中一门是偏微分方程,庄圻泰参加了这门课的考试,圆满解答了阿达玛出的题目,因此受到称赞,并得到很高的评语。
+当时清华大学的研究生毕业后,按规定择优派往国外公费留学。1936年庄圻泰毕业后即被派往法国巴黎大学公费留学,随瓦利隆教授作研究工作,同时在巴黎大学听课,还参加阿达玛在法兰西学院主持的一个讨论班。瓦利隆对他指出的研究方向是关于亚纯函数的正规族的问题,在看了一些参考文献后,过了不久他就得到这方向的一个结果。随后庄圻泰自己又选了关于一个亚纯函数和它的导数的公共Borel方向的问题,也写出了一篇论文。瓦利隆看了这两篇论文后,说很好,并让他写出论文的摘要发表在法国的刊物《Comptes Rendus》上。从此,瓦利隆对他有了好的印象并且说:“以后可以到我的家里找我。”当时庄圻泰住在巴黎的大学城的一个宿舍里,离瓦利隆的家不远。有一次他为了思索一个问题躺在床上彻夜未眠,终于想出了解决问题的方法。次日清晨便急忙到瓦利隆家告知此事。瓦利隆非常满意。庄圻泰就是这样刻苦钻研、勤奋工作的。1938年他完成了学位论文,并在当年11月通过答辩获得博士学位。答辩委员会主席是波莱尔(É. Borel)教授,博士论文的题目是:“Étude sur les familles normales et les familles quasi-normales de fonctions méromorphes”[1],它发表在意大利的一个刊物上,并在阿达玛的讨论班上对此作了扼要的介绍。
+二 教研活动
+在获得博士学位后,庄圻泰原计划在巴黎再继续研究一年。但1939年第二次世界大战爆发,因此只好离开巴黎于当年11月回
+
+到昆明。当时熊庆来任云南大学校长，所以庄圻泰便在该校任教，一直到1946年抗战胜利后，才离开云南大学来到北京大学。在云南大学期间，正值抗战，他在后方艰苦的环境中坚持教学工作。他经常担任两门课：微积分和一门较深的课，例如微分方程式论。后来昆明时常遭到敌机轰炸，教学工作受到严重影响，于是云南大学决定将该校理学院迁到离昆明较远的马坊镇。镇上有一个兴隆寺，寺中的大殿作为理学院的大教室，其它房屋作为教室、办公室和住处。他担任的微积分就在大殿里上课。那时生活条件很差，不仅吃不好，而且住在寺里一间黑暗又潮湿的屋子里，后来还得了疟疾。在云南大学的七年中，庄圻泰除去教学工作外，并没有完全停止研究工作，有时仍思考一些问题；后来在法国一个刊物上发表的论文“Sur les fonctions continues monotones”[2]，就是在云南大学期间作出来的。
+1946年，他来到北京大学任教，仍担任微积分的教学工作。此外，还讲授过数学分析、复变函数，以及为化学系开设的微分方程。那时清华大学也请他兼课讲复变函数。听讲数学分析课的人中，除去数学系学生外，还有物理系的学生，其中有些学生现在都已成为知名的数学家或物理学家，其中几位是中国科学院院士。在科研方面，那时又写出一篇论文“Sur la comparaison de la croissance d'une fonction méromorphe et de celle de sa dérivée”[3]，也在法国一刊物上发表。
+1952年院系调整，庄圻泰被分配到现在的北京大学，主要讲授函数论方面的一些课程，其中有必修课：复变函数、实变函数与选修课：保角变换、拟保角变换、整函数与亚纯函数等。在教学中他总是力求条理清楚，使得学生容易理解，教学效果一直是比较好的。为了帮助学生深入了解课程的内容，有时他还亲自到学生宿舍，对一些学生自己组织的课外讨论进行指导。除了授课外，他还指导过一些专门化的毕业论文和几位研究生。他时常让学生一而
+
+再、再而三地审阅和修改论文，以防出现错误，并做到精益求精。他勤奋的工作态度、严谨的治学方法以及很强的推理能力，都给学生们留下深刻的印象。那时虽然有一些政治运动，但他仍然坚持不懈地进行研究工作。在1957—1964这几年中，他在国内的刊物上发表了四篇论文，第五篇论文也已写出，但不久“文革”开始，直到1979年才在《中国科学》上发表。
+庄圻泰的科学研究工作，都是属于数学的基础理论。在1973年前后的一段时间内，也曾作了一些密切联系实际应用的研究工作。那时搞“开门办学”，提倡理论联系实际，他被安插在数学系73级的一个组里。所研究的问题来自工厂、科学院仪器厂、七机部等。随着问题的不同，用的数学的深度也不同。有的问题只需要微积分就够了，有的问题用到了保角变换或椭圆函数。如七机部提出要计算一种耦合器尺寸的问题，他就利用Jacobi椭圆函数并想出一些技巧，找到了一种很有效的计算方法。
+“文革”结束后，庄圻泰又回到基础理论的研究。从1979年到现在，他已发表十几篇论文，编著了《亚纯函数的奇异方向》等著作。从1978年开始，又组织复变函数讨论班，指导一些研究生。至今已有五名研究生获得硕士学位，一名获得博士学位。此外他还参加了国内外的一些学术活动。
+庄圻泰办事是很认真负责的，有一次为了编辑出版一本著作，他亲自去北大中关园宿舍闻国椿家商谈此事，那时他已年逾80，类似于这样的事曾有多次。庄圻泰现在虽已退休，但仍坚持进行一些研究工作。
+庄圻泰在整函数、亚纯函数、拟保角变换方面培养了不少学生，数学界的后起之秀杨乐、张广厚的研究工作就曾得到庄圻泰的关心和指导。近十多年来，他不仅指导青年教师与研究生的科学研究，而且还一直组织和主持召开全国单复变函数的学术会议，为推进我国复分析的理论与应用的发展而努力工作。
+145
+
+鉴于庄圻泰在工作上的成就，美国 Marquis 出版社将他的简要传记载入该出版社出版的第五版《世界人名录》(《Who's Who in The World》,Fifth Edition)中。
+
+三 主要贡献
+
+庄圻泰在亚纯函数的值分布与正规族理论方面的研究，主要贡献如下：
+
+(1)一个亚纯函数的增长性与其导数的增长性的比较。在论文[3]中，建立了两个不等式，从这两个不等式得出一些推论，其中一个是：一个超越亚纯函数 f(z) 和它的导数 f'(z) 有相同的级和相同的下级。这个结果后来常被别人引用。另一方面，论文[3]引起后来一些数学家的研究工作，其中有英国数学家海曼(W. K. Hayman)所写的两篇论文*。此外，维蒂希(H. Wittich)将论文[3]中的内容写进他所著的书《Neuere Untersuchungen über eindeutige analytische Funktionen》(Springer-Verlag, 1955)。在论文[11]和[15]中，又推广了论文[3]中的结果。
+
+(2)将奈望林纳(R. Nevanlinna)的亚纯函数理论中的第二基本定理推广到小函数的情形。在奈望林纳的亚纯函数理论中，第二基本定理是很重要的。1929年，奈望林纳提出将定理中的常数 a_j (j=1,...,q)换为满足条件。
+
+T(r, φ_j)=o{T(r, f)}(j=1,...,q)
+
+的亚纯函数 φ_j(z)(j=1,...,q)，以推广第二基本定理。奈望林纳提出此问题后，很长时间没有大的进展；一直到 1964 年，庄在论文[6]中对于问题的解决向前推进了一大步，其中主要是使用了
+
+* Acta Math., 112(1964), 181—214; Proc. London Math. Soc., (3) 14A(1965), 93—128。
+
+146
+
+Wronskian(Wronski 行列式)。1986 年,N.Steinmetz 将奈望林纳提出的问题全部解决*,在证明中也采用了 Wronskian,它是论文[6]中所用的 Wronskian 的一种推广。
+(3)亚纯函数的正规族。在蒙代尔(P.Montel)的正规族理论中**,引进了亚纯函数的正规族的概念和拟正规族的概念,并给出了许多应用。在论文[1]及[4]中,庄对蒙代尔提出的一个关于正规族的问题,作了深入而广泛的研究。进而在论文[9]及[14]中,又引进了更为一般的亚纯函数的 Qm-正规族的概念,并给出了许多应用。特别当 m=0 及 m=1 时,即分别为蒙代尔引进的亚纯函数的正规族及拟正规族。
+(4)函数的增长性。在论文[2]中,庄将波莱尔的一个关于单调函数的引理改进到一种很完美的形式,并证明了一个相应的关于型函数的定理。型函数的概念在整函数及亚纯函数的理论中起着重要的作用。在论文[5]中,对于型函数的构造大大简化了前人的工作。
+庄圻泰共发表论文约 30 篇,出版了三本专门著作,此外还编辑了两本论文集。
+庄圻泰主要论著目录
+[ 1 ] Étude sur les familles normales et les familles quasi-normales de fonctions méromorphes, Rendiconti del Circolo Matematico di Palermo, 62, 1938.
+[ 2 ] Sur les fonctions continues monotones, Ann. École Norm. , 64, 1947, 179—196.
+[ 3 ] Sur la comparaison de la croissance d'une fonction méromorphe et de
+* J.Reine Angew. Math. ,368(1986),134—141.
+** Leçons sur les familles normales de fonctions analytiques et leurs applications, Paris, 1927.
+
+celle de sa dérivée, Bull. Sci. Math., 75, 1951, 1—20.
+[4] Un théorème général sur les fonctions holomorphes dans le cercle unité et ses applications (I), (II), Scientia Sinica, 6, 1957, 569—621, 757—831.
+[5] Sur les fonctions-types, Scientia Sinica, 10, 1961, 171—181.
+[6] Une généralisation d'une inégalité de Nevanlinna, Scientia Sinica, 13, 1964, 887—895.
+[7] Sur les suites de cercles de remplissage et les directions de Borel des fonctions méromorphes, Scientia Sinica, 22, 1979, 493—511.
+[8] On Pólya Peaks, Scientia Sinica, 23, 1980, 141—152.
+[9] Generalizations of the notion of normal families of meromorphic functions, AMS, Contemporary Mathematics 25, 1983, 1—18.
+[10] A simple proof of a theorem of Fatou on the iteration and fix-points of transcendental entire functions, AMS, Contemporary Mathematics 48, 1985, 65—69.
+[11] On the inversion of a linear differential polynomial, AMS, Contemporary Mathematics 48, 1985, 1—20.
+[12] On differential polynomials, Analysis of One Complex Variable, World Scientific Publishing Co., Singapore, 1987, 12—32.
+[13] Generalizations of Nevanlinna's second fundamental theorem to the case of q small functions, Analysis of One Complex Variable, World Scientific Publishing Co., Singapore, 1987, 33—58.
+[14] On the theory and applications of Qm-normal families of meromorphic functions, Complex Analysis I, Proceedings, University of Maryland, 1985—86, 44—77.
+[15] On the growth of a meromorphic function and of its differential polynomials, Lectures on Complex Analysis, World Scientific Publishing Co., Singapore, 1988, 41—66.
+[16] Generalization of a theorem of Edrei (与 Ma Li-zhi), Lectures on Complex Analysis, World Scientific Publishing Co., Singapore, 1988, 341—356.
+148
+
+[17] On the growth of meromorphic functions(与 Hua Xin—hou), Scientia Sinica, Series A, 33, 1990, 1025—1033.
+[18] On the zeros of some differential polynomials of meromorphic functions, 北京大学学报(自然科学版), 26, 1990, 513—529.
+[19] 复变函数(与张南岳), 北京大学出版社, 北京, 1984.
+[20] 亚纯函数的奇异方向, 科学出版社, 北京, 1982.
+[21] 亚纯函数的不动点与分解论(与杨重骏), 北京大学出版社, 北京, 1988.
+[22] Analytic Functions of One Complex Variable (与 Chung—chun Yang), AMS, Contemporary Mathematics 48, 1985.
+[23] Lectures on Complex Analysis, World Scientific Publishing Co., Singapore, 1988.
+
+作者简介 闻国椿,男,汉族,浙江温岭人,诞生于1930年9月29日,1959年7月北京大学数学系研究生毕业,导师是庄圻泰教授,毕业后留校工作至今,现在是北京大学数学系教授。
+
+(1991年3月初稿,1992年3月修改稿)

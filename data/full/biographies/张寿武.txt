@@ -1,0 +1,68 @@
+人物：张寿武
+生年：1962年
+研究方向：数论、算术代数几何
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：419-423
+============================================================
+
+张寿武
+
+张寿武(1962~),安徽和县人。数学家。主要研究领域是数论和算术代数几何。美国哥伦比亚大学数学系教授。1983年毕业于中山大学数学系,获学士学位。1986年在中国科学院数学所获得硕士学位。1991年获美国哥伦比亚大学博士学位。从1991年起,先在普林斯顿高等研究院做了一年博士后,接着在普林斯顿大学做了4年助理教授。1996年获得哥伦比亚大学终生教职,并从1998年起任该校教授。1998年应邀在国际数学家大会上作45分钟报告,年底又在首届华人数学家大会上获晨兴数学金奖。突出的成就包括证明Bogomolov猜想和证明非常广泛情形下的Gross-Zagier公式。他担任过国内外许多重要杂志的编委,其中包括著名的综合性杂志 Journal of the American Mathematical Society,以及数论、代数几何和微分几何等学科的专业杂志 Journal of Number Theory, Journal of Algebraic Geometry 和 Journal of Differential Geometry。除了在学术研究上取得的丰硕成果,他还积极支持中国的数学研究和教育事业,从2000年起先后担任清华大学长江讲座教授和中国科学院华罗庚讲座教授,他还担任了《中国科学》和《数学学报》英文版的编委。
+
+一、个人简历
+
+1962年,张寿武出生于安徽和县一个普通农家。他的父亲对数字和计算有着特殊的感觉,由于父亲的影响,张寿武从小就对口算充满好奇。在小学四年级时,他立志成为数学家。从小学到中学,因为要帮助父母做农活和家务,张寿武的学习主要靠自学。他后来回忆说:“那些为了考试而被迫学的东西都忘了,只有在田埂里学的东西才能记住。”在高中时,他就自学了微积分,还曾在一次数学竞赛中用自学的微积分知识解答极值问题。尽管他在中学阶段就表现出对数学的浓厚兴趣和非凡天赋,高考志愿也全是报的数学系,但却因高考时数学考砸了而未考上数学系,反倒是临时抱佛脚的化学考了90多分。就这样,在命运的捉弄下于1980年进入了中山大学化学系,半年之后才转到了数学系。多年养成的自学习惯使他在大学里游刃有余,所有功课都自学到了前面。1983年,他提前毕业并考上了中国科学院数学所的研究生,师从著名解析数论专家王元。
+
+张寿武和那个时代很多同龄青年一样受到华罗庚、陈景润、王元和潘承洞这些前辈事迹的鼓舞,因而走上数论之路。在1983年底国际数学界发生了一件大事:德国青年数学家Faltings证明了Mordell猜想。大意是:一般的有理数系数的二元高次方程(包括Fermat方程)都至多含有有限个有理数解。这是一个漂亮而深刻的定理,当时世界上也
+
+没多少人能理解 Faltings 高深的算术代数几何证明。王元把这一消息及时带回国内，并称自己除了前言以外一段都不能看懂。那时，张寿武给自己定下了初始的阶段性奋斗目标：从读懂 Mordell 猜想的证明开始做算术代数几何。
+经王元向哥伦比亚大学的著名数论学家 Goldfeld 的大力推荐，张寿武在 1986 年从数学所毕业后成为了美国哥伦比亚大学的研究生。他先后师从 Goldfeld, Jacquet, Szpiro 和 Faltings 这些数学大师，这为他在解析理论、自守形式和表示、算术代数几何等方面深厚的造诣奠定了基础。
+在哥伦比亚大学攻读博士学位时，张寿武获得了去普林斯顿大学跟 Faltings 学习一年 (1989~1990) 的机会，Faltings 的研究风格深深地影响了他，而 Faltings 数学上强大的力量也给他留下了深刻的印象。可以说这一年的学习对他以后学术上的发展是极为重要的。1991 年张寿武在哥伦比亚大学取得了博士学位，经 Faltings 推荐，他在普林斯顿高等研究院和普林斯顿大学工作了 5 年。1996 年，张寿武拿到母校哥伦比亚大学的终生教职。刚回到哥伦比亚大学，张寿武就证明了著名的 Bogomolov 猜想。因为这一杰出工作张寿武于 1998 年应邀在国际数学家大会上作了 45 分钟报告，同年晋升为正教授，年底又获得了华人数学界最高荣誉的 (首届) 晨兴数学金奖。之后，张寿武转向了对 Gross-Zagier 公式的研究，在这一新的领域取得丰硕成果的同时，他发现这与他之前研究的 Arakelov 理论有着紧密而深刻的联系。张寿武又着手搭建一座连接这两大理论的桥梁。现在朝着这个目标的工作正在张寿武及其学派的努力下活跃地进行着。
+二、学术成就
+1. 算术簇上的正性
+代数几何中的 Nakai-Moishezon 判别法说射影代数簇上的一个线丛的丰沛性和它的正性是等价的，这是经典代数几何中的一个基本定理。Arakelov 和 Gillet-Soule 发展了算术簇上的相交理论，即 Arakelov 几何，之后遇到的一个根本性的问题是如何给出这一理论里的 Nakai-Moishezon 判别法。张寿武在他的博士论文以及之后的一篇文章 (Zhang S W, 1995) 中成功地给出了这一判别法的精确描述和证明，这个基本的定理和由之发展起来的工具在 Arakelov 几何和代数动力系统中起着举足轻重的作用。
+2. Bogomolov 猜想
+设 X 是一个 Abel 簇 A 的闭子簇并且不包含 A 的任何 Abel 子簇的扰平移，著名的 Bogomolov 猜想说 X 上的代数点的分布是很稀疏的。这是 Mordell 猜想的一个类比。为解决此猜想，张寿武发展了 Arakelov 几何中的许多基础理论，例如上面提到的算术簇上线丛的正性，与 Szpiro 和 Ullmo 合作的 Abel 簇上动力系统中的等分布理论 (Szpiro-Ullmo-Zhang, 1997a) 等。基于这些理论，Ullmo 解决了 Bogomolov 猜想在 X 是曲线而
+
+A 是其 Jacobi 簇的情形，而一般情形最终被张寿武解决 (Zhang S W, 1998a)。
+
+3. 线丛的稳定性及平衡度量
+
+微分几何的一个中心问题是寻找流形上的 Kähler-Einstein 度量，这是一类具有最好曲率性质的度量。1976 年，丘成桐证明了著名的 Calabi 猜想，其中最重要的推论就是 Calabi-Yau 流形上的 Kähler-Einstein 度量存在。Calabi-Yau 流形是第一陈类为零的流形，而当流形的第一陈类是负的时候，问题也被丘成桐和 Aubin 解决，所以唯一剩下的就是第一陈类是正的情形。为此，丘成桐提出了一个更广的猜想，该猜想断言满足几何不变论里的某种稳定性质的丰沛线丛上存在一个有常数量曲率的度量。丘成桐猜想这样的线丛的每个幂积上都存在一个平衡的度量，这些平衡的度量收敛到这个线丛自身的一个度量，而这个极限度量就是期望中的有常数量曲率的度量。张寿武证明了上述猜想中的平衡度量的存在性 (Zhang S W, 1996)，也就是稳定的丰沛线丛上的平衡的度量总是存在的。他的证明第一次将 Deligne 配对引进到微分几何中，改变了数学界对这一问题的看法。
+
+4. Gross-Zagier 公式
+
+1986 年，Gross 和 Zagier 证明了一个权为 2 的模形式的 L 函数的中心导数与对应的模曲线上的复乘点的高度之间的一个等量关系，即著名的 Gross-Zagier 公式。在这一领域，张寿武分别证明了高权情形下 (Zhang S W, 1997b) 和全实域上的 Shimura 曲线情形下的类似的公式 (Zhang S W, 2001a, 2001c, 2004)。证明这类公式一向是一个非常艰巨的任务，除了需要对近代数论相关的各个领域有深刻的理解和全面的把握，还需要在看待问题时有非凡的大局观和在解决问题时有卓越的计算功底。他在这些工作中所发展起来的思想、理论和方法对这个领域的进一步发展产生了巨大的影响。
+
+张寿武的工作对数论领域有着深远的影响，他和他培养的学生们进一步发展了上述各方面的理论，更多的创新正在涌现。例如志村曲线上的 Euler 系，代数动力系统里的等分布理论，在任意分歧情形下的 Gross-Zagier 公式，triple product L 函数的中心值和中心导数公式，以及西群 Shimura 曲线上的内积公式等。
+
+三、对中国数学的贡献
+
+1994 年，张寿武第一次回国讲学，在中国科学院数学所为国内同行介绍 Arakelov 理论和 ABC 猜想。1997 年丘成桐建立了晨兴数学中心并把数论列为优先发展方向。从此张寿武就每年都回国讲学，除了给国内同行介绍新的国际主流方向，还亲自主持讨论班，尽最大努力帮助国内数论界的年轻学者和青年学生，那些从他的讨论班上出来的年轻学者大多成为了各单位的学术骨干。他还访问了国内许多大学的数学系，与青年教师和研究生、本科生座谈，还开办通俗讲座，使广大学生体会到学习数学的乐趣。他也鼓励他在
+
+张寿武 · 411 ·
+国外培养的众多中国学生积极地为祖国的数学事业作贡献。
+四、张寿武主要论著
+Zhang S W. 1992. Positive line bundles on arithmetic surfaces. Ann of Math, 136: 569–587.
+Zhang S W. 1993. Admissible pairing on a curve. Invent Math, 112: 171–193.
+Zhang S W. 1995. Positive line bundles on arithmetic varieties. J Amer Math Soc, 8: 187–221.
+Zhang S W. 1995. Small points and Adelic metrics. J Algebraic Geom, 4: 281–300.
+Zhang S W. 1996. Heights and reductions of semi-stable varieties. Compositio Math, 104: 77–105.
+Szpiro L, Ullmo E, Zhang S W. 1997. Equirepartition des petits points. Invent Math, 127: 337–347.
+Zhang S W. 1997. Heights of Heegner cycles and derivatives of L-series. Invent Math, 130: 99–152.
+Zhang S W. 1998. Equidistribution of small points on Abelian varieties. Ann of Math, 147: 159–165.
+Zhang S W. 1998. Small points and Arakelov theory. Doc Math, II: 217–225.
+Goldfeld Dorian, Zhang S W. 1999. The holomorphic kernel of the Rankin–Selberg convolution. Asian J Math, 3: 729–747.
+Zhang S W. 2000. Distribution of almost division points. Duke Math J, 103: 39–46.
+Zhang S W. 2001. Heights of Heegner points on Shimura curves. Ann of Math, 153: 27–147.
+Zhang S W. 2001. Geometry of algebraic points. Beijing: First International Congress of Chinese Mathematicians. AMS/IP Stud Adv Math, 20: 185–198.
+Zhang S W. 2001. Gross-Zagier formula for GL(2). Asian J Math, 5: 183–290.
+Zhang S W. 2004. Gross-Zagier formula for GL(2)(II). Heegner points and Rankin L-series. Math Sci Res Inst Publ, 49: 191–214.
+Zhang S W. 2005. Equidistribution of CM-points on quaternion Shimura varieties. Int Math Res Not, 59: 3657–3689.
+Zhang S W. 2006. Distributions in algebraic dynamics. Surveys in differential geometry(X). Boston: Int Press: 381–430.
+Yuan X Y, Zhang S W, Zhang W. 2009. The Gross-Kohnen-Zagier theorem over totally real fields. Compos Math, 145: 1147–1162.
+Zhang S W. 2010. Gross-Schoen cycles and dualising sheaves. Invent Math, 179: 1–73.
+主要参考文献
+John Coates. 1998. The Work of Shouwu Zhang. First International Congress of Chinese Mathematicians: Proceedings of ICCM1998. Providence RI: American Mathematical Society & Boston: International Press.
+撰写者
+田野，中国科学院数学所研究员，晨兴数学中心教授，百人计划研究人员，2003 年在美国哥伦比亚大学获博士学位，导师是张寿武教授。

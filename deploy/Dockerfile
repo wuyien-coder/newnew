@@ -27,8 +27,9 @@ COPY migrations/ ./migrations/
 COPY src/ ./src/
 COPY scripts/ ./scripts/
 COPY data/seed/ ./data/seed/
+COPY data/full/ ./data/full/
 COPY --from=frontend /build/frontend/dist/ ./frontend/dist/
-RUN mkdir -p /app/.index /app/reports /app/data/seed/uploads && chown -R appuser:appuser /app
+RUN mkdir -p /app/.index /app/reports /app/data/seed/uploads /app/data/full/uploads && chown -R appuser:appuser /app
 USER appuser
 EXPOSE 8000
 HEALTHCHECK --interval=15s --timeout=5s --start-period=90s --retries=10 \

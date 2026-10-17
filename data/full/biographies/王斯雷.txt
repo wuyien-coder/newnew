@@ -1,0 +1,164 @@
+人物：王斯雷
+生年：1933年
+逝世：1987年
+研究方向：分析学（调和分析、傅里叶分析）
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第三分册_p428
+页码：228-238
+============================================================
+
+王斯雷
+
+王斯雷 (1933~), 江苏常熟人。数学家。1953 年毕业于浙江大学电机系。同年秋分配至浙江师范学院 (杭州大学前身) 数学系任助教。在陈建功、徐瑞云指导下, 从事分析学 (调和分析) 的教学与研究。1981 年国务院学位委员会批准为首批基础数学博士生导师, 同年任杭州大学 (后合并至浙江大学) 数学系教授。研究领域为分析学, 包括调和分析、实变函数论、复变函数论、调和分析、偏微分方程等。发表研究论文 70 余篇。1978 年获全国科学大会奖; 1979 年与 1982 年两次获得浙江省人民政府科技成果二等奖; 1989 年获国家教委科技进步二等奖; 1984 年获国家人事部颁发的“中青年有突出贡献专家”光荣称号; 1985 年被浙江省人民政府评为浙江省劳动模范; 1990 年获国家教委、国家科委联合颁发的“全国高等学校先进科技工作者”称号。1982~1987 年任杭州大学数学系主任。1990~1995 年担任国家教育委员会首届高等学校理科学科教学指导委员会委员。1995~2003 年任浙江省数学会理事长。曾任《数学年刊》、Approximation Theory and Its Application 以及《东北数学》、《数学研究》等期刊的编委。
+
+一、简 历
+
+王斯雷, 1933 年 3 月 7 日生于江苏省苏州市, 祖籍是江苏常熟。1953 年毕业于浙江大学电机系。同年秋分配至浙江师范学院 (杭州大学前身) 数学系任助教。当时徐瑞云任数学系主任。1958 年以后, 陈建功从上海复旦大学调任杭州大学副校长。在他们二位教授指导下, 从事分析学 (调和分析) 的教学以及研究工作。
+
+二、科 研
+
+1. 关于 A. Zygmund 提出的 Fourier 级数几乎处处收敛的一个问题
+
+众所周知, Dini-Lipschitz 定理断言: 当 f ∈ L(0, 2π)(周期为 2π 的 Lebesgue 可积函数) 且关于 x 一致地成立
+
+$$f(x+h)-f(x)=o\left\{\frac{1}{\log 1 /|h|}\right\} \quad(h \rightarrow 0)$$
+
+时, f 的 Fourier 级数 S[f] 一致收敛。另一方面, 条件 (1) 仅在某点成立, 却不能保证 S[f] 在该点收敛, 这也是人们熟知的事实。1935 年, 波兰数学家 Marcinkiewicz 证明了
+
+如下的定理：
+设 $f \in L(0, 2\pi)$ 对每点 $x \in E$ 都满足条件
+$\frac{1}{h} \int_0^h |f(x+t) - f(x)|dt = O \left\{ \frac{1}{\log 1/|h|} \right\} \quad (h \to 0),$ (2)
+则 $S[f]$ 在 $E$ 上几乎处处收敛。1964 年，国际公认的三角级数专家 A. Zygmund，在介绍 Marcinkiewicz 的工作成就时，公开提出了下面的问题：为了保证 $S[f]$ 在集 $E$ 上几乎处处收敛，上面 Marcinkiewicz 定理的条件 (2) 能否减轻为
+$\frac{1}{h} \int_0^h (f(x+t) - f(x)) dt = O \left\{ \frac{1}{\log 1/|h|} \right\} \quad (h \to 0)?$ (3)
+论文《关于齐革蒙特的一个问题》（《科学通报》1966 年第 5 期以及《数学学报》1979 年第 4 期）证明了存在 $2\pi$ 周期的 Lebesgue 可积函数 $\Phi(x) \in L(0, 2\pi)$，在 $(0, 2\pi)$ 上几乎处处满足条件 (3)，但 $\Phi$ 的 Fourier 级数 $S[\Phi]$ 在 $[0, 2\pi]$ 上几乎处处发散，从而对 Zygmund 所提出的问题，给出了否定的答案。
+
+2. 关于 Rademacher 函数系组成的级数
+定义在实轴上的函数系
+$r_n(x) = \text{sign} \sin 2^{n+1} \pi x, \quad (n=1, 2, \cdots)$ (4)
+称为 Rademacher 函数系。它在分析学中起着特殊的作用，是正交就范不完备的函数系。苏联数学家 Ulyanov 与 Stechkin 于 1962 年证明了如下的定理：
+Ulyanov-Stechkin 定理：设 $F(x)$ 是 $(0, 1)$ 上的实解析函数，级数 $\sum_{m=1}^{+\infty} a_m r_m(x)$ 在集合 $E \subset (0, 1)$ 上收敛于 $F(x)$，且 E 的 Lebesgue 测度 $|E| > 1/2$，那么级数 $\sum_{m=1}^{+\infty} a_m r_m(x)$ 在 $[0, 1]$ 上几乎处处收敛于 $F(x)$，且 $F(x) = c(1-2x)$，$c$ 是某常数，并且 $a_m = c/2^m (m=1, 2, \cdots)$。
+发表在《数学学报》1963 年第 4 期的论文《拉特马吼级数表示的函数》把 Ulyanov-Stechkin 定理中对函数 $F(x)$ 需要解析的条件降低，证明了如下的结果：设 $F(x)$ 是区间 $[0, 1]$ 上的连续函数，级数 $\sum_1^\infty a_m r_m(x)$ 在 $[0, 1]$ 上几乎处处收敛于 $F(x)$，那么 $F(x) = c(1-2x)$，并且 $a_m = c/2^m (m=1, 2, \cdots)$。而 $c$ 为某常数；此外，条件“几乎处处收敛”不可以改成条件“在 $E \subset [0, 1]$ 上收敛，而 $|E| < 1$”。这就是说，Ulyanov-Stechkin 定理中对 F 为实解析的要求，可以放宽到连续的情形，但收敛必须是几乎处处的，否则 $F(x) \neq c(1-2x)$，当然 $a_m(x)$ 也不再是 $c/2^m$ 了。
+
+3. Haar 级数的若干结果
+(1) 关于 $f$ 的 Fourier-Haar 级数绝对地一致收敛问题
+Haar 于 1910 年构造了 $[0, 1]$ 上正交就范的函数系：
+$\chi_1(x) \equiv 1, \quad x \in [0, 1],$
+
+如果 $n=2^m+k, k=1, 2, \cdots, 2^m, m=0, 1, 2, \cdots$，那么
+$$ \chi_n(x) = \begin{cases} \sqrt{2^m}, & t \in \left[\frac{2k-2}{2^{m+1}}, \frac{2k-1}{2^{m+1}}\right], \\ -\sqrt{2^m}, & t \in \left[\frac{2k-1}{2^{m+1}}, \frac{2k}{2^{m+1}}\right], \\ 0, & t \notin \left[\frac{k-1}{2^m}, \frac{k}{2^m}\right]. \end{cases} $$
+在 $[0,1]$ 上的不连续内点，Haar 函数的值是它左右极限值的算术平均，而在 $[0,1]$ 的端点的值是它内部值的极限。Haar 本人证明，若 $f(x) \in L(0,1)$，则 $f$ 的 Fourier-Haar 级数 $\sum_1^\infty a_m\chi_m(x)$ 必几乎处处收敛于 $f(x)$；当 $f \in C[0,1]$ (即 $[0,1]$ 上的连续函数) 时，则 $f$ 的 Fourier-Haar 级数必一致收敛于 $f$。但是波兰数学家 Orlicz 指出，在 $C[0,1]$ 中存在函数 $f_0(x)$，它的 Fourier-Haar 级数不是绝对地一致收敛的。1959 年波兰数学家 Ciesielski 与 Musielak 在 Colloquium Mathematicum 第七卷上进一步发问：既然 $f \in C[0,1]$ 不能保证 $f$ 的 Fourier-Haar 级数 $\sum_1^\infty a_m(f)\chi_m(x)$ 在 $[0,1]$ 上绝对地一致收敛，那么再加上条件 $\sum_1^\infty |a_m(f)| < \infty$，能否使 $f$ 的 Fourier-Haar 级数 $\sum_1^\infty a_m\chi_m(x)$ 绝对地一致收敛？
+刊登于 1966 年第二期《数学学报》上的论文《关于哈尔级数》的第一部分给 Ciesielski-Musielak 的提问以否定的回答。事实上，《关于哈尔级数》论文中的定理 1 证明了：存在函数 $f_1(x) \in C[0,1]$ 使得 $\sum_1^\infty |a_m(f)| < \infty$，但级数 $\sum_1^\infty |a_m(f_1)\chi_m(x)|$ 具有发散点。
+(2) 关于 Haar 级数的 $|C,1|$ 绝对求和问题
+Morichi 在 1963 年于苏联《科学院汇刊数学卷》第 27 卷上的论文《关于哈尔级数》中提出了如下的问题：假如正系数 $\{a_n^{(k)}\}$ 单调下降，即
+$$ a_0^{(0)} \geqslant a_0^{(1)} \geqslant a_1^{(1)} \geqslant a_1^{(2)} \geqslant \cdots \geqslant a_{n-1}^{(2(n-1))} \geqslant a_n^{(1)} \geqslant \cdots, $$
+并且级数
+$$ \sum_{m=1}^\infty a_m\chi_m(x) \equiv a_0^{(0)} + \sum_{n=0}^\infty \sum_{k=1}^{2^n} a_n^{(k)}\chi_n^{(k)}(x) $$
+在 $[0,1]$ 中的一个正测度集 $E$ 上处处可以用 $|C,1|$ 法求和，那么是否必有
+$$ \sum_{n=0}^\infty \sqrt{\sum_{k=1}^{2^n} (a_n^{(k)})^2} < \infty \quad ? \eqno{(5)} $$
+《关于哈尔级数》论文中的第二部分正面地回答了 Morichi 的问题。事实上，该文定理 2 是这样叙述的：设 $a_m \downarrow 0$，如果 Haar 级数 $\sum_1^\infty a_m\chi_m(x)$ 在某点 $x^* \in N$ 可以用 Abel 绝对求和法求和，那么 (5) 式成立。这里集 $N = [0,1] \setminus M$，而 $M$ 是一个以 2 的乘幂为分母，整数为分子的分数全体，于是显然有 $|E \cap N| > 0$。
+
+(3) 关于 Fourier-Haar 级数的系数估计
+苏联数学家 Ulyanov 于 1964 年证明, 假如 $f(x) \in C[0, 1]$, $\omega(\delta)$ 是 $f$ 的连续模, 那么
+$|a_m(f)| \leqslant \frac{1}{\sqrt{2m}}\omega(1/m) \quad (m > 1),$ (6)
+并且不能用更小的数代替上式中的 $1/\sqrt{2}$。
+从 (6) 中可以知道, 假如 $f \in \text{Lip}1$, 那么
+$a_m(f) = O(m^{-3/2}) \quad (m \to \infty).$ (7)
+自然要问, 能否有如下更好的估计
+$a_m(f) = o(m^{-3/2}) \quad (m \to \infty) ?$ (8)
+定理 假如 $f \in C[0, 1]$, 而 (8) 成立, 那么 $f$ 是常数。
+这个定理就是《数学学报》1966 年第二期上刊登的论文《关于哈尔级数》的定理 3。
+4. Fourier 级数绝对求和因子的一个边缘问题
+设 $f$ 为周期 $2\pi$ 的 Lebesgue 可积函数, 即 $f \in L(0, 2\pi)$, $f$ 的 Fourier 级数为
+$S[f](x) = \sum_{n=1}^{\infty}(a_n \cos nx + b_n \sin nx) = \sum_{n=1}^{\infty} A_n(x).$ (9)
+许多数学家, 如程民德 (Duke. Math. J.V. 15, 1948), B.N. Prasad (National Acad. Science, 1960) 以及 T. Pati (Math. Zeit, V.82, 1963) 都提出过如下的问题: 在条件
+$\int_0^t |f(x+u) + f(x-u) - 2f(x)|du = o(t) \quad (t \to 0)$ (10)
+下, 级数 $\sum_{n=1}^{\infty} \lambda_n A_n(x)$ 是否对满足 $\sum_1^{\infty} \frac{\lambda_n}{n} < \infty$ 的一切凸函数 $\{\lambda_n\}$ 均为 $|C, 1|$ 可和? 此外, B.N. Prasad 和 S.N. Bhatt(Duke. Math. J, V.24, 1957, ) 也曾经提出了类似的问题: 在条件 (10) 下, 级数
+$\sum_2^{\infty} (\log n)^{-1-\varepsilon} A_n(x)$ (11)
+是否为 $|C, 1|$ 可和?
+发表在《科学通报》1966 年第四期的论文《Fourier 级数绝对求和因子的一个边缘问题》证明了如下的结果:
+定理 (Fourier 级数绝对求和因子) 存在 $f \in L(0, 2\pi)$, 使得 (10) 在 x=0 时成立, 但是级数
+$\sum_2^{\infty} (\log n)^{-3/2} A_n(0)$
+
+不是 |C, 1| 可和的。
+值得注意的是，1948 年程民德证明了下面的定理：
+定理 (程民德) 若 $\lambda_n = 1/(\log n)^{3/2+\varepsilon} (\varepsilon > 0)$，那么级数 $\sum_{n=2}^{\infty} \lambda_n A_n(x)$ 在条件 (2) 下可用 $|C, 1|$ 法在 $x$ 处求和。
+将以上两定理相比较，说明了程民德定理中的条件 $\varepsilon > 0$ 不能改成 0，也就是说，Prasad-Bhatt 的有关 Fourier 级数绝对求和因子的问題已经得到了彻底的解决。
+5. 关于 Fourier 级数可能具有有界发散的绝对可和点的研究
+设 $\sum_0^{\infty} c_n$ 为一数项级数，$\sigma_n^{\alpha} (n = 0, 1, 2, \cdots)$ 是该级数的第 $n$ 个 $\alpha$ 级的 Cesàro 平均值，即
+$$ \sigma_n^{\alpha} = \left( \sum_{\nu=0}^{n} A_{n-\nu}^{\alpha-1} S_{\nu} \right) / A_n^{\alpha}, S_{\nu} = c_0 + c_1 + \cdots + c_{\nu}, $$
+$$ A_n^{\alpha} = (\alpha + 1)(\alpha + 2) \cdots (\alpha + n) / n!. $$
+当级数 $\sum_1^{\infty} |\sigma_n^{\alpha} - \sigma_{n-1}^{\alpha}| < \infty$ 时，称级数 $\sum c_{\nu}$ 可用 $\alpha$ 阶的 Cesàro 绝对法求和，记为 $\sum c_n = S|c, \alpha|$，这里 $S = \lim_{n \to \infty} \sigma_n^{\alpha}$ (S 的存在性是显然的)。假如级数 $\sum_0^{\infty} c_n x^n$ 当 $0 \leqslant x < 1$ 时收敛，且在 $(0, 1)$ 上是一个有界变差函数 $f$，那么极限 $f(1-0)$ 存在，此时称级数 $\sum c_n$ 可用 Abel 绝对求和法求和，记作
+$$ \sum_0^{\infty} c_n = f(1-0) \quad (|A|). $$
+众所周知，如果 $\alpha \geqslant 0$，级数 $\sum c_n$ 可用 $|C, \alpha|$ 求和，那么它也可用 Abel 绝对求和法求和，这是熟知的定理。
+发表在 1965 年第三期《数学进展》上的论文《Fourier 级数可能具有有界发散的绝对可和点》证明了如下的定理：
+定理 存在着周期为 $2\pi$ 的连续函数 $f(x)$，它的 Fourier 级数 $S[f]$ 在 $x=0$ 处是有界发散的，但可用 $|c, \alpha|$ 法求和，$\alpha > 2$。
+这个定理说明了《数学学报》第六卷第二期上的论文《级数的绝对总和性 A》中的定理 (第 117 页) 是不正确的。
+6. 有关单调函数的两个定理
+发表在《科学通报》第 28 卷第 8 期上的论文《单调函数的两个定理》将庄圻泰刊登在《科学通报》第 27 卷上的关于单调函数的两个定理进行了推广。下面是推广的结果：
+定理 1 设正函数 $f(x)$ 在区间 $(x_0, \infty)$ 上是单调非减且满足条件 $\lim_{x \to \infty} f(x) = \infty$。又设 $\alpha$ 为正数，而定义在区间 $(u_0, \infty)$ 上的正函数 $g(u)$ 使得 $u^{\alpha} g(u)$ 非减并且适合条件
+$$ \int_{u_0}^{\infty} \frac{\mathrm{d}u}{u^{\alpha} g(u)} < \infty, \quad (12) $$
+
+那么集
+$$E = \left\{ x \geqslant x_0 \left| f \left( x + \frac{1}{f^\alpha(x)} \right) \geqslant f(x) + g(f(x)) \right. \right\}$$
+的外测度 $m^*E < \infty$。
+推论 1 令 $\alpha = \lambda > 0, g(u) = \mu \cdot u(\mu$ 为正常数$)$，即得 Borel 与庄圻泰的不等式
+$$m^* \left\{ x \geqslant x_0 \left| f \left( x + \frac{1}{f^\lambda(x)} \right) \geqslant (1+\mu)f(x) \right. \right\} < \infty.$$
+推论 2 令 $g(u) = u^\beta(u \geqslant 1), \alpha + \beta > 1$，即有庄圻泰的不等式：
+$$m^* \left\{ x \geqslant x_0 \left| f \left( x + \frac{1}{f^\alpha(x)} \right) \geqslant f(x) + f^\beta(x) \right. \right\} < \infty.$$
+推论 3 从定理 1 还可以推得
+$$m^* \left\{ x \geqslant x_0 \left| f \left( x + \frac{1}{f^\alpha(x)} \right) \geqslant f(x) + \ln^{1+\sigma} f(x) \right. \right\} < \infty \quad (\sigma > 0).$$
+显然 (16) 式是 (14) 和 (15) 的改进，下面的定理 2 说明，定理 1 中的条件 (12) 是必要的，也就是，定理 1 不能再改进了。
+定理 2 设 $\alpha > 0, g(u)$ 是某区间 $(u_0, \infty)$ 上的正函数，而 $u^\alpha g(u)$ 为单调非负函数，使得
+$$\int_{u_0}^\infty \frac{du}{u^\alpha g(u)} = \infty.$$
+那么存在正的单调增加的连续函数 $f_0(x)$，它定义在某区间 $(x_0, \infty)$ 上满足 $\lim_{x \to \infty} f_0(x) = \infty$，但是集合
+$$E = \left\{ x \geqslant x_0 \left| f_0 \left( x + \frac{1}{f_0^\alpha(x)} \right) \geqslant f_0(x) + g(f_0(x)) \right. \right\}$$
+的外测度 $m^*(E) = \infty$。
+这里的定理 2 是论文《单调函数的两个定理的注记》（《杭州大学学报》1984 年第四期）中的定理 2'，它改进了上述《科学通报》中的定理 2。
+7. Littlewood-Paley $g$ 函数的某些性质
+刊登在美国数学会主办的 *Contemporary Mathematics* 第 42 卷 (1985) 上的论文《Littlewood-Paley $g$ 函数的某些性质》，研究了当 $f \in L^\infty(R^n)$ 以及 $f \in BMO(R^n)$ 时，$g(f)$ 的性质。众所周知，$g(f)$ 就是用来研究 $f$ 某些性质的 Littlewood-Paley 函数，这里的 $g(f)(x)$ 是用下式定义的：
+$$g(f)(x) = \left( \int_0^\infty g | \nabla u(x,y) |^2 dy \right)^{1/2},$$
+其中的 $\nabla u(x,y)$ 是 $u$ 的梯度，即
+$$| \nabla u(x,y) |^2 = \left| \frac{\partial u}{\partial y} \right|^2 + \sum_{j=1}^n \left| \frac{\partial u}{\partial x_j} \right|^2,$$
+
+而 $u(x, y)$ 是 $f$ 的 Poisson 积分:
+$$u(x, y) = \int_{R^n} P_y(t)f(x-t)dt(y > 0), \quad (20)$$
+$$P_y(t) = \frac{c_n y}{(|t|^2 + y^2)^{n+1/2}}, c_n = \frac{\Gamma\left(\frac{n+1}{2}\right)}{\pi^{n+1/2}}. \quad (21)$$
+上述论文获得的主要结果为:
+定理 1 存在有界函数 $f_0(x) \in L^\infty(R^n)$, 使得 $g(f_0)(x)$ 处处等于 $\infty$。
+定理 2 假如 $f \in L^\infty(R^n)$ 且 $g(f)(x) < \infty$ 几乎处处成立, 则 $g(f)(x) \in BMO(R^n)$。
+定理 3 上述定理 2 是最佳可能的, 也就是说, 定理 2 的结论不能加强为 $g(f) \in L^\infty(R^n)$, 事实上, 存在 $f_1 \in L^\infty(R^n)$ 且 $g(f_1)(x) < \infty$ 几乎处处成立, 但是 $g(f_1)$ 不属于 $L^\infty(R^n)$。
+定理 4 若 $f \in BMO(R^n)$, 且 $g(f)(x) < \infty$ 几乎处处成立, 则 $\| g(f) \|_* \leqslant C \| f \|_*$, 其中 $C = C_n$ 是仅仅与维数有关的常数, 而 $\| \cdot \|_*$ 表示 BMO 范数。
+8. 数学方法应用于通信理论——关于平坦时延滤波器的设计
+日本滤波器专家 H. Watanabe 等三人在著名的国际性期刊 Institute of Electrical and Electronics Engineers 上发表了题为《具有平坦群时延特性的契比雪夫滤波器的设计》的论文。该论文的创新点是: 1) 适当地选取复数作为带通滤波器的衰减极点, 可以改善滤波器的时延平坦性; 2) 给出了以四端电抗网络实现具有复数衰减极点滤波器的条件。
+发表在《通信学报》1983 年第四期的论文《具有复数衰减极点的电抗网络的实现》指出 Watanable 等人的论文 2) 中关于用电抗网络实现具有复数衰减极点的滤波器的结论是错误的, 举出了一个反例, 同时还给出了该结论成立的充分且必要的条件, 从而进一步给出了实现具有复数衰减极点滤波器的正确步骤。以下是论文《具有复数衰减极点的电抗网络的实现》中的主要定理:
+定理 设
+$$K = \frac{1}{f(p)} \begin{pmatrix} a(p) & b(p) \\ c(p) & d(p) \end{pmatrix}$$
+是一个可实现的电抗四端网络的锁联矩阵, $p_0 = \sigma + j\tau, p_0^* = (\sigma - j\tau)(\sigma \neq 0, \tau \neq 0)$, 以及 $-p_0, -p_0^*$ 都是 $f(p)$ 的极点。那么 $K$ 能分解为四个桥 T 形网络的锁联, 且其四个网络中的变压比之乘积等于 1 的充要条件是
+$$(F_0 F_1^* p_0^{*2} + F_0^* F_1 p_0^2)\Delta - (F_0^* p_0^{*2} + F_0 p_0^2)(F_0^* - F_0) = 0,$$
+其中 $F_0, F_1, F_0^*, F_1^*$ 以及 $\Delta$ 等定义, 可以参见 1983 年《通信学报》上的论文。
+
+三、王斯雷主要论著
+
+王斯雷. 1957. Menchoff 定理的简单证明. 数学进展, 7: 673–674.
+王斯雷. 1963. 拉特马赫级数表示的函数. 数学学报, 13: 647–652.
+王斯雷. 1964. 关于共轭函数的一些定理. 中国科学, 14: 425–427.
+王斯雷. 1965. 富里埃级数可能具有有界发散的绝对可和点. 数学进展, 8: 317–321.
+王斯雷. 1966. 富里埃级数绝对求和因子上的一个边缘问题. 数学学报, 16: 503–512.
+Wang S L. 1966. On the summability of the derived Fourier series. Scientia Sinica, 15: 581–587.
+王斯雷. 1966. 关于哈尔级数. 数学学报, 16: 211–222.
+王斯雷. 1978. 单位圆上解析函数的一些性质. 数学学报, 21: 91–93.
+王斯雷. 1979. 关于齐革蒙特的一个问题. 数学学报, 22: 502–510.
+Wang S L. 1981. An elementary proof of Garsia’s inequality. Kexue Tongbao, 26: 102–106.
+Wang S L. 1982. Some properties of λ-bounded variation. Scientia Sinica, 25: 149–160.
+王斯雷. 1983. 具有复杂衰减极点电抗网络实现. 通信学报, 4: 18–25.
+Wang S L. 1983. Two theorems on monotone functions. Kexue Tongbao, 28: 1022–1026.
+王斯雷. 1984. 函数光滑性与可微性的注记. 数学年刊, A5: 205–210.
+Wang S L. 1984. A note on morry-Nikolskill’s inequality. Chinese Annals of Mathematics, B5: 73–76.
+Wang S L. 1984. Weighted norm inequalities for maximal Functions. Kexue Tongbao, 29: 1430–1441.
+Wang S L. 1986. On relations between signal and its phase. Kexue Tongbao, 31: 78–80.
+王斯雷. 1987. 一个极值定理的简单证明. 应用数学学报, 10: 114–116.
+Wang S L. 1991. On the weighted estimate of the solution associated with the Schrödinger equation. Proc Amer
+Math Soc, 113: 87–92.
+Wang S L. 2005. A note on characterization of Hardy spaces. Science in China, A48: 448–455.
+
+撰写者
+王斯雷

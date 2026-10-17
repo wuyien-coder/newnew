@@ -1,0 +1,116 @@
+人物：严加安
+生年：1941年12月6日
+逝世：1998年
+研究方向：鞅论与随机分析，白噪声分析，金融数学
+来源：11680973_中国现代数学家传第5卷_
+页码：694-704
+============================================================
+
+严加安
+
+严加安 1941 年 12 月 6 日生于江苏邗江。中国科学院院士。中国科学院数学与系统科学研究院应用数学所研究员。鞅论与随机分析、白噪声分析、金融数学。
+
+我 1941 年 12 月 6 日生于江苏省邗江县李典乡大六圩的一个贫苦农民家庭，父亲严正方是镇江市一杂货店店员，母亲吴祥英在家务农。我幼年先后就读于本村和邻村的私塾，1951 年转入新创办的三圩头民办小学，1953 年考入江苏省镇江中学，初中毕业时因学习成绩优秀被免试保送升入高中。1959 年考入中国科技大学应用数学系，1964 年大学毕业后被分配到中国科学院数学所工作。1973 年 4 月至 1975 年 6 月被派往法国斯特拉斯堡大学进修，1980 年 1 月调到新成立的应用数学所工作。1981 年 1 月至 1982 年 11 月，我作为德国洪博基金会奖学金获得者，在德国海得堡大学应用数学所从事研究工作。1985 年被中科院聘为研究员，同年被国务院学位委员会批准为博士生导师。1994—1998 任中国数学会概率统计分会理事长，1992—1999 任国际随机过程及其应用会议委员会成员，1997
+
+* 本文系严加安自传。又，严加安像摄于 1999 年。——编者
+
+637
+
+年起任国际数理统计和概率论贝努利学会理事(任期4年)。1999
+年10月当选为中科院院士。
+
+一 大学生涯
+
+中国科技大学是1958年由科学院创办的,学制为五年,前三年是基础课,后两年是专业课。应用数学系的教学主要由科学院数学所的研究人员担任。基础课由一位老师主讲,俗称“一条龙”。1958、1959和1960届分别是“华龙”(华罗庚)、“关龙”(关肇直)和“吴龙”(吴文俊)。关老师讲授了数学分析、线性代数和泛函分析，辅导老师是常庚哲和林群。关老师的泛函分析课讲得尤为深入浅出,我从中不仅学到了泛函分析知识,而且受到了探求数学一般性和统一性的思维方式的熏陶。后来我虽从事概率论研究,但许多科研工作都用到了在大学里学到的泛函分析知识。第三学期末分专业时,我选择了概率统计专业。王寿仁老师以Loève的《概率论》和Doob的《随机过程》为素材,为概率统计专业的学生系统讲授了测度论、概率论及随机过程论基础知识,何琛、陈希孺和成平老师分别讲授了初等概率论、数理统计和统计判决函数,殷涌泉和陈翰馥老师分别讲授了马尔科夫链和极限理论。五年级第二学期,我有幸参加了在北京大学许宝騄教授家里举办的多次讨论班，论题是马尔科夫链的Martin边界和盈函数的表示。许教授当时多种疾病缠身,用他自己调侃的话说,是通过了“痨胃痔”(注:当年大中学生的体育达标用语是通过“劳卫制”——劳动卫国制),可是他还潜心钻研学问和悉心指导学生,真是令人钦佩。许教授不幸于1970年逝世,享年60岁。我的大学毕业论文就是选择了这个讨论班的论题,这在当时算是比较前沿的问题了。当年学校还没有复印机,只能将有关的文献详细地抄录在笔记本上。在大学期间,我很重视通过课后做大量的习题来消化从课堂上和书本上学
+
+得的知识,培养独立思考和科研能力。我在三年级第一学期写了一篇题为“对最速下降法的改进”的研究论文,受到关老师和林群老师的称赞,他们还让我在全年级的会上做了报告。在大学四年级,我写了有关随机函数的构造和统计判决函数的两篇论文,后经老师推荐,在1963年10月科大五周年校庆科学讨论会上做了报告。我的一篇介绍学习经验的文章“从学习上有无窍门谈起”也被选入校庆征文专辑。
+
+1964年9月大学毕业后我被分配到中科院数学所工作,后来去吉林黎树县参加一期“四清”。1965年6月至1967年1月我被借调到七机部705所工作。
+
+二 在法国进修
+
+1971年9月“林彪事件”后,周恩来总理主持中央日常工作。他在周培源提出的《关于加强基础理论的教学和科学研究的建议》上批示:“在科教组和中国科学院好好议一下,并要认真实施,不要如浮云一样过去就完了。”在周总理亲自过问下,1972年外交部与来访的法国外长签订了选派10名中国科技人员去法国进修的协定。我有幸成为入选者之一,其余9名是中科院物理所的王震西(1997年当选为中国工程院院士)和化学所的蒋大智,北京大学数学系的王耀东和物理系的杨应昌(1997年当选为中科院院士),清华大学的彭江得和王诚,钢铁学院的蔡开科,化工学院的金关泰和航空学院的杨茂林。我们一行10人于1973年4月来到法国,先后在巴黎和蒙贝里埃接受了共计9个月的法语培训,然后分别被派往各自的进修单位。我去的是斯特拉斯堡大学高等数学研究所,P.A.Meyer教授是我的指导老师。当年Meyer教授才39岁,但已是国际著名的概率学家,斯特拉斯堡概率学派的创始人,现代鞅论和随机过程一般理论的主要奠基者。我去斯特拉斯堡时,他正
+
+和 Dellacherie 教授合著《概率与位势》多卷著作的第一卷，他把打印好的手稿给我读，其中第二章是有关解析集论的，这是现代概率论的一个重要基础。我在两个月内，不仅学懂了书中的内容，还发现可以将 Souslin 集论从经典的拓扑形式推广为可测形式，并写出了论文，投稿到刚复刊不久的《中国科学》（文章于 1975 年发表）。Meyer 教授看了我的论文后非常称赞我对数学的理解能力，并按我论文中提出的框架对书中的有关内容进行了改写。在斯特拉斯堡一年半的期间内，我学到了当时最新的现代鞅论和随机过程一般理论，并分别与 Meyer 及 Yoeurp 合作完成了两篇论文，先后发表于 1975 和 1976 年的 Séminaire de Probabilités 上。在后一篇论文中我们首次给出了连续局部鞅的可料表示性的刻画，这在当时曾是一个公开问题。
+
+三 培养人才
+
+我于 1975 年 7 月从法国回国，9 月参加了在苏州召开的全国概率统计会议，10 月到北京大兴县科学院“五七”干校劳动锻炼，直至 1976 年 12 月。1976 年 10 月打倒“四人帮”以后，迎来了科学的春天。1977 年夏季陈培德同志和我在北京大学举办了全国首期概率论讲习班，这在当时国内数学界还属首创。1978 年 5 月，数学所邀请了国际上著名的概率论专家美国的 Doob 教授、美籍华人钟开莱教授和法国的 Neveu 教授来华讲学，这给久旱的中国概率学界送来了及时雨。1978 年夏季，我和陈培德同志在安徽合肥举办了第二期概率论讲习班。当时合肥的气温高达 37 度，我们讲课时汗流浃背。那时我们不仅没有讲课报酬，而且还义务承担会务工作。1978 年 12 月在广州流花宾馆召开了全国概率论学术会议，会议着重组织了一系列综合报告，介绍国际概率论发展动态。我在会上介绍了现代鞅论和随机过程一般理论。
+
+1979年7月由杭州大学的林正炎和陆传荣在莫干山举办了为期两周的概率论讲习班,由我主讲我编写的《现代鞅论》讲义,学员近40人。我每天上午讲3小时,下午是学员自习时间。那时大家的学习热情非常高涨,但又注意劳逸结合,晚上经常打着手电走过一条林间小道去两公里外的一个俱乐部看电影。这次讲习班对在国内普及现代鞅论和随机过程一般理论起了良好的作用。暑期以后,潘一民同志在数学所组织了1978届概率统计专业的研究生在讨论班上仔细报告我的《现代鞅论》讲义,为他们日后的科研工作打下了良好的基础。参加讨论班的有王寿仁先生的研究生马志明(1995年当选为中科院院士)、徐佩(现任美国西北大学教授)、廖明(现任美国奥本大学教授)和刘坤会(现任北方交大教授)。我在这本讲义的基础上写成了专著《鞅与随机积分引论》,于1981年由上海科技出版社出版。该书系统介绍了当时国际上该领域的最新进展,并收入了我的“局部鞅分解引理”(1977)、“指数鞅一致可积性准则”(1980)、“随机积分的初等定义”(1980)和“一类L¹-凸集的刻画”(1980)等研究成果。后来国内许多大学都用我的这本书作为概率研究生讨论班的教材。1983年9月至1984年初,陈培德、马志明和我共同在中科院和中国科技大学研究生院举办了一个面向全国的随机分析讲习班。1984年10月至1985年夏,我们又租借清华园中学的房子举办了概率论进修班,研读N.Ikeda和S.Watanabe的新著《随机微分方程》。这一系列学术活动,为培养国内青年概率论学者起了重要作用。
+从1985年起至2000年,我共培养了12名博士和6名硕士。我对硕士生的培养,非常强调打好测度论和概率论基础,直到第三年或更晚一些时候才指导他们做学位论文。我常用“工欲善其事,先必利其器”这一格言劝导学生打好基础,练好基本功。我对学生要求是很严格的。当学生在讨论班上报告时在黑板上写了错别字或希腊字母的发音不准确,我都当场予以纠正。我对学生们说:
+
+“我作为老师纠正你们的错误是我的职责，你们也不丢面子。如果将来你们在学生面前犯这样的错误，那才是丢面子了。”如何指导学生写好第一篇论文，将对他们日后的科研产生重要影响。因此，我对学生的第一篇论文从文章结构到具体行文都认真指导，反复修改。为了给研究生打好测度论和概率论基础，我专门为研究生编写了《测度与积分》讲义，该书于 1988 年由陕西师大出版社出版，后经修改和补充于 1998 年作为中国科学院研究生教学丛书由科学出版社出版，更名为《测度论讲义》。该书被许多大学用作研究生教材，受到学生的欢迎。我对博士生的培养则着重训练他们的独立科研工作能力。如果学生的科研能力较强，我就只给他们选定大的研究方向，让他们自己找文献和问题，而我和他们在讨论班上共同切磋。这些研究方向大都是当时国际上主流或较热门的方向，而我本人不一定熟悉，这与许多老师只让学生跟着自己的研究方向做研究是大不相同的。例如，1985 年我在法国访问时了解到狄氏型是一个很有发展前途的方向，就写信给当时刚获得博士学位留所工作的马志明，请他组织我的博士生在讨论班上报告 M. Fukushima 的专著，并把狄氏型定为他们博士论文方向。日后马志明取得狄氏型领域的重大突破，证明当时选定狄氏型这一方向是正确的。后来马志明和我联合培养的 3 名博士生继续选定了狄氏型作为他们的博士论文方向。又如，当我观察到从 80 年代末国际上许多随机分析专家都开始转向金融数学，我感到有必要在中国开拓这一新领域，于是从 1992 年起我就把金融数学方向作为我的 5 名博士的研究方向。我经常教育学生写论文不要以多为荣，要注重论文质量，要解决实质问题，不要做平行推广。例如，我的一个博士有一次从国外寄给我一篇已投稿的论文，我发现该论文水平不高，就立刻写信告诉他：“如果这篇论文发表了，只会降低你的学术地位，建议你将这篇论文撤回。”他后来接受了我的建议。
+我对国际概率论的发展动向一直给予关注，并写过多篇综合
+
+报告,其中包括为《21世纪初科学发展趋势》(科学出版社,1996)一书写的“概率论的发展趋势与若干重大问题”和为《21世纪100个科学难题》(吉林人民出版社,1998)一书写的“路经积分”。我还应邀为美国 CRC 出版公司出版的概率论工具书《随机分析及其应用手册》撰写了“半鞅与随机分析”一章,这是长达 80 多页的综述性文章。
+
+四 科研成果
+
+下面简要介绍我的科研工作。截止到 2000 年,我共出版了著作 9 部(其中英文专著 3 部),发表论文 68 篇。我的论著被 26 部国外专著(不包括我本人的专著)引用或列为参考文献,被 SCI 论文引用 120 多篇次。我做科研的基本原则是:不求著作等身,但企文章久远。也就是说,我不追求文章的数量和篇幅,而注重文章的质量,力求解决实质性问题,能够得到同行引用,甚至某些结果能够长远留存下来。我的科研工作大致分为三个阶段:鞅论与随机分析(1974—1984),白噪声分析(1985—1995),金融数学(1996至今)。我在概率论、鞅论、随机分析和白噪声分析等领域作出了若干基础性贡献。我给出的局部鞅分解引理(写入著作[1],此前被 1977 年 Meyer 的一篇文章介绍而被国外知晓)被 Jacod-Shiryaev 的专著(Springer, 1987)称为“严引理”,被 P.Protter 的专著(Springer, 1989)称为“局部鞅基本定理”。根据这一引理,任一局部鞅可表示为一局部有界鞅和一有限变差局部鞅之和。正是基于这一局部鞅的分解,我在论文[12]中给出的半鞅随机积分的“初等”定义,为研究随机积分的性质提供了简单途径,此前研究随机积分的线性性和对概率改变的不变性曾经是比较困难的。论文[13]中给出的一类 L¹-凸集的刻画定理(被称为“严定理”)从 1990 年以来成了金融数学中研究“资产定价的基本定理”的一个主要工具,已被 SCI
+
+论文引用 16 次，有关的一个结果被称为 Kreps-Yan 定理（见 Mathematical Finance, 4(1994), p.27）。论文 [14, 15, 16] 用统一且简单的方法获得了指数鞅一致可积性准则，改进了 Novikov 和 Kazamaki 准则以及 Lepingle-Memins 的两个结果，并简化了已有结果的证明；论文 [17] 首次给出了可选开集上局部解的合理定义，改正了前人的一个错误。论文 [19] 给出了本性上确界与条件期望运算可交换的充要条件。论文 [22] 用 Wiener 混沌分解研究了作用于 Wiener 泛函的梯度和散度算子，简化证明了广义 Clack 定理。论文 [28] 推广了无穷维分析中著名的 Gross 定理和 Minlos 定理，并简化这两个定理以及 Dudley-Feldman-Le Cam 定理的证明。在白噪声分析领域，论文 [27] 首次给出了无穷维 Fourier 变换的严格定义，论文 [33] 引进了类似于量子物理中的重正化算子。与法国 P.A.Meyer 合作的论文 [21, 26, 32] 对白噪声分析的框架进行了系统的研究，其中论文 [12] 首次定义了在白噪声分析中基本的运算——广义泛函的 Wick 乘积，论文 [32] 提出的一个白噪声分析框架被一些文献称为 Meyer -Yan 空间 [例如见 (Reports on Math. Physics, 33(1993), p.347)，该成果被写入《数学百科全书》(Kluwer Academic Publishers, 1992) 的“白噪声分析”条目。论文 [37] 系统研究了白噪声泛函的广义方向导数、推移及刻度变换等分析运算。此外，我还在论文 [39] 中用随机分析中的 Feynman-Kac 公式和解析延拓方法，对很奇异的位势得到了薛定谔方程的基本解的一个近似和上界估计，在论文 [45] 中用白噪声分析方法研究了解析 Feynman 积分。
+我曾在下述规模较大的国际会议上做过大会邀请报告：1989年新加坡国际概率论会议，1990 年日本名古屋高斯随机场国际会议，1993 年在荷兰召开的第 21 届随机过程及其应用国际会议，1997 年在智利召开的第 24 届随机过程及其应用国际会议，1998 年在韩国召开的国际概率会议。我曾应邀去十多个国家和地区进行学术
+
+访问，其中访问时间在4周以上的大学有：法国斯特拉斯堡大学、贝藏松大学和马赛大学，德国海得堡大学和比勒费尔德大学，美国加州大学Irvine分校，加拿大蒙特利尔大学，葡萄牙马代拉大学，香港城市大学，香港中文大学，香港大学，国立新加坡大学。
+我获得的主要学术奖励有：1987年获中科院科技进步二等奖，1991年被评为中国科学院“七五”重大科研任务先进工作者，1993年被评为中科院优秀研究生导师，1992和1993年先后与马志明共获中科院自然科学一等奖和国家自然科学二等奖，与何声武、汪嘉冈合著的Semimartingale Theory and Stochastic Analysis（1992年出版）于1995年获第7届国家优秀图书特别奖，与黄志远合著的《无穷维随机分析引论》（1997年出版）于1999年获国家优秀图书奖暨科技进步奖二等奖和第四届国家优秀图书奖提名奖。
+我1966年与大学时的同学顾岚结婚，她现为中国人民大学统计系教授和博士生导师。我们有一儿子严明和一女儿严隽。
+严加安主要论著目录
+著作
+[1] 鞅与随机积分引论，上海科技出版社，1981。
+[2] 测度与积分，陕西师大出版社，1988。
+[3] He, S.W., Wang, J.G., Yan, J.A., Semimartingale theory and stochastic calculus, Science Press, Beijing; CRC Press, Boca Raton, FL, 1992.
+[4] 何声武、汪嘉冈、严加安：半鞅与随机分析，科学出版社，1995。
+[5] 黄志远、严加安：无穷维随机分析引论，科学出版社，1997。
+[6] 严加安、彭实戈、方诗赞、吴黎明：随机分析选讲，科学出版社，1997。
+[7] Introduction to Martingale Methods in Option Pricing, LN in Math 4, Liu Bie Ju Centre for Mathematical Sciences, City Univ. of Hong Kong, 1998.
+[8] 测度论讲义，科学出版社，1998。
+[9] Huang Z.Y. and Yan J.A., Introduction to Infinite Dimensional Stochastic Analysis, Kluwer Academic Publishers, 2000。
+645
+
+主要论文
+[10] Forme mesurable de la théorie des ensembles sousliniens, applications à la théorie de la mesure, Scientia Sinica 18(1975), no. 4, 444—463.
+[11] Yen, K.A. ( Yan, J.A.), Yoeurp, Ch. Representation des martingales comme intégrales stochastiques des processus optionnels, Séminaire de Probabilités, X(1976), pp. 422—431. Lecture Notes in Math., Vol. 511, Springer.
+[12] Remarques sur l'intégrale stochastique de processus non bornés, Séminaire de Probabilités, XIV (1980), pp. 148—151, Lecture Notes in Math., 784, Springer.
+[13] Caractérisation d'une classe d'ensembles convexes de L¹ ou H¹. ibid, 220—222.
+[14] 指数鞅一致可积性准则,数学学报,23(1980),293—300。
+[15] 指数鞅的一致及 L¹-可积性,数学年刊,3(1982),no. 3,285—292。
+[16] A propos de l'intégrabilité uniforme des martingales exponentielles, Sém. de Probab., XIV (1982), 338—347. Lecture Notes in Math., Vol. 784, Springer.
+[17] Martingales locales sur un ouvert droit optionnel, Stochastics 8 (1982/83), no. 3, 161—180.
+[18] Emery, M., Stricker, C., Yan, J.A., Valeurs prises par les martingales locales continues à un instant donné, Ann. Probab., 11 (1983), no. 3, 635—641.
+[19] On the commutability of essential infimum and conditional expectation operations. Kexue-Tongbao (Science Bulletin), 30 (1985), no. 8, 1013—1018.
+[20] A comparison theorem for semimartingales and its applications, Séminaire de Probabilités, XX (1986), 349—351, Lecture. Notes in Math., 1204, Springer.
+[21] Meyer, P.A., Yan, J.A., A propos des distributions sur l'espace de Wiener, Séminaire de Probabilités, XXI (1987), 8—26, Lecture Notes in Math.,
+646
+
+1247, Springer.
+[22] Developpement des distributions suivant les chaos de Wiener et applications a l'analyse stochastique, ibid, 27—32.
+[23] A formula for densities of transition functions, ibid, 92—100.
+[24] On the existence of diffusions with singular drift coefficient, Acta Math. Appl. Sinica (English Ser.), 4(1988), no. 1, 23—29.
+[25] 半鞅局部时的变量替换公式, 科学通报, 33(1988), 1755—1759。
+[26] Meyer, P.A., Yan, J.A., Distributions sur l'espace de Wiener (suite), d'après I.Kubo et Y. Yokoi, Séminaire de Probabilités, XXIII (1989), 382—392, Lecture Notes in Math., 1372, Springer.
+[27] Sur la transformée de Fourier de H. H. Kuo, ibid, 393—394.
+[28] Generalizations of Gross' and Minlos' theorems, ibid, 395—404.
+[29] On the existence of density of the law of a Wiener functional, Acta Math. Sinica, New-Series, 5(1989), no. 2, 97—100.
+[30] Yan, J.A., Zhang, T.S., Dirichlet forms and potential theory of symmetric Hunt processes, Science in China, Series-A. 33(1990), no. 7, 800—809.
+[31] A review of studies in probability theory and stochastic analysis, Probability theory and its applications in China, 313—327, Contemp. Math., 118, Amer. Math. Soc., Providence, RI, 1991.
+[32] Meyer, P.A., Yan, J.A., Les“fonctions caractéristiques”des distributions sur l'espace de Wiener, Séminaire de Probabilités, XXV (1991), 61—78, Lecture Notes in Math., 1485, Springer.
+[33] Notes on the Wiener semigroup and renormalization, ibid, 79—94.
+[34] Some remarks on the theory of stochastic integration, ibid, 95—107.
+[35] Constructing kernels via stochastic measures, Gaussian random fields (Nagoya, 1990), 396—405, Ser. Probab. Statist., 1, World Sci. Publishing, River Edge, NJ, 1991.
+[36] An elementary proof of a theorem of Lee, Acta Math. Sci. (English Ed.) 11 (1991), no. 3, 356—360.
+[37] Potthoff, J., Yan, J.A., Some results about test and generalized functionals of white noise, In: Probability theory, eds: L.Y. Chen et al., Walter de
+647
+
+Gruyter, Berlin, 1992, 121—145.
+[38] Some recent developments in wite nois analysis, In: Probability and Statistics , eds: Badrikian et al., World Scientific, 1993, 221—248.
+[39] From Feynman-Kac formula to Feynman integrals via analytic continuation, Stochastic Process. Appl., 54(1994), no. 2, 215—232.
+[40] Products and transforms of white-noise functionals (in general setting), Appl. Math. Optim., 31(1995), no. 2, 137—153.
+[41] Imkeller, P., Yan, J.A., Multiple intersection local time of planar Brownian motion as a particular Hida distribution, J. Funct. Anal., 140(1996), no. 1, 256—273.
+[42] Imkeller, P., Yan, J.A., New distributions over Wiener and Euclidean spaces, Science in China, Ser. A. 39(1996), 925—934.
+[43] A new look at the fundamental theorem of asset pricing, J. Korean Math. Soc. Vol. 35, No. 3(1998), 659—673.
+[44] Kondratiev, Y. G., Streit, L., Westerkamp, W., and Yan, J. A., Generalized functions in infinite dimensional analysis, Hiroshima Math. J., 28 (1998), 213—260.
+[45] Luo, S.L., Yan, J.A., A complex scaling approach to sequential Feynman integrals, Stoch. Proc. and their Appl. 79 (1999), 287—300.
+[46] Luo, S.L., Yan, J.A., Gaussian kernel operators on white noise functional spaces, Sience in China (Series A), 34 (2000), 1067—1074.
+(2000年3月初稿。2001年元月修改稿)
+648

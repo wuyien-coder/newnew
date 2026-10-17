@@ -10,7 +10,7 @@ x-application: &application
     MATHKB_LOG_JSON: "true"
     MATHKB_CREATE_SCHEMA: "false"
     MATHKB_DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-mathkb}:${POSTGRES_PASSWORD:-local-postgres-change-me}@postgres:5432/${POSTGRES_DB:-mathkb}
-    MATHKB_DATA_DIR: /app/data/seed
+    MATHKB_DATA_DIR: /app/data/full
     MATHKB_INDEX_DIR: /app/.index
     MATHKB_KEYWORD__PERSIST_DIR: /app/.index/bm25
     MATHKB_VECTOR__PROVIDER: pgvector
@@ -32,7 +32,7 @@ x-application: &application
     MATHKB_SERVER__CORS_ORIGINS: '["http://127.0.0.1:8080","http://localhost:8080"]'
   volumes:
     - index-data:/app/.index
-    - uploads-data:/app/data/seed/uploads
+    - uploads-data:/app/data/full/uploads
   restart: unless-stopped
 
 services:

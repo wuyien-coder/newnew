@@ -1,0 +1,212 @@
+人物：樊墉
+生年：1914年9月19日
+逝世：2010年
+来源：13149099_20世纪中国知名科学家学术成就概览_数学卷_第一分册_p428
+页码：325-339
+============================================================
+
+樊畿
+樊畿 (1914~2010)，浙江杭州人。数学家。1936 年毕业于北京大学数学系，获学士学位。留校任助教，接着在西南联大任职。1939 年赴法国巴黎大学留学，师从 M. Fréchet。1941 年获法国国家博士学位。1945~1947 年在普林斯顿高等研究院工作。之后在美国圣母大学、韦恩州立大学与西北大学任职，从助教到教授。1965 年到加州大学圣塔芭芭拉分校任教授，1985 年退休。作为访问教授曾在得克萨斯大学奥斯丁分校、德国汉堡大学、意大利佩鲁贾大学与法国巴黎第九大学等短期工作。1964 年当选为台湾“中央研究院”院士，1978~1984 年出任两届该院数学所所长。他还是香港中文大学“杰出访问学者”；北京大学与北京师范大学“名誉教授”；法国巴黎第九大学“名誉博士”。樊畿是多个国际上知名数学刊物的编委。发表论文与著作 140 篇。研究涉及分析与代数众多分支。以他冠名的众多定理、引理、等式与不等式业已成为这些领域中的基础性结论，被广为引用与推广。
+一、数学人生
+樊畿，字圻甫，西文名 Ky Fan，1914 年 9 月 19 日出生于浙江杭州。父樊达琦曾在金华、温州等地方院任职。8 岁随父到金华、杭州、温州与吴淞就读。在姑父冯祖荀（时为北京大学数学系主任）提携下，1932 年高中毕业后考入北京大学数学系。1934 年底江泽涵接替冯祖荀主政北大数学系。在他们两位努力下，办学水平大为提升。樊畿在这样环境中对数学产生兴趣，学业长进。二年级时，德国数学家 E. Sperner 到北大讲授“近世代数”，使用他与 O. Schreier 合著的《解析几何与代数引论》与《矩阵讲义》两种德文教材。樊畿听课后，在暑期将其译为中文，合名为《解析几何与代数》，由冯祖荀作序，推荐给商务印书馆。1935 年该书列为《大学丛书》出版，到 1960 年发行第 7 版。还译过 E.G.H. Landau 德文《理想数论初步》，并与孙树本合著《数论》，先后由商务印书馆出版。
+1936 年樊畿从北京大学数学系毕业，获学士学位，并留校当助教。1937 年夏，抗日战争爆发，北大南迁，并入西南联大。樊畿偕夫人燕又芬（毕业于北京师范大学中文系）随校辗转来到昆明。工作与生活上得到恩师江泽涵的多方关怀。西南联大当时聚集了国内多位著名教授，樊畿的数学才华深得师长们的赏识。蒋硕民称他是最聪明的助教。樊畿还参加过华罗庚的有限群讨论班。
+1938 年樊畿考取法国庚子赔款公费生留学资格，1939 年在程毓淮与蒋硕民建议下，师从著名的数学家 M. Fréchet，在巴黎大学留学，主要研究抽象空间分析学理论。1941
+
+年获法国国家博士学位，博士学位论文题目为《一般分析的几个基本概念》。包含：(1) 在一类可分 Fréchet 空间上的抽象值函数可用广义的抽象值多项式逼近。(2) 这类函数的 Hadamard 微分。(3) 抽象拓扑空间的 Fréchet 维数。(4) 抽象空间上曲线，特别是与线段、直线、圆周拓扑同胚的点集的拓扑特征。还将这些结论用于概率论中的极限定理。
+
+1941~1942 年樊畿获法国国家科学基金资助。1942~1945 年在巴黎大学与著名的 Poincaré 研究所工作。从 1940 年到 1945 年发表数学论文 24 篇，主要集中在抽象的无穷维线性空间理论。还与 Fréchet 合著《组合拓扑引论，I》(Introduction à la Topologie Combinatoire, Librairie Vuibert, Paris, 1946)。此书被译为西班牙文，1959 年初版，1961 年再版，1967 年第三版。1967 年被译成英文出版。
+
+二战后樊畿赴美国，1945~1947 年在普林斯顿大学高等研究院任职。这时期 von Neumann, H. Weyl 主导该院数学研究工作。樊畿日后的研究工作深受他们的影响。
+
+1947~1960 年樊畿在美国圣母大学任教，从助教授、副教授做到教授。1960~1961 年在韦恩州立大学，1961~1965 年在西北大学任教授。1965 年转到加州大学圣塔芭芭拉分校 (简称 UCSB) 任教授。1968~1969 年任一届数学系主任。
+
+樊畿是多个国际上知名数学刊物的编委，包括：《数学分析与应用》(Journal of Mathematical Analysis and Applications)(从 1960 年到 1992 年)、《线性代数及其应用》(Linear Algebra and Its Applications)(1968 年到 2010 年，1985 年后为杰出编委)、《线性与多重线性代数》(Linear and Multilinear Algebra)、日本东京理工学院《拓扑》(四位主编之一)、荷兰《集值分析》(Set Valued Analysis)(1993 年至 2010 年) 与波兰《非线性分析中的拓扑方法》(Topological Methods in Nonlinear Analysis)。
+
+樊畿发表 140 篇论文与著作。从线性分析到非线性分析，从有限维空间到无限维抽象空间，从纯粹数学到应用数学、数理经济学以及对策论都留下他的杰出业绩。在非线性分析、凸分析与不等式、拓扑与不动点理论、Hilbert 空间算子理论、线性代数与矩阵论、拓扑群、线性与非线性规划以及非交换复分析等诸多数学领域做出基础性的贡献，成为许多论著的出发点与基本文献，被广泛引用。不动点理论的成果，特别是樊畿不等式，已在数理经济学、对策论、位势论、变分学与微分方程里起着重要的、甚至基础性的作用。例如，1983 年度诺贝尔经济学奖得主 G. Debreu 等的数理经济学中关于 Walras 均衡的定理本质上等价于樊畿不等式，而 1994 年度诺贝尔经济学奖得主 J. Nash 的 n 人对策主定理，进而关于有限二人零和对策的 von Neumann 极小极大基本定理均可由樊畿不等式导出。
+
+Debreu 得诺贝尔奖后，有人当着在场的樊畿开玩笑地对 Debreu 说，你应该拿出三分之一奖金给樊畿。Debreu 说，我愿意拿出二分之一，但他拒绝了。
+
+樊畿的定理条件自然，结论简洁但内涵丰富。分析问题透彻，推证完美，技巧往往涉及多个分支。他在同一时期可以发表几个不同方向的论文。成果总是瞄准本领域中最基本的问题。
+
+樊畿在国际数学界有很好的口碑。他淡泊名利，宽厚大度，助人为乐。最后攻克“L. Bieberbach 猜想”的 L. de Branges 曾因 1964 年的失败，到处遭到冷遇。但樊畿相信他的能力，始终给予支持。1984 年 de Branges 给出了该猜想的一个证明，在美国得不到认可，樊畿建议他去列宁格勒 (今彼得堡) 找在这个问题上深有研究传统的苏联学派学者鉴定。此后，de Branges 一举成名，获得国际大奖。
+
+樊畿是良师。培养博士 21 名，其他数学弟子 89 名。他能从不同研究方向同时指导研究生。他的几位研究生分别以代数拓扑、微分拓扑以及抽象空间几何的工作而成名。樊畿教学一丝不苟，要求严厉，总有独特心得，常在专业课上讲授自己与别人的最新成果，讲到精彩处，十分兴奋，满脸通红。长年深受学生与老师的敬重，当为楷模。
+
+离国几十年，他一直关心中国数学。“文革”后中国开始向美国等地派遣学者与留学生。樊畿从中做了许多有益工作，促进多人进入加州大学。他还亲自指导过多位中国学者，甚至亲自批改论文，凡有佳作，便推荐到《数学分析与应用》等杂志上发表。这些学者回国多年后，他还关心帮助他们的研究。
+
+1985 年樊畿从加利福尼亚大学圣塔芭芭拉分校 (UCSB) 退休。校方举办隆重的退休纪念活动。来自各国的上百位学者深赞樊畿的学术成就。学校倡议并募集经费 (樊畿的私人捐款是基金来源的主要部分) 成立“樊畿的助教授基金会”(Ky Fan Assistant Professorship)，旨在资助年轻学者到 UCSB 数学系进修。学术报告汇编《非线性分析与凸分析：为樊畿举办学术会议录》(Nonlinear and Convex Analysis, Proceedings in Honor of Ky Fan) 1987 年出版。
+
+退休后，他的数学研究还在延续着。十几年间有十余篇论文问世。1999 年还发表有关拓扑与组合论文。
+
+1989 年樊畿访问香港中文大学，被授予“杰出访问学者”。同年 5 月应北京师范大学邀请，回到阔别 50 年的祖国大陆。一周后转到母校北京大学访问。两校分别授予“名誉教授”头衔。到京第一天，拜见恩师江泽涵以及早年师长友人。还专程祭奠冯祖荀。4 年后为冯重修坟墓，并请苏步青重题墓碑。1990 年巴黎第九大学授予樊畿“名誉博士”。1992 年 5 月，应邀访问波兰。1993 年到东京参加“非线性分析与凸分析”会议，为 4 位学术委员之一。
+
+1999 年底夫人燕又芬去世。生前嘱“要回报中国社会”。遂捐百万美元给美国数学会，成立“樊又芬-樊畿基金会”，主要用以支持中国数学研究，资助中国青年数学工作者，促进中美数学界交流。至今其中的“樊氏中国交流计划基金”已启动，多人受惠。
+
+在这之前，还将多年珍藏的图书文献，成套期刊杂志捐赠给母校北京大学。
+
+樊畿做数学研究，教数学，从中得到欢乐与成就感。晚年夫妇双患骨疾，行动靠轮椅及拐架，生活困难。但他说，“所幸脑子还清楚，从数学里还能得到许多乐趣。”他有一句名言，“醒着，就要思考数学 (Every Waking Moment)。”这是樊畿数学人生的写照。
+
+2010 年 3 月 22 日樊于美国加州家里谢世，享年 95 岁。最后十年里与继妻王晓霞生活在一起。
+
+二、学术成就
+
+樊曦的学术贡献主要有如下几个方面。
+
+1. 不动点定理与极小极大定理
+
+不动点理论是 20 世纪非线性分析核心课题。1912 年 L. E. Brouwer 给出一个不动点定理：$n$ 维欧氏空间 $R^n$ 中将单位闭球 (或非空紧凸集) 映到自身的连续映射 $f$ 有一个不动点 $x^*$，即有 $f(x^*) = x^*$。1927、1930 年 J. P. Schauder 与 1935 年 A. N. Tikhonov 分别将 Brouwer 不动点定理推广到 Banach 空间与局部凸空间情形。1941 年 Kakutani 在 $R^n$ 情形给出集值映射的不动点定理。一个集值映射 $T: M \to 2^Y$ 意指对每点 $x \in M$ 有 $Y$ 的一个子集 $T(x)$ 与它对应，这里 $2^Y$ 表示 $Y$ 的所有子集的集合。$x^*$ 称为 $T$ 的不动点，假如 $x^* \in T(x^*)$。1952 年樊曦与 I. L. Glicksberg 独自地将 Kakutani 结果推广到局部凸空间情形：设 $X$ 为局部凸空间，$M$ 为 $X$ 中非空紧凸集。则将 $x \in M$ 映为 $X$ 中非空闭凸集的上半连续集值映射 $T$ 有不动点。这是集值分析的经典结果，也是 Brouwer 不动点定理的最有价值的推广之一。Tikhonov 与 Schauder 结果可视为它的推论。它还可以导出 von Neumann(1928) 的有限二人零和对策的极小极大定理。后者为对策论的基石。设甲乙对局，策略集合各为 $X_1 = \{\alpha_1, \alpha_2, \cdots, \alpha_m\}$ 与 $X_2 = \{\beta_1, \beta_2, \cdots, \beta_n\}$。用 $f_1(\alpha_i, \beta_j)$ 表示甲在策略对 $(\alpha_i, \beta_j)$ 下的损失。“零和”意味着，乙的赢得 $f(\alpha_i, \beta_j)$ 为 $-f_1(\alpha_i, \beta_j)$。设 $A = \{x = (x_1, x_2, \cdots, x_m)^{\mathrm{T}} : x_i \geqslant 0, \sum_{i=1}^m x_i = 1\}$ 与 $B = \{y = (y_1, y_2, \cdots, y_n)^{\mathrm{T}} : y_j \geqslant 0, \sum_{j=1}^n y_j = 1\}$ 各为甲乙的混合策略集合。$x \in A$ 与 $y \in B$ 分别对应 $X_1$ 与 $X_2$ 上的一个概率分布。$A \times B$ 中的 $(x, y)$ 叫做一个混合策略对，而 $L(x, y) := \sum_{i=1}^m \sum_{j=1}^n f(\alpha_i, \beta_j) x_i y_j$ 叫做乙的期望赢得值。von Neumann 断言，存在最佳混合策略对 $(\bar{x}, \bar{y})$，使得 $L(\bar{x}, \bar{y}) = \min_{x \in A} \max_{y \in B} L(x, y) = \max_{y \in B} \min_{x \in A} L(x, y)$。混合策略对 $(\bar{x}, \bar{y})$ 是最佳的，当且仅当 $(\bar{x}, \bar{y})$ 为 $L$ 的鞍点，即有：对所有 $(x, y) \in A \times B, L(\bar{x}, y) \leqslant L(\bar{x}, \bar{y}) \leqslant L(x, \bar{y})$。
+
+应用樊曦-Glicksberg 不动点定理，樊曦(1952 年) 接着 M. Sion(1958) 得到如下的 von Neumann-樊曦-Sion 的一般极小极大定理。它是非线性分析中一个重要结论。
+
+设 $X$ 与 $Y$ 为自反 Banach 空间 (或局部凸空间)，$A$ 与 $B$ 分别为 $X$ 与 $Y$ 中非空有界闭凸集，设函数 $f: A \times B \to R$ 满足：
+
+对所有 $y \in B, x \mapsto f(x, y)$ 在 $A$ 上拟凸且下半连续；
+
+对所有 $x \in A, y \mapsto f(x, y)$ 在 $B$ 上拟凹且上半连续。
+
+则 $f$ 有一个鞍点 $(x_0, y_0) \in A \times B$，即有：对所有 $(x, y) \in A \times B, f(x_0, y) \leqslant f(x_0, y_0) \leqslant$
+
+$f(x, y_0)$，或等价地，
+$\max_{y \in B} f(x_0, y) = f(x_0, y_0) = \min_{x \in A} f(x, y_0).$
+$(x_0, y_0) \in A \times B$ 为 $f$ 的鞍点，当且仅当它满足下列关系：
+$f(x_0, y_0) = \min_{x \in A} \max_{y \in B} f(x, y) = \max_{y \in B} \min_{x \in A} f(x, y).$
+这里，对空间 $X$ 中闭凸集 $M$，函数 $F: M \subseteq X \to (-\infty, +\infty]$ 叫做拟凸的，如果对所有实数 $t$，集合 $\{x \in M: f(x) \leqslant t\}$ 是凸集；$F$ 拟凹，如果 $-F$ 是拟凸的。
+当 $X = R^m, Y = R^n$ 时，上述定理便退化为 von Neumann 的极小极大定理。
+1961 年樊畿得到 Tikhonov 不动点定理的一种推广。1969 年得到 F.E. Bowder 两个不动点定理的扩展。
+
+2. 樊畿不等式与现代数理经济学
+
+1972 年在论文《一个极小极大不等式及其应用》中樊畿提出所谓樊畿不等式，为研究数理经济学、对策论、变分不等式、位势论、偏微分方程理论、单调算子与优化问题提供有效而通用的工具，堪称经典不等式。具体如下。
+设 $X$ 为某拓扑向量空间中非空紧凸集，函数 $f: X \times X \to R$ 满足
+对所有 $y \in X, x \mapsto f(x, y)$ 在 $X$ 上拟凹，
+对所有 $x \in X, y \mapsto f(x, y)$ 在 $X$ 上下半连续。则
+$\min_{y \in X} \sup_{x \in X} f(x, y) \leqslant \sup_{x \in X} f(x, x).$
+特别地，如果对所有 $x \in X, f(x, x) \leqslant 0$，则有 $y \in X$ 使得对所有 $x \in X, f(x, y) \leqslant 0$。这意味着此广义的变分不等式有一个解 $y$。
+数学家经历了大约 60 年的过程，才认识到 Brouwer 不动点定理的各种应用与许多有关定理之间的关系。在 E. Zeidler《非线性泛函及其应用》第四卷中用图表示：Brouwer 不动点定理与樊畿不等式处于不动点理论、对策论与数理经济学以及几个有关应用的核心位置。并且，KKM 引理、Brouwer 不动点定理、樊畿不等式、Kakutani 不动点定理、樊畿-Glicksberg 不动点定理、数理经济学的主定理等都是彼此等价的。在单纯形方法中，有了樊畿不等式，整个不动点理论与数理经济学、对策论中基本结论之间关系变得清晰，它们的证明变得便捷。如果局限在 $R^n$ 情形，那么只用初等几何加上连续函数的概念就可以搞懂这些结果及其证明。
+20 世纪 50 年代开始，数理经济学从古典理论走向现代。研究者如 1972 年度诺贝尔经济学奖得主 K.J. Arrow 等或兼为数学家或有深厚的数学功力。集值映射及其不动点理论的用处及动机起源于数理经济学、对策论与优化理论。樊畿做的是纯粹数学的非线性分析，但命题的前提与框架包容一般经济均衡理论中的基本假定与目标（竞争均衡点的存在性与唯一性问题），进而奠定了樊畿不等式在数理经济学与对策论中的基本地位。
+
+3. Hilbert 空间上全连续算子
+Hilbert 空间上全连续算子理论源自对线性积分方程连续核的研究。全连续算子奇异值或特征值的许多极值性质或不等式估计是有限维结果的自然扩展，并在数学物理中作为工具有广泛的应用。樊璲受 Weyl 与 von Neumann 相关工作的影响，得到这些方面的重要结果。许多算子理论书籍视之为经典结论。
+设 H 为 Hilbert 空间，$m \geqslant 1$，$A_1, A_2, \cdots, A_m$ 是 H 上的全连续算子。对每个 $j = 1, 2, \cdots, m$，令 $|\lambda_{j1}| \geqslant |\lambda_{j2}| \geqslant \cdots \geqslant |\lambda_{ji}| \geqslant \cdots$ 是 $A_j^* A_j$ 的特征值（即 $\lambda_{j1}^{\frac{1}{2}}, \lambda_{j2}^{\frac{1}{2}}, \cdots, \lambda_{ji}^{\frac{1}{2}}, \cdots$ 为 $A_j$ 的奇异值）。则对任意正整数 n，
+$$ \max \left| \sum_{i=1}^n (U_1 A_1 \cdots U_m A_m x_i, x_i) \right| = \sum_{i=1}^n (\lambda_{1i} \lambda_{2i} \cdots \lambda_{mi})^{\frac{1}{2}}, \quad (1) $$
+$$ \max \left| \det_{1 \leqslant i,k \leqslant n} (U_1 A_1 \cdots U_m A_m x_i, x_k) \right|^2 = \prod_{i=1}^n (\lambda_{1i} \lambda_{2i} \cdots \lambda_{mi}). \quad (2) $$
+这里，$U_1, U_2, \cdots, U_m$ 独立地取遍所有酉算子，$\{x_1, x_2, \cdots, x_n\}$ 取遍 H 中所有 n 个规范正交元素的集合。
+这个樊璲定理给出单个或多个全连续算子奇异值的两个极大性质。后者是前者的乘积“配对”。当 $m=2$ 与 H 有限维时，(1) 变为 von Neumann 的一个重要定理。当 $m=1$ 时，(2) 包括 Weyl 一个基本不等式：$|\xi_1 \xi_2 \cdots \xi_n|^2 \leqslant \lambda_1 \lambda_2 \cdots \lambda_n (n=1, 2, \cdots)$，这里 $\{\xi_i\}$ 为 H 上全连续算子 A 的特征值，而 $\{\lambda_i\}$ 为 $A^* A$ 的特征值。当 $m=2$ 时，(2) 包括两个全连续算子积的 A. Horn 定理：如果 $\{\lambda_i\}, \{\kappa_i\}, \{\mu_i\}$ 分别是 $A^* A, B^* B$ 与 $(AB)^*(AB)$ 的特征值，则 $\mu_1 \mu_2 \cdots \mu_n \leqslant \lambda_1 \lambda_2 \cdots \lambda_n \kappa_1 \kappa_2 \cdots \kappa_n (n=1, 2, \cdots)$。这里与后面特征值均按绝对值不增次序排列。
+对于两个 H 上全连续算子 A 与 B 的奇异值与 AB 奇异值以及 A + B 奇异值之间的不等式关系，樊璲也做出基础性的判定：
+设 A 与 B 为 H 上全连续算子。如果 $\{\lambda_i\}, \{\kappa_i\}, \{\mu_i\}, \{\sigma_i\}$ 分别为 $A^* A, B^* B, (AB)^*(AB), (A+B)^*(A+B)$ 的特征值，则对任意两个非负整数 m, n，
+$$ \mu_{m+n+1} \leqslant \lambda_{m+1} \kappa_{n+1}, \quad (3) $$
+$$ \sqrt{\sigma_{m+n+1}} \leqslant \sqrt{\lambda_{m+1}} + \sqrt{\kappa_{n+1}}. \quad (4) $$
+比较不等式 (3) 本质上有别于两个全连续算子积的前述 Horn 定理。式 (4) 得出的两个全连续算子奇异值与它们和奇异值之间的不等式，已成为这方面最知名比较不等式之一。对于式 (4)，樊璲又得到更一般的结论：
+设函数 $f(x)(0 \leqslant x < +\infty)$ 为不减与凸的，且 $f(0)=0$。则
+$$ \sum_{j=1}^\infty f(\sqrt{\sigma_j}) \leqslant \sum_{j=1}^\infty f(\sqrt{\lambda_j} + \sqrt{\kappa_j}). $$
+
+从前述的 $\{\sigma_i\}$ 与 $\{\lambda_i\}, \{\kappa_i\}$ 之间比较关系，樊𬭎还得到 Weyl 关于具有对称核线性积分方程著名结果的一般推广：如果对正指数 $r$，$\lim_{n \to \infty} n^r \lambda_n = \omega < +\infty$ 与 $\lim_{n \to \infty} n^r \kappa_n = 0$，则 $\lim_{n \to \infty} n^r \sigma_n = \omega$。
+
+樊𬭎对全连续算子谱研究贡献重大，后来的算子理想理论多借鉴于此。J. Dieudonné 将他列为算子谱论的主要贡献者之一。
+
+4. 线性代数与矩阵论
+
+樊𬭎是国际线性代数与矩阵论界公认的领军人物。基本贡献是：矩阵特征值与奇异值极值性质与不等式一系列重要结果；特征值的包含区域；矩阵范数与不等式；非负矩阵、M 矩阵与正规矩阵。
+
+● 对于矩阵特征值与奇异值的极值性质与不等式
+
+设 $H = H^* \in C^{n \times n}$，其特征值排列为 $\lambda_1(H) \geqslant \lambda_2(H) \geqslant \cdots \geqslant \lambda_n(H)$。则对 $1 \leqslant k \leqslant n$，
+
+$$ \sum_{j=1}^k \lambda_j(H) = \max_{UU^*=I_k} \text{trace}(UHU^*) = \max_{x^{(i)}x^{(j)*}=\delta_{ij}} \sum_{j=1}^k x^{(j)}Hx^{(j)*}, $$
+
+$$ \sum_{j=1}^k \lambda_{n-j+1}(H) = \min_{UU^*=I_k} \text{trace}(UHU^*) = \min_{x^{(i)}x^{(j)*}=\delta_{ij}} \sum_{j=1}^k x^{(j)}Hx^{(j)*}. $$
+
+设 $H \in C^{n \times n}$ 是 Hermite 非负定的，则对 $1 \leqslant k \leqslant n$，
+
+$$ \prod_{j=1}^k \lambda_j(H) = \max_{UU^*=I_k} \det(UHU^*) = \max_{x^{(i)}x^{(j)*}=\delta_{ij} \atop 1 \leqslant i, j \leqslant k} \det(x^{(i)}Hx^{(j)*}), $$
+
+$$ \prod_{j=1}^k \lambda_{n-j+1}(H) = \min_{UU^*=I_k} \det(UHU^*) = \min_{x^{(i)}x^{(j)*}=\delta_{ij} \atop 1 \leqslant i, j \leqslant k} \det(x^{(i)}Hx^{(j)*}), $$
+
+$$ \prod_{j=1}^k \lambda_{n-j+1}(H) = \min_{x^{(i)}x^{(j)*}=\delta_{ij}} \prod_{j=1}^k x^{(j)}Hx^{(j)*}. $$
+
+设 $A \in C^{m \times n}$ 与 $B \in C^{n \times m}$ 的奇异值分别为 $\sigma_1(A) \geqslant \sigma_2(A) \geqslant \cdots \geqslant \sigma_n(A)$ 与 $\sigma_1(B) \geqslant \sigma_2(B) \geqslant \cdots \geqslant \sigma_n(B)$，则
+
+$$ \sum_{i=1}^n \sigma_i(A)\sigma_i(B) = \max_{UU^*=I_m \atop VV^*=I_n} |\text{trace}(UAVB)| = \max_{UU^*=I_m \atop VV^*=I_n} \text{Re trace}(UAVB), $$
+
+$$ \sum_{i=1}^n \sigma_i(A) = \max_{UU^*=VV^*=I_k} |\text{trace}(UAV)| = \max_{UU^*=VV^*=I_k} \text{Re trace}(UAV), $$
+
+这里，$1 \leqslant k \leqslant \min\{m, n\}$。这个结果称为 von Neumann-樊𬭎定理。
+
+设 $A \in C^{n \times n}$，其奇异值为 $\sigma_1(A) \geqslant \sigma_2(A) \geqslant \cdots \geqslant \sigma_n(A)$，则
+$(|a_{11}|, |a_{22}|, \cdots, |a_{nn}|) \prec_\omega \sigma(A) := (\sigma_1(A), \sigma_2(A), \cdots, \sigma_n(A)),$
+这意指：上式右边向量弱控制左边向量，即 $A$ 的 $n$ 个对角元素前 $k$ 个最大模之和 $\leqslant \sum_{i=1}^k \sigma_i(A)$，$k=1, 2, \cdots, n$。若当 $k=n$ 时，等式成立，则用记号“$\prec$”代替“$\prec_\omega$”。
+设 $G, H \in C^{n \times n}$ 为 Hermite 矩阵，它们以及 $G+H$ 的特征值 $\lambda(G), \lambda(H), \lambda(G+H)$ 按绝对值不增次序排列。则 $\lambda(G+H) \prec \lambda(G) + \lambda(H)$。
+设 $A, B \in C^{m \times n}$，则 $\sigma(A+B) \prec_\omega \sigma(A) + \sigma(B)$。
+● 对非负矩阵与 $M$ 矩阵
+对非负矩阵的 Perron-Frobenius 理论，1958 年樊墉应用初等拓扑事实给予重新证明。在这类众多证明中独树一帜。在此文与后来还进一步地得到非奇异 $M$ 矩阵的逆为非负矩阵，广义严格对角占优，所有主子式正性等矩阵特征条件的证明。这些结果为日后研究颇有应用的非奇异或奇异 $M$ 矩阵的众多特征开了先河。樊墉还有众多关于 $M$ 矩阵性质与不等式的成果。他自然地成为继 A. Ostrowski 之后研究 $M$ 矩阵的先驱者。
+● 对于线性代数发展趋势的预见
+樊墉研究线性代数与矩阵论，手段与成果常有跨学科的特征。1992 年樊墉在线性代数国际学术会议做题为“近 60 年线性代数发展的某些方向”的重要演讲。指出线性代数与组合数学、矩阵论，与凸分析、非线性分析，与群表示论、李代数，与数学物理，与复分析、非交换复分析之间的相互关系与影响。提出今后线性代数的可能发展新方向。涉及分析与代数中众多研究热点。
+5. 线性规划与非线性规划、凸分析
+● 二战中与战后数学规划应运产生并迅速发展，在经济学、技术与国民经济领域中有众多应用。研究对象通常是在某个限制下，确定某些泛函的极小值或极大值。理论上相当于求解定义在凸集上的一个线性等式或不等式组。在无穷维情形，就是超平面分离凸集问题。1947 年 von Neumann 指出，线性规划密切关系到对策论，前者的问题均有对应它的对偶问题。樊墉对此做了重大改进。
+设 $F_1, F_2, \cdots, F_n$ 是任意维实线性空间 $X$ 上的线性泛函，$c_1, c_2, \cdots, c_n$ 为实数。则有 $x \in X$ 同时满足 $F_1(x) \geqslant c_1, F_2(x) \geqslant c_2, \cdots, F_n(x) \geqslant c_n$ 的充分与必要条件是：对满足 $\sum_{i=1}^n a_i F_i = 0$ 的非负实数组 $a_1, a_2, \cdots, a_n$，均有 $\sum_{i=1}^n c_i a_i \leqslant 0$。
+这个相容性定理可用于直接地证明线性规划的对偶定理，成为线性规划理论的基石。还能简单地推导出著名的不等式结论，例如，Hardy-Littlewood-Polya 的控制不等式等。
+20 世纪 50 年代以来，樊墉作为不等式领域的知名数学家，对于线性不等式组研究得到一系列成果。有的牵涉凸函数的，有的以 Hermite 矩阵为变量的，有的是关于无穷不等式系统的，有的是关于上述相容性定理的各种应用。从多方面发展了数学规划理论。
+
+• 樊墉对凸分析的兴趣与研究与他的非线性分析以及数学规划的研究紧密相关，相互渗透。在许多定理及其证明中，樊墉应用多个凸分析的成果。1959 年樊墉的《凸集及其应用》(英文) 一书已成为关于凸性与锥理论少数几种最重要的著作。
+1957 年他与 Glicksberg 以及 A. J. Hoffman 合作发表凸分析和非线性分析的一个基本定理。
+设 X 是任意维实线性空间的一个非空凸集，$f_1, f_2, \cdots, f_n$ 是 X 上实值凸函数。则不等式组 $f_i(x) < 0 (i = 1, \cdots, n)$ 无解，当且仅当有不全为零的非负实数 $p_1, p_2, \cdots, p_n$ 使得对一切 $x \in X$，有 $\sum_{i=1}^n p_i f_i(x) \geqslant 0$。
+6. 组合数学
+樊墉一直重视组合数学。共发表十余篇论文，含有组合论著名的结果。
+1945 年 A.W. Tucker 证明一个组合引理，并用它替代代数拓扑方法，对著名的 Borsuk-Ulam 对映点定理与 Lusternik-Schnirelmann-Borsuk 对映点定理给出简化证明。1952 年樊墉加强并推广了 Tucker 引理，得到一些新的对映点定理及其拓扑应用。1967 年他在另一篇组合数学论文中，发展 1952 年工作的一些结果。此与不动点计算及拓扑度问题密切相关。所使用的“配对过程”方法及“一门进，一门出”原理被广泛应用。1982 年，又用这个对映点定理证明另一组合定理，结果强于 Kneser-Lovasz-Baraney 著名定理。1999 年樊墉《对有限个 $R^n$ 中球面界定集合的对映点与不动点定理》应用 1952 年与 1967 年的成果证明一个新的组合学引理，用它推广早年的对映点定理，并得出新的对 $R^n$ 中以有限个球面为边界的集合的不动点定理。
+7. 非交换复分析
+樊墉从 20 世纪 70 年代开始研究全纯算子函数理论。将算子理论与经典复分析结合，做出许多开创性的工作，现已形成一个研究方向，他称之为“非交换复分析”。
+• 对压缩算子的 von Neumann 不等式的发展
+1978 年樊墉提出 Hilbert 空间 H 上压缩算子的 von Neumann-Heinz 型的不等式结果：
+设 T 为 H 上线性严格压缩算子：$\|T\| < 1$，h 与 k 在单位开圆 $\Delta$ 上复解析，满足 $|h(\lambda)| < 1$ 与 $\text{Rek}(\lambda) > 0, \forall \lambda \in \Delta$。则 $\|h(T)\| < 1$ 与 $\|\text{Rek}(T)\| > 0$。式中，$h(T)$ 与 $k(T)$ 由 Riesz-Dunford 积分定义。
+原先的 von Neumann 不等式为：设 $\|T\| \leqslant 1$，$\Omega$ 为包含 $\bar{\Delta}$ 的区域，u(或 v) 在 $\Omega$ 内解析，且 $|u(\lambda)| \leqslant 1 (\text{Re}v(\lambda) \geqslant 0), \forall \lambda \in \bar{\Delta}$。则 $\|u(T)\| \leqslant 1 (\text{Re}v(T) \geqslant 0)$。樊墉还证明：他的结果与 von Neumann(Heinz) 结果的等价性。还给出这等结论的众多应用，包括 Pick 定理的算子推广等。1987 年与 1988 年樊墉又得到这个结果的简化证明与改进以及另外的应用。
+• 对若干复分析经典定理的算子拓广
+
+设复函数 $f$ 在 $\Delta$ 上解析，满足 $f(\Delta) \subset \Delta$，且在 $\Delta$ 内无不动点。用 $f^{[n]}$ 表示 $f$ 的 $n$ 次迭代。则在单位圆周上存在复数 $\omega$，使得
+$\|f^{[n]}(A) - c(\omega, A)\omega I\| \leqslant r(\omega, A), n = 1, 2, \cdots,$
+对 Hilbert 空间 $H$ 上任意严格压缩算子 $A$(即 $\|A\| < 1$) 成立。并且，对任意 $\omega, |\omega| = 1$ 与任意这样算子 $A$，
+$\|A - c(\omega, A)\omega I\| = r(\omega, A), \quad c(\omega, A) + r(\omega, A) = 1.$
+这里，
+$c(\omega, A) = \frac{\|(I - \bar{\omega}A)(2I - \bar{\omega}A - \omega A^*)^{-1}(I - \omega A^*)\|}{\|(I - \bar{\omega}A)(I - A^*A)^{-1}(I - \omega A^*)\|},$
+$r(\omega, A) = \|(I - \bar{\omega}A)(2I - \bar{\omega}A - \omega A^*)^{-1}(I - \omega A^*)\|.$
+当 $H = C$ 时，上述结果退化为古典的 Wolff 定理。1983 年樊在去掉“$f$ 在 $\Delta$ 内无不动点”假定下，又给出 Wolff 定理的算子推广。
+此外，对于复分析中的 Julia 引理，Pick-Julia 定理，Schwarz 引理，Harnack 不等式与典型实函数的表征等，樊都给出相应的算子推广结果。
+1986 年，他研究算子值解析函数的角导数。这个结果在算子值解析函数的边界插值问题中有直接的应用。
+8. 其他领域
+● 不变子空间问题
+运用不动点定理，樊曦得到不定内积空间上线性算子的不变子空间存在定理。从它可得到著名的 Pontryajin-Iokhvidov-Krien 定理。1965 年，推广到一族算子 (构成左顺从半群) 的公共不变子空间情形。
+● 拓扑群
+1970 年樊发表论文讨论局部紧交换群的局部连通性，并用对偶群加以刻画。这个成果是 Pontryajin 关于紧交换群局部连通性定理的推广。1985 年退休前樊曦在加州大学讲授三个学期“拓扑群”，留下宝贵讲义与课程样本。
+注：感谢北京大学教授张恭庆在本稿写作过程中的帮助和支持。
+三、樊曦主要论著
+Fan K. 1949. On a theorem of Weyl concerning eigenvalues of linear transformations(I). Proc Nat Acad Sci USA, 35: 652-655; 36, 31-35.
+Fan K. 1950. On a theorem of Weyl concerning eigenvalues of linear transformations(II). Proc Nat Acad Sci USA, 36: 31-35.
+Fan K. 1951. Maximum properties and inequalities for the eigenvalues of completely continuous operators. Proc Nat Acad Sci USA, 37: 760-766.
+
+Fan K. 1952. Fixed-point and minimax theorems in locally convex topological linear spaces. Proc Nat Acad Sci USA, 38: 121–126.
+Fan K. 1952. A generalization of Tucker's combinatorial lemma with topological applications. Ann of Math, 56: 431–437.
+Fan K. 1953. Minimax theorems. Proc Nat Acad Sci USA, 39: 42–47.
+Fan K. 1958. Topological proofs for certain theorems on matrices with non-negative elements. Monatsh Math, 62: 219–237.
+Fan K. 1958. Linear inequalities and closure properties in normed linear spaces. Princeton: Seminar on Analytic Functions, 2, Institute for Advanced Study: 202–212.
+Fan K. 1963. Invariant subspaces of certain linear operators. Bull Amer Math Soc, 69: 773–777.
+Fan K. 1965. Invariant subspaces for a semigroup of linear operators. Proc Kon Nederl Akad Wetensch Amsterdam, A68: 447–451.
+Fan K. 1966. Applications of a theorem concerning sets with convex sections. Math Ann, 163: 189–203.
+Fan K. 1967. Simplicial maps from an orientable n-pseudomanifold onto s^m with the octahedral triangulation. J Combin Theory, 2: 588–602.
+Fan K. 1969. Extensions of two fixed point theorems of F. E. Browder. Math Z, 112: 234–240.
+Fan K. 1972. A minimax inequality and applications. Inequalities– III: Proceedings of the Third Symposium on Inequalities. New York: Academic Press: 103–113.
+Fan K. 1972. Covering properties of convex sets and fixed point theorems in topological vector spaces. Symposium on Infinite Dimensional Topology. Princeton: Princeton U P: 79–92.
+Fan K. 1972. Fixed-Point Theorems in Functional Analysis (supplementary manual for recording of a lecture). Audio Recording of Mathematical Lectures 46, Amer Math Soc.
+Fan K. 1975. Two applications of a consistency theorem for systems of linear inequalities. Linear Algebra Appl, 11: 171–180.
+Fan K. 1978. Analytic functions of a proper contraction. Math Z, 160: 275–290.
+Fan K. 1982. Iteration of analytic functions of operators( I ). Math Z, 179: 293–298.
+Fan K. 1983. Iteration of analytic functions of operators ( II ). Linear and Multilinear Algebra, 12: 295–304.
+Fan K. 1992. Some aspects of the development of linear algebra in the last sixty years. Linear Algebra Appl, 162, 163, 164: 15–22.
+Fan K. 1999. Antipodal and fixed point theorems for sets in R^n bounded by a finite number of spheres. Advances in Appl Math, 22: 219–226.
+主要参考文献
+Aubin J P. 1979. Mathematical Methods of Games and Economic Theory. Amsterdam: North Holland.
+Dieudonné J. 1982. A Panorama of Pure Mathematics. As seen by Bourbaki. New York: Academic Press.
+Aubin J P, Ekeland I. 1984. Applied Nonlinear Analysis. New York: John Wiley & Sons.
+Ziedler E. 1985–1988. Nonlinear Functional Analysis and its Applications, I, Fixed-Point Theorems; III, Variational Methods and Optimization; IV, Applications to Mathematical Physics. New York: Springer-Verlag.
+张奠宙. 1995. 樊畿 //吴文俊主编. 世界著名数学家传记. 下集. 北京: 科学出版社: 1744–1755.
+
+撰写者
+陈公宁 (1939~), 北京师范大学数学科学学院教授。1980~1982 年赴美国加利福尼亚大学圣塔芭芭拉分校进修访问，师从樊曦，研究 Hilbert 空间算子理论与非交换复分析。回国后研究工作一直得到樊曦 关心与鼓励。

@@ -1,0 +1,122 @@
+人物：孟晓犁
+生年：1963年
+逝世：1984年
+研究方向：统计学
+来源：13149100_20世纪中国知名科学家学术成就概览_数学卷_第四分册_p420
+页码：423-431
+============================================================
+
+孟晓犇
+
+孟晓犇（1963～），上海人。统计学家。1982年毕业于复旦大学数学系，获学士学位。1982～1984年，在上海华东纺织工学院（现东南大学）任数学教研室助教。1984～1986年在复旦大学数学研究所概率统计研究生班学习。毕业后即赴美国哈佛大学统计系，于1987年获统计学硕士，1990年获统计学博士。1991～1997年，孟晓犇任芝加哥大学统计系助理教授，1997升为副终身教授，2000年晋升为教授。2001年孟晓犇被哈佛大学聘任为正终身教授，并于2004年7月出任哈佛大学统计系主任。孟晓犇的研究方向包括均值-极值算法、多疑充数、Markov chain Monte Carlo算法、Bayes分析等。其中均值-极值算法和多疑充数都和或缺数据相关，在这两个领域取得了具有影响力的成果。孟晓犇2001年获得的COPSS（美国统计协会主席委员会Committee of Presidents of Statistical Societies）奖。2006年，孟晓犇被授予香港大学荣誉教授和澳大利亚数学研究院年度讲座教授。孟晓犇在2010年联合统计年会上作国际数理统计学会Medallion讲座。他还是2006年WNAR和2011年ENAR年会的会长特邀主讲人。自2004年，他与人合作编辑了三本统计学专著。孟晓犇就先后担任Annals of Statistics, Journal of American Statistical Association, Biometrica, Statistics Sinica（《中华统计学志》）等统计学界重要期刊的主编或编委。截至2011年，他在统计学重要刊物及其他领域内共发表120余篇论文。
+
+一、学术生涯
+
+孟晓犇出生于一个教师家庭，尽管他的幼年是在“文化大革命”中度过，但身为教师的父母亲却给予他严格的启蒙教育。“文化大革命”后大学恢复考试招生，正在初中读书的他参加了1978年川沙县的跳级高考选拔考试，并取得全县第一名的成绩。因此，初中还未毕业的孟晓犇获得了1978年“文化大革命”后第二次高考的机会，并取得了高分。受徐迟关于陈景润研究Goldbach猜想报告文学的影响，他报考了复旦大学数学系。
+
+作为15岁的少年大学生，孟晓犇并没有受到特殊的待遇。“文化大革命”十年高考中断，大批优秀人才积压，造成1978届同学中巨大的年龄差距。复旦大学数学系数学专业的100多名本科生中，年龄最小的如孟晓犇，只有15岁，最大的66届高中毕业生有30多岁。班上学习气氛浓厚，同学关系融洽，为孟晓犇提供了良好的学习和生活环境，极大地帮助了他的成长和个性发展。
+
+复旦大学数学系为学生们提供了最优秀的教师。至今回顾，孟晓犇感受到他的数学基础和后来研究的基本功都是在复旦大学的几年里培养的。秦曾复讲授的数学分析，屠
+
+伯勋讲授的线性代数和抽象代数，和严绍宗与夏道行讲授的泛函分析，为他以后的科研打下了牢固的基础。在众多的专业课程中，孟晓犇最偏爱的是李贤平和胡立鹏的概率论和数理统计，汪嘉岗的现代概率论，和徐家皋的随机过程讨论班。在复旦大学硕士研究生班中，孟晓犇受教于郑祖康的生存分析，李贤平的时间序列分析，及卞国瑞的多元统计等。复旦大学校园不仅为孟晓犇打开了数学迷宫的大门，也拓宽了他的思想境界。课余时间，孟晓犇参加学校书画社、诗社等社团，并出任学生会干事。这些社会活动为他后来生动幽默的统计学论文和卓越的组织领导才华奠定了基础。
+
+如果说复旦大学本科和研究生班的学生生涯为孟晓犇成为一名扎实的数学学者打下了基础，那么哈佛大学的研究生教育完成了他从一名数学学者到数理统计学家的转变。
+
+孟晓犇的本科生毕业论文是一个关于随机过程的研究。尽管他自己已经忘记了具体的论文内容，但同学们还记得徐家皋的高度评价。在研究生班期间，孟晓犇对经验 Bayes 的先验分布产生了兴趣。按照中国唯物辩证法教育的思维，先验分布属于唯心主义的产物，是不可采信的。研究生班毕业后，孟晓犇申请到美国哈佛大学统计系读博士课程，而正是他探讨先验分布的申请信，让当时的系主任 Rubin 慧眼识才，录取孟晓犇进入该系学习。
+
+在哈佛大学，孟晓犇很快地体会到统计学和数学的区别，并开始领会到统计直观思维对统计学研究的重要性。在哈佛大学的第一周，孟晓犇选修了 Rubin 关于人口普查统计方法讨论班。当时他很不理解，想数人有这么难吗？在课上到一半时，他忍不住举手提问：“Rubin 教授，在中国，人口普查很容易啊，清点人数就行了。”Rubin 愣了一会儿说“晓犇是非常天真的。”
+
+还有一件事对晓犇影响很大。那是在一个讨论课中，孟晓犇证明了一个定理。Rubin 看了定理后，马上说这是错的。孟晓犇反复论证过，所以信心十足地与 Rubin 进行论证。最后的结果是孟晓犇用正确的数学证明了一个无关的问题，从而是错的。这次经历使孟晓犇深深体会到 Rubin 的名言：“正确的直观与正确的证明一样重要。”直观的思维帮助他把握哪些问题是重要的和可以解决的。在博士资格考试中，他的一位哈佛同学用冗长的数学公式证明一个考题，而孟晓犇只用了数行文字说明这个定理的直观解释并将问题推广到题目之外。尽管那位同学因此而未得满分，他心服口服，并常以此为例，告诉他的学生，统计学并不仅仅是数学证明。
+
+二、学术成就
+
+孟晓犇著述颇丰，他的学术论文多发表于统计学的四大传统学术一流期刊：Annals of Statistics, Journal of American Statistical Association(JASA), Biometrika, Journal of Royal Statistical Society B(JRSS-B), 以及另三个重要刊物：Statistical Science, Statistica Sinica (即《中华统计学志》), Journal of Computational and Graphical Statistics。统计界重要的学术期刊刊登论文有一个传统，对于有突破性进展的文章，期刊主编会邀请相
+
+关领域的知名学者予以讨论和问难，并由作者给予回复。原文、讨论及回复由期刊一并发表。这是统计学界的殊荣，只有少数学者曾有论文被讨论过。而孟晓犟至今已有七篇论文获得这样的待遇，这在统计界是很难得的。孟晓犟的很多文章都有洛阳纸贵般的影响，他是被引用次数最多的统计学家之一。
+以下是孟晓犟学术成就的简单介绍。
+1. 均值-极值算法 (EM Algorithm)
+均值-极值算法是统计学中最重要的算法之一，其应用已远远超出统计学范畴，遍及工程、计算机科学、医学和公共健康等领域。孟晓犟毫无争议是这个领域最具权威的研究者之一。还在学生时代，他就和他的博士论文导师 Rubin 提出了均值-极值补充算法，这个算法巧妙地用均值-极值算法的程序本身而求得极大似然估计值的协方差矩阵。孟晓犟和 Rubin 还提出均值-条件极值算法，这个算法把原算法中的极值步骤分解为一系列条件极值步骤，极大的扩展了算法的应用范围。
+孟晓对均值-极值算法最大的贡献是他在芝加哥大学执教期间和他的学生 David van Dyk 发表于 JRSS-B 的一篇被讨论文章。在这篇题目为《均值-极值算法——老歌快唱成新曲》的经典之作中，孟晓犟和 van Dyk 引入一个工作参数用以刻画一组对或缺数据的变换，不同的变换有着不同的或缺信息比，而或缺信息比恰恰决定了均值-极值算法的收敛率。通过对工作参数的优化，原来的算法可以被极大地加快，而被加快的算法有时竟然只是对原算法的极为简单的画龙点睛般的修正。这项工作是自均值-极值算法的原始论文发表以来最令人匪夷所思的妙笔，有着无中生有的魔术般的魅力。
+在新近的一系列工作中，孟晓犟和合作者 Thomas Lee 等提出了一类“自洽”算法用来解决对于不完整数据的非参数化或半参数化的分析中的计算问题。自洽算法可以视为均值-极值算法的一个推广，使得在似然函数不存在时，半参数化估计和非参数化估计仍然可以被定义和求解。
+2. 多疑充数 (Multiple Imputation)
+统计分析所面临的数据通常是不完整的，对于这样的数据，最简洁的办法就是补足缺失的数据，然后对补足的完整数据加以分析。多疑充数的基本想法是，在补足缺失的数据时，我们应该补上多个可能的值，用来表达我们对缺失数据本来值的不确定。这样我们可以用标准的分析方法分析每一个被补足的完整数据，之后再把这些分析结果加以综合。一个重要的问题是，补足数据的人和分析数据的人往往是不同的研究者，他们在完成各自的工作时所使用的模型和分析方法很可能是不同的。孟晓犟在一篇发表于 Statistical Science 杂志的被讨论文章中深入地分析了这个问题，并获得一些深刻的结果。他在这篇文章中提出的“互不相契”(uncongenial) 的概念已经成为这一领域的通用词汇。
+
+3. 数据增益和 Markov Chain Monte Carlo
+
+数据增益算法可以看作是均值-极值算法的随机化，其中均值和极值的两个步骤均被变更为随机抽样，而数据增益算法又可以看作是 Markov chain Monte Carlo 算法、尤其是 Gibbs 抽样法的一个特例。在上文提到的《均值-极值算法——老歌快唱成新曲》这篇经典之作的基础上，孟晓犇和 David van Dyk 在《统计计算和图形学》杂志上发表了题为《数据增益的艺术》的被讨论文章。这篇文章提出了“边缘增益”和“条件增益”这两种加快数据增益算法的技巧，并对这两类方法以及它们的联系做了深入的分析。这两类算法精妙、简洁而优美，是数据增益算法以至 Markov chain Monte Carlo 算法研究中不可多得的佳构。在最近一篇被讨论文章中，孟晓犇和他以前的学生 Yaming Yu 又提出了“附加-充分交织策略”用来提高 Markov chain Monte Carlo 算法的效率。在 Markov chain Monte Carlo 算法的研究中，孟晓犇也曾在“完美抽样”这一问题上作出一系列工作。
+
+孟晓犇在 Markov chain Monte Carlo 算法中的另一系列工作是关于 Monte Carlo 积分问题，尤其是对正则常数的计算。他和合作者 Wing H. Wong 和 Andrew Gelman 曾先后提出“桥抽样”和“路径抽样”算法，用以计算正则常数。在后续的一篇文章中，他和他的学生 Steve Schilling 又提出“放缩桥抽样”的方法，通过对尚未被正则化的密度函数的巧妙的放缩，而提高 Monte Carlo 积分的效率。在发表于 JRSS-B 的一篇被讨论文章中，孟晓犇与合作者提出把 Monte Carlo 积分问题看作一个统计推断问题，而把积分的决定性测度作为一个模型参数。
+
+4. Bayes 分析
+
+自从 Markov chain Monte Carlo 算法得到广泛使用以来，Bayes 建模和推断也被越来越广泛地接受。孟晓犇和合作者在一系列工作中提出和完善了 Bayes 后验预测 P 值的概念，用来进行模型检验和改进。另外，孟晓犇还研究了 Bayes 建模中如何选定先验概率分布的问题，尤其是“无知先验”这一带有哲学色彩的问题。在经历长时间的思考后，孟晓犇和合作者 Alan Zaslavsky 在 Annals of Statistics 上发表了一篇文章，通过不变性原则来选定无偏见的先验分布。此外，孟晓犇还与合作者研究了协方差矩阵的 Bayes 估计问题。
+
+孟晓犇近期研究的一个问题是如何定义两极分化。孟晓犇的主要结论是，如果不对两极分化背后的因果关系作出明确的假设的话，那么任何对两极分化的定义都是无意义的。孟晓犇的最近一篇文章解释了目前文献中对两极分化的估计是无的放矢的估计，也就是估计者其实并不清楚自己到底在估计什么。这是一项基础性的工作。
+
+三、个人学术风格
+
+另外值得一提的是孟晓犇的学术风格。他的文章行文流畅、辞章优美，举例阐发娓
+
+娓道来、言无不尽，充满诙谐和妙趣，字里行间洋溢着发现奥秘和分享奥秘的喜悦，一个热情、快乐的学者跃然纸上。孟晓犂对工作追求完美，他不仅要求证明正确，更要优美。他曾在完成了一个重要的定理证明后，又花了五天时间去冥思苦想这个定理的直观证明。后来直观指导优美简洁的证明，不仅使原来的问题更为清晰，而且修正了先前数学证明中的不足。
+
+孟晓犂十分注重效率，他需要在与别人同样的时间内，以充沛的精力去完成如此众多的工作。他可以利用一切可能的机会睡眠休息，习惯于利用闲暇或休息时间阅读浏览统计文献，学习欣赏别人的研究成就，在外出旅行时在飞机上和旅馆里思考问题，并乐于在与他人的交流中学习、发现问题，讨论问题和解决问题。他积极组织社会活动，鼓励相互交流，并坚信创造有趣的社会环境有助于人们提高工作效率。
+
+四、对统计学界的贡献
+
+孟晓犂对整个统计学界的贡献不仅仅在于他高水平的文章和研究成果，他在期刊编辑和学术机构的组织上也做出了杰出的贡献。
+
+从 1992 年起，孟晓犂就先后担任 Annals of Statistics, Journal of American Statistical Association, Biometrica, Statistica Sinica (《中华统计学志》), Bernoulli, Bayesian Analysis 等统计学界重要期刊的主编或编委。值得一提的是对很多统计学家而言，能够担任其中任何一个期刊的编委就已经是很高的荣誉了。从 2006 年起，孟晓犂担任《中国数学年鉴》、《统计与信息论坛》和中国高等教育出版社出版的《统计前沿》的编委，不遗余力地推动统计在我国的发展，积极提升我国统计在国际学术界的地位。为此，孟晓犂被授予 2011 年复旦大学杰出校友奖。
+
+2005~2008 年，孟晓犂担任《中华统计学志》的联合主编。《中华统计学志》是泛华统计学会的会刊，在国际统计界有着崇高的声誉。孟晓犂在担任联合主编后进行了大刀阔斧的改革，大量关注最前沿的统计问题，同时大力提高编辑效率。在孟晓犂担任联合主编的三年里，《中华统计学志》无论从初审效率还是期刊的学术引用上都上了一个全新的台阶。孟晓犂对学术期刊的投入和贡献在国际统计学界有口皆碑。他被授予泛华统计学会杰出贡献奖和杰出成就奖。
+
+2004 孟晓犂主持了“联合统计年会”的筹备和召开。该年会是统计学界的国际盛会，每次有超过 5000 人参加。准备这样一个大会有千头万绪的工作要做。孟晓犂在筹备大会的过程中展现了非凡的才华，指导总体布局和一些细节的制定，为会议的成功举办做出了不可磨灭的贡献。
+
+从 2001 年起，孟晓犂先后出任美国统计学会会议委员会主席、美国统计学会提名委员会委员、美国统计学会国际关系委员会委员、美国统计学会科学政策委员会委员、国际数理统计学会理事会理事、国际数理统计学会提名委员会委员、国际数理统计学会特等讲演委员会委员、国际 Bayes 分析学会理事、国际生物和制药统计学会咨询委员会委
+
+员等，在国际统计学界发挥着重要的影响和作用。
+
+五、教书育人
+
+据我们所知孟晓犁是哈佛大学历史上第一位担任系主任的中国人。在任系主任期间，他对统计系的运作和发展投入了大量的时间和精力，推行了很多匠心独具的改革。哈佛大学统计系的方方面面，无论是从本科生课程设计，还是到博士生的训练培养，抑或是到师资的培养和引进，都得到了长足的进步。本科生的注册人数增长了十倍以上，博士生的数量增长了一倍以上，教授的人数也翻了一番。由于孟晓犁的杰出领导，哈佛统计系获得了有史以来第一个“卓越博士生培育奖”。在领导统计系的同时，他还积极地改革本科生课程。他亲自创立的新课“实际生活中的统计：幸福和痛苦的机遇之差”，完全打破传统课程的束缚，从实际生活中的统计问题出发，层层展开，深入潜出地探讨当代各个统计分支。课程诙谐幽默，引人入胜，赢得了师生的热烈欢迎和交口称赞，并得到哈佛校报和美国统计协会新闻月刊长编报道。
+
+孟晓犁对学生非常热心慷慨。他在芝加哥大学时的学生 Radu Craiu（多伦多大学统计系教授）回忆道：“晓犁把‘我的办公室永远为学生敞开’提高到一个新境界。我曾在他办公室里和他从 11 点讨论到凌晨一点。我常和他讨论问题，他从来没有说时间太晚了，或他太忙了。”孟晓犁善解人意，乐于助人。芝加哥大学毕业的一些学生至今仍记得，他们读书时孟晓犁经常发现他们的思想波动，和他们交流谈心，鼓励他们努力上进。这种帮助不仅是学生在校时，毕业之后，孟晓犁仍一如既往地关心他们，积极帮助解决他们的问题。为此，他获得芝加哥大学的优秀研究生教育奖。他的学生中出现了很多优秀的统计学家，有些已是知名的学者并出任统计系主任。
+
+最后，模仿孟晓犁文章的风趣，谨以一首小诗结束此文：
+
+记晓犁学问
+老歌快唱成新曲，条件边缘巧增益。
+数据不全须多疑，补数分析可相契？
+后验预测得 P 值，先验无偏源不变。
+修桥补路算正则，蒙地积分凭推断。
+
+(感谢孟晓犁教授的同学、同事和学生对本文的帮助，特别致谢 Dukic 教授和 Wu 教授等。)
+
+六、孟晓犁主要论著
+
+Meng X L, Rubin D B. 1991. Using EM to obtain asymptotic variance-covariance matrices: The SEM algorithm. Journal of the American Statistical Association, 86: 899-909.
+
+Meng X L, Rubin D B. 1992. Performing likelihood ratio tests with multiply-imputed data sets. Biometrika, 79: 103-111.
+
+Meng X L, Rubin D B. 1993. Maximum likelihood estimation via the ECM algorithm: a general framework. Biometrika, 80: 267–278.
+Meng X L. 1994. On the rate of convergence of the ECM algorithm. The Annals of Statistics, 22: 326–339.
+Meng X L. 1994. Multiple-imputation inference with uncongenial sources of input (with discussion). Statistical Science, 9: 538–573.
+Meng X L. 1994. Posterior predictive P-values. The Annals of Statistics, 22: 1142–1160.
+van Dyk D A, Meng X L, Rubin D B. 1995. Maximum likelihood estimation via the ECM algorithm: computing the asymptotic variances. Statistica Sinica, 5: 55–75.
+Meng X L, Wong W H. 1996. Simulating ratios of normalizing constants via a simple identity: a theoretical exploration. Statistica Sinica, 6: 831–860.
+Gelman A E, Meng X L, Stern H. 1996. Posterior predictive assessment of model fitness via realized discrepancies (with Discussion). Statistica Sinica, 6: 733–807.
+Meng X L, van Dyk D A. 1997. The EM algorithm—an old folk song sung to a fast new tune (with discussion). Journal of the Royal Statistical Society, B59: 511–567.
+Gelman A E, Meng X L. 1998. Computing normalizing constants: from importance sampling to bridge sampling to path sampling. Statistical Science, 13: 163–185.
+Meng X L, van Dyk D A. 1999. Seeking efficient data augmentation schemes via conditional and marginal augmentation. Biometrika, 86: 301–320.
+Barnard J, McCulloch R E, Meng X L. 2000. Modeling covariance matrices in terms of standard deviations and correlations, with Application to Shrinkage. Statistica Sinica, 10: 1281–1311.
+van Dyk D A, Meng X L. 2001. The art of data augmentation (with discussion). Journal of Computational and Graphical Statistics, 10: 1–111.
+Meng X L, Schilling S. 2002. Warp bridge sampling. Journal of Computational and Graphical Statistics, 11: 552–586.
+Meng X L, Zaslavsky A. 2002. Single observation unbiased priors. The Annals of Statistics, 30: 1345–1375.
+Kong A, McCullagh P, Meng X L, et al. 2003. A theory of statistical models for Monte Carlo integration (with discussion). Journal of the Royal Statistical Society, 65: 585–618.
+Duan N, Meng X L, Lin J, et al. 2008. Disparities in defining disparities: statistical conceptual frameworks. Statistics in Medicine, 27(20): 3941–3956.
+Nicolae D, Meng X L, Kong A. 2009. Quantifying incomplete information for hypothesis testing in statistical and genetic studies (with Discussion). Statistical Science, 23: 287–331.
+Yu Y, Meng X L. 2011. To center or not to center, that is not the question—an ancillary-sufficient interweaving strategy for boosting MCMC efficiency (with discussions). Journal of Computational and Graphical Statistics, 20: 531–615
+主要参考文献
+Vanja Dukic. 2006. Interview with a distinguished scholar: a conversation with Professor Xiao-Li Meng. International Chinese Statistical Association Bulletin: 19–28.
+撰写者
+陆盈，美国斯坦福大学教授。
+寇星昌，美国哈佛大学教授。

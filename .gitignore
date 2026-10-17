@@ -6,6 +6,8 @@ venv/
 .env.*
 !.env.example
 !.env.production.example
+!.env.full.example
+!.env.seed.example
 .index/
 .runtime/
 .checks/
@@ -24,7 +26,7 @@ dist/
 .coverage
 reports/*
 !reports/README.md
-data/full/biographies/
+!reports/delivery_validation.json
 data/full/uploads/
 data/seed/uploads/
 Thumbs.db

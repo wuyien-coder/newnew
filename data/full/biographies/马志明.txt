@@ -1,0 +1,143 @@
+人物：马志明
+生年：1948年1月25日
+研究方向：概率论与随机分析
+来源：11680973_中国现代数学家传第5卷_
+页码：706-719
+============================================================
+
+马志明
+
+马志明 1948年1月25日诞生于四川成都。
+中国科学院数学与系统科学研究院研究员。中
+国科学院院士。概率论与随机分析。
+
+马志明，1948年1月生于四川省成
+都市，1978年毕业于重庆师范学院数学系，
+1981年获中国科技大学研究生院硕士学
+位，从1981年至今在中国科学院应用数学
+研究所从事研究工作，在此期间于1984年
+获中国科学院理学博士学位。1987年至
+1988年曾获洪堡奖学金在德国BiBoS随机
+研究中心合作研究，1992年4月至6月曾
+在德国Bonn大学欧洲共同体科研项目中
+任国际专家，1992年7月至12月曾在意大
+利国际理论物理中心任访问数学家，1994年10月至1995年7月
+曾在英国Warwick大学讲学，2000年4月至6月应邀在美国西北
+大学作访问教授。曾任中国科学院应用数学研究所副所长，中国
+数学会副理事长。现任中国科学院数学与系统科学研究院研究
+员、应用数学研究所所长，中国数学会第八届理事长，中国科学院
+院士(1995年当选)，第九届全国政协委员，第三世界科学院院士
+
+* 本稿系马志明提供，资料来源详见文末附记。又，马志明像摄于1985
+年。——编者
+
+(1998 年当选),国家重点基础研究项目“核心数学的前沿问题”首席科学家。
+
+(一)
+
+马志明主要从事概率论与随机分析方面的科学研究,主要科研成果如下:
+
+1. 拟正则狄氏型。
+
+狄氏型(Dirichlet Form)源于数学物理中的经典位势论。1971 年日本学者 Fukushima 由局部紧距离空间的正则狄氏型构造出与之相联系的强马氏过程,从此该理论迅速发展为结合解析位势论与随机分析的数学分支。但该理论的应用在无穷维分析、奇异位势领域受到限制。1989 年以来,马志明与他人合作在一系列文章中突破了“局部紧”及“正则”两个限制,创建了拟正则狄氏型新框架。该框架建立了狄氏型与右连续马氏过程的一一对应关系,圆满地解决了该领域存在 20 年之久的难题。1992 年马志明与 Röckner 在 Springer 出版了详细介绍拟正则狄氏型框架的英文专著 Introduction to the Theory of (Non-Symmetric) Dirichlet Forms。此书已成为该领域基本文献,被经常引用(据 Science Citation Search 检索 1995—1998 年被引用 120 次)。美国《数学评论》评价此书为继 Fukushima 著作之后“第二部联系狄氏型与马氏过程的主要著作”。1997—1998 年 Berkeley 随机分析学术年把“有穷维和无穷维分析的狄氏型”作为 6 个专题之一。专题负责人在公开发表的论文中评价:“Albeverio、马志明、Röckner 关于拟正则狄氏型的工作满足了这种需求,即满足了适用于无穷维情形的一般理论的需求。”目前拟正则狄氏型已在无穷维分析、量子场论、马氏过程理论等领域获得应用,其应用范围还在扩大。
+
+2. 维纳空间的容度理论。
+
+650
+
+给定一可分 Hilbert 空间,可以选取不同的 Gross 可测范数而得到不同的抽象维纳空间。因此,Milliavin 算法在不同的抽象维纳空间是否具有不变性成为一个基本问题,P.Malliavin(法国科学院院士)与 K. Ito(Wolf 数学奖获得者,Ito 积分的创始人)从不同角度都关心这一问题。马志明与他的合作者证明维纳空间的容度与选取的 Gross 可测范数无关,从而基于同一 Hilbert 空间的 Malliavin 算法在不同抽象维纳空间相互等价。此结果解答了 Malliavin 与 Ito 关心的问题,是 Malliavin 算法不变性的基础。
+3. 环空间的对数 Sobolev 不等式。
+Riemann 流形上的环空间(Loop Space)是具有物理背景的典型的非平坦无穷维流形。环空间上的对数 Sobolev 不等式是此研究方向引人瞩目的难点问题之一。马志明与巩馥洲证明了环空间上一类带位势项的对数 Sobolev 不等式。其位势项有简洁的表达式,只依赖于底流形的 Ricci 曲率和热核的 Hessian。此结果是至今为止该方向最好的结果。
+4. 薛定锷方程和 Feynman-Kac 半群。
+马志明在薛定锷方程和 Feynman-Kac 半群的研究中引入了鞅方法,从而解决了钟开莱提出的两个公开问题。他与人合作首次用可加泛函工具获得了用维纳泛函表示的 Feynman-Kac 半群的最广泛条件,首次获得 Feynman-Kac 半群泛函成为 L² -强连续半群的充要条件,并在最大限度放宽 Kato 条件的情形研究了 Feynman-Kac 半群的 L¹ -光滑性,热核估计,热核的逐点一致有界性以及其他问题。
+5. Charatheodory-Finsler 流形。
+为研究无穷维流形的向量场及与之相联系的扩散过程,马志明与他的合作者引入了 Charatheodory-Finsler 流形(简称 C - F 流形)的概念。完备 Riemann 流形和映射空间(通常 Riemann 流形上的环空间与路径空间是映射空间的特例)都是 C - F 流形。利用
+651
+
+C - F流形的性质和拟正则狄氏型理论,可以构造一大类与映射空间向量场相联系的扩散过程,此结果在无穷维随机分析中有重要意义。
+6. 其他科研成果。
+马志明首次发现无处 Radon 光滑测度,用无处 Radon 光滑测度构造出首例不包含任何非零连续函数的狄氏型。与巩馥洲合作证明了 Ito 空间与抽象维纳空间的 Malliavin 算法可以互相转化。与人合作研究了抽象调和空间被无界位势扰动的本征值问题。与人合作在构形空间中得到用拟正则狄氏型构造扩散过程的一般方法。在随机线性泛函的研究中得到一般状态空间线性泛函的积分表示。对可分可测空间情形给出了正则条件概率存在的充要条件,与人合作给出了独立随机变量和的分布函数为连续函数的充要条件,在随机整值测度的研究中解决了法国概率学家 Jacod 提出的两个问题,在跳过程研究中给出了随机测度相互奇异的充要条件。
+马志明的研究成果被经常引用。多年来,他应邀在国际学术会议作邀请报告 30 余次,在国内外大学及科研机构作邀请报告 50 余次,其足迹遍及美、英、法、德、意、日、波兰、葡萄牙、瑞士、加拿大、香港、台湾等十多个国家和地区。1994 年马志明应邀在四年一届的国际数学家大会作 45 分钟邀请报告。他曾获得 Max-Plank 研究奖,中国科学院自然科学一等奖,国家自然科学二等奖,陈省身数学奖,求是杰出青年学者奖,何梁何利科技进步奖。
+(二)
+1969 年初春的一天,21 岁的马志明来到四川省渡口市,得到了他生平的第一份职业——市商业局攀枝花商店炊事员。这个夜晚,他辗转反侧,难以入眠。过去与未来,在他脑海中翻腾。
+
+他忘不了自己童年的梦想：长大后做一名科学家。确实，由于在初中时学习成绩名列前茅，马志明于1963年考入了成都四中读高中。成都四中古称文翁石室，始建于公元前141年。由汉景帝末年蜀郡都守文翁兴办，据传是中国第一所由地方政府兴办的历史名校。学风卓荦，人才辈出，中国文化巨匠郭沫若曾就读于此校。人们常说，考入成都四中，就意味着一只脚已跨进了大学的校门。然而，就在他踌躇满志、准备进入高等学府深造之时，“文化大革命”开始了，他的大学梦也随之破灭。命运之舟竟将他载到了锅碗瓢勺交响曲之中，而这里离他梦想中的科学殿堂是那样的遥远……
+
+在这人生的十字路口，选择是困难的。那是一个“读书无用论”盛行的年代。但是马志明怎么也割舍不下对科学知识的迷恋，经过痛苦的思索，他终于作出了一个一生中最为重要的决定：自学。一个朴素的信念支持着他：国家以后总会需要科学技术的。
+
+所幸的是，他的一位中学同学方平的母亲张芳是四川师范学院的数学教师。这位大学数学教师正为学生不爱读书而寒心，她让马志明在她的书籍中随意挑选。马志明如获至宝，选了满满一书包的数学书。更幸运的是，马志明经人介绍认识了四川大学的白苏华教授，白教授为他指点了一条学习的道路。甚至先看什么，后看什么，也给他讲得明明白白。就这样，马志明在白老师的点拨下踏上了自修数学的道路。
+
+自学的道路是艰难的，但也伴随着愉快。有时一道题要想上几天几夜，为它沉醉，为它着迷。马志明为这种奇妙的感觉所吸引——这在过去，他是从未体验过的。多年以后，马志明回顾他自学阶段的历程，仍是深有感触。他说：“自学遇到的难题要自己想，这比老师手把手教要印象深刻。而且，自己苦思冥想得到答案，实际上也是培养了一种独立研究的精神。”
+
+1975年，对于马志明来说，是人生道路的转折点。精诚所至，
+653
+
+金石为开。曾经认为他“不安心本职工作”的单位领导，被他的刻苦自学精神所感动，主动推荐他到重庆师范学院数学系学习。此时，他已自学完了大学数学课程。重师老师们破例同意他不必随堂听课，可以继续按照自己的学习计划安排学业，特别是教概率论的金纯德老师很欣赏马志明的刻苦勤奋，常常为他“开小灶”，指点他学习关肇直著《泛函分析》、Loève 著《概率论》等数学教材。
+三年过后的 1978 年，他成了我国恢复高考制度的第一批研究生之一，进了中国科学院数学研究所，他完全被这里潜心学业的气氛所陶醉。
+马志明进入中国科学院时，正值“文革”结束不久，老一代数学家对这批时隔十余年首次招收的研究生寄予厚望，倾注了大量心血。在王寿仁导师、严加安研究员等的指导下，他勤奋攻读国内外概率论著名专家的著作，从中吸收知识的养分。
+1981 年，他在严加安老师的帮助下，解决了法国概率论学者 Jacod 在专著中提出的两个有关随机整值测度的问题，写出了科研生涯中的第一篇论文，发表在《数学学报》上。初试身手，就解决了外国学者未曾弄清的问题，使他高兴异常。
+1985 年 5 月，美国斯坦福大学的钟开莱教授来华讲学时，提出了有关薛定锷方程的混合边值问题的若干问题，其中第一个问题（如何用概率方法处理具有非负本征值薛定锷方程）在当时被认为是难度相当大的问题。几个月后，马志明就想出了解决这一问题的方法。
+1985 年，在法国访问的严加安老师写信请马志明等人组织学生在讨论班上报告狄氏型理论，从此马志明开始涉足狄氏型这个很有发展前途的领域。
+狄氏型是由经典位势论的研究建立起来的一个数学模型。近 20 年来，狄氏型理论迅速发展，成为一门结合解析位势论与随机分析的新兴数学分支。1971 年，日本概率论专家 Fukushima 证明
+654
+
+了可以从有穷维空间的正则狄氏型构造出性质较好的马氏过程。
+随着狄氏型理论在数学和物理特别是量子物理中的广泛应用和不断发展，寻求解决一般狄氏型与马氏过程的联系，已成为这一领域中令人瞩目的问题。
+1989年秋，马志明第二次赴德，与Albeverio教授再次合作。不久，他们得到了从一般狄氏型构造右连续马氏过程的充分必要条件，从而圆满解决了狄氏型与马氏过程之间一一对应问题。这些成果很快在国际同行中引起反响。狄氏型理论专家Fukushima教授获知消息后，立即打电报给马志明，称赞“这一成果必将成为马氏过程理论研究中经常要被引用的基本结果”，法国科学院通讯院士Meyer教授评价这一成果是“狄氏型空间理论的一个大进展”，美国数学家Fitzsimons教授则称这是“最撩人心弦的结果”。
+当马志明和他的德国合作者Röckner合著的《狄氏型引论》完稿之际，Röckner在扉页上写道：“献给我的父亲”，而马志明则别有一番深意地写道：“献给我的夫人。”这的确是一份深情的答谢。马志明的夫人叫杨新华。1979年，他们结婚不久，马志明就回到北京，继续他的研究生生活，他夫人留在成都。两人多年过着牛郎织女的生活。应用数学所为解决马志明夫妻两地分居，做了多方努力，其中的辛苦简直不亚于马志明攻克一道数学难题。1985年，中国科学院根据马志明的科研成绩，给予特殊照顾，他们终于结束了两地分居的生活。谁知，团聚刚一年多，马志明又两次赴德。结婚这些年来，杨新华为了支持丈夫潜心研究数学，独自挑起工作和家庭两副重担。尽管她看不懂马志明那些高深的数学论文，但谁能说那里面没有她的心血和汗水呢？
+
+附 记
+此篇既不是自传，也不是他传。事实上，我既无写传记的文
+
+才,也不到写传记的年龄。经不住编委的再三再四的邀请,只好把现成的一些材料经过简单加工拼凑在一起,成为目前的杂品。其中,第一部分主要依据 1999 年度何梁何利基金评委会收录的获奖人小传,而第二部分则根据李尚靖记者在中国科学报海外版 1991 年 7 月 10 日发表的文章《要紧的是执著》修改而成。
+像这样的杂品,自然不能算作是完整的传记。
+又,我现在正担任中国数学会理事长和 2002 年国际数学家大会地方组委会主席的勤务工作。而中国数学会和全国数学界同仁正在积极筹办即将在北京召开的新世纪第一次国际数学家大会,为我国数学的发展而努力工作。本篇对此未着笔墨,不为此事不重要,盖事情正在进行之中,必须假以时日,才能有客观的评说也。
+马志明谨识于 2001 年元旦
+马志明主要论著目录
+[ 1 ] 关于随机整值测度的一点注记,数学学报,26(1983),65—69。
+[ 2 ] 多变点过程的随机控制,应用数学学报,7(1984),48—62。
+[ 3 ] 随机测度的 Lebesgue 分解定理及其他,数学年刊,6(1985),575—578。
+[ 4 ] Some results on regular conditional probabilities, Acta Mathematicae Sinica, New Series Vol. I, No. 4,1985.
+[ 5 ] Probabilistic Treatment of Schrödinger equation with infinite gauge, Scientia Sinica (A), Vol. XXX, No. 7,1987.
+[ 6 ] Probabilistic approach to Neumann problems with infinite gauge, (with R.M. Song), Acta Mathematicae Applicatae Sinica, Vol. 4, No. 7,1988.
+[ 7 ] Nowhere Radon smooth measures, perturbation of Dirichlet forms and singular quadratic forms, (with S. Albeverio), in Lecture Notes in Control and Information Sciences 126, Springer-Verlag,1989.
+[ 8 ] Perturbation by unbounded potentials, (with W. Hansen), Math. Ann., 287, 553—569,1990。
+
+[ 9 ] Some new results concerning Dirichlet forms, Feynman-Kac semigroups and Schrödinger equations, in “Probability theory in China” (Contemporary Mathematics), American Math. Society, 1990.
+[10] Perturbations of Dirichlet forms, lower semiboundedness, closability and form cores, (with S. Albeverio), J. Functional Analysis, 99(1991), 332—356.
+[11] A note on quasi-continuous kernels representing quasi-linear positive maps, (with S. Albeverio), Forum Math., 3(1991),389—400.
+[12] Necessary and sufficient condition for the existence of m-perfect processes associated with Dirichlet forms, (with S. Albeverio), in Lecture Notes in Math., 1485, 374—406, Springer, 1991.
+[13] Capacities on Wiener space: tightness and invariance, (with S. Albeverio, M. Fukushima et al.), C. R. A. S. 312 S. I,931—935,1991.
+[14] A general correspondence between Dirichlet forms and right processes, (with S. Albeverio), Bulletin of the American Math. Society, (New series) Vol. 26,245—252,1992.
+[15] Additive functionals, nowhere Radon and Kato class smooth measures, (with S. Albeverio), Osaka J. Math., 29(1992),247—265.
+[16] Probabilistic approach to semilinear boundary value problem, (with R.M.Song), Acta Mathematicae Applicatae Sinica, (English Series) 8 (1992),214—228.
+[17] An invariance result for capacities on Wiener space, (with S. Albeverio, M. Fukushima et al.), J. Functional Analysis, Vol. 106,35—49,1992.
+[18] Non-symmetric Dirichlet forms and Markov processes on general state spaces, (with S. Albeverio, M. Röckner), C.R.A.S. 314, S.I. 77—82,1992.
+[19] An introduction to the theory of (non-symmetric) Dirichlet forms, (with M. Röckner), Springer Verlag,1992.
+[20] Regularization of Dirichlet spaces and applications, (with S.Albeverio, M.Röckner), C.R.A.S. 314, S.I.859—864,1992.
+[21] Quasi-regular Dirichlet forms and Markov processes, (with S. Albeverio, M. Röckner), J. Functional Analysis, Vol. 111,118—154,1993.
+[22] An integral representation theorem for quasi-regular Dirichlet spaces, (with Z.
+657
+
+Dong), Chinese Science Bulletin, Vol. 38, No. 15, 1355—1358, 1993.
+[23] 狄氏型及其在数学物理中的应用,数学进展,22(1993),46—68。
+[24] Local property of Dirichlet forms and diffusions on general state spaces, (with S. Albeverio, M. Röckner), in Math. Ann., 296,677—686,(1993).
+[25] Quasi-homeomorphism of Dirichlet forms, (with Z. Chen, M. Röckner), Nagoya J. Math. Vol. 136,1—15,1994.
+[26] Markov processes associated with semi-Dirichlet forms, (with L. Overbeck, M. Röckner), Osaka J. of Mathematics. Vol. 32, No. 1 97—120,1995.
+[27] The analytic operator-valued Feynman-integral via additive functional of Brownian motion, (with G. W. Johnson, S. Albeverio), Acta Appl. Math., 42,267—295,1996.
+[28] Markov processes associated with positive preserving coercive forms, (with M. Röckner) Canadian J. Math., 47,817—840,1995.
+[29] Potential theory of quasi-regular Dirichlet forms without capacity, (with S. Albeverio, M. Röckner), Proc. ICDFSP, de Gruyter, 47—54,1995.
+[30] Partition of unity in Sobolev spaces over infinite dimensional state spaces (with S. Albeverio, M. Röckner), J. Functional Analysis, Vol. 143, 247—268, 1997.
+[31] Quasi-regular Dirichlet forms and applications, Proc. ICM94, 1006—1016, Birkhäuser Verlag, Basel, 1995.
+[32] Invariance of Malliavin fields on Ito's Wiener space and on abstract Wiener space (with F. Z. Gong), J. Functional Analysis, Vol. 138, 449—476, 1996.
+[33] Quasi-sure analysis on Ito's Wiener space (with F. Z. Gong), C.R.A.S. t. 321. Série I, 1609—1614,1995.
+[34] Characterization of non-symmetric semi-Dirichlet forms associated with Hunt processes (with S. Albeverio, M. Röckner), Random Operators and Stochastic Equations, 3, 161—179,1995.
+[35] One to one correspondence between markov processes and Dirichlet forms, Bulletin of the International Statistical Institute, IP 13.2 517—530,1995.
+[36] Vector fields on mapping spaces and related Dirichlet forms and diffusions
+658
+
+(with K. D. Elworthy), Osaka J. Math., 34(1997),629-651.
+[37] Approximation of arbitrary Dirichlet processes by Markov chains, ( with M. Röckner, T.S.Zhang), Ann. Inst. Henri Poincare, Vol. 34, No. 1,1-22, 1998.
+[38] Martingale representation and log-Sobolev inequality on loop space, ( with F.Z.Gong), C.R.A.S. t. 326. Série I, 749-753,1998.
+[39] Log-Sobolev inequality on loop space over a compact Riemannian manifold, (with F.Z.Gong), J. Functional Analysis, 157(1998), 599-621.
+[40] Construction of stochastic processes on configuration spaces, ( with M. Röckner), Osaka J. Math., 37(2000),273-314.
