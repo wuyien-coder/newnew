@@ -20,6 +20,14 @@ class IngestService:
             session.flush()
             return job.id
 
+    def recover_interrupted(self):
+        """Local background jobs cannot survive a container restart; allow retry."""
+        with self.ctx.db.session() as session:
+            rows = session.scalars(select(IngestJob).where(IngestJob.status.in_(["pending", "running"]))).all()
+            for job in rows:
+                job.status, job.error, job.finished_at = "failed", "服务重启中断了任务，请点击重试。", datetime.now()
+        return len(rows)
+
     def fail_job(self, job_id, error="摄取失败，请检查工作进程日志"):
         with self.ctx.db.session() as session:
             job = session.get(IngestJob, job_id)

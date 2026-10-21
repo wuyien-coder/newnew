@@ -1,0 +1,35 @@
+{
+  "environment": "local native application; not a hosted deployment",
+  "bge_revision": "7999e1d3359715c523056ef9478215996d62a620",
+  "real_authenticated_model_generation": "not tested; no valid model key supplied",
+  "initial_start_seconds": 1222.68,
+  "index": {
+    "documents": 326,
+    "chunks": 9921,
+    "persons": 335,
+    "relations": 355,
+    "embedder": "BgeEmbedding",
+    "vector_store": "MemoryVectorStore"
+  },
+  "hybrid_search": "passed: BGE dense + BM25",
+  "native_qa_citations_and_sse": "passed with offline extractive provider",
+  "upload_index_and_search": "passed",
+  "native_model_transport": {
+    "http_status": 502,
+    "upstream_status": 401,
+    "purpose": "Synthetic invalid key: reachability only; 401 is expected."
+  },
+  "cached_restart_seconds": 15.07,
+  "history_upload_and_citations_after_restart": "passed",
+  "checks": {
+    "pytest_passed": 101,
+    "pytest_skipped": 1,
+    "skip_reason": "Real PostgreSQL integration requires MATHKB_TEST_POSTGRES_URL",
+    "frontend_build": "passed",
+    "changed_python_lint": "passed",
+    "dependency_consistency": "passed",
+    "bge_cache_warm_script": "passed: all 9921 source chunks",
+    "container_image_build": "not run: Docker is unavailable in the authoring environment",
+    "hosted_deployment": "not completed: hosting account access required"
+  }
+}

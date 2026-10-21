@@ -114,7 +114,7 @@ class ChatService:
                                                 "agent_stop": answer.agent_stop}))
             conv.turn_count = (conv.turn_count or 0) + 1
 
-    def _request_context(self, top_k=None, overrides=None):
+    def _request_context(self, top_k=None, overrides=None, llm=None):
         base = self.ctx.snapshot()
         if base.retriever is None:
             raise IndexNotReadyError("索引未构建，请先构建索引")
@@ -123,8 +123,9 @@ class ChatService:
         retriever.cfg = _apply_overrides(retriever.cfg, top_k, overrides)
         if not retriever.cfg.use_dense and not retriever.cfg.use_bm25:
             raise InvalidInputError("至少启用一路文本检索")
-        tracker = UsageTracker(self.ctx.settings.llm.price_input, self.ctx.settings.llm.price_output)
-        return replace(base, retriever=retriever, tracker=tracker)
+        pricing = getattr(llm, "cfg", None) if llm is not None else self.ctx.settings.llm
+        tracker = UsageTracker(pricing.price_input if pricing else 0, pricing.price_output if pricing else 0)
+        return replace(base, retriever=retriever, tracker=tracker, llm=llm or base.llm)
 
     def _finish(self, ctx, state, session_id, question, mode, engine, started):
         context, retrieval = state.get("context"), state.get("retrieval")
@@ -148,12 +149,12 @@ class ChatService:
         metrics.observe("chat.latency_ms", answer.timings_ms["total"])
         return answer
 
-    def ask(self, question, session_id=None, mode="rag", engine="auto", top_k=None, overrides=None):
+    def ask(self, question, session_id=None, mode="rag", engine="auto", top_k=None, overrides=None, llm=None):
         if not question or not question.strip():
             raise InvalidInputError("问题不能为空")
         question = question.strip()
         started = time.perf_counter()
-        ctx = self._request_context(top_k, overrides)
+        ctx = self._request_context(top_k, overrides, llm)
         session_id = session_id or f"sess-{uuid.uuid4().hex}"
         self._ensure_conversation(session_id)
         agent = build_agent(ctx, mode=mode, engine=engine)
@@ -161,7 +162,7 @@ class ChatService:
                            "timings_ms": {}, "notes": []})
         return self._finish(ctx, state, session_id, question, mode, agent.name, started)
 
-    def stream(self, question, session_id=None, mode="rag", engine="auto", overrides=None):
+    def stream(self, question, session_id=None, mode="rag", engine="auto", overrides=None, llm=None):
         """Retrieve before generation, then relay actual upstream model deltas."""
         from ..agent import nodes
         from ..llm.base import LLMResult
@@ -169,7 +170,7 @@ class ChatService:
             raise InvalidInputError("问题不能为空")
         started = time.perf_counter()
         question = question.strip()
-        ctx = self._request_context(overrides=overrides)
+        ctx = self._request_context(overrides=overrides, llm=llm)
         session_id = session_id or f"sess-{uuid.uuid4().hex}"
         self._ensure_conversation(session_id)
         agent = build_agent(ctx, mode=mode, engine=engine)

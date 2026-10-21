@@ -5,6 +5,8 @@ from typing import Literal, Optional
 
 from pydantic import BaseModel, Field
 
+from ..llm.connection import ModelConnection
+
 
 class RetrievalOverrides(BaseModel):
     """消融开关：一次只改一个变量，便于对照实验与线上灰度。"""
@@ -23,6 +25,7 @@ class ChatRequest(BaseModel):
     mode: Literal["rag", "agent"] = "agent"
     engine: Literal["auto", "react", "sequential", "langgraph"] = "auto"
     overrides: RetrievalOverrides = Field(default_factory=RetrievalOverrides)
+    model_connection: Optional[ModelConnection] = Field(default=None, repr=False)
 
 
 class Citation(BaseModel):
