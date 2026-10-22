@@ -1,0 +1,25 @@
+# Paid compute and persistent disk. Review the price before creating resources.
+services:
+  - type: web
+    name: mathknow-full
+    runtime: docker
+    repo: https://github.com/wuyien-coder/newnew
+    branch: codex/mathknow-online-full
+    region: singapore
+    plan: 2c-4g
+    dockerfilePath: ./deploy/Dockerfile.render
+    dockerContext: .
+    healthCheckPath: /health
+    autoDeployTrigger: off
+    numInstances: 1
+    disk:
+      name: mathknow-data
+      mountPath: /data
+      sizeGB: 10
+    envVars:
+      - key: MATHKB_SERVER__API_TOKEN
+        generateValue: true
+      - key: MATHKB_PERSIST_DIR
+        value: /data
+      - key: PORT
+        value: "10000"
