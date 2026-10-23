@@ -2,14 +2,6 @@
 
 面向数学人物传记、研究领域和师承关系的知识分析与问答系统。基于 ReAct Agent、混合检索和人物关系图谱，支持原文检索、多轮问答、关系查询及可追溯引用。
 
-## 使用教程视频
-
-[![MathKnow 两分钟使用教程](docs/media/mathknow-tutorial-cover.jpg)](docs/media/mathknow-tutorial.mp4)
-
-▶ **[观看使用教程（MP4，2 分钟）](docs/media/mathknow-tutorial.mp4)** · [直接下载视频](https://raw.githubusercontent.com/wuyien-coder/newnew/main/docs/media/mathknow-tutorial.mp4) · [文字教程与章节导航](docs/使用教程.md)
-
-中文无声动画教程，涵盖本地启动、连接设置、提问、引用核验、人物关系查询、历史会话和文档上传。画面为依据当前版本制作的操作示意；离线摘录与真实模型模式已分别说明。若 GitHub 未显示播放器，请下载后观看。
-
 ## 功能
 
 - **ReAct 工具循环**：模型选择人物资料、原文检索、关系邻居、路径或领域/籍贯查询工具，观察结果后继续查询或回答。
