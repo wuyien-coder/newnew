@@ -6,6 +6,7 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 
 from fastapi import FastAPI, Request
+from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, RedirectResponse
 
@@ -34,6 +35,8 @@ def create_app(settings: Settings | None = None, build: bool = True,
         app.state.ctx = ctx
         app.state.chat = ChatService(ctx)
         app.state.ingest = IngestService(ctx)
+        if settings.queue.provider == "local":
+            app.state.ingest.recover_interrupted()
         log.info("应用就绪，启动耗时 %.1fms", (time.perf_counter() - t0) * 1000)
         try:
             yield
@@ -74,6 +77,12 @@ def create_app(settings: Settings | None = None, build: bool = True,
             content={"error": {"code": "internal_error", "message": "服务暂不可用，请稍后重试"},
                      "trace_id": trace_id_var.get()},
         )
+
+    @app.exception_handler(RequestValidationError)
+    async def handle_validation_error(request: Request, exc: RequestValidationError):
+        # Credentials can appear anywhere in an invalid request; never echo input.
+        errors = [{"loc": e["loc"], "msg": e["msg"], "type": e["type"]} for e in exc.errors()]
+        return JSONResponse(status_code=422, content={"detail": errors})
 
     app.include_router(build_root_router())
 

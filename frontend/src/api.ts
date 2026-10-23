@@ -35,6 +35,22 @@ export interface Job { id: string; path: string; status: string; chunks?: number
 export interface SessionItem { id: string; title: string; turn_count: number; updated_at: string }
 export interface SessionDetail { messages: { role: 'user' | 'assistant'; content: string; citations?: Citation[]; seq: number; agent_metadata?: Pick<Answer, 'engine' | 'agent_trace' | 'agent_stop'> }[] }
 
+export interface ModelConnection { provider: 'deepseek' | 'qwen'; model: string; base_url: string; api_key: string }
+// API keys intentionally never enter browser storage or saved conversation data.
+let modelConnection: ModelConnection | undefined
+export const getModelConnection = () => modelConnection ? { ...modelConnection } : undefined
+export function saveModelConnection(connection: ModelConnection | undefined) { modelConnection = connection ? { ...connection, api_key: connection.api_key.trim() } : undefined }
+export function validateModelConnection(connection: ModelConnection) {
+  const key = connection.api_key.trim()
+  if (!/^[!-~]{8,512}$/.test(key) || /^bearer/i.test(key)) throw new Error('API Key 格式错误，请填写服务商提供的密钥，不要填写问题或 Bearer 前缀。')
+  if (!/^[A-Za-z0-9._:/-]{1,160}$/.test(connection.model.trim())) throw new Error('请填写有效模型名称。')
+  let url: URL
+  try { url = new URL(connection.base_url.trim()) } catch { throw new Error('Base URL 格式错误。') }
+  const official = connection.provider === 'deepseek' ? url.hostname === 'api.deepseek.com' :
+    ['dashscope.aliyuncs.com', 'dashscope-intl.aliyuncs.com', 'dashscope-us.aliyuncs.com'].includes(url.hostname) || /^[a-z0-9-]+\.(cn-beijing|cn-hongkong|ap-southeast-1|us-east-1|ap-northeast-1)\.maas\.aliyuncs\.com$/.test(url.hostname)
+  if (!official || url.protocol !== 'https:' || url.username || url.password || url.search || url.hash || url.port) throw new Error('请使用所选服务商的官方 HTTPS Base URL。')
+}
+
 const tokenKey = 'mathknow.token'
 export const getToken = () => sessionStorage.getItem(tokenKey) ?? ''
 export function saveToken(token: string) { token ? sessionStorage.setItem(tokenKey, token.trim()) : sessionStorage.removeItem(tokenKey) }
@@ -47,10 +63,19 @@ async function ensureOk(response: Response) {
     const data = await response.json()
     const detail = data.detail ?? data.error?.message ?? data.error ?? data.message
     if (typeof detail === 'string') message = detail
+    else if (Array.isArray(detail)) message = '填写格式有误，请检查模型、Base URL 和 API Key。'
     else if (detail) message = JSON.stringify(detail)
   } catch { /* 保留 HTTP 状态。 */ }
   if (response.status === 401 || response.status === 403) message = '身份验证失败，请在设置中填写有效的访问令牌。'
   throw new Error(message)
+}
+
+export async function testModelConnection(connection: ModelConnection, token: string, signal: AbortSignal): Promise<{ model: string; latency_ms: number }> {
+  const response = await ensureOk(await fetch('/api/v1/chat/model/check', {
+    method: 'POST', signal, headers: { 'Content-Type': 'application/json', ...(token.trim() ? { Authorization: `Bearer ${token.trim()}` } : {}) },
+    body: JSON.stringify(connection),
+  }))
+  return response.json()
 }
 
 export async function getJSON<T>(path: string, signal?: AbortSignal): Promise<T> {
@@ -103,7 +128,7 @@ export async function streamAnswer(question: string, sessionId: string | undefin
   onEvent: (event: string, data: Answer & { text?: string }) => void, signal: AbortSignal) {
   const response = await ensureOk(await fetch('/api/v1/chat/stream', {
     method: 'POST', headers: { ...headers(), 'Content-Type': 'application/json', Accept: 'text/event-stream' },
-    body: JSON.stringify({ question, session_id: sessionId, mode: 'agent', engine: 'auto', overrides: { use_graph: useGraph } }), signal,
+    body: JSON.stringify({ question, session_id: sessionId, mode: 'agent', engine: 'auto', overrides: { use_graph: useGraph }, model_connection: getModelConnection() }), signal,
   }))
   if (!response.body) throw new Error('当前环境不支持流式响应。')
   const reader = response.body.getReader()

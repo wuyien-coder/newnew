@@ -9,7 +9,6 @@
 from __future__ import annotations
 
 import time
-from typing import Iterator
 
 from ..core.config import LLMSettings
 from ..core.exceptions import ProviderError
@@ -25,11 +24,13 @@ class OpenAICompatClient(LLMClient):
     def __init__(self, cfg: LLMSettings):
         if not cfg.api_key:
             raise ProviderError("LLM api_key 为空，请在 .env 配置 MATHKB_LLM__API_KEY 或改用 stub provider")
+        import httpx
         from openai import OpenAI
 
         self.cfg = cfg
         self.client = OpenAI(base_url=cfg.base_url, api_key=cfg.api_key,
-                             timeout=cfg.timeout, max_retries=cfg.max_retries)
+                             timeout=cfg.timeout, max_retries=cfg.max_retries,
+                             http_client=httpx.Client(timeout=cfg.timeout, follow_redirects=False))
         self.model = cfg.model
         log.info("LLM provider=openai base=%s model=%s", cfg.base_url, cfg.model)
 
@@ -52,7 +53,7 @@ class OpenAICompatClient(LLMClient):
                 extra_body=self._extra_body() or None,
             )
         except Exception as exc:
-            raise ProviderError("模型调用失败，请检查服务配置或稍后重试") from exc
+            raise _provider_error(exc) from None
         usage = _parse_usage(resp)
         return LLMResult(text=resp.choices[0].message.content or "", model=self.model,
                          provider="openai", usage=usage,
@@ -80,7 +81,7 @@ class OpenAICompatClient(LLMClient):
             yield LLMResult(text="".join(pieces), model=self.model, provider=self.name,
                             usage=usage, latency_ms=round((time.perf_counter()-t0)*1000, 2))
         except Exception as exc:
-            raise ProviderError("模型流式调用失败，请检查服务配置或稍后重试") from exc
+            raise _provider_error(exc) from None
         finally:
             if response is not None:
                 response.close()
@@ -103,3 +104,25 @@ def _parse_usage(resp) -> Usage:
         reasoning_tokens=getattr(completion_details, "reasoning_tokens", 0) or 0,
         cached_tokens=getattr(prompt_details, "cached_tokens", 0) or 0,
     )
+
+
+def _provider_error(exc: Exception) -> ProviderError:
+    """Use only status/type; upstream bodies may echo the submitted credential."""
+    status = getattr(exc, "status_code", None)
+    if status == 401:
+        message = "API Key 无效或已过期，请在连接设置中更换。"
+    elif status == 403:
+        message = "模型访问被拒绝，请检查账号权限、模型授权和千问地域。"
+    elif status == 429:
+        message = "额度不足或请求过于频繁，请检查余额和调用限额。"
+    elif status in (400, 404, 422):
+        message = "模型名称或请求配置不匹配，请检查模型名称及千问地域。"
+    elif isinstance(status, int) and 300 <= status < 400:
+        message = "模型接口返回了重定向，请使用官方 Base URL。"
+    elif isinstance(status, int) and status >= 500:
+        message = "模型服务暂不可用，请稍后重试。"
+    elif "Timeout" in type(exc).__name__:
+        message = "模型响应超时，请稍后重试或更换模型。"
+    else:
+        message = "无法连接模型服务，请检查网络及官方 Base URL。"
+    return ProviderError(message, detail={"upstream_status": status})

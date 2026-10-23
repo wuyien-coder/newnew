@@ -1,0 +1,6 @@
+-r requirements.txt
+-r requirements-prod.txt
+sentence-transformers>=3,<6
+transformers>=4.41,<5
+# Keep the online ML stack compatible with the project's NumPy 1.x contract.
+scipy>=1.11,<1.15

@@ -29,3 +29,5 @@
 .agent-trace li { margin: 12px 0; }
 .agent-trace span, .agent-trace code { display: block; font-size: 10px; margin-top: 4px; overflow-wrap: anywhere; white-space: normal; }
 .agent-trace p { font-size: 10px; color: #71809a; }
+
+.connection-settings{max-height:90vh;overflow:auto}.connection-settings label{margin-top:14px}.connection-settings select{width:100%;padding:11px;border:1px solid #dce5f2;background:#fff;border-radius:6px;font:inherit;color:#526a8c;margin-top:7px}.connection-settings small{display:block;line-height:1.9;color:#8192ab;font-size:11px;margin-top:12px}.access-settings{margin-top:20px;padding-top:15px;border-top:1px solid #e7edf5;font-size:11px;color:#7385a1}.access-settings summary{cursor:pointer}.connection-result{margin-top:16px;padding:12px;background:#f1f5fc;border-radius:6px;font-size:12px;line-height:1.8;color:#48658a}.connection-settings .modal-actions{flex-wrap:wrap;gap:10px}.offline-connection{font-size:11px;margin-top:16px;color:#8192ab}.connection-settings .modal-actions button:disabled{opacity:.5;cursor:wait}

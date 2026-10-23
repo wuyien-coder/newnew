@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/web/',
   server: {
+    allowedHosts: ['terminal.local'],
     port: 5173,
     proxy: { '/api': { target: 'http://127.0.0.1:8010', changeOrigin: true } },
   },
